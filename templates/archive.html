@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}往期 · {{ site_name }}{% endblock %}
+{% block body %}
+<header class="day-head">
+  <h1>往期简报</h1>
+  <p class="day-sub">共 {{ days | length }} 天</p>
+</header>
+{% if days %}
+<ul class="past">
+  {% for d in days %}
+  <li>
+    <a href="{{ day_link_prefix }}{{ d.date }}.html">{{ d.date | date_display }}</a>
+    <span class="sec-meta">{{ d.sections[0].cards | length if d.sections else 0 }} 篇</span>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty">暂无历史数据。</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,57 @@
+{% if day %}
+  {% if day.stats and day.stats.mock %}
+  <div class="mock-note">本页为 mock 模式生成的测试数据（未调用 OpenAI），仅用于验证流水线，不代表真实筛选结果。</div>
+  {% endif %}
+
+  <header class="day-head">
+    <h1><span class="mark">{{ day.date | date_display }}</span></h1>
+    {% set papers = day.sections[0].cards if day.sections else [] %}
+    <p class="day-sub">抓取 {{ day.stats.fetched }} 条官方源信息，精选 {{ papers | length }} 篇生成阅读卡片</p>
+  </header>
+
+  {% for section in day.sections %}
+  <section class="sec">
+    <div class="sec-head">
+      <h2>{{ section.title }}</h2>
+      {% set n3 = section.cards | selectattr("priority", "equalto", 3) | list | length %}
+      <span class="sec-meta">{{ section.cards | length }} 篇{% if n3 %} · {{ n3 }} 篇建议精读{% endif %}</span>
+    </div>
+    {% if section.cards %}
+      {% for card in section.cards %}
+        {% include "card.html" %}
+      {% endfor %}
+    {% else %}
+      <p class="empty">今日该板块无新增内容。</p>
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  {% for c in coming %}
+  <section class="sec sec-soon">
+    <div class="sec-head">
+      <h2>{{ c.title }}</h2>
+      <span class="soon-badge">即将上线</span>
+    </div>
+    <p class="soon-desc">{{ c.desc }}</p>
+  </section>
+  {% endfor %}
+
+  {% if days | length > 1 %}
+  <section class="sec">
+    <div class="sec-head"><h2>往期</h2></div>
+    <ul class="past">
+      {% for d in days[1:8] %}
+      <li>
+        <a href="{{ day_link_prefix }}{{ d.date }}.html">{{ d.date | date_display }}</a>
+        <span class="sec-meta">{{ d.sections[0].cards | length if d.sections else 0 }} 篇</span>
+      </li>
+      {% endfor %}
+      {% if days | length > 8 %}
+      <li><a href="{{ archive_link }}">查看全部 {{ days | length }} 天</a></li>
+      {% endif %}
+    </ul>
+  </section>
+  {% endif %}
+{% else %}
+  <p class="empty">还没有任何数据。请先运行 <span class="mono">python run.py</span> 生成今日简报。</p>
+{% endif %}

@@ -1,0 +1,211 @@
+/* 每日情报 —— annotated 阅读文档风格
+   唯一的大胆元素：荧光笔标记（.mark），只用于 ★★★ 精读标题与当日日期 */
+
+:root {
+  --paper: #FAFAF6;
+  --ink: #23221D;
+  --soft: #6E6C60;
+  --rule: #E5E3D6;
+  --tint: #F1F0E4;
+  --marker: #FFE14D;
+  --link: #1D5C4B;
+  --gold: #A87F0A;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  line-height: 1.85;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap { max-width: 44rem; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
+/* ---------- 页眉 ---------- */
+
+.masthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 0.7rem;
+  margin-bottom: 2.4rem;
+}
+.brand { font-size: 1.28rem; font-weight: 700; color: var(--ink); letter-spacing: 0.02em; }
+.brand:hover { text-decoration: none; }
+.tagline { color: var(--soft); font-size: 0.85rem; margin-left: 0.8rem; }
+.mast-nav a { color: var(--soft); font-size: 0.9rem; margin-left: 1.1rem; }
+.mast-nav a:hover { color: var(--ink); text-decoration: none; }
+
+/* ---------- 荧光笔 ---------- */
+
+.mark {
+  background-image: linear-gradient(var(--marker), var(--marker));
+  background-size: 100% 0.42em;
+  background-position: 0 88%;
+  background-repeat: no-repeat;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 0.12em;
+  margin: 0 -0.04em;
+}
+
+/* ---------- 日期头 ---------- */
+
+.day-head h1 { font-size: 1.6rem; margin: 0 0 0.15rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.day-sub { color: var(--soft); font-size: 0.88rem; margin: 0 0 2.2rem; }
+
+/* ---------- 板块 ---------- */
+
+.sec { margin-bottom: 2.8rem; }
+.sec-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 0.4rem;
+}
+.sec-head h2 { font-size: 1.02rem; margin: 0; font-weight: 600; }
+.sec-meta { color: var(--soft); font-size: 0.82rem; }
+
+.past { list-style: none; padding: 0; margin: 0; }
+.past li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.45rem 0.1rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* ---------- 卡片 ---------- */
+
+.card { padding: 1.7rem 0.1rem 1.5rem; border-bottom: 1px solid var(--rule); }
+
+.card-top {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+  font-size: 0.78rem;
+  color: var(--soft);
+}
+.badge {
+  border: 1px solid var(--soft);
+  border-radius: 2px;
+  padding: 0 0.4rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  color: var(--soft);
+}
+.b-official { border-color: #2F6B4F; color: #2F6B4F; }
+.src { font-size: 0.8rem; }
+.stars { color: var(--gold); letter-spacing: 0.18em; font-size: 0.82rem; }
+.score {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0 0.38rem;
+  margin-left: auto;
+}
+
+.card-title { font-size: 1.18rem; line-height: 1.55; margin: 0.65rem 0 0.1rem; font-weight: 650; }
+.orig {
+  font-family: Charter, "Charter BT", Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: var(--soft);
+  font-size: 0.87rem;
+  line-height: 1.6;
+  margin: 0.15rem 0 0;
+}
+.oneliner {
+  margin: 1rem 0 0.2rem;
+  padding-left: 0.95rem;
+  border-left: 3px solid var(--ink);
+  font-weight: 550;
+  line-height: 1.75;
+}
+.findings { margin: 0.5rem 0 0.3rem; padding-left: 1.25rem; }
+.findings li { margin: 0.3rem 0; }
+.why {
+  background: var(--tint);
+  padding: 0.8rem 1rem 0.75rem;
+  margin: 0.9rem 0 0.4rem;
+  border-radius: 3px;
+}
+.why p { margin: 0.15rem 0; }
+.why-label { font-size: 0.75rem; color: var(--soft); margin: 0 0 0.1rem; }
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.75rem;
+  align-items: baseline;
+  color: var(--soft);
+  font-size: 0.8rem;
+  margin-top: 0.95rem;
+}
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.76rem;
+}
+
+/* ---------- 空态与占位 ---------- */
+
+.empty { color: var(--soft); padding: 1.2rem 0.1rem; }
+.sec-soon { opacity: 0.62; }
+.soon-badge {
+  font-size: 0.72rem;
+  border: 1px dashed var(--soft);
+  border-radius: 2px;
+  padding: 0 0.4rem;
+  color: var(--soft);
+}
+.soon-desc { color: var(--soft); font-size: 0.88rem; margin: 0.55rem 0 0; }
+
+/* ---------- mock 提示 ---------- */
+
+.mock-note {
+  background: #FFF3D6;
+  border: 1px solid #E5C96B;
+  color: #6B5A1E;
+  padding: 0.7rem 1rem;
+  font-size: 0.85rem;
+  border-radius: 3px;
+  margin-bottom: 2rem;
+}
+
+/* ---------- 页脚 ---------- */
+
+.foot {
+  margin-top: 4rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.2rem;
+  color: var(--soft);
+  font-size: 0.78rem;
+}
+.foot p { margin: 0.2rem 0; }
+
+/* ---------- 响应式与可访问性 ---------- */
+
+@media (max-width: 480px) {
+  .wrap { padding: 1.6rem 1.05rem 3rem; }
+  .card-title { font-size: 1.08rem; }
+  .score { margin-left: 0; }
+  .tagline { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

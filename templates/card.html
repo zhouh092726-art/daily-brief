@@ -1,0 +1,31 @@
+<article class="card">
+  <header class="card-top">
+    <span class="badge b-official">官方</span>
+    <span class="src">{{ card.item.source_label }} · {{ card.item.journal }}</span>
+    <span class="stars" aria-label="精读建议 {{ card.priority }} / 3">{{ card.priority | stars }}</span>
+    <span class="score" aria-label="重要性评分 {{ card.score }}">{{ card.score }}</span>
+  </header>
+  <h3 class="card-title{% if card.priority == 3 %} mark{% endif %}">{{ card.title_cn }}</h3>
+  {% if card.title_cn != card.item.title %}
+  <p class="orig">{{ card.item.title }}</p>
+  {% endif %}
+  {% if card.one_liner %}
+  <p class="oneliner">{{ card.one_liner }}</p>
+  {% endif %}
+  {% if card.key_findings %}
+  <ul class="findings">
+    {% for f in card.key_findings %}<li>{{ f }}</li>{% endfor %}
+  </ul>
+  {% endif %}
+  {% if card.why_it_matters %}
+  <div class="why">
+    <p class="why-label">为什么重要</p>
+    <p>{{ card.why_it_matters }}</p>
+  </div>
+  {% endif %}
+  <footer class="meta">
+    {% if card.item.published %}<span class="mono">{{ card.item.published }}</span>{% endif %}
+    {% if card.item.authors %}<span>{{ card.item.authors }}</span>{% endif %}
+    <a class="doi" href="{{ card.item.url }}">阅读原文{% if card.item.doi %} · {{ card.item.doi }}{% endif %}</a>
+  </footer>
+</article>

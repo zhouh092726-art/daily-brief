@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_name }}{% endblock %}</title>
+<meta name="description" content="{{ site_name }}——每日文献·政策·科技·财经情报，信息直接来自官方一手来源。">
+<link rel="stylesheet" href="{{ asset }}style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <div>
+      <a class="brand" href="{{ home }}">{{ site_name }}</a>
+      <span class="tagline">{{ tagline }}</span>
+    </div>
+    <nav class="mast-nav">
+      <a href="{{ home }}">今日</a>
+      <a href="{{ archive_link }}">往期</a>
+    </nav>
+  </header>
+  {% block body %}{% endblock %}
+  <footer class="foot">
+    <p>信息抓取自 PubMed / bioRxiv 官方 API；阅读卡片由 OpenAI 生成，内容请以原文为准。</p>
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,48 @@
+site:
+  name: 每日情报
+  tagline: 文献 · 政策 · 科技 · 财经
+  base_url: ""  # 启用 GitHub Pages 后填写，如 https://<user>.github.io/daily-brief
+
+fetch:
+  lookback_days: 3
+  pubmed:
+    enabled: true
+    retmax: 100
+    queries:
+      - >-
+        ("synthetic biology"[Title/Abstract] OR "synthetic genome"[Title/Abstract]
+        OR "genetic circuit*"[Title/Abstract] OR "minimal genome"[Title/Abstract]
+        OR "cell-free"[Title/Abstract] OR "directed evolution"[Title/Abstract]
+        OR "base editing"[Title/Abstract] OR "prime editing"[Title/Abstract]
+        OR "protein design"[Title/Abstract] OR "xenobiology"[Title/Abstract])
+  biorxiv:
+    enabled: true
+    servers: [biorxiv]
+    categories: [synthetic_biology]
+    keyword_filter:
+      - synthetic biology
+      - CRISPR
+      - protein design
+      - directed evolution
+      - cell-free
+      - minimal genome
+      - genetic circuit
+
+llm:
+  score_model: gpt-4o-mini   # 打分筛选层，用便宜的模型；可在 openai.com/api/pricing 查看并更换最新型号
+  card_model: gpt-4o         # 卡片生成层，用质量好的模型
+  max_score_items: 120       # 每天最多送入打分的条数
+  top_n: 20                  # 每天最终生成卡片的条数
+
+scoring:
+  boost_keywords:            # 命中这些方向时 mock 打分会加分（真实打分由 LLM 完成）
+    - CRISPR
+    - prime editing
+    - base editing
+    - protein design
+    - directed evolution
+    - cell-free
+    - minimal genome
+    - genetic circuit
+    - AlphaFold
+    - de novo
