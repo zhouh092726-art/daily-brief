@@ -32,8 +32,75 @@ llm:
   base_url: https://api.deepseek.com  # DeepSeek 官方接口（OpenAI 兼容）；用回 OpenAI 官方则留空
   score_model: deepseek-chat   # 打分筛选层
   card_model: deepseek-chat    # 卡片生成层
-  max_score_items: 120       # 每天最多送入打分的条数
-  top_n: 20                  # 每天最终生成卡片的条数
+  max_score_items: 120       # 每个板块每天最多送入打分的条数
+  top_n: 20                  # 兜底值；实际每个板块用 sections.<id>.top_n
+
+sections:
+  papers: { title: 文献 · 合成生物学, top_n: 15 }
+  drugs:  { title: 新药与疗法, top_n: 8 }
+  policy: { title: 政策公告, top_n: 10 }
+  tech:   { title: 科技, top_n: 10 }
+
+sources:
+  # ---- RSS（官方 newsroom / 精选媒体）----
+  - name: OpenAI News
+    kind: rss
+    url: https://openai.com/news/rss.xml
+    section: tech
+    tier: official
+    max_items: 10
+  - name: Google DeepMind Blog
+    kind: rss
+    url: https://deepmind.google/blog/rss.xml
+    section: tech
+    tier: official
+    max_items: 10
+  - name: NVIDIA Newsroom
+    kind: rss
+    url: https://nvidianews.nvidia.com/rss.xml
+    section: tech
+    tier: official
+    max_items: 10
+  - name: Ars Technica
+    kind: rss
+    url: https://feeds.arstechnica.com/arstechnica/index
+    section: tech
+    tier: curated
+    max_items: 40
+    keywords: [AI, Nvidia, chip, semiconductor, TSMC, car, Tesla, vehicle, auto, robot, processor]
+  - name: Endpoints News
+    kind: rss
+    url: https://endpts.com/feed/
+    section: drugs
+    tier: curated
+    max_items: 20
+  - name: STAT News
+    kind: rss
+    url: https://www.statnews.com/rss/
+    section: drugs
+    tier: curated
+    max_items: 40
+    keywords: [drug, FDA, pharma, therapy, biotech, medicine, clinical]
+  # ---- 政府官网（HTML 列表抓取）----
+  - name: 中国人民银行
+    kind: pbc
+    url: https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/index.html
+    section: policy
+    tier: official
+    max_items: 15
+  - name: 国家医保局 · 医保动态
+    kind: nhsa
+    url: https://www.nhsa.gov.cn/col/col14/index.html
+    section: policy
+    tier: official
+    max_items: 10
+  # ---- 监管机构（HTML 列表抓取）----
+  - name: 欧洲药品管理局 EMA
+    kind: ema
+    url: https://www.ema.europa.eu/en/news
+    section: drugs
+    tier: official
+    max_items: 10
 
 scoring:
   boost_keywords:            # 命中这些方向时 mock 打分会加分（真实打分由 LLM 完成）

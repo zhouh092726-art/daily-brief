@@ -26,6 +26,11 @@ body {
   line-height: 1.85;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
+}
+
+.card-title, .orig, .oneliner, .findings li, .why p, .src, .meta, .soon-desc {
+  overflow-wrap: anywhere;
 }
 
 .wrap { max-width: 44rem; margin: 0 auto; padding: 2.2rem 1.4rem 4rem; }
@@ -110,6 +115,7 @@ a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
   color: var(--soft);
 }
 .b-official { border-color: #2F6B4F; color: #2F6B4F; }
+.b-curated { border-color: #8A6BB8; color: #7A5AA8; }
 .src { font-size: 0.8rem; }
 .stars { color: var(--gold); letter-spacing: 0.18em; font-size: 0.82rem; }
 .score {

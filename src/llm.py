@@ -1,7 +1,7 @@
-"""OpenAI 两层管道：mini 模型打分筛选 + 主力模型生成阅读卡片。
+"""LLM 两层管道：mini 模型打分筛选 + 主力模型生成阅读卡片。
 
-支持 --mock 模式：不调用 API，用启发式规则填充，
-便于本地端到端测试整条流水线。
+按板块（papers/drugs/policy/tech）使用不同的读者画像与卡片风格。
+支持 --mock 模式：不调用 API，用启发式规则填充，便于本地端到端测试。
 """
 
 from __future__ import annotations
@@ -12,22 +12,51 @@ import time
 
 from .models import Item
 
-SCORE_SYSTEM = """你是一名文献情报分析员，服务对象是一位合成生物学背景的博士研究员。
-他关注：合成生物学核心技术（基因线路、最小基因组、无细胞系统、定向进化）、
-基因编辑（CRISPR、先导编辑、碱基编辑）、蛋白质设计（AlphaFold 方向）、
-诺奖级发现的后续进展、创新药与新疗法。
-请根据标题和摘要，为每条文献评估"对该读者的重要性"（0-100 分）。
-打分基准：90+ 领域重大突破或里程碑；70-89 有明确技术或应用价值；50-69 相关但常规；<50 弱相关。
-只输出 JSON：{"scores": [{"id": "...", "score": 0, "reason": "15字以内理由"}]}"""
+READER = "一位合成生物学背景的博士研究员，在中国深圳"
 
-CARD_SYSTEM = """你是科研阅读卡片生成器。为给定文献生成一张中文阅读卡片，供合成生物学博士快速判断是否精读。
+SECTION_PROFILES = {
+    "papers": (
+        "他关注：合成生物学核心技术（基因线路、最小基因组、无细胞系统、定向进化）、"
+        "基因编辑（CRISPR、先导编辑、碱基编辑）、蛋白质设计（AlphaFold 方向）、"
+        "诺奖级发现的后续进展、创新药与新疗法。"
+    ),
+    "drugs": (
+        "他关注：创新药获批（FDA/EMA/NMPA）、重要临床试验结果、"
+        "新疗法（细胞治疗、基因治疗、mRNA）、知名药企（跨国 MNC 与国内创新药企）的重大发布与财报。"
+    ),
+    "policy": (
+        "他关注：央行的货币政策与重要金融公告、国家医保局的目录调整/集采/支付政策、"
+        "生物医药相关监管政策、深圳与全国的重要民生政策。"
+    ),
+    "tech": (
+        "他关注：AI 大模型与重大产品发布（OpenAI、DeepMind、Anthropic 等）、"
+        "英伟达与芯片半导体产业链、智能汽车与自动驾驶。"
+    ),
+}
+
+SECTION_CARD_HINTS = {
+    "papers": "这是一篇学术论文。one_liner 直接说研究发现了什么；key_findings 聚焦方法与结果。",
+    "drugs": "这是一条新药/疗法/药企动态。one_liner 直接说发生了什么（谁、什么药、什么事）；key_findings 聚焦关键数据、适应症与临床意义。",
+    "policy": "这是一条政府或监管机构公告。one_liner 直接说政策发生了什么变化；key_findings 聚焦变化内容、生效时间、影响范围。",
+    "tech": "这是一条科技产业新闻。one_liner 直接说发生了什么；key_findings 聚焦产品、数据与产业影响。",
+}
+
+SCORE_SYSTEM_TMPL = """你是一名情报分析员，服务对象是{reader}。
+{profile}
+请根据标题和摘要（可能为空），为每条信息评估"对该读者的重要性"（0-100 分）。
+打分基准：90+ 重大突破或里程碑，必须知道；70-89 有明确价值；50-69 相关但常规；<50 弱相关。
+只输出 JSON：{{"scores": [{{"id": "...", "score": 0, "reason": "15字以内理由"}}]}}"""
+
+CARD_SYSTEM_TMPL = """你是情报阅读卡片生成器。为给定信息生成一张中文阅读卡片，供{reader}快速判断是否值得深入了解。
+{hint}
 只输出 JSON，字段：
-- "title_cn": 中文标题（准确专业，不逐字直译）
-- "one_liner": 一句话结论，60 字以内，直接说发现了什么
-- "key_findings": 2-3 条关键发现或方法，每条 50 字以内
+- "title_cn": 中文标题（准确专业，不逐字直译；若原文即中文则原样保留）
+- "one_liner": 一句话结论，60 字以内
+- "key_findings": 2-3 条关键要点，每条 50 字以内
 - "why_it_matters": 为什么重要，80 字以内，结合读者方向
-- "priority": 精读建议 1-3 的整数（3=强烈建议精读，1=了解即可）
-要求：忠于摘要原文，不添加摘要之外的信息；保留 CRISPR、mRNA 等通用英文缩写。"""
+- "priority": 值得深入了解的建议等级 1-3 的整数（3=强烈建议，1=了解即可）
+要求：忠于原文（标题与摘要），不添加原文之外的信息；若摘要为空，仅依据标题生成，没把握的字段填空字符串；
+保留 CRISPR、mRNA、FDA 等通用英文缩写。"""
 
 ABSTRACT_LIMIT = 1200
 
@@ -56,18 +85,23 @@ def _chat_json(client, model: str, system: str, user: str, retries: int = 3) -> 
         except Exception as err:  # noqa: BLE001
             last_err = err
             time.sleep(2**attempt)
-    raise RuntimeError(f"OpenAI 调用失败（{retries} 次重试后）: {last_err}")
+    raise RuntimeError(f"LLM 调用失败（{retries} 次重试后）: {last_err}")
 
 
 # ---------------------------------------------------------------- 打分层
 
-def score_items(items: list[Item], cfg: dict, mock: bool = False) -> dict[str, tuple[int, str]]:
+def score_items(
+    items: list[Item], cfg: dict, section: str = "papers", mock: bool = False
+) -> dict[str, tuple[int, str]]:
     """返回 {item_id: (score, reason)}。"""
     if mock:
         return _mock_scores(items, cfg)
 
     client = _client(cfg)
     model = cfg["llm"]["score_model"]
+    system = SCORE_SYSTEM_TMPL.format(
+        reader=READER, profile=SECTION_PROFILES.get(section, "")
+    )
     batch_size = 20
     scores: dict[str, tuple[int, str]] = {}
 
@@ -82,7 +116,7 @@ def score_items(items: list[Item], cfg: dict, mock: bool = False) -> dict[str, t
             for it in batch
         ]
         result = _chat_json(
-            client, model, SCORE_SYSTEM, json.dumps(payload, ensure_ascii=False)
+            client, model, system, json.dumps(payload, ensure_ascii=False)
         )
         for entry in result.get("scores", []):
             try:
@@ -105,21 +139,26 @@ def _mock_scores(items: list[Item], cfg: dict) -> dict[str, tuple[int, str]]:
 
 # ---------------------------------------------------------------- 卡片层
 
-def generate_card(item: Item, cfg: dict, mock: bool = False) -> dict:
-    """为单条文献生成卡片字段 dict。"""
+def generate_card(
+    item: Item, cfg: dict, section: str = "papers", mock: bool = False
+) -> dict:
+    """为单条信息生成卡片字段 dict。"""
     if mock:
         return _mock_card(item)
 
     client = _client(cfg)
     model = cfg["llm"]["card_model"]
+    system = CARD_SYSTEM_TMPL.format(
+        reader=READER, hint=SECTION_CARD_HINTS.get(section, "")
+    )
     payload = {
         "title": item.title,
         "abstract": item.abstract,
-        "journal": item.journal,
+        "source": item.source_label,
         "published": item.published,
     }
     result = _chat_json(
-        client, model, CARD_SYSTEM, json.dumps(payload, ensure_ascii=False)
+        client, model, system, json.dumps(payload, ensure_ascii=False)
     )
     return {
         "title_cn": str(result.get("title_cn", item.title)),
@@ -136,7 +175,7 @@ def _sentences(text: str, n: int) -> list[str]:
 
 
 def _mock_card(item: Item) -> dict:
-    sents = _sentences(item.abstract, 4)
+    sents = _sentences(item.abstract or item.title, 4)
     return {
         "title_cn": item.title,
         "one_liner": sents[0] if sents else "",

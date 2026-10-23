@@ -1,7 +1,11 @@
 <article class="card">
   <header class="card-top">
+    {% if card.item.tier == "official" %}
     <span class="badge b-official">官方</span>
-    <span class="src">{{ card.item.source_label }} · {{ card.item.journal }}</span>
+    {% else %}
+    <span class="badge b-curated">精选</span>
+    {% endif %}
+    <span class="src">{{ card.item.source_label }}{% if card.item.journal and card.item.journal != card.item.source_label %} · {{ card.item.journal }}{% endif %}</span>
     <span class="stars" aria-label="精读建议 {{ card.priority }} / 3">{{ card.priority | stars }}</span>
     <span class="score" aria-label="重要性评分 {{ card.score }}">{{ card.score }}</span>
   </header>

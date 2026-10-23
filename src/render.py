@@ -13,9 +13,7 @@ from .config import SITE_DIR, STATIC_DIR, TEMPLATES_DIR
 WEEKDAYS = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 
 COMING_SECTIONS = [
-    {"id": "policy", "title": "政策公告", "desc": "央行 · 深圳 · 国家医保局"},
-    {"id": "tech", "title": "科技", "desc": "AI · 英伟达 · 芯片 · 汽车"},
-    {"id": "finance", "title": "财经", "desc": "今日金价 · 监管公告"},
+    {"id": "finance", "title": "财经", "desc": "今日金价 · 监管公告（官方金价源均有反爬，方案调研中）"},
 ]
 
 
