@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T10:58:14.087974+08:00",
+  "fetched_ids": [
+    "pubmed:42904109",
+    "pubmed:42899179",
+    "pubmed:42903656",
+    "pubmed:42904998",
+    "pubmed:42904638",
+    "pubmed:42904559",
+    "pubmed:42904125",
+    "pubmed:42902961",
+    "pubmed:42902833",
+    "pubmed:42902070",
+    "pubmed:42902027",
+    "pubmed:42901830",
+    "pubmed:42901383",
+    "pubmed:42900896",
+    "pubmed:42900859",
+    "pubmed:42900516",
+    "pubmed:42900396",
+    "pubmed:42900277",
+    "pubmed:42900220",
+    "pubmed:42900180",
+    "pubmed:42899706",
+    "pubmed:42899582",
+    "pubmed:42899421",
+    "pubmed:42897951",
+    "pubmed:42897849",
+    "pubmed:42897788",
+    "pubmed:42896677",
+    "pubmed:42895600",
+    "pubmed:42895482",
+    "pubmed:42895175",
+    "pubmed:42894431",
+    "pubmed:42901084",
+    "pubmed:42903822",
+    "pubmed:42894969",
+    "pubmed:42903835",
+    "pubmed:42903612",
+    "pubmed:42903311",
+    "pubmed:42899205",
+    "pubmed:42899178",
+    "pubmed:42898797",
+    "pubmed:42898703",
+    "pubmed:42898688",
+    "pubmed:42898624",
+    "pubmed:42898493",
+    "pubmed:42898121",
+    "pubmed:42904570",
+    "pubmed:42904563",
+    "pubmed:42903648",
+    "pubmed:42902099",
+    "pubmed:42901886",
+    "pubmed:42904010",
+    "pubmed:42903585",
+    "pubmed:42902374",
+    "pubmed:42902378",
+    "pubmed:42897599",
+    "pubmed:42897284",
+    "pubmed:42894213",
+    "biorxiv:10.64898/2026.10.19.760041",
+    "biorxiv:10.64898/2026.10.18.759947",
+    "biorxiv:10.64898/2026.10.18.759921"
+  ],
+  "stats": {
+    "fetched": 60,
+    "new_items": 60,
+    "kept": 20,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42901886",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Characterization of recombinase-based genetic parts and circuits using nanopore sequencing.",
+            "abstract": "Recombinases are versatile enzymes able to perform the precise insertion, deletion, and rearrangement of DNA and can act as a foundation for programmable genetic logic and memory. Crucial for their use are accurate measurements of function. However, these are often laborious, time-consuming, and costly to collect. To address this, we develop a semi-automated workflow that combines low-cost liquid handling robotics, multiplexed long-read nanopore sequencing, and a supporting computational analysis tool to enable the high-throughput and detailed characterization of recombinase parts and circuits when used in a variety of contexts and organisms. Our approach overcomes the limitations of typically used fluorescence-based assays and is able to monitor temporal dynamics, observe structural changes at nucleotide resolution, and unravel the internal workings of complex multi-state circuits. The ability to scale up and automate genetic circuit characterization is an essential step towards more rigorous biological metrology that can support the construction of predictive models for efficiently engineering biology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42901886/",
+            "journal": "Nature communications",
+            "authors": "Greco, Cameron, Joshi, et al.",
+            "published": "2026-09-18",
+            "doi": "10.1038/s41467-026-77605-x"
+          },
+          "score": 88,
+          "score_reason": "重组酶基因线路表征，核心相关",
+          "title_cn": "基于纳米孔测序的重组酶遗传元件与电路表征",
+          "one_liner": "结合液体处理机器人与多重长读长纳米孔测序，实现重组酶元件和电路的高通量、核苷酸分辨率表征。",
+          "key_findings": [
+            "建立半自动化流程：低成本液体处理机器人、多重长读长纳米孔测序与配套计算分析工具。",
+            "克服荧光报告法的局限，可追踪时间动态、观察核苷酸级结构变化并解析多状态电路内部逻辑。",
+            "适用于多种生物背景下的重组酶元件与电路表征。"
+          ],
+          "why_it_matters": "为重组酶逻辑与记忆电路提供可扩展的定量表征手段，支撑合成生物学中预测模型构建与生物计量学发展。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42902027",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing.",
+            "abstract": "Tools for manipulating RNA that rely on nonhuman proteins, such as ISC-based and Cas-based scaffolds, can lead to unintended and little-understood effects on human cells and present challenges in therapeutic translation. Replacing them with human proteins engineered for expanded, programmable functions could bypass the limitations of these foreign proteins. Here we demonstrate that human Argonaute 2 (AGO2) can be repurposed as a modular RNA targeting domain. AGO2 fused to a C-to-U deaminase enables AGO-led targeted editing of RNA (ALTER). Using guide RNAs that remodel target RNA structure for selective editing and reduced nuclease activity, we show that ALTER achieves, on average, 1.9-fold higher C-to-U editing on mRNA targets in HEK293T cells compared with Cas13 editors CURE and RESCUE. Transcriptome-wide RNA-seq revealed similar or lower levels of off-target editing compared to the same Cas13-based editors. Machine learning models predict that far fewer immunogenic peptides will result from ALTER and we show that ALTER is amenable to a validated workflow for artificial intelligence-directed deimmunization.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42902027/",
+            "journal": "Nature biotechnology",
+            "authors": "Lusi, Moncayo von Hase, Model, et al.",
+            "published": "2026-10-20",
+            "doi": "10.1038/s41587-026-03359-y"
+          },
+          "score": 85,
+          "score_reason": "人AGO2工程化RNA碱基编辑",
+          "title_cn": "工程化人源Argonaute 2用于靶向C-to-U RNA碱基编辑",
+          "one_liner": "用人源AGO2替代外源Cas13构建RNA编辑工具ALTER，C-to-U编辑效率更高、脱靶更低。",
+          "key_findings": [
+            "将人AGO2与C-to-U脱氨酶融合，构建可编程RNA靶向编辑工具ALTER。",
+            "在HEK293T细胞中mRNA靶点C-to-U编辑效率平均为Cas13编辑器CURE和RESCUE的1.9倍。",
+            "全转录组测序显示脱靶编辑与Cas13编辑器相当或更低，且免疫原性肽预测更少。"
+          ],
+          "why_it_matters": "用人体自身蛋白替代外源Cas13，可降低免疫原性与转化风险，为合成生物学中RNA层面调控与治疗开发提供更安全的编辑底盘。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42897599",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Efficient genome editing in ASC-derived porcine lung organoids via GFP-guided enrichment.",
+            "abstract": "BACKGROUND: Adult stem cell-derived organoids are invaluable tools for disease modeling and translational medicine owing to their tissue-specific correspondence. However, their complex three-dimensional structure and low genome-editing efficiency have posed significant challenges for functional genetic studies. To address these limitations, this study aimed to establish porcine lung organoid (PLOs) and to develop a robust, high-efficiency genome-editing platform by leveraging the high physiological and anatomical similarity between pigs and humans.\nMETHODS: PLOs were derived from lung tissues and characterized by immunofluorescence and immunohistochemistry analysis. To enhance genome-editing efficiency using CRISPR/Cas9 and prime editing, a GFP-guided enrichment strategy was used by co-targeting a GFP transgene and endogenous loci, followed by the selection of GFP-negative organoids. Clonal expansion from single organoids was performed to generate genetically homogenous lines. Genetic modifications were validated through cDNA sequencing and western blot analysis. Structural integrity was assessed using AlphaFold2 modeling, and functional changes were evaluated using the forskolin-induced swelling assay.\nRESULTS: The established PLOs exhibited sustained self-renewal capacity and expression of surfactant protein C alongside both proximal epithelial and mesenchymal markers, reflecting a composite lung organoid identity. GFP-guided enrichment significantly enriched edited cells; the mutation ratio in the GFP-negative group was significantly higher than that in the GFP-positive group. This system successfully generated fully gene-edited clones with high genetic homogeneity, and effectively enriched for precisely edited organoids, even when applying complex modalities such as prime editing.\nCONCLUSIONS: The PLOs and genome-editing platform developed in this study provide a powerful resource for translational medicine. By enabling precise genetic manipulation in a model that closely mimics human lung physiology, this system offers an essential platform for recapitulating human lung pathologies, studying zoonotic infectious diseases, and validating the efficacy of gene therapies.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42897599/",
+            "journal": "Stem cell research & therapy",
+            "authors": "Jeon, Moon, Jang, et al.",
+            "published": "2026-07-22",
+            "doi": "10.1186/s13287-026-05185-0"
+          },
+          "score": 85,
+          "score_reason": "CRISPR与先导编辑猪类器官，核心",
+          "title_cn": "GFP引导富集实现猪ASC来源肺类器官的高效基因组编辑",
+          "one_liner": "建立猪肺类器官并用GFP共靶向富集策略显著提升CRISPR与prime editing编辑效率。",
+          "key_findings": [
+            "猪肺类器官可长期自我更新，表达SPC及近端上皮与间质标志物",
+            "GFP共靶向富集后GFP阴性组突变率显著高于阳性组",
+            "可获高同质性全编辑单克隆，并有效富集prime editing精准编辑"
+          ],
+          "why_it_matters": "猪肺生理接近人，该平台为疾病建模、人畜共患感染研究与基因治疗验证提供高效编辑资源，对类器官基因功能研究有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42904559",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Optical Control of Therapeutic Synthetic Cells: Controlling Biomolecule Synthesis, Activation, and Communication.",
+            "abstract": "Synthetic cells are emerging as promising platforms that combine cell-free biomolecule synthesis with the programmability of bottom-up engineered compartments. By decoupling biomolecule production from cellular growth and evolutionary constraints, synthetic cells enable the controlled generation of proteins, nucleic acids, peptides, and signaling molecules within defined artificial environments. However, many envisioned biomedical applications require precise regulation over biomolecule synthesis, activation, transport, release, and communication. In this Review, we examine how light can provide spatiotemporal control over synthetic cell functions relevant to future therapeutic applications. We compare external control modalities and review optical strategies that regulate synthetic cell functions across multiple functional layers, including biomolecule synthesis, activation, transport and release, communication, and systems-level integration. Particular emphasis is placed on integrating optical control with cell-free expression systems, RNA-based regulatory platforms, membrane engineering, and emerging synthetic cell architectures. We further discuss challenges associated with system integration, biomolecule complexity, energy management, light delivery, and translation. By classifying optical methodologies according to the functional layers they regulate, we provide a methodology-centered framework for comparing and integrating optical-control strategies toward increasingly sophisticated light-responsive synthetic cell platforms for future therapeutic applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42904559/",
+            "journal": "Small methods",
+            "authors": "Hoang, Chakraborty",
+            "published": "2026-10-21",
+            "doi": "10.1002/smtd.71136"
+          },
+          "score": 82,
+          "score_reason": "光控合成细胞，无细胞系统前沿",
+          "title_cn": "治疗性合成细胞的光学控制：调控生物分子合成、激活与通讯",
+          "one_liner": "综述光控策略如何对合成细胞的生物分子合成、激活、运输释放与通讯实现时空精准调控。",
+          "key_findings": [
+            "按功能层（合成、激活、运输释放、通讯、系统整合）分类梳理光控方法",
+            "重点整合光控与无细胞表达系统、RNA调控平台及膜工程",
+            "指出系统集成、分子复杂度、能量管理、光递送与转化等挑战"
+          ],
+          "why_it_matters": "为合成生物学博士提供光遗传学与无细胞合成细胞交叉的方法学框架，有助于设计时空可控的治疗性合成细胞与RNA调控回路。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42904570",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Synthetic Biology Toolbox for Lactiplantibacillus plantarum: Engineering Next-Generation Probiotic Cell Factories.",
+            "abstract": "Lactiplantibacillus plantarum has emerged as a promising synthetic biology chassis owing to its food-grade safety, probiotic properties, and adaptability to the gastrointestinal tract. Its engineering potential has expanded rapidly in live biotherapeutics, functional foods, biosensors, and animal health. However, its broader application is still limited by the lack of standardized genetic parts, versatile engineering tools, and industrially compatible chassis. This review summarizes recent advances in the synthetic biology toolbox of L. plantarum, including expression elements, genome engineering strategies, and representative applications. Particular emphasis is placed on the development of genetic components, conventional and CRISPR-based engineering technologies, and their applications in medicine, food biotechnology, biosensing, and animal nutrition. Current challenges and future opportunities, including standardized genetic parts, precision genome engineering, AI-assisted strain design, and high-performance chassis development, are also discussed. This review provides a comprehensive framework for developing next-generation programmable probiotic cell factories based on L. plantarum.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42904570/",
+            "journal": "Biotechnology journal",
+            "authors": "Su, Ma, Nie, et al.",
+            "published": "2026-10-01",
+            "doi": "10.1002/biot.70310"
+          },
+          "score": 82,
+          "score_reason": "益生菌合成生物学工具箱，高度相关",
+          "title_cn": "植物乳植杆菌合成生物学工具箱：构建下一代益生菌细胞工厂",
+          "one_liner": "系统综述植物乳植杆菌的合成生物学工具与工程策略，并展望可编程益生菌细胞工厂。",
+          "key_findings": [
+            "梳理表达元件、基因组工程策略及在医药、食品、生物传感等领域的代表性应用",
+            "重点总结传统与基于 CRISPR 的工程改造技术进展",
+            "指出标准化元件、精准基因组编辑、AI 辅助菌株设计等未来方向"
+          ],
+          "why_it_matters": "植物乳植杆菌是食品级安全的益生菌底盘，本文汇总其工具链与应用，可为活体生物治疗与工程益生菌底盘构建提供选型与改造参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42900859",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Quorum-Sensing-Mediated Extracellular Electron Transfer Enables Hydrogel Morphogenesis.",
+            "abstract": "Engineered living materials seek to capture the sensitivity, responsiveness, and programmable characteristics of biological systems. One emergent property of living systems is genetically driven spatial patterning, which controls cell differentiation and the development of complex multicellular organisms. Inspired by this capability, we use bacteria to spatially control material assembly. In our system, extracellular electron transfer (EET) flux from Shewanella oneidensis drives hydrogel synthesis via copper-catalyzed radical polymerization. We first construct a recombinant quorum-sensing system in S. oneidensis that allows for cell-cell communication between \"sender\" and \"receiver\" cells through an autoinducer. We then examine controlled gene expression and EET-driven chemical transformation in various synthetic consortia. Via diffusion through agarose, we examine 2D patterns of gene expression relative to localized sender cell populations and demonstrate controlled hydrogel crosslinking in predictable patterns. Finally, we apply computational methods and NOT logic in \"receiver\" cells toward more complex patterns of gene expression. Our results highlight the potential of bacteria to program material systems with life-like properties, including self-assembly, environmental responsiveness, and patterned differentiation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42900859/",
+            "journal": "ACS biomaterials science & engineering",
+            "authors": "Miniel Mahfoud, Damani, Partipilo, et al.",
+            "published": "2026-10-20",
+            "doi": "10.1021/acsbiomaterials.6c01127"
+          },
+          "score": 80,
+          "score_reason": "群体感应+EET工程活材料",
+          "title_cn": "群体感应介导的胞外电子传递驱动水凝胶形态发生",
+          "one_liner": "工程化希瓦氏菌通过群体感应与胞外电子传递，按预设空间模式合成水凝胶。",
+          "key_findings": [
+            "在希瓦氏菌中构建群体感应系统，实现发送者与接收者细胞间通过自诱导物通讯",
+            "胞外电子传递驱动铜催化自由基聚合，实现水凝胶交联",
+            "结合扩散与 NOT 逻辑，在接收细胞中实现更复杂的基因表达空间图案"
+          ],
+          "why_it_matters": "将合成生物学中的群体感应、胞外电子传递与材料化学结合，为工程活材料提供可编程的空间图案化策略，对构建自组装、环境响应型活材料有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42898797",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering a hemoglobin variant with enhanced stability and oxygen affinity using a protein language model.",
+            "abstract": "INTRODUCTION: Engineered hemoglobin variants offer therapeutic promise for artificial blood substitutes and oxygen therapeutics, but rational design is constrained by protein stability and heme-binding. Protein language models (pLMs) predict mutation fitness, yet their integration with biophysical validation remains limited.\nMETHODS: We developed a hybrid pipeline combining pLM (ESM3) with molecular docking, Monte Carlo simulation, molecular dynamics, MM-GBSA/PBSA binding free energy calculations, and density functional theory (DFT) to engineer a stabilized hemoglobin variant (esmHb) with enhanced oxygen affinity, benchmarking against the clinically characterized Hb Fort de France mutation (α45 His→Arg).\nRESULTS: ESM3 accurately assessed the fitness effect of the Hb Fort de France mutation and generated structurally stable esmHb models. Compared with the wild-type variant (wtHb), esmHb exhibited improved thermodynamic stability (ΔG: -18.48 vs. -12.22 kcal/mol), increased heme-binding affinity (ΔGbind: -11.79 vs. -8.42 kcal/mol), and greater thermodynamic favorability of oxidation according to DFT calculations (ΔE: -173.1 vs. -149.9 kcal/mol). MM-GBSA and MM-PBSA binding free energy calculations further supported improved protein-heme and protein-protein interactions, with esmHb showing more favorable values in both implicit solvation models. Statistical significance (p < 0.05) was reached for protein-protein interactions via both methods and for protein-heme interactions via MM-PBSA. We interpret the MM-GBSA results as a suggestive trend rather than definitive evidence.\nDISCUSSION: This work establishes a generalizable framework for pLM-driven protein engineering applicable to therapeutic Hb variants and beyond.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42898797/",
+            "journal": "Frontiers in chemistry",
+            "authors": "Shityakov, Novikov, Skorb, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fchem.2026.1898272"
+          },
+          "score": 80,
+          "score_reason": "蛋白语言模型设计血红蛋白，蛋白质设计前沿",
+          "title_cn": "利用蛋白质语言模型工程化改造高稳定性、高氧亲和力的血红蛋白变体",
+          "one_liner": "ESM3 结合多尺度计算流程设计出稳定性与氧亲和力均优于野生型的血红蛋白变体 esmHb。",
+          "key_findings": [
+            "构建 ESM3 与分子对接、MD、MM-GBSA/PBSA、DFT 联用的混合设计流程",
+            "esmHb 热力学稳定性更优（ΔG -18.48 vs -12.22 kcal/mol）",
+            "esmHb 血红素结合亲和力与氧化热力学有利性均提升"
+          ],
+          "why_it_matters": "为合成生物学提供 pLM 驱动、可复用的蛋白稳定性与配体结合改造范式，对人工血液替代品与氧疗蛋白设计有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42904563",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "RNA-Based Biosensors in Microbial Cell Factory Engineering: A Hierarchical Framework From Enzyme to Host-Level Engineering.",
+            "abstract": "Microbial cell factory development requires iterative optimization of enzymes, pathway fluxes, and cell traits to achieve efficient and robust production of target chemicals. However, the complexity of intracellular metabolic networks often limits predictable identification and control of engineering targets. Genetically encoded metabolite-responsive RNA biosensors based on aptamer recognition and riboswitch- or ribozyme-mediated regulation have emerged as versatile tools for linking intracellular metabolite levels to measurable or selectable outputs. Their rapid signal transduction, compact genetic architecture, and low metabolic burden make them attractive for high-throughput screening and dynamic regulation. This Review adopts a hierarchical engineering framework that examines RNA biosensor applications across progressively broader levels, from enzyme engineering to pathway-level regulation and host-level cellular trait engineering. We further discuss their molecular organization and technological evolution, including ligand recognition, regulatory coupling, sensor tuning, and computational approaches. Finally, challenges associated with sensor robustness, host dependency, scalability, and translation into production-relevant phenotypes are discussed together with opportunities in cell-free characterization and data-driven design. This hierarchical perspective highlights RNA biosensors as engineering interfaces connecting intracellular sensing with interventions across multiple scales of microbial cell factory engineering.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42904563/",
+            "journal": "Biotechnology journal",
+            "authors": "Ye",
+            "published": "2026-10-01",
+            "doi": "10.1002/biot.70328"
+          },
+          "score": 80,
+          "score_reason": "RNA生物传感器与细胞工厂，相关",
+          "title_cn": "RNA生物传感器在微生物细胞工厂工程中的应用：从酶到宿主级工程的层级框架",
+          "one_liner": "综述提出RNA生物传感器的层级工程框架，覆盖酶、通路与宿主三个尺度的应用。",
+          "key_findings": [
+            "基于适配体识别与核糖开关或核酶调控的RNA生物传感器，可将胞内代谢物水平偶联为可测或可选输出",
+            "具备信号转导快、遗传结构紧凑、代谢负担低等优势，适用于高通量筛选与动态调控",
+            "系统梳理配体识别、调控偶联、传感器调谐及计算设计等技术演进，并讨论稳健性、宿主依赖性与可扩展性挑战"
+          ],
+          "why_it_matters": "为合成生物学中细胞工厂的多尺度优化提供统一传感接口视角，有助于设计高通量筛选与动态调控回路，并判断RNA传感器从酶到宿主级落地的可行性与瓶颈。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42901830",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "From genome editing to chromosome engineering in plants.",
+            "abstract": "Engineering large genomic segments is rapidly expanding the scope of plant genome manipulation from individual genes to chromosome-scale redesign. Recent advances in double-strand break-, prime-editing-, recombinase-, and transposase-based technologies now enable programmable deletion, insertion, replacement, duplication, inversion, and translocation of DNA fragments ranging from kilobases to megabases. In this review, we summarize the major strategies for large-fragment genome engineering in plants, compare their strengths and limitations, and discuss their applications in both fundamental plant biology and crop breeding. We further highlight that the integration of artificial intelligence is catalyzing the rapid optimization of large-fragment genome engineering. The ongoing transition from genome editing to chromosome engineering promises to revolutionize crop breeding and plant synthetic biology, ultimately enabling rational design of plant genomes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42901830/",
+            "journal": "Trends in biotechnology",
+            "authors": "Lei, Wu, Gao",
+            "published": "2026-10-20",
+            "doi": "10.1016/j.tibtech.2026.09.024"
+          },
+          "score": 78,
+          "score_reason": "植物染色体工程综述，编辑前沿",
+          "title_cn": "从基因组编辑到植物染色体工程",
+          "one_liner": "综述植物大片段基因组工程策略，涵盖从千碱基到兆碱基的删除、插入、替换、倒位与易位。",
+          "key_findings": [
+            "基于双链断裂、先导编辑、重组酶和转座酶的技术，可实现千碱基至兆碱基级DNA片段的可编程操作",
+            "系统比较了植物大片段基因组工程主要策略的优势与局限",
+            "人工智能正加速大片段基因组工程的优化"
+          ],
+          "why_it_matters": "为植物合成生物学提供染色体尺度理性设计工具箱，对构建大片段代谢通路、人工染色体及作物定向改良具有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42899205",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Genome editing beyond transgenes: DNA-free technologies in crop improvement.",
+            "abstract": "Conventional and transgenic approaches to crop improvement are increasingly constrained by biosafety concerns, stringent regulatory frameworks, and limited public acceptance, necessitating new precision breeding methods. DNA-free genome editing using the CRISPR/Cas9 approach has emerged as a transformative approach that enables precise, targeted genetic modifications without the stable integration of a foreign gene (transgene). This strategy transiently introduces CRISPR/Cas9 ribonucleoprotein (RNP) complexes, or in vitro transcribed mRNA, into plant cells. This review focuses primarily on CRISPR/Cas-mediated DNA-free genome editing and its applications in crop improvement. After targeted genome cleavage, the editing elements are rapidly degraded, leaving only the desired genomic modification and resulting in plants indistinguishable from those developed through conventional breeding. To achieve targeted, DNA-free genome editing, researchers have developed numerous molecular platforms and delivery systems, such as protoplast transfection, biolistic bombardment, nanoparticle-based systems, and emerging pollen- and meristem-targeted systems, for major crop species. Researchers have successfully enhanced several notable traits, including disease and pest resistance, nutritional quality, abiotic stress tolerance, and agronomic performance, in cereals, vegetables, oilseeds, and perennial crops. Recent advancements, including base editing, prime editing, and multiplex gene editing, are further expanding the precision, efficiency, and scope of DNA-free genome editing. Overall, CRISPR/Cas-mediated DNA-free genome editing offers a route to crop improvement that avoids stable transgene integration, though its wider deployment depends on progress in regeneration, molecular validation, and regulatory convergence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42899205/",
+            "journal": "Frontiers in plant science",
+            "authors": "Senthilkumar, Palaniswamy, Rathnasamy, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fpls.2026.1942730"
+          },
+          "score": 78,
+          "score_reason": "DNA-free CRISPR作物编辑，基因编辑技术应用",
+          "title_cn": "超越转基因的基因组编辑：作物改良中的无DNA技术",
+          "one_liner": "CRISPR/Cas无DNA编辑通过RNP或mRNA瞬时递送实现作物精准改良，不留转基因痕迹。",
+          "key_findings": [
+            "利用RNP复合物或体外转录mRNA瞬时递送CRISPR/Cas9，编辑后元件快速降解，仅保留目标基因组修饰",
+            "已开发原生质体转染、基因枪、纳米颗粒及花粉/分生组织靶向等多种递送系统，覆盖主要作物",
+            "在谷物、蔬菜、油料及多年生作物中成功改良抗病虫、营养品质、非生物胁迫耐受及农艺性状"
+          ],
+          "why_it_matters": "为合成生物学博士提供无转基因作物精准编辑的技术全景，涵盖递送系统与碱基/先导编辑等前沿工具，是设计作物底盘改造与规避监管路径的重要参考。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.18.759947",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Enhanced Fidelity and Sequence Generality of an RNA Polymerase Ribozyme",
+            "abstract": "Directed evolution has been used to develop RNA enzymes (ribozymes) that catalyze the RNA-templated polymerization of RNA. The more advanced polymerases can synthesize long RNA products, but have shortcomings with regard to copying accuracy and template sequence generality, which are impediments to using the polymerase to replicate and evolve other functional RNAs. By applying stringent selection pressure over the course of 33 successive rounds of evolution, both the fidelity and sequence generality of the polymerase were greatly improved. When synthesizing large functional RNAs such as the class I ligase ribozyme, the fidelity improved from 86% to 94% per nucleotide, due to both reduced incorporation of mismatched nucleotides and reduced propensity to extend partial-length products that have mismatched termini. The improved polymerase is also able to synthesize a broad range of RNA products, including those that require copying templates that are highly structured or contain sequences that previously were difficult to copy.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.18.759947v1",
+            "journal": "bioRxiv · biochemistry",
+            "authors": "Horning, D. P.,  Nasser, S. C.,  Joyce, G. F.",
+            "published": "NA",
+            "doi": "10.64898/2026.10.18.759947"
+          },
+          "score": 78,
+          "score_reason": "定向进化RNA聚合酶核酶，相关",
+          "title_cn": "RNA聚合酶核酶的保真度与序列通用性提升",
+          "one_liner": "经33轮定向进化，RNA聚合酶核酶保真度从86%升至94%，并拓宽了可复制模板范围。",
+          "key_findings": [
+            "33轮严格选择压力进化出保真度和序列通用性大幅提升的聚合酶核酶",
+            "合成大型功能RNA时保真度由86%升至94%，错配掺入和错配末端延伸均减少",
+            "可合成高结构化模板及此前难复制序列的多种RNA产物"
+          ],
+          "why_it_matters": "提升RNA自我复制保真度与模板通用性，是构建体外RNA复制与进化系统的关键，对合成生物学中RNA自复制体系与定向进化平台设计有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42895175",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Artificial photosynthetic cells: bridging chemical energization with biological functionalization.",
+            "abstract": "Artificial photosynthetic cells are nature-inspired systems that reproduce photosynthetic functions within cell/cell-mimetic compartments. Unlike discrete photocatalytic platforms, they integrate light harvesting, charge separation, multistep catalysis, selective transport, and compartmentalization to convert isolated photochemical reactions into coordinated cell-like functions. Driven by needs in carbon-neutral manufacturing, sustainable solar conversion, and precision medicine, the field is advancing from simple photocatalytic vesicles toward integrated and increasingly synthetic-cell platforms. In this review, we systematically elaborate on the rational design principles and emergent functional landscapes of artificial photosynthetic cells from a bioinspired perspective. We first decode the fundamental operational logic of natural photosynthesis, serving as a design blueprint. We then summarize the core construction modules of artificial photosynthetic cells, including cell-mimetic chassis, high-performance light-harvesting engines, multi-level catalytic networks, and precise interfacial engineering strategies. Furthermore, we categorize assembly paradigms into three mainstream branches: semi-artificial biohybrid systems, bottom-up reconstituted synthetic systems, and fully abiotic photosynthetic mimics. We further highlight a series of current and prospective functionalities, ranging from solar-driven CO2 fixation and high-value chemical synthesis to in situ biomedical drug generation, as well as primitive life-like characteristics including intercellular communication, motility, and compartment division. Finally, we pinpoint the key technical bottlenecks, common pitfalls and outline opportunities enabled by the deep integration of synthetic biology, functional materials chemistry, and systematic bioengineering.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42895175/",
+            "journal": "Chemical Society reviews",
+            "authors": "Gao, Li, Chen, et al.",
+            "published": "2026-10-19",
+            "doi": "10.1039/d6cs00978f"
+          },
+          "score": 75,
+          "score_reason": "人工光合细胞，合成细胞与无细胞系统前沿",
+          "title_cn": "人工光合细胞：化学能量供给与生物功能化的融合",
+          "one_liner": "综述人工光合细胞的设计原理、构建模块与功能，展望其从光催化囊泡走向集成合成细胞。",
+          "key_findings": [
+            "提出从天然光合作用提炼设计蓝图，整合捕光、电荷分离、多级催化与区室化",
+            "归纳三大构建范式：半人工生物杂合、自下而上重构合成体系、全非生物光合模拟",
+            "功能覆盖太阳能CO2固定、高值化学品合成、原位药物生成及原始生命样行为"
+          ],
+          "why_it_matters": "为合成生物学提供将材料化学与细胞工程融合的路线图，有助于设计光驱动的人工细胞与CO2固定平台。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42904109",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A base-editing and auxotrophic selection platform for linking epigenetic regulators to silent biosynthetic gene clusters in Aspergillus nidulans.",
+            "abstract": "Filamentous fungi harbor numerous silent biosynthetic gene clusters (BGCs), representing an underexplored reservoir of natural products. Chemical inhibition of epigenetic regulators is an effective strategy for activating silent BGCs, but it often lacks specificity and cannot readily link activated clusters to their cognate regulators. Here, we developed a coupled cytosine base editing and auxotrophic selection platform in Aspergillus nidulans to systematically identify epigenetic regulators of silent gene clusters. An sgRNA library targeting 24 core epigenetic regulators was introduced, together with a cytosine base editor, into 21 pyrG-based PKS reporter strains, enabling growth-based selection and direct sgRNA recovery by Sanger sequencing. This screen identified five regulator-cluster activation pairs, including known interactions and two previously uncharacterized mechanisms. Specifically, KdmB represses the AN7084 gene cluster by erasing promoter H3K4me3, whereas Kmt5 silences the cichorine core pks gene through H4K20me3 deposition. This scalable platform enables rapid matching of silent BGCs with their epigenetic regulators and advances chromatin-guided fungal genome mining.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42904109/",
+            "journal": "Synthetic and systems biotechnology",
+            "authors": "Pang, Guo, Li, et al.",
+            "published": "2027-05-01",
+            "doi": "10.1016/j.synbio.2026.10.001"
+          },
+          "score": 72,
+          "score_reason": "碱基编辑+营养筛选激活沉默基因簇",
+          "title_cn": "碱基编辑与营养缺陷选择平台：将构巢曲霉表观遗传调控因子与沉默生物合成基因簇关联",
+          "one_liner": "在构巢曲霉中建立碱基编辑+营养缺陷筛选平台，鉴定出5对表观调控因子-基因簇激活关系。",
+          "key_findings": [
+            "构建靶向24个核心表观调控因子的sgRNA文库，导入21个pyrG型PKS报告菌株，通过生长选择并Sanger测序回收sgRNA。",
+            "筛选获得5对调控因子-基因簇激活关系，含已知互作及2个此前未表征机制。",
+            "KdmB通过清除启动子H3K4me3抑制AN7084基因簇；Kmt5通过沉积H4K20me3沉默cichorine核心pks基因。"
+          ],
+          "why_it_matters": "为沉默BGC与表观调控因子的配对提供可扩展筛选策略，推动染色质导向的真菌基因组挖掘，对天然产物合成生物学与CRISPR碱基编辑应用有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42899582",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Editing Enzymes with Multiscale Metal-Based Components.",
+            "abstract": "Enzymes are powerful natural catalysts distinguished by high efficiency and selectivity. The use of enzymes in the chemical industry can theoretically enable numerous efficient and sustainable reaction pathways. Nevertheless, the application of enzymes is hindered by their narrow catalytic repertoire. Enzymes are readily deactivated under nonnatural environments, and their reaction types are limited. Developing enzymes with new catalytic functions has been a longstanding challenge in the field of biocatalysis. Strategies such as directed evolution and de novo protein design have been very successful in designing new enzymes. However, as both approaches rely on the engineering of amino acid sequences of proteins, they remain constrained and cannot fully meet the growing demand for non-natural biocatalysis. Incorporating abiotic components with enzymes is a powerful tool for editing enzymes to render new catalytic capabilities. Metal-based components possess a broad catalytic repertoire, structural stability, and multifunctionality, making them promising building blocks for enzyme editing. This Account summarizes our contributions over the past decade in editing enzyme catalysts with metal-based components as a scale-dependent evolution, from nanoscale environmental modulation to atom-scale active site redefinition, illustrating how enzyme editing with metal-based components can systematically address non-natural catalytic challenges. A conceptual framework in which enzymes are edited with metal-based components across scales from the nanometer to the atomic dimension is introduced, establishing a logical basis for integrating biocatalysis with abiotic reactivity. At the nanoscale, enzymes are encapsulated in metal-based frameworks to improve the configuration stability, enabling catalysis under non-native and harsh conditions. The robustness of enzymes under extreme pH, high temperature, and organic solvent can be largely enhanced through the regulation of metal-based frameworks. At the sub-nanoscale, metal clusters are embedded within enzyme scaffolds to construct enzyme-metal hybrid catalysts. By integration of enzymatic and chemical catalysis, new non-natural catalytic processes can be established. At the atomic scale, metal atoms are incorporated into the enzyme catalytic pocket, creating new hybrid active sites. The hybrid active site endows an enzyme with capabilities to drive new-to-nature reactions, unlocking an expanded enzyme catalytic space. This work provides a unifying conceptual framework that clarifies how metal-based components can be strategically employed to reprogram enzyme stability, functionality, and reactivity. We hope that the strategies and concepts discussed herein offer comprehensive design principles for biohybrid catalysts and establish a foundation for reprogramming enzymatic function beyond evolutionary limitations.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42899582/",
+            "journal": "Accounts of chemical research",
+            "authors": "Li, Zare, Ge",
+            "published": "2026-10-20",
+            "doi": "10.1021/acs.accounts.6c00338"
+          },
+          "score": 72,
+          "score_reason": "金属组分编辑酶，拓展定向进化与酶设计",
+          "title_cn": "多尺度金属基组分编辑酶催化剂",
+          "one_liner": "按纳米到原子尺度用金属基组分编辑酶，系统拓展非天然催化能力。",
+          "key_findings": [
+            "纳米尺度：金属基框架包封酶，提升极端pH、高温和有机溶剂下的稳定性",
+            "亚纳米尺度：酶骨架内嵌金属簇，构建酶-金属杂合催化剂实现新催化过程",
+            "原子尺度：金属原子引入酶催化口袋，构建杂合活性位点驱动新自然界反应"
+          ],
+          "why_it_matters": "为合成生物学提供跨尺度金属-酶杂合设计框架，可突破定向进化与从头设计的氨基酸序列限制，重编程酶的稳定性与反应类型。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42898688",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Advances and applications of engineered protein therapeutics and their role in precision medicine.",
+            "abstract": "Proteins are a vital class of biomolecules. They play essential roles in biological processes, including building cellular structures, forming cellular channels and receptors, catalyzing biological reactions, transporting molecules, and contributing to immune defense mechanisms. Advances in protein engineering have enabled the genetic modification of naturally occurring proteins, using recombinant deoxyribonucleic acid (DNA) technology, leading to the development of therapeutic proteins with enhanced specificity, stability, and clinical performance. Despite the rapid growth of engineered biologics, a comprehensive understanding of how these innovations intersect with precision medicine remains limited. This review addresses this gap by summarizing the major contemporary approaches used in therapeutic protein engineering, including directed evolution, rational design, and de novo protein design, and by analyzing their roles in enabling patient-tailored interventions. It provides an integrated overview of the clinical applications of engineered therapeutic proteins across key medical fields, supported by a list of U.S. Food and Drug Administration- and European Medicines Agency-approved protein therapeutics from 2020 to 2025. The review further provides a comparative perspective on major protein engineering strategies, highlighting their relative advantages and limitations, while examining differences in clinical translation across major disease areas. By combining technological advances with disease-specific applications, this review offers a perspective that has not been fully developed in the literature. Finally, the review discusses the current challenges affecting the implementation of precision medicine, including immunogenicity, regulatory constraints, and ethical considerations, and outlines future directions, such as artificial intelligence-guided protein design, targeted protein degradation, and personalized vaccine development. Collectively, these insights highlight the expanding role of engineered proteins in shaping the next-generation of precision therapeutics and emphasize the growing importance of integrating multidisciplinary approaches to advance therapeutic innovation in modern clinical practice.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42898688/",
+            "journal": "Frontiers in bioengineering and biotechnology",
+            "authors": "Aldossary, Alqahtani, Asiri, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fbioe.2026.1857362"
+          },
+          "score": 72,
+          "score_reason": "蛋白工程与定向进化，相关",
+          "title_cn": "工程化蛋白治疗药物的进展与应用及其在精准医学中的作用",
+          "one_liner": "综述系统梳理定向进化、理性设计与从头设计三大蛋白工程策略及其在精准医学中的临床应用与挑战。",
+          "key_findings": [
+            "总结定向进化、理性设计、从头蛋白设计三类策略的优势与局限",
+            "汇总2020–2025年FDA与EMA批准的蛋白治疗药物及主要疾病领域应用",
+            "指出免疫原性、监管限制与伦理问题制约精准医学落地"
+          ],
+          "why_it_matters": "为合成生物学读者提供蛋白工程策略选择与临床转化全景，可辅助判断治疗蛋白设计路线及AI设计、靶向降解等新方向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42896677",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Expanding photosynthesis through biosolar oxic N2 fixation: toward a sustainable BioNitrogen Economy.",
+            "abstract": "Atmospheric dinitrogen (N2) is far more abundant than carbon dioxide (CO2), yet photosynthesis has been studied and harnessed predominantly for photosynthetic carbon fixation (PCF), underpinning the global biocarbon economy. In contrast, biological N2 fixation-the natural gateway for atmospheric nitrogen into the biosphere-remains comparatively underexploited. Modern agriculture and industry consequently depend heavily on the fossil-fuel-intensive Haber-Bosch process, with substantial energy and environmental costs. Diazotrophic cyanobacteria offer a fundamentally different paradigm by coupling oxygenic photosynthesis to nitrogenase-mediated N2 fixation. We term this process photosynthetic nitrogen fixation (PNF), which uses solar energy to convert water and atmospheric N2 into bioavailable nitrogen. Beyond its ecological significance, PNF expands the functional scope of photosynthesis beyond carbon fixation and provides a biological foundation for sustainable nitrogen production, biofertilization, and N2-based biosolar manufacturing. Recent advances in cyanobacterial physiology, ecology, evolution, synthetic biology, and AI-enabled multi-omics are accelerating efforts to harness this potential. This review examines the diversity of diazotrophic cyanobacteria, their strategies for protecting oxygen-sensitive nitrogenase, and emerging approaches for genetic engineering cyanobacteria as programmable platforms for nitrogen production and crop-associated nitrogen delivery. We further propose a roadmap toward a solar-powered BioNitrogen Economy encompassing bioprospecting, synthetic biology, genomic engineering, crop integration, and scalable agricultural and industrial deployment. By expanding photosynthesis from carbon fixation to the solar-powered capture of both carbon and atmospheric nitrogen, PNF could help drive the transition from a fossil-fuel-dependent chemo-nitrogen economy toward a sustainable BioNitrogen Civilization.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42896677/",
+            "journal": "Bioresource technology",
+            "authors": "Nawaz, Gu, Young, et al.",
+            "published": "2026-10-19",
+            "doi": "10.1016/j.biortech.2026.136096"
+          },
+          "score": 70,
+          "score_reason": "光合固氮合成生物学，拓展生物制造范式",
+          "title_cn": "拓展光合作用：生物太阳能有氧固氮迈向可持续生物氮经济",
+          "one_liner": "综述提出光合固氮（PNF）拓展光合作用功能，以蓝细菌为平台构建太阳能驱动的生物氮经济。",
+          "key_findings": [
+            "PNF利用蓝细菌将氧气光合与固氮酶介导的N2固定耦合，把水和大气N2转化为生物可利用氮",
+            "系统梳理固氮蓝细菌多样性及其保护氧敏感固氮酶的多种策略",
+            "提出合成生物学、基因组工程与AI多组学结合，将蓝细菌改造为可编程产氮与作物供氮平台"
+          ],
+          "why_it_matters": "为合成生物学提供从碳固定拓展到碳氮共固定的新范式，蓝细菌固氮底盘与作物联合固氮工程是替代Haber-Bosch的高价值方向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42903585",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering organoids toward implantable living therapeutics.",
+            "abstract": "Stem cell-derived organoids are emerging as living therapeutics for repairing or replacing damaged tissues and organs, offering new opportunities for regenerative medicine. However, their clinical translation remains limited by immune rejection, insufficient functional integration, and low manufacturing throughput. In this review, we summarize recent advances in engineering organoids toward implantable living therapeutics by examining how hydrogel engineering, microfluidic chips, three-dimensional bioprinting, and synthetic biology overcome key translational barriers and facilitate the in vivo application of organoids. We further discuss the existing regulatory frameworks supporting the clinical translation of organoid-based therapies. Current evidence indicates that these bioengineering strategies enhance graft survival, tissue integration, and therapeutic efficacy through complementary mechanisms, including immunomodulatory signals, biomimetic microenvironments, hierarchical tissue architectures, and programmable cellular functions. Importantly, engineered organoids have been successfully applied to restore hair-bearing skin, repair colonic epithelial continuity, bridge critical-size bone defects, and correct metabolic disorders. Despite these advances, significant challenges remain in quality-control standardization, scalable manufacturing, regulatory harmonization, and long-term safety assessment. Future studies integrating artificial intelligence (AI) and intelligent living devices are warranted to facilitate high-fidelity manufacturing, quality inspection, real-time monitoring, and closed-loop therapeutic regulation in clinical practice. Collectively, engineered organoids represent a promising frontier for new-generation transplantation and regenerative medicine.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42903585/",
+            "journal": "hLife",
+            "authors": "Shi, Yang, You, et al.",
+            "published": "2026-09-01",
+            "doi": "10.1016/j.hlife.2026.06.002"
+          },
+          "score": 70,
+          "score_reason": "工程化类器官活体疗法，相关",
+          "title_cn": "工程化类器官迈向可植入活体治疗",
+          "one_liner": "水凝胶、微流控、3D 生物打印与合成生物学协同突破类器官移植的免疫排斥、整合与量产瓶颈。",
+          "key_findings": [
+            "水凝胶与微流控芯片构建仿生微环境，提升移植物存活与组织整合",
+            "3D 生物打印实现层级组织结构，合成生物学赋予可编程细胞功能",
+            "工程化类器官已修复带毛皮肤、结肠上皮、大段骨缺损并纠正代谢紊乱"
+          ],
+          "why_it_matters": "为合成生物学提供从基因线路到可植入活体治疗的系统工程范式，可结合底盘细胞改造与生物材料设计，是活体药物方向的重要路线图。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42897788",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Additive Manufacturing of Metabolically Active Living Materials with Enhanced Biocontainment.",
+            "abstract": "Additive manufacturing of engineered living materials (ELMs) enables the spatial patterning of living cells or organisms within three-dimensional (3D) polymer matrices. However, effective biocontainment, defined as the ability to retain cells within 3D-printed matrices during the application period, remains a key limitation for ELMs requiring physical confinement. While synthetic biology provides cell-specific biocontainment strategies, materials-based approaches can enable generic cell retention capabilities. Therefore, we applied a materials-based strategy that combines pre-printing formulation development and post-printing processing to increase the retention of yeast Saccharomyces cerevisiae in Pluronic F127-bisurethane methacrylate (F127-BUM) hydrogels. F127-BUM precursor solutions were formulated with the comonomers methacrylic acid (MAA) and/or 2-(dimethylamino)ethyl methacrylate (DMAEMA), extrusion-printed, UV-cross-linked, and immersed in 70 vol % ethanol for 60 or 300 s before cultivation. Comonomer addition preserved dimensional fidelity, thermoresponsiveness, and shear-thinning behavior for 3D printing. After immobilization and cross-linking, DMAEMA and higher concentrations of MAA considerably reduced yeast viability, whereas a 70-80% viability was observed for 0.03 and 0.06 mol L-1 MAA. With 0.06 mol L-1 MAA and 300 s ethanol immersion, the yeast retention time reached 98 ± 12 h, which was approximately 48% longer than that of the correspondingly treated F127-BUM-only control and represented about a 465% increase relative to the untreated F127-BUM-only control. After ethanol immersion, a peripheral growth-free zone developed around a metabolically active core, enhancing cell retention and contributing to delayed cell escape. The selected MAA-containing ELMs remained metabolically active and showed nearly 38% higher apparent glucose-to-ethanol conversion than treated F127-BUM-only controls. The suspension cultures fermented faster and achieved higher yield. Our method achieved enhanced biocontainment, with an operational window of about 4-5 days. In conclusion, we demonstrate that combining pre-printing and post-printing processes can enhance biocontainment for different ELM applications. We suggest the integration of this method with synthetic-biology strategies to further extend biocontainment duration for metabolically active living materials.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42897788/",
+            "journal": "ACS applied bio materials",
+            "authors": "Hamacek, Daily, Le, et al.",
+            "published": "2026-10-19",
+            "doi": "10.1021/acsabm.6c01394"
+          },
+          "score": 68,
+          "score_reason": "3D打印工程活材料与生物防护，合成生物学应用",
+          "title_cn": "增材制造具有增强生物防护的代谢活性活体材料",
+          "one_liner": "在F127-BUM水凝胶中引入MAA并乙醇浸泡，使酵母保留时间延长至98小时且保持代谢活性。",
+          "key_findings": [
+            "共聚单体MAA(0.06 mol/L)保持打印保真度与剪切变稀性，酵母存活率70-80%",
+            "打印后70%乙醇浸泡300秒，酵母保留达98±12小时，较未处理对照提高约465%",
+            "乙醇处理形成外周无生长区包裹活性核心，延缓细胞逃逸，葡萄糖转化乙醇效率提高约38%"
+          ],
+          "why_it_matters": "为工程活体材料的物理封装提供通用材料学策略，可与合成生物学防护手段叠加，延长代谢活性材料的操作窗口。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42894213",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Comparative analysis of precursor supply and pathway reinforcement strategies for shikimic acid biosynthesis in Pseudomonas putida.",
+            "abstract": "The shikimate pathway is a central metabolic route for the biosynthesis of high-value aromatic compounds. Traditional metabolic engineering strategies have largely focused on overexpressing pathway-specific genes, enhancing precursor supply, or introducing feedback-resistant variants of 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase to increase pathway flux. However, how these distinct strategies differentially affect flux distribution and the accumulation of key intermediates, specifically 3-dehydroshikimate (DHS) and shikimic acid (SA), remains largely unexplored in Pseudomonas putida (P. putida). Here, we systematically assess the effects of commonly applied engineering strategies on DHS and SA production using distinct SA pathway modules. The results show that overexpression of transketolase I (tktA), phosphoenolpyruvate synthase (ppsA), and SA pathway genes (aroE, aroB, aroQ-II), together with heterologous expression of feedback-resistant aroG, in a genome-edited P. putida EM42 strain harboring pykA/pykF deletions and a hexR knockout, yielded approximately 71 mg L⁻1 shikimic acid, corresponding to a > 284-fold increase relative to the wild-type EM42. Notably, the findings reveal that following the relief of precursor constraints, the achievable maximum titer is unaffected by the particular DAHP synthase isoform utilized. Furthermore, the standalone overexpression of ppsA and tktA yielded SA and DHS levels comparable to those achieved with the additional expression of the aforementioned pathway genes. However, despite this phenotypic convergence in titers, comparative transcriptomic analysis revealed that the genetic route taken to reach these levels is associated with markedly distinct transcriptional configurations of the host metabolic network. In the same genetic background, amplification of ppsA-tktA alone is associated with an increased transcriptional investment in the biosynthesis of essential cofactors and metabolic precursors, whereas overexpression of the SA pathway is accompanied by enrichment of protocatechuate catabolic genes, consistent with the intrinsic aromatic funneling capacity of P. putida under conditions of elevated shikimate pathway flux. These results demonstrate that evaluating engineering success solely based on final product yields obscures substantial differences in underlying metabolic states. Accordingly, we propose that tailored engineering strategies guided by key pathway intermediates are critical for the rational optimization of P. putida as an efficient cell factory.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42894213/",
+            "journal": "Microbial cell factories",
+            "authors": "İlter, Korkmaz, Arslan, et al.",
+            "published": "2026-07-22",
+            "doi": "10.1186/s12934-026-03042-6"
+          },
+          "score": 68,
+          "score_reason": "代谢工程莽草酸合成，相关",
+          "title_cn": "恶臭假单胞菌莽草酸生物合成中前体供应与途径强化策略的比较分析",
+          "one_liner": "在恶臭假单胞菌中，解除前体限制后不同DAHP合酶同工型不影响最高产量，但不同工程策略导致显著不同的转录组状态。",
+          "key_findings": [
+            "基因组编辑EM42（pykA/pykF缺失、hexR敲除）中过表达tktA、ppsA、aroE/aroB/aroQ-II及抗反馈aroG，SA达约71 mg/L，较野生型提高>284倍",
+            "解除前体限制后，最高SA滴度与所用DAHP合酶同工型无关",
+            "单独过表达ppsA-tktA即可达到与额外过表达SA途径基因相当的SA/DHS水平，但转录组配置显著不同"
+          ],
+          "why_it_matters": "对合成生物学读者而言，该研究表明仅以终产物滴度评价工程策略会掩盖代谢状态差异，提示应基于关键中间物设计定制化途径强化策略，对假单胞菌细胞工厂优化有直接指导意义。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42895482",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.",
+            "abstract": "Protein aggregation is a critical phenomenon associated with numerous neurodegenerative and systemic diseases. Understanding the propensity of proteins to aggregate is essential for unraveling the molecular basis of these disorders and for the design and engineering of novel proteins, as well as for modulating the activity/stability of enzymatic proteins. Here, we present APR-Score, a novel machine learning-based computational method designed to identify aggregation-prone regions within protein sequences. APR-Score leverages a combination of sequence-based features to predict regions of proteins that are prone to aggregation. It harnessed the information embedded in compiled sequence and structural features to achieve state-of-the-art accuracy. The method was evaluated through rigorous cross-validation on the training dataset and further validated on an independent test dataset. APR-Score demonstrated robustness and reliability in distinguishing aggregation-prone regions from non-aggregating ones, achieving a Matthews correlation coefficient (MCC) of 0.77, precision of 0.89, and F1-Score of 0.87. This tool offers significant value for researchers investigating protein aggregation-related diseases, as it can expedite the identification of aggregation-prone regions, thereby aiding the development of targeted therapies and diagnostic tools. Moreover, computational protein design and engineering efforts can be facilitated by APR-Score-based identification and screening of aggregation-prone protein sequences. APR-Score is available at https://github.com/TII-BRC/APR-Score.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42895482/",
+            "journal": "Genomics, proteomics & bioinformatics",
+            "authors": "Kaushik, Launey",
+            "published": "2026-10-19",
+            "doi": "10.1093/gpbjnl/qzag104"
+          },
+          "score": 65,
+          "score_reason": "蛋白聚集预测工具，辅助蛋白质设计",
+          "title_cn": "APR-Score：蛋白质序列中聚集倾向区域的识别与打分",
+          "one_liner": "基于机器学习的 APR-Score 工具可高精度识别蛋白质序列中的聚集倾向区域。",
+          "key_findings": [
+            "融合序列与结构特征，在训练集交叉验证和独立测试集上均表现稳健",
+            "性能达 MCC 0.77、精确率 0.89、F1 0.87，可区分聚集与非聚集区域",
+            "工具已开源，可用于蛋白设计与工程中的聚集风险筛查"
+          ],
+          "why_it_matters": "合成生物学中异源表达和酶工程常受蛋白聚集困扰，该工具可在设计阶段快速筛查聚集倾向序列，降低表达失败与稳定性风险。",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
