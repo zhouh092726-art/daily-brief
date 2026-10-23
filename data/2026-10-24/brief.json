@@ -1,0 +1,1343 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T07:13:55.680217+08:00",
+  "fetched_ids": [
+    "pubmed:42904109",
+    "pubmed:42899179",
+    "pubmed:42911333",
+    "pubmed:42911324",
+    "pubmed:42910295",
+    "pubmed:42903656",
+    "pubmed:42907037",
+    "pubmed:42912437",
+    "pubmed:42909945",
+    "pubmed:42905563",
+    "pubmed:42913456",
+    "pubmed:42913427",
+    "pubmed:42913419",
+    "pubmed:42909840",
+    "pubmed:42909839",
+    "pubmed:42909796",
+    "pubmed:42909627",
+    "pubmed:42909530",
+    "pubmed:42911406",
+    "pubmed:42911133",
+    "pubmed:42908122",
+    "pubmed:42907516",
+    "pubmed:42907418",
+    "pubmed:42906913",
+    "pubmed:42906865",
+    "pubmed:42906834",
+    "pubmed:42906830",
+    "pubmed:42906787",
+    "pubmed:42905931",
+    "pubmed:42905641",
+    "pubmed:42905579",
+    "pubmed:42905337",
+    "pubmed:42905206",
+    "pubmed:42905185",
+    "pubmed:42905051",
+    "pubmed:42904998",
+    "pubmed:42904638",
+    "pubmed:42904559",
+    "pubmed:42904125",
+    "pubmed:42902961",
+    "pubmed:42902833",
+    "pubmed:42902070",
+    "pubmed:42902027",
+    "pubmed:42901830",
+    "pubmed:42901383",
+    "pubmed:42900896",
+    "pubmed:42900859",
+    "pubmed:42900516",
+    "pubmed:42900396",
+    "pubmed:42900277",
+    "pubmed:42900220",
+    "pubmed:42900180",
+    "pubmed:42899706",
+    "pubmed:42899582",
+    "pubmed:42899421",
+    "pubmed:42906323",
+    "pubmed:42897951",
+    "pubmed:42897849",
+    "pubmed:42897788",
+    "pubmed:42913075",
+    "pubmed:42901084",
+    "pubmed:42913210",
+    "pubmed:42912594",
+    "pubmed:42903822",
+    "pubmed:42903835",
+    "pubmed:42903612",
+    "pubmed:42903311",
+    "pubmed:42899205",
+    "pubmed:42899178",
+    "pubmed:42898797",
+    "pubmed:42898703",
+    "pubmed:42898688",
+    "pubmed:42898624",
+    "pubmed:42898493",
+    "pubmed:42898121",
+    "pubmed:42910275",
+    "pubmed:42905944",
+    "pubmed:42904570",
+    "pubmed:42904563",
+    "pubmed:42903648",
+    "pubmed:42902099",
+    "pubmed:42906022",
+    "pubmed:42907427",
+    "pubmed:42907456",
+    "pubmed:42901886",
+    "pubmed:42909248",
+    "pubmed:42904010",
+    "pubmed:42903585",
+    "pubmed:42908017",
+    "pubmed:42902374",
+    "pubmed:42902378",
+    "pubmed:42897599",
+    "pubmed:42897284",
+    "biorxiv:10.64898/2026.10.19.760041",
+    "biorxiv:10.64898/2026.10.18.759947",
+    "biorxiv:10.64898/2026.10.18.759921",
+    "rss:b4993eb02543d9f0",
+    "rss:9b86e169dcf61b1d",
+    "rss:a15aef6f0d74514e",
+    "rss:d73a104666c1520c",
+    "rss:e65076367f702c70",
+    "rss:6f26ddd2adccaf59",
+    "rss:2dcb238a492fb7ca",
+    "rss:3da921e8fc0aacd5",
+    "rss:9b409cf02eaed5f8",
+    "rss:06ea66a4482410b8",
+    "rss:c1e4877e856ae340",
+    "rss:f7e396e7d6b30718",
+    "rss:abdc0b13f8ad9023",
+    "rss:b31d9b7b2f079881",
+    "rss:359e4a1025a8b6cc",
+    "rss:c22ed0f8d3ca4fc9",
+    "rss:f359719965ac1a77",
+    "rss:dfc7931b50e42bbf",
+    "rss:d1d29c56f0ae30b1",
+    "rss:be8a3623f77fb123",
+    "rss:762134522981ca4a",
+    "rss:d0f9385923b3d696",
+    "rss:4781de80c7b5a26f",
+    "rss:1b6bd1cd95a262d2",
+    "rss:f3e2e5a82f564d77",
+    "rss:ccceb510f8f4321f",
+    "rss:af99ee0a346c3baa",
+    "rss:9e335e9e158546ca",
+    "rss:86b618fc819bd093",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:98a124842e0b2b40",
+    "ema:37bec1b8ee2405a4",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "ema:f85cd385d61c8305",
+    "ema:63edc587c45a99fd",
+    "pbc:3414b5296af43c62",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "pbc:d28020e17e953fbf",
+    "pbc:846ca3149106aa0f",
+    "pbc:d7a3f0f6d011e499",
+    "pbc:7ada5bfe7b29e971",
+    "pbc:66e8f10c63444589",
+    "pbc:55dfc2f3ec86c401",
+    "pbc:af83bd164d309977",
+    "pbc:15c4eefed1e9e23e",
+    "rss:5a60bcdb05ed68d5",
+    "rss:759fe46ed90dc751",
+    "rss:39c8c1e08705efe6",
+    "rss:139683c4cb22904f",
+    "rss:f4d7439583ad055d",
+    "rss:6cec5c61df6514b1",
+    "rss:9df610225313c51c",
+    "rss:432aef26f737a04e",
+    "rss:707234813354f93d",
+    "rss:6d72427cd4b8ad1a",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:8d6a4fe548901c01",
+    "rss:c5fa622132a0de4e",
+    "rss:0970685988e40ee9",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:f07f836d67713430",
+    "rss:7d7feeece49366f6",
+    "rss:3bd519ca48113160",
+    "rss:1e6ff213db51b557",
+    "rss:bce5438166d3bb69",
+    "rss:8566b59c09c63065",
+    "rss:0d98df3c791f1d1a",
+    "rss:33319e5604b85f07",
+    "rss:11d6634683578e84",
+    "rss:b7fdd8418b683394",
+    "rss:89bb2e1625948c3a",
+    "rss:434b46acd754e4d3",
+    "rss:9ec0ac3b9a5bced5",
+    "rss:9b9aa8b73b495213"
+  ],
+  "stats": {
+    "fetched": 187,
+    "new_items": 134,
+    "kept": 43,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42907516",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Programmable design of functional proteins from natural language.",
+            "abstract": "Programming biological function-designing bespoke proteins to perform specified molecular tasks-is a foundational goal of molecular engineering. However, current design models remain fundamentally limited1-3: they typically require either natural proteins as starting points for optimization or manual reformulation of functional goals as geometric and sequence-level constraints to guide candidate generation. Here we introduce Pinal, a 16-billion-parameter foundation model that designs candidate proteins from natural-language descriptions of desired function. Trained on 1.7 billion synthetically annotated protein-text pairs, Pinal links functional intent to protein sequence and structure. In computational evaluations, generated candidates combined high predicted foldability with functional-description alignment and sequence diversity, providing a basis for prioritizing experimentally testable designs. We applied Pinal to four distinct design tasks-a fluorescent protein, a polyethylene terephthalate hydrolase, an alcohol dehydrogenase and a metabolic H-protein-and experimentally observed the intended function in each case, including catalytic activity for both designed enzymes. Without iterative experimental optimization, a Pinal-designed H-protein increased product titre by 1.7-fold relative to the corresponding native Escherichia coli H-protein in a multi-enzyme CO2 fixation pathway. These findings support natural language as a high-level interface for candidate generation in protein design, enabling programmable exploration with reduced reliance on manually specified structural or sequence constraints.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42907516/",
+            "journal": "Nature",
+            "authors": "Dai, You, Zhu, et al.",
+            "published": "2026-10-21",
+            "doi": "10.1038/s41586-026-11205-z"
+          },
+          "score": 88,
+          "score_reason": "自然语言编程蛋白设计，重大突破",
+          "title_cn": "基于自然语言的功能蛋白可编程设计",
+          "one_liner": "16B 参数基础模型 Pinal 可由自然语言直接生成功能蛋白，四项任务实验验证成功。",
+          "key_findings": [
+            "Pinal 基于 17 亿合成标注蛋白-文本对训练，将功能意图映射到序列与结构。",
+            "计算评估显示候选蛋白兼具高可折叠性、功能描述一致性与序列多样性。",
+            "荧光蛋白、PET 水解酶、醇脱氢酶与 H 蛋白四项任务均实验验证出预期功能。"
+          ],
+          "why_it_matters": "自然语言成为蛋白设计的高层接口，减少对手工结构约束的依赖；对合成生物学酶与代谢通路元件设计有直接借鉴价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42906913",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts.",
+            "abstract": "The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.1-5 This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design6-8 can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts9. The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42906913/",
+            "journal": "Nature",
+            "authors": "Mishra, Payal, Evans, et al.",
+            "published": "2026-10-21",
+            "doi": "10.1038/s41586-026-11317-6"
+          },
+          "score": 88,
+          "score_reason": "从头设计金属酶+定向进化，蛋白质设计里程碑",
+          "title_cn": "从头设计对映选择性人工金属酶光催化剂",
+          "one_liner": "生成式蛋白设计构建从头支架，结合定向进化获得高效高对映选择性人工金属酶光催化剂。",
+          "key_findings": [
+            "生成式蛋白设计创建可选择性结合金属多吡啶光催化剂的从头蛋白支架。",
+            "定向进化将所得人工金属酶转化为高效、高对映选择性光催化剂，支持多种光驱动反应与催化剂回收。",
+            "光谱研究表明蛋白环境延长激发态寿命、组织底物并调控能量转移与立体选择性。"
+          ],
+          "why_it_matters": "为合成生物学提供设计非天然金属催化中心的通用路线，可拓展酶催化与光催化不对称合成，对深圳合成生物与生物制造研发有直接借鉴价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42907456",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design.",
+            "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42907456/",
+            "journal": "Nature communications",
+            "authors": "Deng, Wu, Fok, et al.",
+            "published": "2026-09-21",
+            "doi": "10.1038/s41467-026-77607-9"
+          },
+          "score": 82,
+          "score_reason": "深度学习蛋白质设计，与AlphaFold方向高度相关",
+          "title_cn": "深度学习驱动的链间缠结设计生成应力松弛行为可定制的蛋白质水凝胶",
+          "one_liner": "TangleDiff 深度学习框架从头设计可折叠的缠结蛋白二聚体，实现结合能与应力松弛行为的按需定制。",
+          "key_findings": [
+            "TangleDiff 生成可折叠缠结序列的计算机成功率超 70%，远超现有模型的约 1%。",
+            "以链间结合能为条件生成二聚体，约 70% 成功设计符合目标结合能范围。",
+            "实验验证 9 个同源二聚体，7 个成功成胶，应力松弛动力学与设定结合能相关。"
+          ],
+          "why_it_matters": "为合成生物学提供可编程蛋白质水凝胶设计工具，有望定制人工 ECM 用于 3D 干细胞与类器官培养，契合生物材料与蛋白设计方向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42905931",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Genetic Biosensors for High-Throughput Biomedical Applications: Challenges and Advances.",
+            "abstract": "Genetic biosensors represent a particularly promising class of bioengineered instruments designed to enable accurate, real-time monitoring of cellular and molecular processes, with especially strong relevance to high-throughput biomedical workflows. In this review, we provide a systematic, clearly structured overview of the field, covering the fundamental design principles that form the basis of today's platforms. We focus in particular on DNA-based, RNA-based, and CRISPR-based architectures while also examining engineered synthetic biology circuitry, and we place these foundational concepts in the context of more recent advances. These developments encompass improved sensitivity, increased scalability, and broader functionality for multiplexed detection. Beyond summarizing technological progress, we critically evaluate challenges that remain deeply embedded at both technical and biological levels, including limitations driven by signal-to-noise ratio constraints, practical difficulties in delivering probes into cells, and relatively restricted dynamic ranges. Taken together, these issues continue to hinder widespread, routine clinical adoption. Importantly, rather than presenting the topic only as a catalog of improvements, we argue for a unifying framework: the convergence of artificial intelligence and synthetic biology is actively reshaping biosensor engineering, moving it away from a largely empirical, trial-and-error approach toward a more reliable, data-driven discipline. To convert this conceptual shift into tangible outcomes, we also outline a practical implementation framework aimed at reducing the distance between research activities and real-world deployment. This framework emphasizes the need for scalable manufacturing processes, robust and reproducible clinical validation, and regulatory pathways capable of evolving as new evidence emerges. An integrated strategy of this kind is therefore essential for fully realizing the potential of real-time, multichannel biosensing platforms in both complex clinical diagnostics and point-of-care environments.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42905931/",
+            "journal": "ACS sensors",
+            "authors": "Ahvaraki, Teimouri, Shirvani-Farsani, et al.",
+            "published": "2026-10-21",
+            "doi": "10.1021/acssensors.6c00720"
+          },
+          "score": 78,
+          "score_reason": "遗传生物传感器综述，合成生物学线路相关",
+          "title_cn": "遗传生物传感器用于高通量生物医学应用：挑战与进展",
+          "one_liner": "综述DNA/RNA/CRISPR生物传感器进展，提出AI与合成生物学融合推动数据驱动设计。",
+          "key_findings": [
+            "系统梳理DNA、RNA、CRISPR及合成基因线路四类传感架构的设计原理与最新进展。",
+            "指出信噪比、胞内递送与动态范围三大瓶颈仍制约临床常规应用。",
+            "提出AI+合成生物学统一框架，并给出制造、验证与监管的实施路径。"
+          ],
+          "why_it_matters": "为高通量检测与诊断传感器设计提供架构选型与工程化路线图，AI辅助设计思路对合成生物学平台开发有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42911406",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Innovative Microbial Chassis for Systems and Synthetic Biology.",
+            "abstract": "The development of microbial chassis has revolutionized systems and synthetic biology, enabling the rational engineering of microorganisms for the biosynthesis of high-value metabolites ranging from pharmaceuticals to biofuels. This chapter systematically explores widely used and emerging microbial chassis systems, with a focus on their core biological characteristics, inherent advantages and limitations, cutting-edge advances in genetic and metabolic engineering, and real-world industrial application progress. Well-established chassis represented by Escherichia coli and Saccharomyces cerevisiae remain the gold standard mainstream platforms in both academic research and industrial production. Meanwhile, the growing global demand for sustainable, high-titer bioproduction has driven the development and application of functionally specialized industrial chassis including Bacillus subtilis and Corynebacterium glutamicum, which offer unique metabolic traits, exceptional environmental stress resistance, and broad substrate versatility. This chapter also discusses the core criteria for chassis selection, including genetic stability, industrial scalability, biosafety, and metabolic flexibility, alongside their validated applications in manufacturing a diverse array of products from bulk organic acids to complex biopharmaceuticals. By systematically comparing these chassis systems across key performance metrics, this chapter provides actionable insights into rational chassis design empowered by integrated systems and synthetic biology, to enable efficient, robust, and scalable biomanufacturing.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42911406/",
+            "journal": "Advances in biochemical engineering/biotechnology",
+            "authors": "Ma, Maglangit, Wang",
+            "published": "2026-10-22",
+            "doi": "10.1007/10_2026_365"
+          },
+          "score": 75,
+          "score_reason": "微生物底盘综述，合成生物学核心",
+          "title_cn": "面向系统与合成生物学的创新微生物底盘",
+          "one_liner": "系统综述主流与新兴微生物底盘的核心特性、工程进展与工业应用，提出理性底盘设计准则。",
+          "key_findings": [
+            "E. coli 与 S. cerevisiae 仍是学术与工业的黄金标准主流底盘。",
+            "B. subtilis 与 C. glutamicum 等专用工业底盘因抗逆性与底物广谱性受青睐。",
+            "提出底盘选择核心标准：遗传稳定性、可放大性、生物安全与代谢柔性。"
+          ],
+          "why_it_matters": "为合成生物学底盘选型与理性设计提供系统比较框架，直接支撑高产率、可放大的工业生物制造项目决策。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42910295",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "CEM 2.0: Co-evolution-guided mining of superior extremophilic proteins via a curated proteome database and protein language model.",
+            "abstract": "Extremophilic proteins offer immense potential for diverse applications; however, their discovery is hindered by the reliance on predefined templates and domain-specific knowledge. Therefore, new methods are required to mine extremophilic proteins without relying on existing templates, enabling a comprehensive exploration of functional extremophilic proteins across the entire protein universe. Here, we propose a co-evolution-guided protein mining framework, CEM 2.0 (Co-Evolution Mining 2.0), comprising three synergistic components: (1) an extensive and diverse extremophilic proteome database covering six extremophilic features, (2) a multidimensional evaluator for six extremophilic features, leveraging the protein language model ProteinBERT, and (3) an integrated and interactive mining pipeline equipped with advanced tools for computing >20 properties of proteins. This framework was implemented on an interactive web platform (https://cem.sjtu.edu.cn/) equipped with intuitive visualization tools. We conducted wet-lab validation, performed a series of computational validations using published studies, and made recommendations for novel PETases, thereby demonstrating the effectiveness and potential of CEM 2.0 for the template-independent discovery of extremophilic proteins. CEM 2.0 is expected to mine functional extremophilic proteins across the protein universe in terms of evolutionary distance and serve as a valuable tool for protein engineering and synthetic biology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42910295/",
+            "journal": "Engineering microbiology",
+            "authors": "Zhang, Ma, Ding, et al.",
+            "published": "2026-12-01",
+            "doi": "10.1016/j.engmic.2026.100301"
+          },
+          "score": 72,
+          "score_reason": "蛋白语言模型挖掘极端酶，方法有价值",
+          "title_cn": "CEM 2.0：基于 curated 蛋白质组数据库与蛋白质语言模型的共进化引导极端酶挖掘",
+          "one_liner": "CEM 2.0 用共进化引导与 ProteinBERT 实现不依赖模板的极端酶全蛋白宇宙挖掘。",
+          "key_findings": [
+            "构建覆盖六类极端特性的蛋白质组数据库，并训练 ProteinBERT 多维评估器。",
+            "整合可计算 20 余种蛋白性质的交互式挖掘流程，并上线 Web 平台。",
+            "经湿实验与已发表研究计算验证，并推荐新型 PETase 候选。"
+          ],
+          "why_it_matters": "为合成生物学提供不依赖模板的极端酶挖掘工具，可快速获取耐热耐盐等元件，支撑深圳相关酶工程与底盘开发。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42905579",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Hierarchically Gated Multiplex Heterogeneous Graph Neural Network with Self-Distillation for Protein Stability Prediction.",
+            "abstract": "Predicting the impact of protein residue mutations on thermal stability is critical for protein engineering and for understanding how mutations contribute to cancer development. Recent advances in deep learning demonstrate great promise in the prediction of mutation-induced protein stability changes; however, current approaches face several drawbacks to be solved: 1) neglect the inherent heterogeneity of relations among residues, 2) lack of information-filtering from noisy context, and 3) insufficient supervision of sparse and weak signals of mutation. To address these issues, we propose a protein stability prediction model named HierGate, which is featured by a hierarchically gated multiplex heterogeneous graph neural network with self-distillation mechanism. It is designed to capture the multiplex heterogeneous relations among residues; on the other hand, hierarchical gating mechanism is introduced to suppress contextual noise upon heterogeneous neighbor aggregation. In addition, self-distillation strategy is leveraged to amplify the weak mutation signal. Comprehensive evaluations on eight benchmark datasets demonstrate that the proposed method outperforms advanced protein stability prediction approaches, with an improvement of up to 13% over the second-best baseline on certain datasets. We also demonstrate the practical capability of HierGate in investigating the underlying mechanisms of cancer development and in guiding directed evolution in protein engineering.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42905579/",
+            "journal": "IEEE journal of biomedical and health informatics",
+            "authors": "Zhang, Xing, Wang, et al.",
+            "published": "2026-10-21",
+            "doi": "10.1109/JBHI.2026.3745526"
+          },
+          "score": 72,
+          "score_reason": "蛋白稳定性预测GNN，蛋白质设计工具",
+          "title_cn": "分层门控多重异质图神经网络结合自蒸馏用于蛋白质稳定性预测",
+          "one_liner": "HierGate 用分层门控异质图网络加自蒸馏，提升突变诱导的蛋白热稳定性预测精度。",
+          "key_findings": [
+            "构建残基间多重异质关系图，并用分层门控抑制异质邻域聚合中的上下文噪声。",
+            "引入自蒸馏策略放大稀疏微弱的突变信号，增强监督效果。",
+            "在八个基准数据集上优于现有方法，部分数据集较次优基线提升达 13%。"
+          ],
+          "why_it_matters": "对深圳从事酶工程与定向进化的合成生物学团队，可作为突变稳定性筛选的预测工具，降低湿实验负担，并辅助癌症机制研究。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42909796",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Base editing-mediated exon-specific knockout of glutamine synthetase generates a high-productivity CHO cell line for antibody manufacturing.",
+            "abstract": "The Chinese hamster ovary (CHO) cell platform dominates recombinant protein production, with the glutamine synthetase (GS) system widely used for clonal selection. However, we observed variable performance between two commercial CHO lines (ATCC CHO-K1 and CHOZN®), which carry distinct intragenic GS deletions and differential residual transcript levels, raising the possibility that the premature termination codon (PTC) position contributes to this phenotypic divergence. To systematically assess the impact of the PTC position, we used base editing to introduce PTCs into each of the six coding exons of Glul. Among the resulting clonal lines, the exon 7-edited (E7) variant exhibited complete GS ablation and sustained high viability. In fed-batch production of an anti-PD-1 monoclonal antibody, E7 achieved higher titers and specific productivities than CHOZN®, with sustained viability. Our findings demonstrate that PTC location is a key determinant of GS knockout completeness and cellular phenotype, identifying exon 7 as a critical knockout target that offers a defined, exon-resolved strategy for accelerating CHO cell line development and improving recombinant protein titers.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42909796/",
+            "journal": "Bioresources and bioprocessing",
+            "authors": "Pu, Wang, Lou, et al.",
+            "published": "2026-10-23",
+            "doi": "10.1186/s40643-026-01150-0"
+          },
+          "score": 70,
+          "score_reason": "碱基编辑敲除GS提升CHO产量，明确价值",
+          "title_cn": "碱基编辑介导的谷氨酰胺合成酶外显子特异性敲除构建高产 CHO 细胞系用于抗体生产",
+          "one_liner": "用碱基编辑在 Glul 不同外显子引入提前终止密码子，发现敲除外显子 7 可实现 GS 完全缺失并获更高抗体产量。",
+          "key_findings": [
+            "对比 ATCC CHO-K1 与 CHOZN 的 GS 内含子缺失及残余转录差异，推测 PTC 位置影响表型。",
+            "用碱基编辑在 Glul 六个编码外显子逐一引入 PTC，外显子 7 编辑株 GS 完全缺失且活力稳定。",
+            "抗 PD-1 单抗补料分批生产中，E7 株滴度与比生产率均高于 CHOZN。"
+          ],
+          "why_it_matters": "为 CHO 表达平台提供外显子分辨的 GS 敲除靶点策略，可加速细胞株开发并提升抗体产量，对合成生物学改造哺乳动物细胞工厂有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42912594",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Assembly-Pathway Regulation Dictates pH-Responsive Actuation in the R-Body Protein Machinery.",
+            "abstract": "Refractile bodies (R-bodies) are protein assemblies that form intracellular rolls and extend into spirals in response to environmental stimuli. Type 51 R-body assembles from four Reb proteins and undergoes rapid, repeatable ∼50-fold extension. Although R-bodies were described more than 70 years ago, the roles of RebC and RebD remained unclear, whereas RebA and RebB are proposed as major components. Here, we characterize the wild-type R-body (Rb_WT) and reb gene knockout mutants using integrated biophysical analyses. RebD was incorporated as a minor component, whereas RebC was not detectably incorporated into the final assembly. Mutants lacking RebA or RebB formed rolls but lost pH-dependent extension and the ordered lamellar architecture characteristic of Rb_WT. In contrast, mutants lacking RebC and/or RebD exhibited reduced roll formation and formed β-sheet-rich aggregation. Thus, pH-responsive actuation is dictated not simply by major architectural components alone, but by a regulated assembly pathway that builds the ordered lamellar architecture.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42912594/",
+            "journal": "Biomacromolecules",
+            "authors": "Date, Kikuchi, Niwa, et al.",
+            "published": "2026-10-12",
+            "doi": "10.1021/acs.biomac.6c01332"
+          },
+          "score": 70,
+          "score_reason": "R-body蛋白组装机制，蛋白质设计可借鉴",
+          "title_cn": "组装通路调控 R 体蛋白机器的 pH 响应驱动",
+          "one_liner": "R 体的 pH 响应伸展由受调控的组装通路决定，而非仅由主要结构组分决定。",
+          "key_findings": [
+            "RebD 以次要组分掺入 R 体，RebC 未检测到掺入最终组装。",
+            "缺失 RebA 或 RebB 仍形成卷曲，但丧失 pH 依赖伸展与有序层状结构。",
+            "缺失 RebC 和/或 RebD 导致卷曲形成减少，并形成富含 β-折叠的聚集体。"
+          ],
+          "why_it_matters": "为蛋白纳米机器与刺激响应组装设计提供机制依据，对合成生物学构建可控驱动元件有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42905563",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Structure of a sparsely populated chimeric intermediate that facilitates fold-switching of a metamorphic protein.",
+            "abstract": "Metamorphic proteins challenge the single-sequence-structure-function paradigm by switching between distinct folds that often adopt complementary functions. However, the conformational states sampled along the fold-switching pathway have remained elusive because they are transient and unstable. Using multinuclear chemical exchange saturation transfer and relaxation dispersion NMR, combined with chemical shift-based structure determination and protein engineering, we visualized the atomic resolution structure of an \"invisible\" state of the metamorphic chemokine lymphotactin. This state is a chimera that integrates the secondary and tertiary structure of one fold with the quaternary assembly of the other. Locking lymphotactin into a single conformation abolishes access to this state, supporting its role as an on-pathway intermediate in metamorphosis. The stabilization of such hybrid intermediates is likely to have facilitated the evolution of fold-switching and represents a powerful strategy for protein design.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42905563/",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "authors": "Nandi, Sekhar",
+            "published": "2026-10-27",
+            "doi": "10.1073/pnas.2620010123"
+          },
+          "score": 68,
+          "score_reason": "蛋白折叠转换机制，对蛋白设计有启发",
+          "title_cn": "稀疏占据的嵌合中间体结构促进变形蛋白的折叠切换",
+          "one_liner": "用NMR解析淋巴趋化因子折叠切换途径中的瞬态嵌合中间体原子结构。",
+          "key_findings": [
+            "结合多核CEST与弛豫色散NMR，捕捉到不可见瞬态中间体。",
+            "该中间体整合一种折叠的二级/三级结构与另一种折叠的四级组装。",
+            "锁定单一构象即消除该状态，证实其为在途中间体。"
+          ],
+          "why_it_matters": "为变形蛋白折叠切换机制与瞬态构象解析提供原子级范例，对合成生物学中设计可切换蛋白与稳定中间体有直接借鉴。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42911133",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering a Hyperstable Synthetic Miniprotein for B7-H3 Targeting.",
+            "abstract": "Small protein ligands, such as miniproteins, have the potential to provide the efficient physiological transport and rapid clearance required for radioligand therapy. Yet, binders require single-digit nanomolar affinity for potent targeting and high stability for radiolabeling and physiological integrity. High affinity and stable single-domain miniproteins are also modular candidates for multispecific applications in cell engagers and avid constructs. Previous work demonstrated computationally designed 40-amino acid β⍺ββ miniproteins as effective scaffolds for ligand discovery. Herein, to yield the desired single-digit nanomolar affinity for B7-H3, an important immune regulator and cell surface antigen upregulated in numerous tumors, we used structural modeling to guide experimental evolution of the lead molecule. We performed constrained diversification at six sites on a β-sheet, structurally distinct from the originally engineered ⍺-helical paratope, as well as nine sites within the ⍺-helix, and sorted for strong binding to B7-H3 via yeast display and flow cytometry with detergent-solubilized cell lysate. Top variants discovered from this campaign yielded affinities of 8.4 and 11 nM, with the most performant variant, named βm.1, resulting in 1.2 ± 0.2 nM affinity. βm.1 had four β-sheet mutations relative to parental and Tm,app ≥91 °C, with reversible unfolding. The lead variant, βm.1, putatively engages B7-H3 at the same domain I epitope as the parental lead but with improved engagement via a T27F mutation and three homologous mutations. βm.1 is a hyperstable, high affinity miniprotein B7-H3 binder with compelling potential for radioligand therapy and multispecific applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42911133/",
+            "journal": "Protein engineering, design & selection : PEDS",
+            "authors": "Windsor, Ulen, Beaudry, et al.",
+            "published": "2026-10-22",
+            "doi": "10.1093/protein/gzag031"
+          },
+          "score": 68,
+          "score_reason": "计算设计超稳定迷你蛋白，蛋白设计相关",
+          "title_cn": "工程化超稳定合成微蛋白靶向 B7-H3",
+          "one_liner": "经结构建模指导的定向进化，获得亲和力 1.2 nM、Tm≥91°C 的超稳定 B7-H3 微蛋白结合体 βm.1。",
+          "key_findings": [
+            "在 40 氨基酸 β⍺ββ 微蛋白支架的 β 折叠与 α 螺旋共 15 个位点做约束性多样化，经酵母展示筛选。",
+            "最优变体 βm.1 亲和力 1.2±0.2 nM，含 4 个 β 折叠突变，Tm,app≥91°C 且可逆折叠。",
+            "βm.1 与亲本结合同一 B7-H3 结构域 I 表位，经 T27F 等突变提升结合。"
+          ],
+          "why_it_matters": "B7-H3 在多种肿瘤中高表达，该微蛋白兼具单数字 nM 亲和力与超高热稳定性，适合放射性配体治疗与多特异性构建，可作为你蛋白工程与靶向治疗方向的模块化候选。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42913427",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "T Cell Receptor-Engineered T Cell Therapy in Solid Tumors: Where We Stand and What's to Come.",
+            "abstract": "T cell receptor-engineered T (TCR-T) cell therapy has emerged as a promising adoptive cellular therapy for solid tumors by enabling recognition of intracellular antigens presented via human leukocyte antigen (HLA) molecules. Unlike chimeric antigen receptor T cell therapy, TCR-T cell therapy targets a broader antigen repertoire, including cancer-testis antigens, neoantigens, and viral antigens. Recent clinical advances, highlighted by the approval of afamitresgene autoleucel in synovial sarcoma, demonstrate meaningful antitumor activity. However, several limitations remain, including HLA restriction, antigen heterogeneity, toxicity related to on-target/off-tumor effects, and mechanisms of resistance such as antigen loss and T cell exhaustion. Advances in antigen selection, gene editing, and synthetic biology are improving both safety and efficacy. Combination strategies and next-generation engineered constructs are expected to overcome current barriers. This review summarizes the biological rationale, clinical evidence, safety considerations, and resistance mechanisms of TCR-T cell therapy in solid tumors and discusses future directions to optimize their therapeutic potential.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42913427/",
+            "journal": "Annual review of medicine",
+            "authors": "Ferriol-Martínez, D'Angelo",
+            "published": "2026-10-23",
+            "doi": "10.1146/annurev-med-042425-051841"
+          },
+          "score": 65,
+          "score_reason": "TCR-T综述，涉及基因编辑与合成生物学",
+          "title_cn": "TCR-T 细胞疗法在实体瘤中的现状与未来",
+          "one_liner": "综述 TCR-T 治疗实体瘤的临床进展、安全性瓶颈与下一代工程化改造方向。",
+          "key_findings": [
+            "TCR-T 可识别 HLA 递呈的胞内抗原，覆盖癌睾抗原、新抗原与病毒抗原，靶点谱广于 CAR-T。",
+            "afamitresgene autoleucel 在滑膜肉瘤获批，是 TCR-T 实体瘤疗效的关键临床验证。",
+            "主要障碍为 HLA 限制、抗原异质性、on-target/off-tumor 毒性及抗原丢失与 T 细胞耗竭。"
+          ],
+          "why_it_matters": "为实体瘤细胞治疗提供可及靶点与临床基准；基因编辑与合成生物学改造正是你所在领域可切入的增效降毒方向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42906022",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A Simulation-Free Topological Basis for Building Compact Koopman Models of Protein Folding.",
+            "abstract": "Unravelling protein-folding mechanisms and kinetics is a key challenge to biochemical science. The variational approach for Markov processes (VAMP) is a powerful tool to build Markov Models that capture key kinetic and structural information despite the conformational complexity and long time scales associated with protein folding. However, VAMP-based Markov models use data from exhaustive molecular dynamics (MD) simulations to construct an underlying basis set describing the \"coarse-grained\" kinetics; the same MD data can be used to predict transition probabilities between partitioned configuration space, enabling the extraction of folding time scales and mechanism. Here, we propose an alternative strategy for Markov model construction that does not rely on extensive, computationally demanding MD data for configuration space partitioning. Specifically, we show that graph-driven sampling (GDS) can generate a complete \"landscape\" of intermediate contact-maps linking unfolded and folded protein conformations; importantly, extensive MD simulations are not required in GDS. When combined with a physically intuitive shortest-contact-hop metric to discriminate different intermediate states, GDS mapping of protein-folding configuration space generates a reliable \"structurally aware\" partitioning for VAMP model construction. To demonstrate this strategy, we show that a GDS-constructed Markov model variationally improves folding time scale estimates for all-atom models of the WW domain protein─and has the additional advantage of easily resolving kinetic traps in the folding landscape that have proven challenging to confirm otherwise. Together, the combination of GDS and VAMP opens a new route toward rapid characterization of protein-folding intermediates and kinetics traps to help address frontier challenges such as protein misfolding, aggregation, and protein design.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42906022/",
+            "journal": "Journal of chemical information and modeling",
+            "authors": "Fakhoury, Sosso, Habershon",
+            "published": "2026-09-28",
+            "doi": "10.1021/acs.jcim.6c01905"
+          },
+          "score": 60,
+          "score_reason": "蛋白折叠Koopman模型，计算蛋白设计相关",
+          "title_cn": "无需模拟的拓扑基：构建蛋白质折叠的紧凑 Koopman 模型",
+          "one_liner": "用图驱动采样替代 MD 模拟构建 VAMP 马尔可夫模型，更准估计折叠时间尺度。",
+          "key_findings": [
+            "图驱动采样（GDS）无需大量 MD 模拟，即可生成连接未折叠与折叠构象的中间接触图全景。",
+            "结合最短接触跳数度量，GDS 为 VAMP 模型提供可靠的结构感知构象空间划分。",
+            "在 WW 结构域全原子模型上，变分改进折叠时间尺度估计，并易解析动力学陷阱。"
+          ],
+          "why_it_matters": "为蛋白质折叠动力学与中间态表征提供低成本计算路线，对合成生物学中的蛋白质设计、错误折叠与聚集研究有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42909248",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A nanoengineered MSC therapeutic for synergistic therapy of lupus nephritis via cfDNA clearance and targeted immunomodulation.",
+            "abstract": "RATIONALE: Lupus nephritis (LN) remains a clinical challenge due to the dose-limiting toxicity of conventional immunosuppressants and the poor engraftment/efficacy of mesenchymal stromal cell (MSC) therapies.\nMETHODS: We report a novel nanoengineered MSC therapeutic for LN by engineering MSCs with a cell-free DNA (cfDNA)-targeting dendritic nanogel. To obtain the hybrid MSC-G3K@T system, we coupled tacrolimus-loaded, disulfide-crosslinked polylysine dendrimer nanogels (G3K@T) onto the MSC membrane. Our system exploits two synergistic targeting strategies: the innate homing capacity of MSCs, plus the specific affinity of the cationic G3K dendrimer for anionic cfDNA, which enriches in inflamed kidneys.\nRESULTS: Our system acts through two coordinated actions: the nanogel responds to the oxidative renal microenvironment and releases tacrolimus in a spatiotemporally controlled manner, thereby suppressing T-cell activation. At the same time, it scavenges cfDNA, blocking TLR-mediated pro-inflammatory signaling. Working together with the inherent immunomodulatory functions of MSCs, this dual-action strategy yielded robust efficacy in MRL/lpr mice, including a significant reversal of T-cell dysregulation, restoration of glomerular integrity, and reduction of proteinuria and IgG deposition.\nCONCLUSIONS: We propose that MSC-G3K@T offers a promising route to augment cell-based therapies, creating a versatile platform that could be used to treat autoimmune and inflammatory diseases.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42909248/",
+            "journal": "Theranostics",
+            "authors": "Tian, Xu, Wang, et al.",
+            "published": "2026-01-01",
+            "doi": "10.7150/thno.136356"
+          },
+          "score": 58,
+          "score_reason": "纳米工程MSC疗法，创新药相关但非核心技术",
+          "title_cn": "纳米工程化间充质干细胞疗法：清除cfDNA并靶向免疫调节协同治疗狼疮性肾炎",
+          "one_liner": "纳米工程化MSC偶联他克莫司纳米凝胶，通过清除cfDNA与靶向免疫调节协同治疗狼疮性肾炎。",
+          "key_findings": [
+            "将载他克莫司的G3K纳米凝胶偶联到MSC膜上，构建MSC-G3K@T杂合系统",
+            "利用MSC归巢与阳离子纳米凝胶对cfDNA的亲和力实现肾脏双靶向",
+            "在MRL/lpr小鼠中逆转T细胞失调、修复肾小球并减少蛋白尿与IgG沉积"
+          ],
+          "why_it_matters": "为细胞治疗与纳米免疫调节结合提供平台思路，对自身免疫病与炎症的合成生物学改造有借鉴价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42911333",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Emerging Strategies for the Preservation of Microorganisms of Biomedical and Environmental Importance.",
+            "abstract": "Microorganisms represent the largest component of global biodiversity and play essential roles in biogeochemical cycling, biomedical innovation, and environmental resilience. However, the majority of microbial diversity remains unexplored or inadequately conserved, which poses a threat to scientific reproducibility, public health, and sustainable bioeconomic development. This review evaluates emerging strategies for conserving microorganisms of biomedical and environmental relevance, emphasizing the preservation of viability, genetic stability, and functional integrity across diverse taxa and microbial communities. Traditional methods, such as cryopreservation and lyophilization, are foundational; they present limitations for extremophiles, strict anaerobes, and complex microbiomes. Recent developments incorporate omics-guided preservation, dry-state technologies, and synthetic biology to improve long-term stability and functional fidelity. Innovations such as next-generation freeze-drying, microbiome-level conservation, and engineered microbial systems enhance storage, transport, and reproducibility while reducing dependence on cold-chain infrastructure. The review further addresses regulatory, ethical, and infrastructural challenges related to global biobanking and equitable access to microbial resources. New frameworks prioritize the conservation of functional microbial assemblages over isolated strains, supporting applications in antimicrobial discovery, advanced biotherapeutics, agriculture, and environmental remediation. Advancing microbial conservation is therefore essential for protecting planetary health, advancing biomedical research, and supporting a resilient, sustainable bioeconomy amid global environmental change.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42911333/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Salazar-Mendoza, Villarruel-Muñoz, Gómez-Godínez, et al.",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5623-5_11"
+          },
+          "score": 55,
+          "score_reason": "微生物保藏与合成生物学相关但非核心",
+          "title_cn": "生物医学与环境重要微生物保藏的新兴策略",
+          "one_liner": "综述微生物保藏新策略：组学指导、干态技术与合成生物学提升长期稳定性与功能保真度。",
+          "key_findings": [
+            "传统冷冻干燥对极端微生物、严格厌氧菌和复杂菌群效果有限",
+            "组学指导保藏、干态技术、下一代冻干与菌群级保藏提升稳定性",
+            "主张从保藏单株转向保藏功能性微生物群落，减少冷链依赖"
+          ],
+          "why_it_matters": "合成生物学依赖可重复的菌株与菌群资源；干态保藏与菌群级保存可降低冷链成本，对深圳菌株库建设与工程菌交付有直接参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:b31d9b7b2f079881",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Treasury proposal would sharply limit US investments in much of China biotech",
+            "abstract": "Draft regulations from the Treasury Department would put broad limits on what types of drug and biotech assets US companies and venture capitalists could invest in and what deals they can make. The",
+            "url": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "美限制对华生物投资直接影响",
+          "title_cn": "美财政部提案拟大幅限制对中国生物技术领域的投资",
+          "one_liner": "美财政部草案拟广泛限制美企及风投投资中国生物技术资产与交易。",
+          "key_findings": [
+            "草案将限制美国公司及风投可投资的中国药物与生物技术资产类型",
+            "同时限制美方与中国生物技术企业可达成的交易范围",
+            "规则仍为草案阶段，具体限制清单与执行细节尚未明确"
+          ],
+          "why_it_matters": "对合成生物学与生物医药跨境合作影响直接：中美BD、融资与管线引进可能受限，需评估合作架构与合规风险。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:6f26ddd2adccaf59",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
+            "abstract": "Thursday night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ...",
+            "url": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "美对华生物科技投资限制影响深远",
+          "title_cn": "美国拟实施COINS法案，或重创中美生物技术交易",
+          "one_liner": "美财政部发布COINS法案拟议规则，或限制美资投资中国敏感技术，生物技术交易面临冲击。",
+          "key_findings": [
+            "美财政部发布拟议规则，落实2025年COINS法案，规范对华敏感技术投资。",
+            "规则范围意外宽泛，可能显著限制美国资本参与中国生物技术交易。",
+            "具体受限技术清单与豁免条款尚待规则文本明确。"
+          ],
+          "why_it_matters": "合成生物学与生物技术跨境融资、BD交易可能受美资审查限制，影响中美合作与管线引进，需关注规则细节与合规边界。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:af99ee0a346c3baa",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+            "abstract": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
+            "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "胰腺癌组合疗法82%缓解率",
+          "title_cn": "Tango公布联合疗法在晚期胰腺癌试验中肿瘤缓解率达82%",
+          "one_liner": "Tango报告其试验性联合疗法在特定晚期胰腺癌患者中肿瘤缓解率达82%。",
+          "key_findings": [
+            "试验性联合疗法在特定类型晚期胰腺癌中肿瘤缓解率达82%",
+            "数据来自Tango Therapeutics公布的临床试验结果",
+            "针对特定亚型晚期胰腺癌患者"
+          ],
+          "why_it_matters": "胰腺癌治疗选择有限，82%缓解率若在更大样本中验证，将影响联合疗法与生物标志物分层策略，值得关注其靶点机制。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c22ed0f8d3ca4fc9",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#ESMO26: Data leak for Merck and Moderna’s therapeutic cancer vaccine",
+            "abstract": "MADRID — Data from a Phase 3 trial of Moderna and Merck’s cancer vaccine showed that it continued to cut patients’ risk of death or their cancer recurring, but fell short of investors’ high hopes. The ...",
+            "url": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "mRNA癌症疫苗III期数据泄露",
+          "title_cn": "ESMO26：默沙东与Moderna治疗性癌症疫苗数据提前泄露",
+          "one_liner": "ESMO26泄露默沙东/Moderna治疗性癌症疫苗III期数据：持续降低死亡或复发风险，但未达投资者高预期。",
+          "key_findings": [
+            "III期数据显示该治疗性癌症疫苗持续降低患者死亡或癌症复发风险。",
+            "疗效未达投资者此前的高预期，具体数据在ESMO26会议前泄露。",
+            "摘要未披露适应症、风险下降幅度及统计显著性等细节。"
+          ],
+          "why_it_matters": "个体化mRNA肿瘤疫苗是合成生物学与核酸药物交叉的重要方向，其III期读出将影响该技术路线的临床与投资判断。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:f3e2e5a82f564d77",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+            "abstract": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
+            "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "mRNA黑色素瘤疫苗降低复发42%",
+          "title_cn": "个性化 mRNA 癌症疫苗降低黑色素瘤复发风险 42%",
+          "one_liner": "个性化 mRNA 癌症疫苗使黑色素瘤患者复发风险较标准治疗降低 42%。",
+          "key_findings": [
+            "与标准治疗相比，个性化 mRNA 癌症疫苗将黑色素瘤复发风险降低 42%",
+            "该结果来自 STAT News 汇总的癌症疫苗相关报道",
+            "同批报道还涉及一款在研胰腺癌药物等动态"
+          ],
+          "why_it_matters": "mRNA 个性化疫苗在黑色素瘤辅助治疗中显示复发获益，对关注 mRNA 肿瘤免疫与合成生物学疫苗设计的研发人员有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:d73a104666c1520c",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Bristol Myers reveals death in MS CAR-T trial, has answer for safety signal in lupus trial",
+            "abstract": "A patient has died in a Bristol Myers Squibb study of autoimmune CAR-T, the same technology that was called into question this summer when both Bristol Myers and Novartis paused similar programs. The patient, who ...",
+            "url": "https://endpoints.news/bristol-myers-reveals-autoimmune-car-t-trial-death-explains-summertime-pause/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "自免CAR-T死亡事件重大安全信号",
+          "title_cn": "BMS 公布多发性硬化 CAR-T 试验一例死亡，并回应狼疮试验安全性信号",
+          "one_liner": "BMS 自体免疫 CAR-T 治疗多发性硬化试验出现一例患者死亡，公司同时回应狼疮试验安全性信号。",
+          "key_findings": [
+            "多发性硬化 CAR-T 试验中一名患者死亡，具体细节未披露。",
+            "该技术与今夏 BMS、诺华暂停的同类项目相同。",
+            "公司称已就狼疮试验中的安全性信号给出应对方案。"
+          ],
+          "why_it_matters": "自体免疫 CAR-T 是细胞治疗向非肿瘤领域扩展的重要方向；死亡事件与安全性信号直接影响该技术路线风险判断，值得跟踪后续披露。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:1b6bd1cd95a262d2",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
+            "abstract": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.",
+            "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "美对华生物投资限制影响大",
+          "title_cn": "美财政部拟大幅限制对中国生物技术领域的投资，但保留许可交易",
+          "one_liner": "美财政部提案拟限制美国对中国生物技术领域的投资，但许可交易仍被允许。",
+          "key_findings": [
+            "提案由美国财政部提出，将限制美资投资中国生物技术企业。",
+            "仍允许美国企业与中国生物技术公司开展许可交易。",
+            "具体限制范围与执行细节尚未在摘要中披露。"
+          ],
+          "why_it_matters": "对合成生物学与创新药研发者而言，跨境资本与许可合作模式可能生变，需关注中美技术授权与融资渠道的合规影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "ema:c6e3cf1b16df37d6",
+            "source": "ema",
+            "source_label": "欧洲药品管理局 EMA",
+            "tier": "official",
+            "title": "EMA recommends authorisation of Rasonque for metastatic pancreatic cancer",
+            "abstract": "Phased review fast tracks assessment of medicine addressing unmet medical need",
+            "url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
+            "journal": "欧洲药品管理局 EMA",
+            "authors": "",
+            "published": "",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "Rasonque获批转移性胰腺癌",
+          "title_cn": "EMA建议批准Rasonque用于转移性胰腺癌",
+          "one_liner": "EMA建议批准Rasonque用于转移性胰腺癌，采用分阶段审评加速评估。",
+          "key_findings": [
+            "EMA建议授权Rasonque用于转移性胰腺癌。",
+            "该药通过分阶段审评机制加速评估。",
+            "针对存在未满足医疗需求的适应症。"
+          ],
+          "why_it_matters": "转移性胰腺癌治疗选择有限，加速审评提示监管对未满足需求的重视；合成生物学背景可关注其作用机制与递送/生产平台。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "pbc:3414b5296af43c62",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "åæ¯è¯ç¹è¿ä¸æ­¥ä¾¿å©å¢å¤éèæºæå¨å¢å å¤æ±å¸åºå¼å±äººæ°å¸è´­å®ä¸å¡ãéçæ¿ç­å©çå¼å¯¼è´§å¸å¸åºå©çä½ç¨çæåãé¶è¡é´éå¤åè´­å©çå®é ä¸å·²æä¸ºå¤®è¡è´§å¸æ¿ç­è°æ§çç®æ å©çãå¤®è¡å ¬å¼å¸åºæä½ä¸»è¦åç§åä¸»è¦æ¿ç­å©ççæéè¿æ¯7å¤©ãå ¬å¼å¸åºéå¤åè´­å©çå°ç¸åºæä¸ºä¸»è¦æ¿ç­å©çãå¼å ¥é¶è¡é´éå¤åè´­å©çç­å¸åºå©çä½ä¸ºæµ®å¨å©çè´·æ¬¾çå®ä»·åºåãå¯ä¸éèæºæåååèªä¸»éæ©é¶è¡é´éå¤åè´­å©çæè´·æ¬¾å¸åºæ¥ä»·å©çä½ä¸ºæµ®å¨å©çè´·æ¬¾å®ä»·åºåã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101918374958873/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-19",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "央行货币政策调控：银行间隔夜回购利率成为主要政策利率",
+          "one_liner": "央行将银行间隔夜回购利率确立为主要政策利率，并推动其成为浮动利率贷款的定价基准。",
+          "key_findings": [
+            "银行间隔夜回购利率事实上已成为央行货币政策调控的目标利率",
+            "公开市场操作主要品种和政策利率期限仍为7天",
+            "可自主选择隔夜回购利率或贷款市场报价利率作为浮动利率贷款定价基准"
+          ],
+          "why_it_matters": "利率基准变化会影响生物医药企业融资、贷款与资金成本，对在深圳做合成生物学创业或产业化的研究者判断融资环境有参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:2baaeb98ca6de8e9",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§æå¤§å©åæ»çãæ¬§å¤®è¡åè¡é¿é©¬éå¥¥Â·å¾·æåä¸è¡ãä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§äºæå¤§å©åæ»çãæ¬§å¤®è¡åè¡é¿é©¬éå¥¥Â·å¾·æåãåæ¹å´ç»å ¨çç»æµå½¢å¿ãéèå¸åºå¨æãä¸­å½å®è§ç»æµæ¿ç­ç­è®®é¢è¿è¡äºäº¤æµãä¸­å½äººæ°é¶è¡å¯è¡é¿å®£æè½åå ä¼è§ãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102319181359636/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行行长潘功胜会见意大利前总理、欧央行前行长德拉吉",
+          "one_liner": "央行行长潘功胜与德拉吉就全球经济、金融市场及中国宏观政策交换意见",
+          "key_findings": [
+            "会见围绕全球经济形势与金融市场动态展开交流",
+            "双方讨论了中国宏观经济政策相关议题",
+            "央行副行长宣昌能参加会见"
+          ],
+          "why_it_matters": "属高层经济金融对话，不涉及生物技术或监管规则，对合成生物学研究方向无直接影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:1593bd6471fe93d7",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å®äº2026å¹´10æ30æ¥åè¡2027ççç«è´µéå±çºªå¿µå¸ä¸å¥ãå ¶ä¸­çç«æ®å¶è´µéå±çºªå¿µå¸7æãçç«ç²¾å¶è´µéå±çºªå¿µå¸8æãå¹¶åé¢é¢ãééåæè²ãäºãçºªå¿µå¸è§æ ¼ååè¡éï¼ä¸ï¼30å åå½¢éè´¨çºªå¿µå¸ä¸ºæ®å¶å¸ãæè²99.9%ãé¢é¢100å ãç´å¾18æ¯«ç±³ãï¼äºï¼1å åå½¢éè´¨çºªå¿µå¸ä¸ºæ®å¶å¸ãï¼ä¸ï¼100å åå½¢éè´¨çºªå¿µå¸ä¸ºæ®å¶å¸ãæå¤§åè¡é10000æãï¼åä¸ï¼50å åå½¢éè´¨çºªå¿µå¸ä¸ºç²¾å¶å¸ãå«çº¯é50å ãä¸­å½éå¸ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102311181835420/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行发行2027版熊猫贵金属纪念币公告",
+          "one_liner": "央行定于2026年10月30日发行2027版熊猫贵金属纪念币一套，含普制币7枚、精制币8枚。",
+          "key_findings": [
+            "发行时间为2026年10月30日，普制币7枚、精制币8枚，并刊面额、重量及成色。",
+            "普制币含30克圆形金质（成色99.9%、面额100元、直径18毫米）等规格。",
+            "精制币含50克圆形金质（含纯金50克）等规格；100克圆形银质普制币最大发行量10000枚。"
+          ],
+          "why_it_matters": "该公告属贵金属纪念币发行，与合成生物学研究无直接关联，仅作一般信息了解即可。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:cfaea3f7f43887dc",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å¯è¡é¿å®£æè½ä¼è§æ³å½è´¢æ¿æ»ç½²ç½²é¿æèãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102318114323169/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行副行长宣昌能会见法国财政总署署长杜蒙",
+          "one_liner": "央行副行长宣昌能会见法国财政总署署长杜蒙，属双边高层会晤。",
+          "key_findings": [
+            "会见双方为中国人民银行副行长宣昌能与法国财政总署署长杜蒙。",
+            "公告由中国人民银行发布，发布时间为2026年10月23日。",
+            "摘要未披露会谈具体议题与成果。"
+          ],
+          "why_it_matters": "中法财金高层对话或涉及跨境金融、生物经济投融资环境，对合成生物学企业出海欧洲的监管与资金渠道有间接参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:96726ba6e3376621",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§äºå½¼å¾æ£®å½é ç»æµç ç©¶æé¿äºå½Â·æ³¢æ£®ãè·å °å¤®è¡åè¡é¿å ææ¯Â·è¯ºç¹ãé©å½å¤®è¡åè¡é¿ææéãå½é è´§å¸åºéç»ç»åé¦å¸­ç»æµå­¦å®¶ç®åå°-å¥¥å©ç»´è¶Â·å¤å °æ²ãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102315180632815/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行行长潘功胜会见彼得森国际经济研究所所长及多位前央行行长、IMF前首席经济学家",
+          "one_liner": "央行行长潘功胜会见多位国际经济学界人士，就经济金融议题进行交流。",
+          "key_findings": [
+            "会见对象包括彼得森国际经济研究所所长亚当·波森",
+            "还包括荷兰央行前行长诺特、韩国央行前行长李昌镛",
+            "IMF前首席经济学家古兰沙也在会见名单中"
+          ],
+          "why_it_matters": "属央行对外交流动态，未涉及具体政策或监管变化，对合成生物学研究方向的直接相关性低。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:e5ead960fb5ad74f",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å®äº2026å¹´10æ22æ¥åè¡ä¸­å½å·¥åçº¢åé¿å¾èå©90å¨å¹´éé¶çºªå¿µå¸ä¸å¥ãé¶è´¨çºªå¿µå¸1æãä¸ãçºªå¿µå¸å¾æ¡ï¼ä¸ï¼æ­£é¢å¾æ¡ãè¯¥å¥éé¶çºªå¿µå¸æ­£é¢å¾æ¡åä¸ºä¸­åäººæ°å ±åå½å½å¾½ãå¹¶åãä¸­å½å·¥åçº¢åé¿å¾èå©90å¨å¹´ãå­æ ·åé¢é¢ã30å åå½¢é¶è´¨çºªå¿µå¸èé¢å¾æ¡ä¸ºçº¢åé¿å¾å°éåéå¡ãå»¶å®å®å¡å±±ç­ãäºãçºªå¿µå¸è§æ ¼ååè¡é8å åå½¢éè´¨çºªå¿µå¸ä¸ºç²¾å¶å¸ãæè²99.9%ã30å åå½¢é¶è´¨çºªå¿µå¸ä¸ºç²¾å¶å¸ãå«çº¯é¶30å ãä¸­å½éå¸ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102116081755220/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-21",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行发行中国工农红军长征胜利90周年金银纪念币",
+          "one_liner": "央行定于2026年10月22日发行长征胜利90周年金银纪念币一套，含1枚30克银币。",
+          "key_findings": [
+            "发行一套金银纪念币，其中银质纪念币1枚，为30克圆形精制币，含纯银30克。",
+            "纪念币正面均为国徽并刊国名、年号；银币背面为红军长征到陕北雕塑、延安宝塔山等图案。",
+            "金币为8克圆形精制币，成色99.9%，由中国人民银行发行。"
+          ],
+          "why_it_matters": "该公告属于纪念币发行，与合成生物学研究、产业及监管无直接关联，仅可作一般信息了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:42216f2e9fc2a3ed",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å¯è¡é¿å®£æè½ä¼è§å·´è¥¿å½åºç§ä¹¦ä¸¹å°¼å°Â·è±äºå°ã2026å¹´10æ19æ¥ãä¸­å½äººæ°é¶è¡å¯è¡é¿å®£æè½ä¼è§æ¥è®¿çå·´è¥¿å½åºç§ä¹¦ä¸¹å°¼å°Â·è±äºå°ä¸è¡ãåæ¹å´ç»å·´è¥¿åè¡ä¸»æçç«åºãä¸­å·´éèå¸åºäºèäºéç­åè¾¹éèåä½è¿è¡äºäº¤æµã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102015385657734/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-20",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行副行长宣昌能会见巴西国库秘书丹尼尔·莱亚尔",
+          "one_liner": "中巴央行就巴西发行主权熊猫债及两国金融市场互联互通等金融合作进行交流。",
+          "key_findings": [
+            "2026年10月19日，宣昌能会见巴西国库秘书丹尼尔·莱亚尔一行。",
+            "双方讨论巴西发行主权熊猫债相关事宜。",
+            "双方就中巴金融市场互联互通等双边金融合作交换意见。"
+          ],
+          "why_it_matters": "熊猫债与金融市场互联互通涉及跨境融资与资本流动，对合成生物学企业海外融资、跨境合作及外资进入中国生物科技领域有间接参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:d28020e17e953fbf",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§äºæ¡¥æ°´æèµå ¬å¸åå§äººçÂ·è¾¾å©æ¬§ãåæ¹å´ç»å ¨çç»æµéèå½¢å¿ãä¸­å½å®è§ç»æµæ¿ç­ç­è®®é¢è¿è¡äºäº¤æµãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102010021052538/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-20",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧",
+          "one_liner": "央行行长潘功胜会见桥水创始人达利欧，就全球经济金融形势与中国宏观政策交换意见。",
+          "key_findings": [
+            "会见围绕全球经济金融形势展开交流",
+            "双方讨论了中国宏观经济政策相关议题",
+            "公告未披露具体政策调整或新措施"
+          ],
+          "why_it_matters": "属宏观金融沟通信号，与合成生物学研发、监管及产业政策无直接关联，对实验室决策影响有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:846ca3149106aa0f",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "æ·±åå¤æ±é¢åå¼æ¾ãæ´å¥½æå¡æ°åå±æ ¼å±ââä¸­å½äººæ°é¶è¡å¯è¡é¿ãå½å®¶å¤æ±ç®¡çå±å±é¿æ±é¹¤æ°å¨2026éèè¡è®ºåå¹´ä¼ä¸çä¸»é¢æ¼è®²ãæå´ç»æ·±åå¤æ±é¢åå¼æ¾ãæ´å¥½æå¡æ°åå±æ ¼å±ãä¸ãå¤æ±ç®¡çæ¹é©æå¡ä¸­å½èå ¥å½é ç»æµå¾ªç¯æ¹é©å¼æ¾ä»¥æ¥ãå¤æ±ç®¡çæ¹é©éæ­¥æ·±åãæå½å¤æ±é¢åå¼æ¾æ¿è¯ºå§ç»å¦ä¸ãäºãæ·±åå¤æ±é¢åå¼æ¾ãä¹ä½ç°äºæå½ä¼ä¸åä¸å½é åä½ä¸ç«äºãé ç½®å ¨çèµæºçè½åæç»­æåãç»ç­¹æ¯æä¼ä¸é«æé ç½®å¢å å¤èµéãå¼å±è·¨å¢ç»è¥ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101919123872662/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-19",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "深化外汇领域开放，更好服务新发展格局——朱鹤新在2026金融街论坛年会上的主题演讲",
+          "one_liner": "央行副行长、外汇局局长朱鹤新在2026金融街论坛年会上阐述深化外汇领域开放的政策方向。",
+          "key_findings": [
+            "外汇管理改革持续深化，支持企业高效配置境内外资金、开展跨境经营",
+            "我国外汇领域开放承诺始终如一，服务国内国际经济循环",
+            "提升企业参与国际合作与竞争、配置全球资源的能力"
+          ],
+          "why_it_matters": "对合成生物学研发企业而言，外汇开放便利跨境采购试剂设备、海外合作与融资，涉及跨境资金安排时可关注后续细则。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:d7a3f0f6d011e499",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡ç­å¤é¨é¨å°åãå ³äºéèæ¯æå»ºè®¾åäº¬ï¼äº¬æ´¥åï¼ãä¸æµ·ï¼é¿ä¸è§ï¼ãç²¤æ¸¯æ¾³å¤§æ¹¾åºå½é ç§æåæ°ä¸­å¿çæå¯¼æè§ããæ¯æåæ¨å¨äº¬æ´¥åãé¿ä¸è§ãç²¤æ¸¯æ¾³å¤§æ¹¾åºæé ç§æéèåååå±é«å°ãæ¯æç§æåæ°å ¨é¾æ¡éèæå¡ä½ç³»æ´å å¥å ¨ãä»¥é«è´¨ééèæå¡æåæ¯æå½é ç§æåæ°ä¸­å¿å»ºè®¾ãæå»ºä¸å½é ç§æåæ°ä¸­å¿ç¸éåºçç§æéèæå¡ä½ç³»ãäºãæ¿ç­å¼é¢æ¯æå½é ç§æåæ°ä¸­å¿æ ¸å¿åè½å»ºè®¾ï¼ä¸ï¼å»ºç«èµéä¿éæºå¶ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026101916082228353/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-19",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "央行公告，常规关注",
+          "title_cn": "金融支持北京、上海、粤港澳大湾区国际科技创新中心建设的指导意见",
+          "one_liner": "央行等多部门发文，以科技金融支持三大国际科技创新中心建设。",
+          "key_findings": [
+            "支持京津冀、长三角、粤港澳打造科技金融协同发展高地。",
+            "要求健全科技创新全链条金融服务体系。",
+            "建立资金保障机制，支撑核心功能区建设。"
+          ],
+          "why_it_matters": "深圳属粤港澳大湾区，该意见影响本地合成生物学企业的融资渠道与科技金融政策环境，值得关注资金保障与全链条服务落地。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:8d6a4fe548901c01",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Gemini 4 Argon: our next era of frontier intelligence",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-09-30",
+            "doi": null
+          },
+          "score": 90,
+          "score_reason": "Gemini 4新时代前沿智能，里程碑",
+          "title_cn": "Gemini 4 Argon：前沿智能的新纪元",
+          "one_liner": "Google DeepMind 发布 Gemini 4 Argon，宣称开启前沿智能新纪元。",
+          "key_findings": [
+            "Google DeepMind 推出新一代前沿模型 Gemini 4 Argon",
+            "官方定位为“下一个前沿智能时代”，摘要未披露参数与基准数据",
+            "具体能力、可用性与发布时间细节尚未公开"
+          ],
+          "why_it_matters": "前沿大模型迭代可能提升文献挖掘、实验设计与序列分析的自动化水平，合成生物学团队可关注其科研工具链集成。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:fa170ce8a5ccc7bd",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Gemini 4 Argon: Built to solve your hardest problems",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-13",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "Gemini 4旗舰发布，必须知道",
+          "title_cn": "Gemini 4 Argon：为攻克最难题而打造",
+          "one_liner": "Google DeepMind 发布 Gemini 4 Argon，宣称面向最困难问题求解。",
+          "key_findings": [
+            "Google DeepMind 发布新一代模型 Gemini 4 Argon",
+            "官方定位为攻克最困难问题，未披露具体能力数据",
+            "摘要为空，产品细节与评测结果尚不明确"
+          ],
+          "why_it_matters": "前沿模型能力升级可能影响合成生物学中的文献挖掘、序列设计与实验方案推理，但需待具体基准数据再评估。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:42f1c245f492d3d1",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Developing Gemini 4 Argon responsibly and safely",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-13",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "Gemini 4安全开发，重大模型发布",
+          "title_cn": "负责任且安全地开发 Gemini 4 Argon",
+          "one_liner": "Google DeepMind 发布 Gemini 4 Argon，强调以负责任、安全的方式开发该模型。",
+          "key_findings": [
+            "Google DeepMind 推出新一代模型 Gemini 4 Argon",
+            "官方强调开发过程遵循负责任与安全原则",
+            "摘要未披露模型能力、参数或评测数据"
+          ],
+          "why_it_matters": "合成生物学研究日益依赖大模型进行文献挖掘与实验设计，了解前沿模型的安全策略有助于评估其在科研流程中的可用性与合规风险。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:c5fa622132a0de4e",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Introducing SynthID Bio",
+            "abstract": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+            "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-09-30",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "AI生成蛋白水印，合成生物高度相关",
+          "title_cn": "SynthID Bio：为AI生成蛋白质嵌入水印并保持生物功能",
+          "one_liner": "Google DeepMind 推出 SynthID Bio，可在不破坏生物功能的前提下为 AI 生成的蛋白质添加水印。",
+          "key_findings": [
+            "SynthID Bio 是概念验证，用于给 AI 生成的蛋白质嵌入水印",
+            "水印不损害蛋白质的生物功能",
+            "由 Google DeepMind 发布，面向 AI 生成生物分子的溯源"
+          ],
+          "why_it_matters": "为 AI 设计蛋白提供溯源与防伪手段，对合成生物学研发中的序列来源追踪、生物安全和合规管理有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:e1a17fbe2fe83333",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Gemini 4 Argon for Robotics",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-13",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "Gemini 4机器人方向，重要发布",
+          "title_cn": "Gemini 4 Argon：面向机器人领域的模型",
+          "one_liner": "Google DeepMind 发布面向机器人领域的 Gemini 4 Argon 模型。",
+          "key_findings": [
+            "Google DeepMind 博客发布 Gemini 4 Argon，定位机器人应用。",
+            "原文无摘要，具体能力、参数与数据未披露。",
+            "发布方为 Google DeepMind，属其 Gemini 系列新版本。"
+          ],
+          "why_it_matters": "机器人基础模型进展可能影响实验室自动化与高通量实验平台的智能化，但当前信息有限，需看后续技术细节。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:707234813354f93d",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "OpenAI models are coming to Google Cloud",
+            "abstract": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+            "url": "https://openai.com/index/openai-models-google-cloud",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-21",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "OpenAI模型上谷歌云，重大生态变化",
+          "title_cn": "OpenAI 模型将登陆 Google Cloud",
+          "one_liner": "OpenAI 前沿模型与 Codex 工作流将接入 Google Cloud 的 Gemini Model Garden。",
+          "key_findings": [
+            "OpenAI 前沿模型将通过 Gemini Model Garden 提供，并上架 Google Cloud Marketplace。",
+            "Codex 工作流一并接入，企业可在 Google Cloud 内调用 OpenAI 能力。",
+            "云厂商与模型厂商的竞合关系进一步交织，企业采购渠道更集中。"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，模型采购与合规路径可能更简化，可在同一云平台调用 OpenAI 与 Gemini 生态，降低多平台集成成本。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:7d7feeece49366f6",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+            "abstract": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+            "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "Cosmos世界模型工具更新",
+          "title_cn": "NVIDIA Cosmos 扩展世界模型训练、评估与部署工具",
+          "one_liner": "NVIDIA 扩展 Cosmos 平台，新增训练工具、仿真检查点与数据工厂蓝图，助力物理 AI 世界模型开发。",
+          "key_findings": [
+            "新增训练工具、仿真检查点与 Cosmos Data Factory 蓝图，覆盖世界模型开发全流程。",
+            "Cosmos 平台在六个开放模型排行榜中均位列前五。",
+            "面向物理 AI 系统，帮助开发者理解并模拟真实世界。"
+          ],
+          "why_it_matters": "世界模型是物理 AI 与仿真驱动设计的关键基础设施；合成生物学中的自动化实验与生物制造流程建模或可借鉴其仿真与数据生成思路。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:0970685988e40ee9",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Introducing Gemini 3.8 Live with Live Avatar",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-09-24",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "Gemini实时多模态发布，有明确价值",
+          "title_cn": "Gemini 3.8 Live 发布，新增实时虚拟形象功能",
+          "one_liner": "Google DeepMind 推出 Gemini 3.8 Live，支持实时虚拟形象交互。",
+          "key_findings": [
+            "Gemini 3.8 Live 为 DeepMind 新发布的实时交互版本",
+            "新增 Live Avatar 实时虚拟形象功能",
+            "摘要缺失，具体性能与产品细节未披露"
+          ],
+          "why_it_matters": "实时多模态与虚拟形象可加速实验室智能助手、远程协作与科研演示，但与合成生物学湿实验流程的直接关联有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:4912996ff66ce44a",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+            "abstract": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+            "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "英伟达AIOps平台，AI工厂运维",
+          "title_cn": "NVIDIA 推出 Minerva：面向 AI 工厂的端到端可观测性平台",
+          "one_liner": "NVIDIA 发布 AIOps 平台 Minerva，整合基础设施与 AI 负载遥测，实现 AI 工厂端到端可观测。",
+          "key_findings": [
+            "Minerva 汇聚基础设施与 AI 工作负载遥测数据，统一监控 AI 工厂运行状态。",
+            "平台内置专用 AI 模型，将遥测数据转化为及时、可执行的洞察。",
+            "目标是更早发现问题，保障 AI 工厂持续高效产出。"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖 AI 模型与自动化实验平台，Minerva 类可观测工具可帮助团队监控算力与模型运行、提前排障，保障干湿实验闭环稳定。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:bf211d23154acfab",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-06",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "开源多模态嵌入模型，有明确价值",
+          "title_cn": "EmbeddingGemma 2：开源轻量级多模态嵌入模型",
+          "one_liner": "Google DeepMind 发布开源轻量级多模态嵌入模型 EmbeddingGemma 2。",
+          "key_findings": [
+            "定位为开源、轻量级的多模态嵌入模型",
+            "由 Google DeepMind 发布，具体参数与评测未披露",
+            "可用于多模态检索与表征等下游任务"
+          ],
+          "why_it_matters": "轻量开源嵌入模型便于本地部署与二次开发，合成生物学中可用于文献、序列与实验图像的多模态检索与知识库构建。",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
