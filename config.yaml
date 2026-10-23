@@ -29,9 +29,9 @@ fetch:
       - genetic circuit
 
 llm:
-  base_url: ""             # 留空 = OpenAI 官方；用兼容服务时填，如 https://api.deepseek.com
-  score_model: gpt-4o-mini   # 打分筛选层，用便宜的模型；可在 openai.com/api/pricing 查看并更换最新型号
-  card_model: gpt-4o         # 卡片生成层，用质量好的模型
+  base_url: https://api.deepseek.com  # DeepSeek 官方接口（OpenAI 兼容）；用回 OpenAI 官方则留空
+  score_model: deepseek-chat   # 打分筛选层
+  card_model: deepseek-chat    # 卡片生成层
   max_score_items: 120       # 每天最多送入打分的条数
   top_n: 20                  # 每天最终生成卡片的条数
 
