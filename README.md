@@ -28,6 +28,25 @@ export OPENAI_API_KEY=sk-...
 python run.py
 ```
 
+### 获取 API key
+
+**方案 A · OpenAI 官方**：platform.openai.com 注册 → 左栏 API keys → Create new secret key → Billing 充值 $10。注意：需要国际信用卡，且服务区域不含中国大陆。
+
+**方案 B · 国内 OpenAI 兼容服务**（支付方便，推荐）：以 DeepSeek 为例：
+
+1. platform.deepseek.com 注册并充值（支付宝/微信）
+2. 创建 API key
+3. 修改 `config.yaml`：
+   ```yaml
+   llm:
+     base_url: https://api.deepseek.com
+     score_model: deepseek-chat
+     card_model: deepseek-chat
+   ```
+4. GitHub Secret `OPENAI_API_KEY` 里直接填 DeepSeek 的 key（变量名不用改，代码只认这个环境变量）
+
+智谱 GLM、Kimi 等同理：`base_url` 分别填 `https://open.bigmodel.cn/api/paas/v4`、`https://api.moonshot.cn/v1`，模型名查各家文档。
+
 ### 部署到 GitHub Pages（一次性配置）
 
 1. 在 GitHub 上创建公开仓库（如 `daily-brief`），把本目录推送上去：

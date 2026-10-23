@@ -32,10 +32,11 @@ CARD_SYSTEM = """你是科研阅读卡片生成器。为给定文献生成一张
 ABSTRACT_LIMIT = 1200
 
 
-def _client():
+def _client(cfg: dict):
     from openai import OpenAI
 
-    return OpenAI()  # 从 OPENAI_API_KEY 环境变量读取
+    base_url = (cfg.get("llm") or {}).get("base_url") or None
+    return OpenAI(base_url=base_url)  # key 从 OPENAI_API_KEY 环境变量读取
 
 
 def _chat_json(client, model: str, system: str, user: str, retries: int = 3) -> dict:
@@ -65,7 +66,7 @@ def score_items(items: list[Item], cfg: dict, mock: bool = False) -> dict[str, t
     if mock:
         return _mock_scores(items, cfg)
 
-    client = _client()
+    client = _client(cfg)
     model = cfg["llm"]["score_model"]
     batch_size = 20
     scores: dict[str, tuple[int, str]] = {}
@@ -109,7 +110,7 @@ def generate_card(item: Item, cfg: dict, mock: bool = False) -> dict:
     if mock:
         return _mock_card(item)
 
-    client = _client()
+    client = _client(cfg)
     model = cfg["llm"]["card_model"]
     payload = {
         "title": item.title,
