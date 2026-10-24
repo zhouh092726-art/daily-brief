@@ -1,0 +1,1015 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T07:10:26.460629+08:00",
+  "fetched_ids": [
+    "pubmed:42904109",
+    "pubmed:42911333",
+    "pubmed:42911324",
+    "pubmed:42914453",
+    "pubmed:42914413",
+    "pubmed:42914366",
+    "pubmed:42914293",
+    "pubmed:42910295",
+    "pubmed:42903656",
+    "pubmed:42907037",
+    "pubmed:42919565",
+    "pubmed:42912437",
+    "pubmed:42909945",
+    "pubmed:42905563",
+    "pubmed:42920259",
+    "pubmed:42919635",
+    "pubmed:42918582",
+    "pubmed:42918359",
+    "pubmed:42913456",
+    "pubmed:42913427",
+    "pubmed:42913419",
+    "pubmed:42909840",
+    "pubmed:42909839",
+    "pubmed:42909796",
+    "pubmed:42909627",
+    "pubmed:42909530",
+    "pubmed:42918821",
+    "pubmed:42914020",
+    "pubmed:42913642",
+    "pubmed:42913640",
+    "pubmed:42911406",
+    "pubmed:42911133",
+    "pubmed:42908122",
+    "pubmed:42907516",
+    "pubmed:42907418",
+    "pubmed:42906913",
+    "pubmed:42906865",
+    "pubmed:42906834",
+    "pubmed:42906830",
+    "pubmed:42906787",
+    "pubmed:42905931",
+    "pubmed:42905641",
+    "pubmed:42905579",
+    "pubmed:42905337",
+    "pubmed:42905206",
+    "pubmed:42905185",
+    "pubmed:42905051",
+    "pubmed:42904998",
+    "pubmed:42904638",
+    "pubmed:42904559",
+    "pubmed:42914797",
+    "pubmed:42904125",
+    "pubmed:42902961",
+    "pubmed:42902833",
+    "pubmed:42902070",
+    "pubmed:42902027",
+    "pubmed:42906323",
+    "pubmed:42916610",
+    "pubmed:42916604",
+    "pubmed:42916600",
+    "pubmed:42916598",
+    "pubmed:42916595",
+    "pubmed:42916594",
+    "pubmed:42916593",
+    "pubmed:42916591",
+    "pubmed:42916584",
+    "pubmed:42916581",
+    "pubmed:42916580",
+    "pubmed:42916578",
+    "pubmed:42913075",
+    "pubmed:42913609",
+    "pubmed:42913571",
+    "pubmed:42913210",
+    "pubmed:42917268",
+    "pubmed:42912594",
+    "pubmed:42920686",
+    "pubmed:42903822",
+    "pubmed:42916734",
+    "pubmed:42916680",
+    "pubmed:42917134",
+    "pubmed:42903835",
+    "pubmed:42903612",
+    "pubmed:42903311",
+    "pubmed:42910275",
+    "pubmed:42905944",
+    "pubmed:42904570",
+    "pubmed:42904563",
+    "pubmed:42903648",
+    "pubmed:42902099",
+    "pubmed:42915882",
+    "pubmed:42915878",
+    "pubmed:42915857",
+    "pubmed:42915753",
+    "pubmed:42906022",
+    "pubmed:42918798",
+    "pubmed:42916553",
+    "pubmed:42916095",
+    "biorxiv:10.64898/2026.03.10.710955",
+    "biorxiv:10.64898/2026.03.17.712426",
+    "rss:72ac41ef6fe9a6e5",
+    "rss:2b0df1e5ef26f1fe",
+    "rss:93270cf92b4bb94f",
+    "rss:e84fafa3698bbf2d",
+    "rss:b4993eb02543d9f0",
+    "rss:9b86e169dcf61b1d",
+    "rss:a15aef6f0d74514e",
+    "rss:d73a104666c1520c",
+    "rss:e65076367f702c70",
+    "rss:6f26ddd2adccaf59",
+    "rss:2dcb238a492fb7ca",
+    "rss:3da921e8fc0aacd5",
+    "rss:9b409cf02eaed5f8",
+    "rss:06ea66a4482410b8",
+    "rss:c1e4877e856ae340",
+    "rss:f7e396e7d6b30718",
+    "rss:abdc0b13f8ad9023",
+    "rss:b31d9b7b2f079881",
+    "rss:359e4a1025a8b6cc",
+    "rss:c22ed0f8d3ca4fc9",
+    "rss:762134522981ca4a",
+    "rss:d0f9385923b3d696",
+    "rss:4781de80c7b5a26f",
+    "rss:1b6bd1cd95a262d2",
+    "rss:f3e2e5a82f564d77",
+    "rss:ccceb510f8f4321f",
+    "rss:af99ee0a346c3baa",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:98a124842e0b2b40",
+    "ema:37bec1b8ee2405a4",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "ema:f85cd385d61c8305",
+    "ema:63edc587c45a99fd",
+    "pbc:3414b5296af43c62",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "pbc:d28020e17e953fbf",
+    "pbc:846ca3149106aa0f",
+    "pbc:d7a3f0f6d011e499",
+    "pbc:7ada5bfe7b29e971",
+    "pbc:66e8f10c63444589",
+    "pbc:55dfc2f3ec86c401",
+    "pbc:af83bd164d309977",
+    "pbc:15c4eefed1e9e23e",
+    "nhsa:51378e807753c144",
+    "nhsa:808a9c1f84c2527b",
+    "nhsa:c9648e2423ca5272",
+    "nhsa:ad62fc944f6784fc",
+    "nhsa:19354a35edadd472",
+    "nhsa:824201238bf98766",
+    "nhsa:6152c04bcbb46a19",
+    "nhsa:099fa202a5d2770f",
+    "nhsa:cddde847bfbaf9b3",
+    "nhsa:f27ad3d5db02a1a3",
+    "rss:5a60bcdb05ed68d5",
+    "rss:759fe46ed90dc751",
+    "rss:39c8c1e08705efe6",
+    "rss:139683c4cb22904f",
+    "rss:f4d7439583ad055d",
+    "rss:6cec5c61df6514b1",
+    "rss:9df610225313c51c",
+    "rss:432aef26f737a04e",
+    "rss:707234813354f93d",
+    "rss:6d72427cd4b8ad1a",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:8d6a4fe548901c01",
+    "rss:c5fa622132a0de4e",
+    "rss:0970685988e40ee9",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:f07f836d67713430",
+    "rss:7d7feeece49366f6",
+    "rss:3bd519ca48113160",
+    "rss:1e6ff213db51b557",
+    "rss:bce5438166d3bb69",
+    "rss:8566b59c09c63065",
+    "rss:0d98df3c791f1d1a",
+    "rss:7498d32217e5f765",
+    "rss:33319e5604b85f07",
+    "rss:11d6634683578e84",
+    "rss:b7fdd8418b683394",
+    "rss:89bb2e1625948c3a",
+    "rss:434b46acd754e4d3",
+    "rss:9ec0ac3b9a5bced5"
+  ],
+  "stats": {
+    "fetched": 198,
+    "new_items": 57,
+    "kept": 30,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42916598",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Meeting Proceedings from the 5th Minimal Cell WorkshopLife at Its Simplest Foundations in Minimal Cells.",
+            "abstract": "The fifth annual virtual minimal cell workshop, hosted by the J. Craig Venter Institute (JCVI), brought together an international community of researchers from academic, industrial, and government laboratories. The 2025 meeting featured 30 talks focused on using minimal bacterial cells to probe the fundamental principles of life, develop new construction strategies, and advance predictive frameworks for cellular behavior. Most of the presentations centered on the JCVI minimal bacterial cells JCVI-syn3.0, JCVI-syn3A, and JCVI-syn3B. Multiple talks addressed the persistent set of essential genes with unknown or partially defined functions, leveraging advanced imaging, computational modeling, and experimental evolution to uncover their cellular roles. Studies of protein moonlighting, membrane biophysics, cell division, metabolism, and aging demonstrated how minimal cells expose fundamental biological constraints often obscured in more complex organisms. Whole-cell computational models increasingly reproduce growth, division, metabolism, gene regulation, and macromolecular assembly. Presentations also highlighted new approaches to whole-genome transplantation, development of alternative minimal genome chassis, synthetic cell assembly from non-living components, chromosome-scale minimization in eukaryotes, and conceptual agricultural and prebiotic systems. Collectively, these efforts position minimal cells as powerful platforms for understanding, building, and predicting living systems.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916598/",
+            "journal": "ACS synthetic biology",
+            "authors": "Seidel, Araujo, Estiri, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00454"
+          },
+          "score": 85,
+          "score_reason": "最小细胞研讨会，核心领域",
+          "title_cn": "第五届最小细胞研讨会会议纪要：最小细胞中生命的最简基础",
+          "one_liner": "第五届最小细胞研讨会综述了以JCVI-syn3系列为平台探索生命基本规律、构建策略与预测模型的最新进展。",
+          "key_findings": [
+            "30场报告聚焦JCVI-syn3.0/3A/3B，重点攻关功能未知的必需基因",
+            "全细胞计算模型已能再现生长、分裂、代谢与基因调控",
+            "涵盖全基因组移植、替代底盘、无生命组分组装合成细胞等新策略"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，该会议梳理了最小基因组、全细胞建模与合成细胞构建的前沿，可为底盘设计与基因组精简提供方向参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42913640",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Programmable apoptosis circuits enable subtractive engineering of stem cell-derived organoids and embryoids.",
+            "abstract": "Pluripotent stem cell-derived multicellular systems provide a promising platform for studying development and disease. However, they do not faithfully mirror their in vivo counterparts due to the presence of aberrant cells. Similarly, aberrant cell types emerge during tissue development in multicellular organisms but are effectively removed via proofreading mechanisms that often exploit apoptosis. Yet, the design and engineering of such processes are notably absent from current approaches for building stem cell-derived multicellular systems. We address this gap by introducing a \"subtractive multicellular engineering\" approach, using genetic circuits that integrate logic-gated computing and synthetic apoptosis. Through this approach, we enhance tissue maturity in human pluripotent stem cell-derived liver organoids. Additionally, we demonstrate the versatility of this approach in a human post-implantation embryo model, where it improves pro-amniotic cavity development, a key morphogenetic feature. Our results establish a framework for building tissues in vitro via controlled elimination of aberrant cells during morphogenesis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42913640/",
+            "journal": "Cell stem cell",
+            "authors": "Taheri, Xiang, Weng, et al.",
+            "published": "2026-10-22",
+            "doi": "10.1016/j.stem.2026.09.015"
+          },
+          "score": 82,
+          "score_reason": "可编程凋亡基因线路工程类器官",
+          "title_cn": "可编程凋亡回路实现干细胞来源类器官与类胚胎的减法工程",
+          "one_liner": "用逻辑门控合成凋亡回路清除异常细胞，提升类器官与类胚胎成熟度。",
+          "key_findings": [
+            "构建整合逻辑门计算与合成凋亡的基因回路，选择性清除异常细胞",
+            "在人源肝类器官中应用后提升组织成熟度",
+            "在植入后胚胎模型中改善前羊膜腔发育"
+          ],
+          "why_it_matters": "为类器官/类胚胎提供可编程的细胞纯化工具，直接关联合成生物学与干细胞工程，可提升体外模型保真度。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42916578",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineered Orthogonal Translation Systems from Metagenomic Libraries Expand the Genetic Code.",
+            "abstract": "Genetic code expansion with noncanonical amino acids (ncAAs) opens new opportunities for the design and engineering of proteins by broadening their chemical repertoire. Unfortunately, ncAA incorporation into proteins is limited both by a small collection of orthogonal aminoacyl-tRNA synthetases (aaRSs) and tRNAs and by low-throughput methods to discover them. Here, we report the discovery, characterization, and engineering of a UGA suppressing orthogonal translation system mined from metagenomic data. We develop an integrated computational and experimental pipeline based on cell-free gene expression to screen the orthogonality of >200 tRNAs, test >1,250 combinations of aaRS/tRNA pairs, and identify the AP1 TrpRS/tRNATrpUCA as an orthogonal pair that natively encodes tryptophan at the UGA codon. We demonstrate that the AP1 TrpRS/tRNATrpUCA is highly active in cell-free and cellular contexts. We then use Ochre, a genomically recoded Escherichia coli strain that lacks UAG and UGA codons, to engineer an AP1 TrpRS variant capable of 5-hydroxytryptophan incorporation at an open UGA codon. We anticipate that our strategy of integrating metagenomic bioprospecting with cell-free screening and cell-based engineering will accelerate the discovery and optimization of orthogonal translation systems for genetic code expansion.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916578/",
+            "journal": "ACS synthetic biology",
+            "authors": "Seki, Nguyen, Penev, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00373"
+          },
+          "score": 82,
+          "score_reason": "宏基因组挖掘正交翻译系统扩展遗传密码",
+          "title_cn": "从宏基因组文库中挖掘的正交翻译系统拓展遗传密码",
+          "one_liner": "从宏基因组中挖掘出 AP1 TrpRS/tRNA^Trp_UCA 正交对，并在重编码大肠杆菌中实现 5-羟色氨酸掺入。",
+          "key_findings": [
+            "建立无细胞基因表达的高通量流程，筛选超 200 个 tRNA 与 1250 组 aaRS/tRNA 组合。",
+            "鉴定 AP1 TrpRS/tRNATrpUCA 为天然在 UGA 编码 Trp 的正交对，在无细胞与细胞中均高活性。",
+            "在缺失 UAG/UGA 的 Ochre 重编码菌中工程化 AP1 变体，实现 5-羟色氨酸位点特异性掺入。"
+          ],
+          "why_it_matters": "为遗传密码扩展提供新正交翻译系统与高通量挖掘范式，可直接用于非天然氨基酸蛋白工程与合成基因组重编码研究。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42918359",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "From ecosystem engineering to living computers: integrating dual-paradigm bacterial therapeutics for solid tumor microenvironment reprogramming.",
+            "abstract": "Recent advances in tumor microbiome biology and synthetic biology have made bacteria attractive therapeutic agents capable of reprogramming tumor-associated microbial ecosystems and serving as programmable living systems in solid tumors. In this review, we construct a dual-paradigm framework combining engineered bacterial therapeutics and ecosystem editing. In the first paradigm, phage-mediated targeting, competitive displacement, and metabolic reprogramming are used to alter tumor-associated microbial communities. In the second paradigm, engineered bacteria are equipped with environmental sensors, genetic logic circuits, and therapeutic payloads. We discuss the mechanistic interplay of these strategies in terms of ecological niche formation, bacterial colonization, immune and metabolic remodeling, and microbiome-host feedback. Clinical experience still varies across platforms due to differences in bacterial strain, attenuation, route of administration, tumor biology, treatment context, and patient characteristics. Major translational challenges include biocontainment, genetic stability, manufacturing and potency control, predictive biomarker validation, and product-specific regulatory requirements. We propose an additional hypothesis-generating framework for patient stratification and adaptive treatment monitoring. These concepts together provide a structured framework for exploring bacterial therapeutics as components of precision oncology, while highlighting the need for prospective clinical validation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42918359/",
+            "journal": "International journal of pharmaceutics",
+            "authors": "Elmetwalli, Algehainy, Altemani, et al.",
+            "published": "2026-10-23",
+            "doi": "10.1016/j.ijpharm.2026.127586"
+          },
+          "score": 80,
+          "score_reason": "工程菌基因线路治疗肿瘤",
+          "title_cn": "从生态系统工程到活体计算机：双范式细菌疗法用于实体瘤微环境重编程",
+          "one_liner": "综述提出整合工程菌治疗与肿瘤微生物组编辑的双范式框架，用于实体瘤微环境重编程。",
+          "key_findings": [
+            "范式一：用噬菌体靶向、竞争置换和代谢重编程编辑肿瘤相关微生物群落。",
+            "范式二：工程菌搭载环境传感器、基因逻辑电路和治療性载荷。",
+            "转化挑战包括生物防护、遗传稳定性、制造与效价控制及监管要求。"
+          ],
+          "why_it_matters": "为合成生物学改造细菌治疗实体瘤提供统一框架，逻辑电路与生物防护设计可直接借鉴，并提示临床转化与监管关键障碍。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42916604",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Terminal Deoxynucleotidyl Transferase-Mediated Tunable Biopart Synthesis and Metabolic Engineering.",
+            "abstract": "The increasing demands of synthetic biology have shifted the central bottleneck from DNA assembly to DNA writing. As engineered systems grow in complexity, progress increasingly depends on the ability to write, test, and rewrite regulatory DNA to support fast design-build-test-learn cycles and precise control of gene expression. In this regard, enzymatic DNA synthesis offers a promising route toward next-generation DNA writing technologies for on-demand benchtop implementation. In particular, terminal deoxynucleotidyl transferase (TdT), a template-independent DNA polymerase, provides a unique mechanism for generating sequence diversity without predefined templates. Here, we establish a programmable TdT-based enzymatic platform for the in-house synthesis of random-sequence oligonucleotide libraries with tunable base composition. Systematic kinetic characterization of TdT revealed a substrate-dependent bias, which we mitigated through optimization of divalent cofactors and dNTP input ratios, enabling user-defined nucleotide distributions. Using this platform, we expanded and screened composition-controlled libraries of promoters, 5'-UTRs, and transcription terminators in Escherichia coli, identifying functional bioparts spanning wide dynamic ranges of transcriptional and translational activity. Integration of TdT-synthesized regulatory libraries into a streamlined enzymatic workflow enabled rapid cloning and screening within hours. As a proof of concept, targeted promoter diversification of a lycopene biosynthetic operon yielded a 124.7-fold range in production and identified variants achieving up to 1.43-fold higher titers than those of the parental strain. These results establish TdT-mediated enzymatic DNA synthesis as a controllable DNA writing modality for rapid regulatory-part engineering in synthetic biology and metabolic engineering.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916604/",
+            "journal": "ACS synthetic biology",
+            "authors": "Lee, Kim, Jin, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00381"
+          },
+          "score": 80,
+          "score_reason": "TdT酶法DNA合成与生物元件",
+          "title_cn": "末端脱氧核苷酸转移酶介导的可调生物元件合成与代谢工程",
+          "one_liner": "建立基于TdT的可编程酶促DNA合成平台，可调碱基组成合成随机文库并用于调控元件工程。",
+          "key_findings": [
+            "系统表征TdT动力学，发现底物偏好性，通过优化二价辅因子与dNTP配比实现用户自定义核苷酸分布。",
+            "在大肠杆菌中构建并筛选启动子、5'-UTR和终止子文库，获得覆盖宽动态范围的功能元件。",
+            "番茄红素操纵子启动子定向多样化使产量差异达124.7倍，最优变体较亲本提高1.43倍。"
+          ],
+          "why_it_matters": "为无需模板的酶促DNA书写提供可控手段，可快速构建调控元件文库，直接服务合成生物学与代谢工程的菌株优化。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42915857",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Artificial Intelligence-Aided De Novo Design of High-Affinity Protein Binders Against Shiga Toxin 2.",
+            "abstract": "Shiga toxin-producing Escherichia coli (STEC) is a major food-borne pathogen with limited treatment options. Targeting Shiga toxin (Stx) represents a promising therapeutic strategy. Using artificial intelligence (AI)-assisted de novo protein design combined with bacterial surface display screening, pull-down assays, and biolayer interferometry, we identified protein binders against the Stx2a B subunit (Stx2aB), among which Binder506 exhibited high affinity. Structural modeling predicted a three-α-helix fold, consistent with circular dichroism analysis, while differential scanning fluorimetry revealed high thermostability. Importantly, Binder506 demonstrated potent Stx2a-neutralizing activity with minimal intrinsic cytotoxicity in Vero cells. Size-exclusion chromatography and coimmunoprecipitation showed that Binder506 did not disrupt Stx2a holotoxin integrity. Instead, cellular binding and internalization assays demonstrated that Binder506 inhibited Stx2a attachment to and uptake by Vero cells. Collectively, these findings demonstrate the potential of AI-assisted de novo protein design for generating effective Stx-neutralizing proteins and establish a promising framework for the development of novel therapeutics.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42915857/",
+            "journal": "Journal of agricultural and food chemistry",
+            "authors": "Zhao, Feng, Li, et al.",
+            "published": "2026-09-30",
+            "doi": "10.1021/acs.jafc.6c04991"
+          },
+          "score": 80,
+          "score_reason": "AI de novo设计高亲和力蛋白结合体",
+          "title_cn": "人工智能辅助从头设计靶向志贺毒素2的高亲和力蛋白结合剂",
+          "one_liner": "AI从头设计蛋白结合剂Binder506，可高效中和Stx2a且细胞毒性低。",
+          "key_findings": [
+            "结合AI从头设计与细菌表面展示筛选，获得高亲和力Stx2aB结合剂Binder506",
+            "Binder506为三α螺旋折叠，热稳定性高，在Vero细胞中中和活性强、毒性低",
+            "机制为阻断Stx2a与细胞结合及内化，而非破坏全毒素完整性"
+          ],
+          "why_it_matters": "展示AI从头设计蛋白结合剂的可行流程，为合成生物学中抗毒素蛋白与治疗性结合蛋白的快速设计提供可复用范式。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42918821",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Synthetic activation of gibberellin signalling reveals spatial coordination of root growth.",
+            "abstract": "Gibberellins (GAs) influence cell division and elongation, profoundly shaping plant architecture and yield. GA perception occurs when bioactive GAs bind the receptor GID1, promoting DELLA degradation and activating transcriptional programs. While GA signalling in the root endodermis is essential for promoting root elongation, the contributions of other layers have remained unclear. Here we developed a synthetic GA (sGA) that exhibits little or no binding to endogenous GID1, together with a modified GID1 (mGID1) engineered to selectively recognize sGA, enabling cell-specific activation of GA signalling in vivo. Using this system in Arabidopsis, we demonstrate that coordinated action of GA signalling in the endodermis and epidermis is required for full root elongation. Moreover, the distal spatial distribution of GA signalling and GA biosynthetic enzymes supports a model in which bioactive GAs are transported from GA3ox-expressing tissues to the endodermis and epidermis to coordinate root elongation. The sGA-mGID1 system provides a versatile platform for spatially precise reprogramming of hormone signalling, enabling synthetic control of developmental processes such as root-shoot growth balance, thereby advancing applications in plant synthetic biology and sustainable crop improvement.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42918821/",
+            "journal": "Nature plants",
+            "authors": "Yagami, Yamada, Ishikawa, et al.",
+            "published": "2026-10-22",
+            "doi": "10.1038/s41477-026-02438-x"
+          },
+          "score": 78,
+          "score_reason": "合成激素信号系统精准调控",
+          "title_cn": "合成激活赤霉素信号揭示根系生长的空间协调机制",
+          "one_liner": "用正交sGA-mGID1系统实现细胞特异激活GA信号，发现内皮层与表皮协同调控根伸长。",
+          "key_findings": [
+            "构建合成GA(sGA)与改造受体mGID1正交系统，可在体内细胞特异激活GA信号",
+            "拟南芥中内皮层和表皮GA信号协同作用才能实现完整根伸长",
+            "GA信号与GA合成酶呈远端空间分布，支持活性GA从GA3ox表达组织运输至内皮层和表皮"
+          ],
+          "why_it_matters": "提供空间精准重编程激素信号的正交工具平台，对植物合成生物学与根系构型改良有直接借鉴价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42916610",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A Blue Light-Activated Sensor System Enables Dynamic and Reversible Control of Gene Expression in Streptomyces.",
+            "abstract": "Programmable control of bacterial gene expression is critical for advancing applications in synthetic biotechnology. This is particularly true for the genus Streptomyces, a well-recognized prolific producer of diverse natural products. Although several inducible regulatory systems have been developed for Streptomyces, there remains an escalating demand to expand the repertoire of high-performance induction tools. Herein, we present Strep-LitRS, a light-sensing system for Streptomyces that exhibits pronounced activation under blue and green light, with only weak induction under yellow light. Moreover, blue light was more effective than green light in triggering transcriptional activation. This system enables tunable, reversible, and spatially controlled gene expression upon blue-light illumination. It demonstrates effective programmable control of morphological differentiation via CRISPR/dCas9-mediated interference. Its utility is further validated through the blue light-inducible production of actinorhodin and violacein in Streptomyces chassis strains. Furthermore, by coupling Strep-LitRS with the Cre-loxP recombination system, we achieve precise and conditional gene activation in response to blue light. A synthetic genetic circuit also allows light-induced control to be gated by rhamnose, enabling multi-input regulatory logic. Collectively, this work establishes a versatile light-sensing module and highlights its broad applicability for the programmable manipulation of diverse target genes across Streptomyces species.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916610/",
+            "journal": "ACS synthetic biology",
+            "authors": "Chen, Dou, Lv, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00563"
+          },
+          "score": 78,
+          "score_reason": "光控基因表达系统链霉菌",
+          "title_cn": "蓝光激活传感器系统实现链霉菌基因表达动态可逆调控",
+          "one_liner": "开发出蓝光激活的Strep-LitRS系统，可在链霉菌中实现可调、可逆、空间可控的基因表达。",
+          "key_findings": [
+            "蓝光激活强于绿光，黄光诱导弱；可实现可调、可逆、空间可控的基因表达。",
+            "结合CRISPR/dCas9干扰可编程控制形态分化，并诱导生产actinorhodin和violacein。",
+            "与Cre-loxP偶联实现光控条件性基因激活；合成回路可用鼠李糖门控光诱导，实现多输入逻辑。"
+          ],
+          "why_it_matters": "为链霉菌天然产物生产提供高性能光遗传调控工具，可与CRISPR和逻辑门电路组合，适合合成生物学底盘改造与动态调控研究。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42916593",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Artificial Biosynthetic Pathways for Cell-Free Production of Raspberry Ketone and the Cardiotonic Drug Dobutamine.",
+            "abstract": "Raspberry ketone (RK) is a high-value flavor and fragrance compound widely used in the food, beverage, and cosmetic industries. However, existing biosynthetic routes largely rely on native metabolic pathways that involve multiple enzymatic steps and exhibit limited production efficiency. Here, we designed and constructed a retrosynthesis-guided artificial biosynthetic pathway for cell-free RK production. The pathway combines an artificial aldolase (ALD) with the native benzalacetone reductase (BAR) to convert 4-hydroxybenzaldehyde and acetone into RK through only two enzymatic steps. Following optimization of enzyme architecture and reaction conditions, the system produced 1.33 mM RK with a 66% conversion yield. We further extended this platform to the synthesis of the cardiotonic drug dobutamine through a non-natural reductive amination cascade using an engineered short-chain dehydrogenase/reductase (SDR). Rational protein engineering and byproduct recycling increased dobutamine production by approximately 104-fold relative to the wild-type enzyme. Both biosynthetic modules remained robust upon scale-up from microliter to milliliter volumes, and preparative-scale synthesis enabled isolation of 19.2 mg of RK. Overall, this work establishes artificial biosynthetic pathways for the production of a plant-derived natural product and a clinically relevant drug molecule, highlighting the potential of cell-free biomanufacturing as a sustainable platform for the synthesis of value-added chemicals and pharmaceuticals.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916593/",
+            "journal": "ACS synthetic biology",
+            "authors": "Zhang, Liu, Li",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00642"
+          },
+          "score": 78,
+          "score_reason": "无细胞系统+酶工程合成高值化合物与药物",
+          "title_cn": "无细胞法合成覆盆子酮与强心药多巴酚丁胺的人工生物合成途径",
+          "one_liner": "设计逆合成导向的人工酶级联，无细胞两步法合成覆盆子酮，并拓展至多巴酚丁胺。",
+          "key_findings": [
+            "人工醛缩酶与天然BAR偶联，两步将4-羟基苯甲醛和丙酮转化为覆盆子酮，产量1.33 mM、转化率66%。",
+            "工程化SDR构建非天然还原胺化级联合成多巴酚丁胺，蛋白工程与副产物循环使产量较野生型提高约104倍。",
+            "体系从微升到毫升级放大保持稳健，制备级分离获得19.2 mg覆盆子酮。"
+          ],
+          "why_it_matters": "展示无细胞多酶级联可同时合成天然产物与临床药物，为合成生物学提供可放大的绿色制造路线，对深圳生物制造与酶工程方向有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42918582",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Development of isopentenol utilization pathway based on cell-free metabolic engineering and its application in multienzyme cascades synthesis.",
+            "abstract": "Conventional microbial biosynthetic pathways for isoprenoid often require intricate metabolic balancing and multigene regulation, which are not only time-consuming but also prone to interference from host cellular metabolism and feedback inhibition by toxic intermediate metabolites or end-products. In this study, we developed a novel cell-free multienzyme catalytic system for the synthesis of lycopene, a representative isoprenoid. By integrating the isopentenol utilization pathway with cell-free metabolic engineering strategies, the system eliminates the need for complex in vivo genetic modifications and avoids inherent cellular metabolic interference. The in vitro reaction employs seven enzymes directly, enabling rapid and efficient lycopene production without relying on costly substrates isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP). The optimized cell-free reaction mixture consisted of isoprenol and prenol (3:1 molar ratio, 15mM), seven key enzymes (each at a concentration of 0.6mg/mL), 8mM Mg2+, 1mM NAD, 1mM ATP, 1mM CoA, and 0.05% (w/v) Tween 20 in 30mM Bis-Tris buffer (pH 6.5). After incubation at 30 °C for 20hours, the lycopene titer reached 128.04mg/L. Further in vivo validation achieved a final lycopene titer of 270.0mg/L. This novel approach offers a promising alternative strategy to overcome common challenges associated with the construction and regulation of complex natural isoprenoid biosynthetic pathways.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42918582/",
+            "journal": "Journal of biotechnology",
+            "authors": "Xing, Zou, Yuan, et al.",
+            "published": "2026-10-23",
+            "doi": "10.1016/j.jbiotec.2026.10.015"
+          },
+          "score": 75,
+          "score_reason": "无细胞多酶催化合成番茄红素",
+          "title_cn": "基于无细胞代谢工程的异戊烯醇利用途径构建及其在多酶级联合成中的应用",
+          "one_liner": "构建含7种酶的无细胞多酶体系，绕过IPP/DMAPP底物，20小时产番茄红素128 mg/L。",
+          "key_findings": [
+            "以异戊烯醇:异戊烯醇(3:1, 15mM)为底物，7种酶各0.6mg/mL，30℃反应20h，番茄红素达128.04mg/L。",
+            "优化体系含8mM Mg2+、1mM NAD/ATP/CoA及0.05% Tween 20，Bis-Tris缓冲液pH 6.5。",
+            "体内验证进一步将番茄红素产量提升至270.0mg/L。"
+          ],
+          "why_it_matters": "无细胞多酶级联可绕开宿主代谢干扰与多基因调控，为萜类天然产物快速筛选与途径优化提供可移植平台，契合合成生物学底盘与体外生物催化方向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42920686",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A SynNotch-PiggyBac gene circuit for inflammation-responsive IL-10 delivery in Alzheimer's disease: a hypothesis and design framework.",
+            "abstract": "Chronic neuroinflammation driven by sustained microglial and astrocyte activation contributes to Alzheimer's disease progression, yet no therapeutic strategy addresses it with precision or durability in the brain. Interleukin-10 occupies an unresolved position in this problem. Constitutive interleukin-10 overexpression in amyloid precursor protein transgenic mice increased plaque burden by suppressing microglial phagocytic activity, while interleukin-10 deletion has been reported to restrict amyloidosis in one setting and to worsen tau hyperphosphorylation in another. We interpret this pattern as evidence that interleukin-10 carries opposite signs on the two principal pathologies of Alzheimer's disease, so that any therapy holding it at a fixed concentration is committed in advance to being wrong about one of them. We therefore propose a falsifiable hypothesis: conditional, inflammation-gated interleukin-10 expression may suppress damaging inflammatory signaling while limiting the impairment of microglial phagocytosis associated with continuous exposure. We present a design framework for a synthetic gene circuit combining an adeno-associated viral vector for delivery to the central nervous system, a synthetic Notch receptor that detects membrane-bound tumor necrosis factor alpha on activated microglia through juxtacrine contact, and a PiggyBac transposon intended to integrate the circuit into the astrocyte genome. Receptor engagement is expected to release a transcription factor that drives interleukin-10 from a synthetic promoter, with transcription ceasing as the stimulus is withdrawn. We provide a quantitative packaging analysis showing that the circuit requires a compacted vector design to fit within viral capacity, and we identify three unvalidated assumptions: the recognition domain does not yet exist, ligand surface density on activated microglia is unmeasured, and shed soluble tumor necrosis factor alpha is predicted to act as a competitive inhibitor of receptor activation. A computational analysis of simulated resting-state electroencephalography, in which 45 of 171 electrode pairs differed after false discovery rate correction, is presented as a fully specified analysis workflow for delta-band connectivity as a secondary outcome measure rather than as evidence of effect, and yields effect sizes indicating that a rodent study would need roughly 11 animals per group. A four-arm validation plan is specified that separates the contribution of conditional regulation from that of genomic integration.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42920686/",
+            "journal": "Frontiers in aging neuroscience",
+            "authors": "Gupta, Gupta",
+            "published": "2026-01-01",
+            "doi": "10.3389/fnagi.2026.1866161"
+          },
+          "score": 75,
+          "score_reason": "SynNotch基因线路设计框架，合成生物学应用",
+          "title_cn": "SynNotch-PiggyBac 基因回路用于阿尔茨海默病炎症响应性 IL-10 递送：假说与设计框架",
+          "one_liner": "提出炎症门控 IL-10 基因回路设计框架，以规避持续 IL-10 对斑块清除的抑制。",
+          "key_findings": [
+            "回路整合 AAV 递送、SynNotch 识别活化小胶质细胞膜 TNFα 与 PiggyBac 基因组整合。",
+            "受体激活后驱动 IL-10 表达，刺激撤除即停止转录，实现可逆条件调控。",
+            "明确三项未验证假设：识别域尚不存在、配体密度未测、可溶性 TNFα 或竞争抑制。"
+          ],
+          "why_it_matters": "为神经炎症精准调控提供可证伪的合成回路设计思路，对中枢基因治疗与 SynNotch 应用有参考价值，但尚处假说阶段。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42913609",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Chemo- and Stereoselective Semireduction of Alkynes to E-Alkenes Catalyzed by Nonheme Iron Enzymes.",
+            "abstract": "The semireduction of alkynes represents a powerful yet challenging transformation that requires simultaneous control of stereoselectivity and chemoselectivity. Currently, synthetic methods for the trans-reduction of alkynes to E-alkenes remain limited, particularly in the realm of biocatalysis. Herein, we report the repurposing of a nonheme iron dioxygenase for the trans-reduction of alkynes. Through screening and directed evolution, we obtained variants of gentisate 1,2-dioxygenase that enable the preparation of structurally diverse E-alkenes in high yields (up to 99% yield) with excellent stereoselectivity (16 examples with E/Z ratios of 99/1) and chemoselectivity (21 cases with 0% alkane). Mechanistic studies suggest a pathway involving hydride attack to generate a trans anion intermediate, followed by protonation to directly furnish the E-alkene. This metalloenzymatic trans-reduction pathway is mechanistically distinct from the classical syn-addition/isomerization pathway typically observed in transition-metal catalysis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42913609/",
+            "journal": "Journal of the American Chemical Society",
+            "authors": "Wan, Zhang, Sun, et al.",
+            "published": "2026-10-14",
+            "doi": "10.1021/jacs.6c13787"
+          },
+          "score": 72,
+          "score_reason": "定向进化改造非血红素铁酶实现炔烃半还原",
+          "title_cn": "非血红素铁酶催化炔烃化学与立体选择性半还原生成 E-烯烃",
+          "one_liner": "改造非血红素铁双加氧酶，实现炔烃反式半还原高选择性生成 E-烯烃。",
+          "key_findings": [
+            "定向进化获得龙胆酸1,2-双加氧酶变体，最高99%收率、E/Z达99/1。",
+            "化学选择性优异，21例中烷烃副产物为0%。",
+            "机理为氢负离子进攻生成反式阴离子中间体，再质子化直接得E-烯烃。"
+          ],
+          "why_it_matters": "为合成生物学提供新型金属酶催化模块，可替代贵金属催化实现E-烯烃绿色合成，适合酶工程与生物催化方向深入评估。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42917134",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Programmable Genome Sensing with Visual, Fluorescence, and Glucometer Readings: Cell-Free In Vitro Translation Approach Using RNA Switch-CRISPR.",
+            "abstract": "Rapid and accessible detection of pathogens through diverse detection modalities remains highly desirable. Most current pathogen detection assays rely on a single detection modality. Here, we have used the same RNA switch-CRISPR platform for detection of multiple pathogenic genomes through three different detection modalities. In this study, the RNA switch is repurposed as a reprogrammable platform for genome detection, enabling three orthogonal signal outputs: glucometer-based, fluorescence, and visual. Target pathogen genomes selectively regulate cell-free in vitro translation of β-galactosidase through the RNA switch, producing several hundred-fold increases in glucose following lactose hydrolysis while simultaneously generating fluorescence and colorimetric signals. The platform is readily reprogrammed to recognize conserved genomic regions from five distinct pathogens, with specificity dictated by CRISPR-Cas12a-mediated processing of a DNA regulator that controls RNA switch activation and initiates the downstream cell-free translation cascade. Glucometer-based, fluorescence, and paper-based colorimetric outputs each enabled selective detection of Salmonella typhi, Salmonella enterica, Listeria monocytogenes, Shiga toxin-producing Escherichia coli (STEC), and Campylobacter jejuni. Fluorescence and colorimetric responses were analyzed both qualitatively and quantitatively using image processing and showed strong agreement with glucometer measurements obtained using a handheld glucometer, providing a simple and accessible quantitative readout. The platform was further validated using the complete Listeria monocytogenes genome, achieving a detection sensitivity approaching a single genome copy per microliter. Together, this reprogrammable CRISPR-RNA switch platform enables the same detection setup to be programmed for multiple targets and readouts through three different detection modalities, some of which are well suited for resource-limited environments.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42917134/",
+            "journal": "Biochemistry",
+            "authors": "Lashkari, Connell, Hanson, et al.",
+            "published": "2026-10-06",
+            "doi": "10.1021/acs.biochem.6c00564"
+          },
+          "score": 72,
+          "score_reason": "无细胞翻译+RNA开关-CRISPR多重检测",
+          "title_cn": "可编程基因组传感：基于RNA开关-CRISPR的无细胞体外翻译平台实现视觉、荧光与血糖仪三种读数",
+          "one_liner": "RNA开关-CRISPR平台经无细胞翻译偶联β-半乳糖苷酶，实现血糖仪、荧光和比色三种模式检测多种病原基因组。",
+          "key_findings": [
+            "靶基因组经CRISPR-Cas12a调控DNA调节子激活RNA开关，驱动无细胞翻译β-半乳糖苷酶，水解乳糖使葡萄糖升高数百倍。",
+            "同一平台可重编程识别五种病原（伤寒沙门菌、肠炎沙门菌、单增李斯特菌、STEC、空肠弯曲菌），三种读数一致。",
+            "用完整单增李斯特菌基因组验证，灵敏度接近每微升1个基因组拷贝。"
+          ],
+          "why_it_matters": "对深圳合成生物学团队，该工作把RNA开关、CRISPR与无细胞体系整合为可重编程、多模态便携检测，适合资源有限场景的病原快检开发。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42916595",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Promoter Engineering in Yeast Cell Factories: Strategies, Applications, and Perspectives.",
+            "abstract": "Yeasts serve as premier eukaryotic hosts for microbial cell factories, enabling the production of recombinant proteins, biofuels, and high-value natural products. Precise transcriptional control is paramount for balancing complex metabolic pathways and maximizing target product yields. Promoters, as the key regulatory elements governing transcription initiation, have thus become a focal point of metabolic and synthetic biology engineering. This review surveys promoter architecture, function, and engineering in yeast. It outlines promoter structure, from core elements to upstream regulatory sequences, and reviews current and emerging strategies for discovery, optimization, and de novo design, including random mutagenesis, combinatorial assembly, rational design based on transcription factor binding sites, intron-mediated enhancement, cross-species approaches. Importantly, this review highlights the rapidly growing role of machine learning (ML) and artificial intelligence (AI) in promoter engineering, from predictive modeling of promoter strength to in silico generation of synthetic variants. Special emphasis is placed on synthetic promoter engineering to yield tunable and inducible toolkits. The review also highlights applications in yeast cell factories, such as metabolic pathway optimization, dynamic regulation, high-throughput strain screening, and recombinant protein production. By summarizing these recent advances, it serves as a practical resource for researchers aiming to achieve precise metabolic control and improve bioproduction outcomes in yeast.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42916595/",
+            "journal": "ACS synthetic biology",
+            "authors": "Bai, Jiao, Darvishi, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1021/acssynbio.6c00207"
+          },
+          "score": 70,
+          "score_reason": "酵母启动子工程与AI设计",
+          "title_cn": "酵母细胞工厂中的启动子工程：策略、应用与展望",
+          "one_liner": "综述酵母启动子工程策略，重点介绍机器学习与AI驱动的预测建模和从头设计。",
+          "key_findings": [
+            "系统梳理启动子结构及随机突变、组合组装、理性设计、跨物种等工程策略",
+            "强调ML/AI在启动子强度预测与合成变体生成中的新兴作用",
+            "聚焦可调控/诱导型合成启动子工具箱及代谢途径优化等应用"
+          ],
+          "why_it_matters": "启动子是合成生物学代谢通路精细调控的核心元件，该综述整合AI辅助设计方法，对酵母细胞工厂构建与途径平衡优化有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42913571",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Directed Evolution of a Protein Catenane Reveals How Noncanonical Topology Modulates Sequence-Property Relationships.",
+            "abstract": "Single-domain protein catenanes, in which two mechanically interlocked polypeptide rings fold into a compact structure, provide a tractable system for probing how chemical topology reshapes protein fitness. Using single-domain catenated dihydrofolate reductase (cat-DHFR) as a model, we combined homologue expansion, directed evolution, and topology reversion to compare matched linear and catenated isoforms. Catenation proved broadly compatible with DHFR homologues, yet soluble yield and catalytic activity remained strongly sequence dependent. Directed evolution substantially improved the catalytic activity of cat-DHFR through enhanced substrate binding and turnover, while largely preserving or increasing thermal stability. Strikingly, reverting evolved catenanes to their linear counterparts transferred these functional gains: all reverted linear isoforms exhibited higher catalytic activity and thermal stability than wild-type DHFR. Across matched topological pairs, catenation generally increased thermal stability, whereas catalytic activity depended more strongly on sequence background and topology. These results demonstrate that chemical topology can modulate the phenotypic effects of sequence variation, while permitting substantial transferability of beneficial mutations across topological contexts. Protein catenanes may therefore serve not only as alternative topological isoforms, but also as evolutionary intermediates en route to linear proteins with simultaneously improved stability and activity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42913571/",
+            "journal": "Journal of the American Chemical Society",
+            "authors": "Fang, Chen, Liu, et al.",
+            "published": "2026-10-14",
+            "doi": "10.1021/jacs.6c11777"
+          },
+          "score": 70,
+          "score_reason": "定向进化蛋白索烃揭示拓扑与序列关系",
+          "title_cn": "定向进化蛋白质索烃揭示非经典拓扑如何调控序列-性质关系",
+          "one_liner": "以cat-DHFR为模型定向进化，发现拓扑结构可调节序列突变的表型效应，且有益突变可跨拓扑转移。",
+          "key_findings": [
+            "索烃化与DHFR同源蛋白广泛兼容，但可溶产量和催化活性仍高度依赖序列背景。",
+            "定向进化通过增强底物结合与周转显著提升cat-DHFR催化活性，同时保持或提高热稳定性。",
+            "将进化后的索烃还原为线性蛋白，所有线性变体活性与热稳定性均优于野生型DHFR。"
+          ],
+          "why_it_matters": "为蛋白质拓扑工程提供新思路：索烃不仅可作为替代拓扑异构体，还可作为进化中间体，获得稳定性与活性同步提升的线性蛋白，对合成生物学中酶设计与定向进化策略有直接参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:2b0df1e5ef26f1fe",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#ESMO26: Amgen's Imdelltra regimen more than halves risk of death in Phase 3 lung cancer trial",
+            "abstract": "MADRID — Amgen’s Imdelltra combined with AstraZeneca’s Imfinzi slashed the chances of dying by 58% versus Imfinzi alone in the first-line maintenance setting in certain small cell lung cancer patients, breezing past the benchmark set by ...",
+            "url": "https://endpoints.news/esmo26-amgens-imdelltra-regimen-more-than-halves-risk-of-death-in-phase-3-lung-cancer-trial/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "III期显著生存获益",
+          "title_cn": "ESMO26：安进Imdelltra联合方案在III期肺癌试验中将死亡风险降低过半",
+          "one_liner": "安进Imdelltra联合阿斯利康Imfinzi在一线维持治疗中使特定小细胞肺癌患者死亡风险降低58%。",
+          "key_findings": [
+            "联合方案较Imfinzi单药降低死亡风险58%，用于一线维持治疗。",
+            "适应症为特定小细胞肺癌患者，III期试验结果在ESMO26公布。",
+            "疗效显著超越预设基准，具体生存数据未在摘要中披露。"
+          ],
+          "why_it_matters": "小细胞肺癌治疗选择有限，DLL3靶向T细胞衔接器联合PD-L1显著改善生存，提示联合免疫策略与新型抗体格式的临床价值，值得关注后续数据与监管路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:93270cf92b4bb94f",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Cancer vaccine data from #ESMO26; Treasury proposal could curb China investment; and more",
+            "abstract": "Hello from Madrid, and welcome back to Endpoints Weekly! I’m at #ESMO26 with my colleagues Ayisha Sharma and Reynald Castaneda. The most anticipated readout from this year’s conference was Merck and Moderna’s Phase 3 study ...",
+            "url": "https://endpoints.news/cancer-vaccine-data-from-esmo26-treasury-proposal-could-curb-china-investment-and-more/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "mRNA癌症疫苗III期数据",
+          "title_cn": "ESMO26 癌症疫苗数据公布；美财政部提案或限制对华投资",
+          "one_liner": "ESMO26 上默沙东与 Moderna 公布 III 期癌症疫苗数据，美财政部提案或限制对华投资。",
+          "key_findings": [
+            "ESMO26 最受关注的读出为默沙东与 Moderna 的 III 期癌症疫苗研究。",
+            "美财政部提案可能限制美国对华投资，涉及生物医药领域。",
+            "摘要未披露具体疗效数据与适应症细节。"
+          ],
+          "why_it_matters": "mRNA 癌症疫苗 III 期读出是合成生物学与 mRNA 技术路线的关键验证；对华投资限制或影响中美合作与融资环境。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:72ac41ef6fe9a6e5",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#ESMO26: AstraZeneca eyes Keytruda's Padcev spot; Lilly's ADC takes on Elahere; Nubeqa targets earlier prostate cancer",
+            "abstract": "MADRID — It's been estimated that almost 40,000 delegates will be attending this year's ESMO congress over five days in Madrid. And on Saturday, they have new data to review from AstraZeneca, Eli Lilly and Bayer. ...",
+            "url": "https://endpoints.news/esmo26-astrazeneca-eyes-keytrudas-padcev-spot-lillys-adc-takes-on-elahere-nubeqa-targets-earlier-prostate-cancer/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "ESMO多项ADC关键数据",
+          "title_cn": "ESMO26：阿斯利康瞄准Keytruda的Padcev位置；礼来ADC对标Elahere；拜耳Nubeqa瞄准更早期前列腺癌",
+          "one_liner": "ESMO26大会上，阿斯利康、礼来、拜耳分别公布肿瘤新数据，涉及ADC与前列腺癌适应症前移。",
+          "key_findings": [
+            "阿斯利康公布数据，意在争夺Keytruda在Padcev相关适应症中的位置",
+            "礼来ADC药物数据对标Elahere，进入卵巢癌等适应症竞争",
+            "拜耳Nubeqa向前列腺癌更早期阶段拓展，公布新数据"
+          ],
+          "why_it_matters": "ADC与前列腺癌适应症前移是当前肿瘤药物开发热点，合成生物学背景可关注ADC载荷、偶联与表达体系的技术迭代机会。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:e84fafa3698bbf2d",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Windward Bio files for Nasdaq IPO to fund China-derived assets and in-house R&D",
+            "abstract": "A 2-year-old European biotech with two clinical-stage assets from China is the latest to attempt an initial public offering in the US. Basel-based Windward Bio submitted its cards for a Nasdaq ...",
+            "url": "https://endpoints.news/windward-bio-files-for-nasdaq-ipo-to-fund-china-derived-assets-and-in-house-rd/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "中国资产Biotech赴美IPO",
+          "title_cn": "Windward Bio申请纳斯达克IPO，为源自中国的资产及内部研发融资",
+          "one_liner": "成立两年的瑞士Biotech Windward Bio申请纳斯达克IPO，推进两款来自中国的临床阶段资产。",
+          "key_findings": [
+            "公司位于巴塞尔，成立仅2年，拥有两款来自中国的临床阶段资产",
+            "拟在纳斯达克上市募资，用于推进上述资产及内部研发",
+            "成为最新一家赴美IPO的欧洲Biotech"
+          ],
+          "why_it_matters": "反映中国创新资产通过海外NewCo模式出海的路径，合成生物学背景读者可关注其资产来源与临床推进节奏。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:099fa202a5d2770f",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "âå»ä¿é±å 2.0âä¸çº¿ å¹¿ä¸èå·¥å»ä¿ä¸ªäººè´¦æ·å¯ä»¥è·¨çå ±æµä½¿ç¨äº",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ âå»ä¿é±å 2.0âä¸çº¿ å¹¿ä¸èå·¥å»ä¿ä¸ªäººè´¦æ·å¯ä»¥è·¨çå ±æµä½¿ç¨äº --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->âå»ä¿é±å 2.0âä¸çº¿ å¹¿ä¸èå·¥å»ä¿ä¸ªäººè´¦æ·å¯ä»¥è·¨çå ±æµä½¿ç¨äºend--> æ¥æï¼2026-10-21 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->å¨å¹¿ä¸ä¸ç­çå´å çï¼ä¸ç´çµæçè¿å¨å¤çèå®¶çç¶äº²ãç¶äº²åå å± æ°å»ä¿ï¼å¸¸å¹´çç è´­è¯ï¼å»è¯è´¹è´æ ä¸å°ãå¾ç¥å¹¿ä¸å¼éå»ä¿ä¸ªäººè´¦æ·è·¨çå ±æµæå¡åï¼ä»éè¿å½å®¶å»ä¿æå¡å¹³å°APPä¸ç¶äº²ç»å®å ±æµå ³ç³»ãè®¾å®å ±æµé¢åº¦ãç¶äº²å¨å½å°å»é¢å°±å»ç»ç®ï¼ä¸ªäººè´æ è´¹ç¨å ¨é¨éè¿å´å çèå·¥å»ä¿ä¸ªäººè´¦æ·çå ±æµé¢åº¦æ¯ä»ï¼ä¸ç¨å«é±ãä¸ç¨è·è ¿ãâä¸ªäººè´¦æ·çç»ä½èµéç»äº",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/21/art_14_23178.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-21",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "广东医保共济，深圳相关",
+          "title_cn": "医保钱包2.0上线：广东职工医保个人账户可跨省共济使用",
+          "one_liner": "医保钱包2.0上线，广东职工医保个人账户资金可跨省共济给家人使用。",
+          "key_findings": [
+            "职工医保个人账户可跨省共济，用于支付外地参保家属就医购药费用",
+            "通过国家医保服务平台APP绑定共济关系并设定共济额度",
+            "结算时个人负担费用直接由共济额度支付，无需垫资跑腿"
+          ],
+          "why_it_matters": "合成生物学产品多面向医疗健康场景，医保支付范围与个人账户使用规则影响创新药械的市场准入与患者可及性，值得关注。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:19354a35edadd472",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å»ä¿é±å å°±å»è´­è¯èå´ä¸æ­æ©å¤§",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å»ä¿é±å å°±å»è´­è¯èå´ä¸æ­æ©å¤§ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å»ä¿é±å å°±å»è´­è¯èå´ä¸æ­æ©å¤§end--> æ¥æï¼2026-10-22 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->è¿æ¥ï¼å½å®¶å»ä¿å±å°å»ä¿é±å è¿­ä»£åçº§å°2.0çï¼èª2026å¹´10æ16æ¥èµ·ï¼åçãèªæ²»åºãç´è¾å¸åæ°ççäº§å»ºè®¾å µå¢å·²å ¨é¨ä¸çº¿è¿è¡ãæªè³2026å¹´10æ21æ¥ï¼å ¨å½æ¯æå»ä¿é±å æ¶è´¹çå®ç¹å»è¯æºæå·²è¾¾16947å®¶ï¼å ¶ä¸­å®ç¹å»çæºæ9344å®¶ï¼å®ç¹é¶å®è¯åº7603å®¶ãå ¨å½ç´¯è®¡å°±å»è´­è¯æ¶è´¹1681.06ä¸å ãåçå»ä¿é±å ç»ç®éé«çå10ä½å®ç¹å»çæºæåå®ç¹é¶å®è¯åºï¼è§ä¸è¡¨ï¼å»¶å±é è¯»ï¼å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬ä¸æå»ä¿é±å è·¨çå ±æµé®ç­ç¬¬äºæä¸­å½å»",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/22/art_14_23202.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "医保购药范围扩大，相关",
+          "title_cn": "国家医保局：医保钱包升级至2.0版，就医购药范围持续扩大",
+          "one_liner": "医保钱包迭代升级至2.0版，自2026年10月16日起全国上线运行，支持就医购药消费。",
+          "key_findings": [
+            "医保钱包2.0版自2026年10月16日起在全国各省区市及新疆生产建设兵团全部上线运行。",
+            "截至2026年10月21日，全国支持医保钱包消费的定点医药机构达16947家，其中医疗机构9344家、零售药店7603家。",
+            "全国累计就医购药消费1681.06万元，各省结算量前10位的定点机构名单已公布。"
+          ],
+          "why_it_matters": "医保钱包跨省共济与购药支付渠道扩容，关系到创新疗法与检测产品的医保支付可及性；合成生物学相关诊断、治疗产品若进入医保目录，可借助该渠道加速落地。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:51378e807753c144",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å»ä¿æ°æ®åå¸æç»­å¼å± æ¨å¨æ°æ®èµè½âä¸å»âåååå±",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å»ä¿æ°æ®åå¸æç»­å¼å± æ¨å¨æ°æ®èµè½âä¸å»âåååå± --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å»ä¿æ°æ®åå¸æç»­å¼å± æ¨å¨æ°æ®èµè½âä¸å»âåååå±end--> æ¥æï¼2026-10-24 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ºæ·±å ¥æ¨è¿å»ä¿æ°æ®æ²»çååºç¨ï¼æ»ç»æ¨å¹¿åå°å»ä¿æ°æ®åå¸å ¸åç»éªï¼ä»å¹´8æä»¥æ¥ï¼å½å®¶å»ä¿å±æ¨åºâå»ä¿æ°æ®åå¸å ¬å¼è¯¾âï¼å·²å åå¨æ±èåäº¬ãéè¥¿æ¦æãå±±ä¸æµåãå®å¾½åè¥ãç¦å»ºç¦å·å¼å±äºåºæ´»å¨ï¼å¹¶éè¿å½å®¶å»ä¿å±å¾®ä¿¡è§é¢å·åæ­¥ç´æ­ãå ¬å¼è¯¾è§é¢åæ¾å·²å¨å®ç½âæ¯ä»å°è¯¾å âæ ç®ä¸çº¿ï¼ä¾å ¨å½å»ä¿ç³»ç»åå¹¿å¤§å®ç¹å»è¯æºæå­¦ä¹ ä½¿ç¨ãé¦åºå ¬å¼è¯¾8æå¨åäº¬å¼è®²ãåäº¬ä",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/24/art_14_23222.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保数据政策，间接相关",
+          "title_cn": "国家医保局持续推进医保数据发布，推动数据赋能“三医”协同发展",
+          "one_liner": "国家医保局自8月起开展医保数据发布公开课，已办五场，回放上线官网供学习。",
+          "key_findings": [
+            "8月以来已在南京、榆林、济南、合肥、福州举办五场公开课",
+            "公开课通过国家医保局微信视频号同步直播",
+            "视频回放上线官网“支付小课堂”栏目，供全国医保系统和定点医药机构学习"
+          ],
+          "why_it_matters": "医保数据发布与治理规则影响创新药械的支付与准入环境，合成生物学产品若走医疗或药品路径，需关注医保数据如何支撑“三医”协同。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:824201238bf98766",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬äºæ",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬äºæ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬äºæend--> æ¥æï¼2026-10-22 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ãå»ä¿é±å 1.0ä½é¢å¨åªéæ¥è¯¢ï¼è¿æå¾å¤ç½åå¨é®ï¼å»ä¿é±å 2.0æ¨åºåï¼å»ä¿é±å 1.0ççä½é¢å¨åªéï¼å¦ä½æ¥ï¼ä¸¢æ²¡ä¸¢ï¼1.å»ä¿é±å 1.0çé±æ²¡æä¸¢ï¼èªå¨çå­å¨è¢«å ±æµäººåä¸ã2.æäºå°åºæªæ¾å¼éå»ä¿é±å 1.0ï¼æäºåä¿äººæªæ¾ä½¿ç¨å»ä¿é±å 1.0è¿è¡è¿å ±æµï¼æä»¥è¿äºåä¿äººå°±ä¸å­å¨å»ä¿é±å 1.0ä½é¢ã3.å»ä¿é±å 1.0ä½é¢åªè½ç±è¢«å ±æµäººæ¥è¯¢ï¼å ±æµäººæ¬èº«çä¸ªè´¦èµéå·²å ±æµåºå»ï¼ä¸å­å¨å»ä¿é±å è¢«å ±æµä½é¢ãè¥å ±æµäººè¢«å ¶ä»åä¿äººå ±æµï¼å°",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/22/art_14_23200.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-22",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "医保共济问答，常规信息",
+          "title_cn": "医保钱包跨省共济问答第二期",
+          "one_liner": "国家医保局发布医保钱包跨省共济问答第二期，说明1.0余额查询与2.0衔接规则。",
+          "key_findings": [
+            "医保钱包1.0余额未丢失，自动留存于被共济人名下",
+            "未开通1.0或未使用过共济的参保人无1.0余额",
+            "1.0余额仅被共济人可查，共济人自身无被共济余额"
+          ],
+          "why_it_matters": "涉及医保个人账户资金跨省家庭共济，与科研人员异地家庭医疗支出安排相关，但属医保经办事务，与合成生物学研究方向无直接关联。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:6152c04bcbb46a19",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬ä¸æ",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬ä¸æ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å»ä¿é±å è·¨çå ±æµé®ç­ç¬¬ä¸æend--> æ¥æï¼2026-10-21 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ãä»ä¹æ¯ä¸ªäººè´¦æ·å»ä¿é±å è·¨çå ±æµï¼ç­ï¼ä¸ªäººè´¦æ·è·¨çå ±æµï¼å°±æ¯èå·¥å»ä¿ä¸ªäººè´¦æ·éçèµéï¼å ±æµç»å¨çå¤åä¿çè¿äº²å±ä½¿ç¨ãä¾æå ¨å½ç»ä¸çå»ä¿ä¿¡æ¯å¹³å°ï¼å ±æµäººä¸è¢«å ±æµäººå»ºç«å ±æµå ³ç³»ï¼èªå¨å¼éä¸ªäººå»ä¿é±å ï¼å ±æµäººéè¿å»ä¿é±å ä¸ºè¢«å ±æµäººè®¾å®å ±æµé¢åº¦ãè¢«å ±æµäººåçè´¹ç¨æ¶ï¼å¯ä»¥ç¨èªå·±å·²ç»è·å¾çå ±æµé¢åº¦è¿è¡æ¯ä»ï¼å®ç°èå·¥å»ä¿ä¸ªäººè´¦æ·èµéå¨è·¨çåä¿çè¿äº²å±ä¹é´äºå©å ±æµãäºãåªäºäººä¹é´å¯ä»¥è¿è¡ä¸ªäººè´¦æ",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/21/art_14_23191.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-21",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "医保共济问答，常规信息",
+          "title_cn": "医保钱包跨省共济问答第一期",
+          "one_liner": "职工医保个人账户资金可跨省共济给省外参保的近亲属使用。",
+          "key_findings": [
+            "依托全国统一医保信息平台，共济人与被共济人建立共济关系后自动开通医保钱包。",
+            "共济人通过医保钱包为被共济人设定共济额度，被共济人发生费用时可用该额度支付。",
+            "实现职工医保个人账户资金在跨省参保的近亲属之间互助共济。"
+          ],
+          "why_it_matters": "合成生物学相关的诊疗、检测与创新药支付常涉及跨省就医与家庭共济，了解个人账户跨省使用规则有助于评估相关产品与服务的支付可及性。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:ad62fc944f6784fc",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "é¿æ¤é©æ¿ç­å¾è§£",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ é¿æ¤é©æ¿ç­å¾è§£ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->é¿æ¤é©æ¿ç­å¾è§£end--> æ¥æï¼2026-10-23 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸­å½å»ä¿ï¼ä¸çå®æ¤ï¼ç»´æ¤å»ä¿åºéå®å ¨ï¼äººäººæè´£ï¼æå»æ¬ºè¯éªä¿ä¸¾æ¥çµè¯ï¼010-89061396ï¼010-89061397ï¼é®ç®±ï¼jubao@nhsa.gov.cnãend--> --> åäº«å°: --> --> --> ãæå°ã ãå ³é­ã",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/23/art_14_23207.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "长护险政策，关联有限",
+          "title_cn": "长护险政策图解",
+          "one_liner": "国家医保局发布长护险政策图解，说明长期护理保险政策要点。",
+          "key_findings": [
+            "发布形式为政策图解，梳理长护险政策框架",
+            "由国家医保局在医保动态栏目发布",
+            "发布日期为2026-10-23"
+          ],
+          "why_it_matters": "长护险与医疗支付体系相关，但属护理保障范畴，与合成生物学研发、产品审批和上市支付路径关联有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:f27ad3d5db02a1a3",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "è®©çµæ´»å°±ä¸è åä¿âä¸æéââæå»é â",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ è®©çµæ´»å°±ä¸è åä¿âä¸æéââæå»é â --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->è®©çµæ´»å°±ä¸è åä¿âä¸æéââæå»é âend--> æ¥æï¼2026-10-20 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->è¿æ¥ï¼å½å®¶å»ä¿å±ç­ä¸é¨é¨èåå°åãå ³äºå¼å±çµæ´»å°±ä¸äººåãåæ°å·¥ãæ°å°±ä¸å½¢æäººååå åºæ¬å»çä¿é©æè´¨ä¸é¡¹è¡å¨çéç¥ãï¼æç¡®é¼å±ç¸å ³äººååå èå·¥å»ä¿ï¼æå®æ¨è¿å»ä¿åä¿æè´¨æ©é¢ãå¦ä»ï¼è¶æ¥è¶å¤çæ°å°±ä¸å½¢æå³å¨è æ´»è·å¨åå¸çåä¸ªè§è½ï¼æä¸ºåå¸å³å¨å¤§åçéè¦ç»æé¨åãå¦é¨ç«è¶³ç¾¤ä¼å°±å»âæ¥é¾æç¼âï¼èç¦æ°å°±ä¸å½¢æå³å¨è ç­éç¹ç¾¤ä½åä¿å·¥ä½ï¼ç»å¯ç»ç¢å ¨æ°å»çä¿éç½ï¼è®©çµæ´»å°±ä¸äº",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/20/art_14_23167.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-20",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "灵活就业参保，民生相关",
+          "title_cn": "国家医保局等七部门开展灵活就业人员、农民工、新就业形态人员参保提质量专项行动",
+          "one_liner": "七部门联合发文，鼓励灵活就业、农民工及新就业形态人员参加职工医保，扩大参保覆盖面。",
+          "key_findings": [
+            "国家医保局等七部门联合印发通知，开展参保提质量专项行动。",
+            "明确鼓励相关人员参加职工医保，推进医保参保提质量扩面。",
+            "聚焦新就业形态劳动者等重点群体，织密全民医疗保障网。"
+          ],
+          "why_it_matters": "合成生物学博士多任职于初创企业或灵活用工平台，职工医保参保与人才落户、创业用工成本直接相关，值得关注本地落地细则。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:808a9c1f84c2527b",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "é»é¾æ±å¤æªå¹¶ä¸¾æéåºå±è¯åé å¤âæåä¸å ¬éâ",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ é»é¾æ±å¤æªå¹¶ä¸¾æéåºå±è¯åé å¤âæåä¸å ¬éâ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->é»é¾æ±å¤æªå¹¶ä¸¾æéåºå±è¯åé å¤âæåä¸å ¬éâend--> æ¥æï¼2026-10-24 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->é»é¾æ±çå»ä¿é¨é¨èç¦åºå±è¯åé å¤ä¸è¶³ãç¾¤ä¼å°±è¿è´­è¯ä¸ä¾¿ç­çç¹ï¼ä»¥å¶åº¦å»ºè®¾ãæ°æ®èµè½ãæ¿ç­ä¿éä¸ºæ ¸å¿ææï¼ååå¤é¨é¨åºå°ç³»åé å¥ä¸¾æªï¼æç»­æååºå±å»çå«çæºææå¡è½åãä¸ãå¥å ¨å¶åº¦ä½ç³»ï¼âä¸å»âååå¤¯å®é è¯åºç¡ãèåå«å¥ãä¸­å»è¯ç®¡çé¨é¨å°åãå ³äºè¿ä¸æ­¥å å¼ºç¤¾åºå«çæå¡ä¸­å¿è¯åé å¤ç®¡ççéç¥ãåãé»é¾æ±çç¤¾åºå«çæå¡ä¸­å¿å¸¸ç¨å£æè¯åæå¯¼ç®å½ï¼è¯è¡ï¼ã",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/24/art_14_23220.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "地方基层药品，弱相关",
+          "title_cn": "黑龙江多措并举打通基层药品配备“最后一公里”",
+          "one_liner": "黑龙江医保等多部门联合发文，加强社区卫生服务中心药品配备管理并发布常用口服药品指导目录。",
+          "key_findings": [
+            "医保、卫健、中医药部门联合印发社区药品配备管理通知",
+            "同步发布《社区卫生服务中心常用口服药品指导目录（试行）》",
+            "以制度建设、数据赋能、政策保障为抓手，提升基层用药可及性"
+          ],
+          "why_it_matters": "基层用药目录与配备政策影响药品落地渠道；若涉及生物药、口服制剂或检测配套，可作为产品下沉基层市场的政策参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:cddde847bfbaf9b3",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "æ°æºèµè½å»ä¿ å½±åæå¡æ°çââå½å®¶å»çä¿éå±2026å¹´âæ ¹å¨åºå±âè°ç å®è·µæ´»å¨",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ æ°æºèµè½å»ä¿ å½±åæå¡æ°çââå½å®¶å»çä¿éå±2026å¹´âæ ¹å¨åºå±âè°ç å®è·µæ´»å¨ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->æ°æºèµè½å»ä¿ å½±åæå¡æ°çââå½å®¶å»çä¿éå±2026å¹´âæ ¹å¨åºå±âè°ç å®è·µæ´»å¨end--> æ¥æï¼2026-10-20 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ºæ·±å ¥è´¯å½»è½å®ä¹ è¿å¹³æ»ä¹¦è®°å ³äºä¸­å¤®åå½å®¶æºå ³éå¹´å¹²é¨è¦ä¿®å¥½åºå±è¿é¨è¯¾çéè¦æç¤ºç²¾ç¥ï¼æ ¹æ®ä¸­å¤®åå½å®¶æºå ³å·¥å§ç»ä¸é¨ç½²ï¼å½å®¶å»çä¿éå±ç´å±æºå ³å¢å§çµå¤´ç»å»ºè°ç ç»ï¼ä»¥âå»ä¿å¤§æ°æ®å©åäººå·¥æºè½åå±ï¼èµè½äººæ°ç¾¤ä¼å¥åº·âä¸ºä¸»é¢ï¼äº2026å¹´9æ14æ¥è³17æ¥èµ´å¹¿è¥¿å£®æèªæ²»åºåæ¹åçå¼å±âæ ¹å¨åºå±âè°ç å®è·µæ´»å¨ãå½å®¶å",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/20/art_14_23174.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-20",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "医保调研活动，弱相关",
+          "title_cn": "国家医保局2026年“根在基层”调研实践：数智赋能医保影像服务民生",
+          "one_liner": "国家医保局2026年9月赴广西、湖北开展“根在基层”调研，主题为医保大数据助力人工智能发展。",
+          "key_findings": [
+            "调研时间为2026年9月14日至17日，地点为广西壮族自治区和湖北省",
+            "主题为“医保大数据助力人工智能发展，赋能人民群众健康”",
+            "由国家医保局直属机关团委牵头组建调研组开展实践"
+          ],
+          "why_it_matters": "医保大数据与AI结合可能影响医疗影像、诊断数据的合规使用与可及性，合成生物学下游的精准医疗、诊断产品开发者需关注数据政策走向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:c9648e2423ca5272",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "ä»âè¿æ ¡å­âå°âè¿è¯¾å ãè¿ä¸ä¸âï¼å»ä¿äººæå¹å »è¿åºæ°ä¸æ­¥",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ ä»âè¿æ ¡å­âå°âè¿è¯¾å ãè¿ä¸ä¸âï¼å»ä¿äººæå¹å »è¿åºæ°ä¸æ­¥ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->ä»âè¿æ ¡å­âå°âè¿è¯¾å ãè¿ä¸ä¸âï¼å»ä¿äººæå¹å »è¿åºæ°ä¸æ­¥end--> æ¥æï¼2026-10-23 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸å°éå½åéç¥ä¹¦å¯åºçå»ä¿æ¿ç­åç¥ä¹¦ãä¸å å¼å­¦ç¬¬ä¸è¯¾éçå»ä¿ç¥è¯ãä¸åº§å¼å°å­¦çèº«è¾¹çæ ¡å­å»ä¿æå¡ç«ââè¿å»å å¹´ï¼è¿æ­£å¨æä¸ºè¶æ¥è¶å¤é«æ ¡å¼å­¦å­£éççæåºæ¯ãèæ¯è¿äºæ´å¼å¾å ³æ³¨çååï¼æ­£å¨æ´æ·±å¤åçï¼ä¸äºé«æ ¡ä¸åæ»¡è¶³äºè®©å­¦çç¥éå»ä¿ãä¼ç¨å»ä¿ï¼èæ¯å¼å§æå»çä¿éå¸¦è¿ä¸ä¸è¯¾å ï¼æ¢ç´¢è¯¾ç¨ãææãä¸ä¸ä¹è³å­¦é¢å»ºè®¾ãå°¤å ¶å¯¹å»å­¦çèè¨ï¼",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/23/art_14_23209.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-23",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "医保人才培训，弱相关",
+          "title_cn": "从“进校园”到“进课堂、进专业”，医保人才培养迈出新一步",
+          "one_liner": "国家医保局推动医保教育从校园宣传延伸至高校专业课程与教材建设。",
+          "key_findings": [
+            "高校不再局限于普及医保知识，开始将医疗保障内容纳入专业课堂。",
+            "探索方向包括课程、教材、专业乃至学院建设，医学学生为重点对象。",
+            "政策告知书、开学第一课、校园医保服务站等做法已推行数年。"
+          ],
+          "why_it_matters": "合成生物学与生物医药研发日益涉及医保准入与支付政策，了解医保人才培养动向有助于判断未来产品定价与报销环境。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:7498d32217e5f765",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+            "abstract": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+            "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-24",
+            "doi": null
+          },
+          "score": 15,
+          "score_reason": "古气候研究，与关注领域无关",
+          "title_cn": "冰盖扩张或始于2000年前，但被人类活动抵消",
+          "one_liner": "研究称劳伦泰德冰盖约2000年前本应开始扩张，但被人类活动抵消。",
+          "key_findings": [
+            "劳伦泰德冰盖残迹显示，约2000年前冰盖本应开始小幅扩张。",
+            "人类活动可能抵消了这一自然扩张趋势。"
+          ],
+          "why_it_matters": "对合成生物学读者而言，该研究提示人类活动已影响地球系统的长期趋势，可为气候相关生物工程与碳管理研究提供背景参照。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
