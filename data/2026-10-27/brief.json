@@ -1,0 +1,1198 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:17:10.988963+08:00",
+  "fetched_ids": [
+    "pubmed:42926929",
+    "pubmed:42926291",
+    "pubmed:42911333",
+    "pubmed:42911324",
+    "pubmed:42920906",
+    "pubmed:42927286",
+    "pubmed:42920974",
+    "pubmed:42914453",
+    "pubmed:42914413",
+    "pubmed:42914366",
+    "pubmed:42914293",
+    "pubmed:42910295",
+    "pubmed:42926854",
+    "pubmed:42926845",
+    "pubmed:42928523",
+    "pubmed:42919565",
+    "pubmed:42912437",
+    "pubmed:42909945",
+    "pubmed:42929655",
+    "pubmed:42932165",
+    "pubmed:42932163",
+    "pubmed:42929733",
+    "pubmed:42929732",
+    "pubmed:42928449",
+    "pubmed:42928002",
+    "pubmed:42928000",
+    "pubmed:42927998",
+    "pubmed:42927995",
+    "pubmed:42927836",
+    "pubmed:42927452",
+    "pubmed:42925681",
+    "pubmed:42925512",
+    "pubmed:42928634",
+    "pubmed:42921792",
+    "pubmed:42921097",
+    "pubmed:42920780",
+    "pubmed:42920259",
+    "pubmed:42919635",
+    "pubmed:42918582",
+    "pubmed:42918359",
+    "pubmed:42913456",
+    "pubmed:42913427",
+    "pubmed:42913419",
+    "pubmed:42909840",
+    "pubmed:42909839",
+    "pubmed:42909796",
+    "pubmed:42909627",
+    "pubmed:42909530",
+    "pubmed:42918821",
+    "pubmed:42914020",
+    "pubmed:42913642",
+    "pubmed:42913640",
+    "pubmed:42911406",
+    "pubmed:42911133",
+    "pubmed:42921427",
+    "pubmed:42921034",
+    "pubmed:42914797",
+    "pubmed:42916610",
+    "pubmed:42916604",
+    "pubmed:42916600",
+    "pubmed:42916598",
+    "pubmed:42916595",
+    "pubmed:42916594",
+    "pubmed:42916593",
+    "pubmed:42916591",
+    "pubmed:42916584",
+    "pubmed:42916581",
+    "pubmed:42916580",
+    "pubmed:42916578",
+    "pubmed:42913075",
+    "pubmed:42930855",
+    "pubmed:42913609",
+    "pubmed:42913571",
+    "pubmed:42913210",
+    "pubmed:42917268",
+    "pubmed:42912594",
+    "pubmed:42926753",
+    "pubmed:42926747",
+    "pubmed:42926643",
+    "pubmed:42920929",
+    "pubmed:42920686",
+    "pubmed:42926814",
+    "pubmed:42923287",
+    "pubmed:42923257",
+    "pubmed:42916734",
+    "pubmed:42930842",
+    "pubmed:42916680",
+    "pubmed:42926609",
+    "pubmed:42917134",
+    "pubmed:42926525",
+    "pubmed:42930707",
+    "pubmed:42930552",
+    "pubmed:42910275",
+    "pubmed:42929279",
+    "pubmed:42929247",
+    "pubmed:42915882",
+    "pubmed:42915878",
+    "biorxiv:10.64898/2026.10.14.759016",
+    "biorxiv:10.64898/2026.10.21.760811",
+    "rss:ada4a502d1d24f70",
+    "rss:2ce0cff44326f176",
+    "rss:a900bf85fcc866b3",
+    "rss:95c06d4fd978106d",
+    "rss:b0c1cc0053595293",
+    "rss:85f955d500aaa882",
+    "rss:178edbeb14212c8f",
+    "rss:a7f62a39504d1dc2",
+    "rss:90fe9cd4c7a14197",
+    "rss:e6389c265d9cf343",
+    "rss:c4fa07fb944f7228",
+    "rss:b03141a56ffc98a0",
+    "rss:2cc308c47debf1b3",
+    "rss:f984538846398c5d",
+    "rss:7e047becb421904e",
+    "rss:72ac41ef6fe9a6e5",
+    "rss:2b0df1e5ef26f1fe",
+    "rss:93270cf92b4bb94f",
+    "rss:e84fafa3698bbf2d",
+    "rss:b4993eb02543d9f0",
+    "rss:3524f24cd2e5e8ac",
+    "rss:45fb41b2354f5d8c",
+    "rss:3fdfcaafe27b0a6d",
+    "rss:eb1f27937a125969",
+    "rss:c69bdef7671012d6",
+    "rss:7c85c7d2ee305ea8",
+    "rss:095e29596a6c212c",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:98a124842e0b2b40",
+    "ema:37bec1b8ee2405a4",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "ema:f85cd385d61c8305",
+    "ema:63edc587c45a99fd",
+    "pbc:3414b5296af43c62",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "pbc:d28020e17e953fbf",
+    "pbc:846ca3149106aa0f",
+    "pbc:d7a3f0f6d011e499",
+    "pbc:7ada5bfe7b29e971",
+    "pbc:66e8f10c63444589",
+    "pbc:55dfc2f3ec86c401",
+    "nhsa:95b626f04c0bfdc4",
+    "nhsa:5b4ec4eb77f49ad5",
+    "nhsa:b5189f8503527f52",
+    "nhsa:ba9f750c6cfa9625",
+    "nhsa:51378e807753c144",
+    "nhsa:808a9c1f84c2527b",
+    "nhsa:c9648e2423ca5272",
+    "nhsa:ad62fc944f6784fc",
+    "nhsa:19354a35edadd472",
+    "nhsa:824201238bf98766",
+    "rss:011555b6960ee180",
+    "rss:6b6861f5dfdd32fb",
+    "rss:12c7a1020fa4d8a1",
+    "rss:38fe6a22544b47a4",
+    "rss:915861e8a7961b82",
+    "rss:25e1b98740f4cadb",
+    "rss:5664397e2812ae8f",
+    "rss:5a60bcdb05ed68d5",
+    "rss:759fe46ed90dc751",
+    "rss:39c8c1e08705efe6",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:8d6a4fe548901c01",
+    "rss:c5fa622132a0de4e",
+    "rss:0970685988e40ee9",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:f07f836d67713430",
+    "rss:7d7feeece49366f6",
+    "rss:3bd519ca48113160",
+    "rss:1e6ff213db51b557",
+    "rss:bce5438166d3bb69",
+    "rss:8566b59c09c63065",
+    "rss:0d98df3c791f1d1a",
+    "rss:25b40a661f74cd01",
+    "rss:1d37b6b893c56add",
+    "rss:19a4895987215994",
+    "rss:9bde8c0682bafd35",
+    "rss:bff6552ca2478558",
+    "rss:c4c9153fd74acb47",
+    "rss:083958a57723973f",
+    "rss:7498d32217e5f765",
+    "rss:33319e5604b85f07"
+  ],
+  "stats": {
+    "fetched": 200,
+    "new_items": 58,
+    "kept": 37,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42926525",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineered mRNA-packaging virus-like particles enable efficient and precise mitochondrial base editing in vitro and in vivo.",
+            "abstract": "Mitochondrial DNA (mtDNA) base editors (mtBEs) are promising tools for studying and correcting pathogenic mtDNA mutations. However, the application of mtBEs is often hindered by substantial mtDNA-wide off-target editing that accumulates with prolonged mtBE expression resulting from plasmid DNA or viral delivery. To overcome this limitation, we developed mtBE-VLPs, a virus-like-particle (VLP) platform for transiently delivering mtBEs in vitro and in vivo with minimal off-target effects. While canonical protein-packaging VLPs yielded undetectable mtDNA base editing, engineered mRNA-packaging VLPs enabled efficient but transient mtBE cargo delivery. By iteratively engineering mRNA-packaging VLP compositions, we improved mtBE-VLP-mediated base editing efficiencies from less than 1% to greater than 50% across multiple target mtDNA loci in bulk populations of treated cultured cells. To further improve the packaging and delivery of certain mtBEs, we developed a strategy to selectively reduce mtBE cargo expression in VLP producer cells but not transduced cells, which increased VLP-mediated base editing efficiencies for certain mtBEs by 7.1-fold. Compared to plasmid DNA delivery in vitro , mtBE-VLPs exhibited equivalent on-target editing but 23- to 41-fold lower mtDNA-wide off-target editing, highlighting the improved editing specificity offered by transient mtBE delivery. mtBE-VLPs efficiently installed a pathogenic mtDNA mutation in mouse embryonic fibroblasts (88% efficiency) and corrected a pathogenic mtDNA mutation in a human patient-derived cell line (41% efficiency). Additionally, a single subretinal injection of mtBE-VLPs yielded 6-20% (average 12%) mtDNA base editing in the mouse retinal pigment epithelium with minimal mtDNA-wide off-target editing. These findings establish mRNA-packaging mtBE-VLPs as promising vehicles for efficient and precise mitochondrial base editing via transient mtBE delivery.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42926525/",
+            "journal": "bioRxiv : the preprint server for biology",
+            "authors": "Jang, Rodrigues Menezes, Palczewski, et al.",
+            "published": "2026-10-05",
+            "doi": "10.64898/2026.10.04.756548"
+          },
+          "score": 88,
+          "score_reason": "mRNA-VLP递送线粒体碱基编辑突破",
+          "title_cn": "工程化 mRNA 包装病毒样颗粒实现体外与体内高效精准的线粒体碱基编辑",
+          "one_liner": "mRNA 包装 VLP 瞬时递送线粒体碱基编辑器，编辑效率超 50% 且脱靶大幅降低。",
+          "key_findings": [
+            "蛋白包装 VLP 检测不到编辑，改用 mRNA 包装后实现高效瞬时递送。",
+            "迭代优化使多个 mtDNA 位点编辑效率从 <1% 提升至 >50%。",
+            "相比质粒递送，脱靶编辑低 23-41 倍；小鼠视网膜单次注射平均编辑 12%。"
+          ],
+          "why_it_matters": "为线粒体碱基编辑提供低脱靶的瞬时递送方案，对合成生物学中递送载体设计与基因治疗安全性评估有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.14.759016",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Self-extending DNA recording with stochastic and programmed writing",
+            "abstract": "Recording cellular histories requires continued information accumulation while retaining earlier records. Infinite Printer couples DNA self-extension to regeneration of a writable terminal context. A single self-targeting prime-editing guide directs repeat extension, while base editing diversifies the accessible sequence in situ. A separate configuration uses auxiliary guides for specified payload writing. After three rounds of payload input, 4,436 distinct complete records contained identities from all three pools. Extended AC/AT records retained shared upstream marks, and complete-sequence readout distinguished endpoints sharing initial prefixes. Joint single-cell readout recovered 1,549 records and 7,669 combinations across 12,302 transcriptome-linked cell labels; spatial readout linked records to 11,330 capture spots. These results establish a resource for self-extending stochastic and programmed DNA recording with joint cellular and tissue readout, providing a foundation for future lineage applications.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.14.759016v1",
+            "journal": "bioRxiv · synthetic biology",
+            "authors": "Zhang, Z.,  Li, Y.,  Peng, Y.,  Ling, R.,  Li, K.,  Cheng, M.,  Cheng, Y.,  Zhan",
+            "published": "NA",
+            "doi": "10.64898/2026.10.14.759016"
+          },
+          "score": 85,
+          "score_reason": "先导编辑DNA记录，合成生物学里程碑",
+          "title_cn": "自延伸DNA记录：随机与程序化写入",
+          "one_liner": "Infinite Printer将DNA自延伸与可写末端再生偶联，实现持续累积的细胞历史记录。",
+          "key_findings": [
+            "单一自靶向prime-editing guide驱动重复延伸，碱基编辑原位多样化序列。",
+            "三轮payload输入后获4,436条完整记录，含三池身份；单细胞读出恢复1,549条记录。",
+            "空间读出将记录关联至11,330个捕获点，实现细胞与组织联合读出。"
+          ],
+          "why_it_matters": "为合成生物学提供可编程、可扩展的DNA记录与谱系追踪工具，结合单细胞与空间读出，适合发育谱系和细胞工程研究。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42926609",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Prime editing enables high-throughput identification and characterization of selective MutSβ inhibitors.",
+            "abstract": "DNA mismatch repair (MMR) maintains genome stability but paradoxically drives expansion of pathogenic repeats responsible for trinucleotide repeat disorders. Attenuating repeat instability through targeted inhibition of MMR is therefore a therapeutic strategy of interest; however, progress is constrained by a lack of robust methods for defining and isolating MMR subpathways. We exploited features of prime editing to profile the effects of core MMR genes on thousands of programmed DNA mispairs in cells and resolved distinct MMR processes, including a noncanonical \"loop-directed\" mechanism. Guided by these results, we built a set of scalable reporters that detect loss of separable MMR processes and screened ∼72,000 small molecules for activity against MutSβ-directed MMR. This effort identified a novel series of MutSβ inhibitors that reduced (CAG) n expansion in a cell model. Altogether, this study establishes several methods for systematically interrogating MMR, with demonstrated capacity to identify inhibitors of therapeutic value.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42926609/",
+            "journal": "bioRxiv : the preprint server for biology",
+            "authors": "Jing, Yan, Yang, et al.",
+            "published": "2026-10-06",
+            "doi": "10.64898/2026.10.05.755959"
+          },
+          "score": 82,
+          "score_reason": "先导编辑筛选MutSβ抑制剂，基因编辑",
+          "title_cn": "利用 prime editing 高通量鉴定和表征选择性 MutSβ 抑制剂",
+          "one_liner": "借助 prime editing 解析 MMR 亚通路，并筛选出可减少 (CAG)n 扩增的 MutSβ 抑制剂。",
+          "key_findings": [
+            "用 prime editing 在细胞内对数千个程序化 DNA 错配进行 profiling，解析出包括非经典 loop-directed 在内的不同 MMR 过程。",
+            "据此构建可扩展报告系统，筛选约 72,000 个小分子，获得新型 MutSβ 抑制剂系列。",
+            "候选抑制剂在细胞模型中减少 (CAG)n 扩增。"
+          ],
+          "why_it_matters": "为三核苷酸重复疾病的治疗提供新靶点与先导化合物；prime editing 筛选平台也可用于其他 DNA 修复通路的通路解析与药物发现。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42929733",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Programmable Engineered Living Vehicles as Autonomous Biofactories for Synergistic Osteomyelitis Management and Bone Regeneration.",
+            "abstract": "Conventional static biomaterials and synthetic nanomedicines struggle to penetrate recalcitrant biofilms and orchestrate tissue regeneration in deep-seated infections due to limited autonomous navigation and a lack of spatiotemporal responsiveness. Here, we conceptualize and develop a programmable engineered living vehicle (ELV) that functions as an autonomous biofactory for the synergistic management of drug-resistant osteomyelitis. Built upon a self-propelled Escherichia coli Nissle 1917 chassis with innate ecological dominance, these living biofactories are hierarchically equipped with environmental biosensors and logic-gated computing modules. Crucially, leveraging AlphaFold 3-guided molecular docking, we engineered multiscale thermo-responsive genetic logic circuits that enable precise, temperature-dependent biomanufacturing of bacteriolytic lysostaphin (LYS) and vasoactive intestinal peptide (VIP) (≥37°C), coupled with a fail-safe thermal self-destruct mechanism (≥42°C). Furthermore, surface-engineered (DSS)6 peptides confer robust hydroxyapatite affinity, acting as a bone-homing navigation module. In a rat osteomyelitis model induced by methicillin-resistant Staphylococcus aureus (MRSA), intravenously deployed ELV biofactories autonomously navigate to the infected niche, actively penetrate biofilms, and outperform vancomycin in pathogen clearance. Concurrently, localized payload secretion reprograms the osteo-immune microenvironment, significantly accelerating bone repair. This work establishes a versatile paradigm for next-generation smart living therapeutics, bridging synthetic biology with micro-engineering to address complex clinical challenges.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42929733/",
+            "journal": "Advanced materials (Deerfield Beach, Fla.)",
+            "authors": "Lan, Liu, Shi, et al.",
+            "published": "2026-10-26",
+            "doi": "10.1002/adma.75118"
+          },
+          "score": 78,
+          "score_reason": "AlphaFold3设计基因线路活体工厂",
+          "title_cn": "可编程工程化活体载药系统：自主生物工厂协同治疗骨髓炎并促进骨再生",
+          "one_liner": "工程化大肠杆菌Nissle 1917作为自主生物工厂，可靶向生物膜、清除MRSA并促进骨修复。",
+          "key_findings": [
+            "基于EcN底盘集成环境传感器与逻辑门控计算模块，实现自主导航与靶向。",
+            "AlphaFold 3辅助设计温控遗传线路，≥37°C产LYS与VIP，≥42°C自毁。",
+            "表面(DSS)6肽赋予骨靶向性；大鼠MRSA骨髓炎模型中疗效优于万古霉素。"
+          ],
+          "why_it_matters": "展示合成生物学活体治疗在耐药深部感染与骨再生中的潜力，其逻辑门控与温控安全设计对工程菌疗法开发有直接借鉴价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42927995",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "From cell factories to photobiocatalysts: reengineering cyanobacteria for solar-driven chemical manufacturing.",
+            "abstract": "To achieve more sustainable, light-powered chemical manufacturing, cyanobacterial engineering is expanding from conventional carbon-accumulating \"cell factories\" toward the complementary use of cyanobacteria as \"whole-cell photobiocatalysts.\" This review critically examines this conceptual extension. By shifting the engineering focus from carbon-centric biosynthesis to electron- and energy-coupled catalysis, this emerging approach partially decouples target-product formation from the de novo assembly of CO2-derived carbon skeletons. Instead, it exploits photosynthetically generated reducing equivalents and ATP to support redox and energy-dependent enzymatic transformations, thereby reducing dependence on external cofactor- or energy-regeneration systems. We outline a multidimensional engineering framework that integrates carbon-flux redirection (\"push\"), coupling to photosynthetically generated reducing equivalents and ATP (\"drive\"), and product-removal-driven \"pull\" through secretion, volatilization, or in situ extraction. We further highlight advances in light-tolerant and stress-robust cyanobacterial chassis, together with emerging process strategies based on attached-growth and biofilm photobioreactors. We also critically consider genetic instability, variable enzyme-coupling efficiency, and scale-dependent light and mass-transfer limitations. Finally, we discuss the biophysical and energetic limits of light-to-chemical conversion, competition for reducing power, the largely conceptual potential of temporally decoupled light harvesting and dark-phase catalysis, and the need to select economically viable target products using rigorous techno-economic and life-cycle analyses. Collectively, this review provides conceptual and practical guidance for developing sustainable photosynthetic biomanufacturing platforms.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42927995/",
+            "journal": "Critical reviews in biotechnology",
+            "authors": "Pan, Liu, Chen, et al.",
+            "published": "2026-10-25",
+            "doi": "10.1080/07388551.2026.2741611"
+          },
+          "score": 72,
+          "score_reason": "蓝细菌光生物催化工程，合成生物学",
+          "title_cn": "从细胞工厂到光生物催化剂：重编程蓝细菌用于太阳能驱动的化学品制造",
+          "one_liner": "综述提出将蓝细菌从碳积累型细胞工厂拓展为全细胞光生物催化剂，利用光合还原力与ATP驱动酶催化。",
+          "key_findings": [
+            "提出\"推—驱—拉\"多维工程框架：碳流重定向、耦联光合还原力与ATP、产物分泌或原位提取。",
+            "强调耐光、抗逆蓝细菌底盘及附着生长、生物膜光生物反应器等过程策略。",
+            "指出遗传不稳定、酶耦联效率波动及光与传质尺度限制等瓶颈。"
+          ],
+          "why_it_matters": "为合成生物学提供从碳基合成转向电子与能量耦联催化的设计思路，可降低对外部辅因子再生系统的依赖，对光合生物制造与酶工程方向有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42929247",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Adaptive Laboratory Evolution Rewires Pseudomonas putida for Resource-Efficient Acetate Assimilation.",
+            "abstract": "Acetate is an attractive renewable two-carbon substrate for microbial biotechnology, but toxicity limits growth and carbon-use efficiency at process-relevant concentrations. Here, we used adaptive laboratory evolution to improve acetate tolerance in a genome-reduced strain of Pseudomonas putida and combined whole-genome sequencing, quantitative physiology, reverse engineering, transcriptomics, proteomics and 13C-acetate fluxomics to resolve the underlying adaptation mechanisms. Evolution under increasing acetate concentrations selected recurrent mutations in gacA and fabB, which encode a global response regulator and a fatty acid biosynthesis enzyme, respectively. Reverse engineering of these mutations recapitulated most of the evolved phenotype, including shorter lag phase and substantially higher biomass yield from acetate. Multi-omic analyses showed repression of type VI secretion systems, carbohydrate storage functions, fatty acid metabolism and oxidative stress-associated proteins, indicating resource reallocation away from costly stress and non-essential programs. Fluxomics further revealed reduced carbon cycling and increased glyoxylate shunt flux, consistent with improved acetate-carbon retention in biomass. These results establish acetate tolerance in P. putida as a resource-efficiency phenotype and identify gacA and fabB as actionable targets for acetate-based bioproduction.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42929247/",
+            "journal": "Microbial biotechnology",
+            "authors": "Gurdo, Srinivasan, Tagliani, et al.",
+            "published": "2026-10-01",
+            "doi": "10.1111/1751-7915.70459"
+          },
+          "score": 72,
+          "score_reason": "ALE+多组学解析乙酸利用，方法可借鉴",
+          "title_cn": "适应性实验室进化重塑恶臭假单胞菌以实现高效的乙酸同化",
+          "one_liner": "适应性进化通过gacA和fabB突变提升恶臭假单胞菌乙酸耐受性与生物量得率。",
+          "key_findings": [
+            "在递增乙酸浓度下进化，反复筛选到gacA与fabB突变，反向工程可重现大部分进化表型。",
+            "多组学显示T6SS、糖储存、脂肪酸代谢及氧化应激蛋白被抑制，资源重新分配。",
+            "13C通量组学显示碳循环降低、乙醛酸支路通量升高，乙酸碳更多保留于生物量。"
+          ],
+          "why_it_matters": "为以乙酸为廉价碳源的合成生物学底盘改造提供可操作靶点，契合深圳微生物制造与低碳生物合成方向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42928634",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Progress and perspectives in nitrogenase engineering in plants and yeast.",
+            "abstract": "Crop productivity relies on synthetic nitrogen fertilizers, which entail significant economic and environmental costs. Engineering crop plants to produce nitrogenase allowing them to acquire nitrogen from the atmosphere offers a transformative approach to sustainable agriculture. However, engineering the nitrogenase pathway into eukaryotic cells poses significant challenges due to the enzyme metal clusters, high energy demands, and extreme sensitivity to oxygen. This review summarizes recent advances in nitrogenase engineering in yeast and plants. Progress has been made using a stepwise modular approach and a functional validation pipeline for core and ancillary nitrogenase proteins. Key milestones include recovery of NifH with in vitro activity from mitochondria and chloroplasts, production of NifB that is active upon isolation or after in vitro cluster reconstitution, production of NifB-co in yeast mitochondria, in vitro FeMo-co biosynthesis using proteins purified from yeast mitochondria, and recovery of nitrogenase components from transgenic rice with activity demonstrated in vitro. Complete nitrogenase activity in engineered yeast or plants has not yet been demonstrated. We discuss the importance of organelle targeting, the exploitation of natural diversity and engineered proteins, and synthetic biology tools for the assembly of multigene pathways. Finally, we present the main remaining obstacles, such as the assembly of functional NifDK in plants, integration with host metabolism and coordinated regulation, and we outline the prospects for the development of nitrogen-fixing crops.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42928634/",
+            "journal": "Journal of experimental botany",
+            "authors": "Paganelli, Curatti, González-Guerrero, et al.",
+            "published": "2026-10-23",
+            "doi": "10.1093/jxb/erag540"
+          },
+          "score": 70,
+          "score_reason": "固氮酶工程化植物酵母，合成生物学",
+          "title_cn": "植物与酵母中固氮酶工程的研究进展与展望",
+          "one_liner": "综述植物与酵母固氮酶工程进展：多个核心蛋白已获体外活性，但完整固氮酶活性尚未实现。",
+          "key_findings": [
+            "采用分步模块化策略与功能验证流程，已从线粒体和叶绿体中获得具体外活性的NifH",
+            "在酵母线粒体中产出NifB与NifB-co，并用酵母纯化蛋白实现体外FeMo-co生物合成",
+            "转基因水稻中回收的固氮酶组分具体外活性，但酵母或植物中完整固氮酶活性仍未证实"
+          ],
+          "why_it_matters": "为固氮作物这一合成生物学重大目标提供路线图与障碍清单，对多基因通路组装、细胞器靶向与金属簇工程有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42928000",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Bacterial-fungal cross-kingdom interactions in synthetic consortia: boosting secondary metabolites and sustainable food fermentation.",
+            "abstract": "Bacterial-fungal consortia (BFC) consistently outperform aseptic or single-species cultures in producing high-value secondary metabolites, yet the underlying cross-kingdom interaction mechanisms remain poorly understood. In food fermentations, BFCs enhance process robustness, substrate turnover, and bioactive profiles for sustainable functional foods. In these consortia, bacteria and fungi engage in complex cooperative and competitive interactions, involving signaling molecules, genetic regulation, and metabolic flux redistribution to enhance secondary metabolite yields. Based on the ecological compatibility and molecular communication mechanisms, a synthetic microbiology framework for constructing high-yield BFCs was proposed. This systematic approach included selecting appropriate coculture partners, setting up the BFC, and optimizing cultivation conditions. Functional BFCs can be effectively applied to: food fermentation, improving fermentation efficiency, nutritional value, flavor complexity, and food safety. The review provides an overview of BFCs for secondary metabolite production, with emphasis on their cross-kingdom communication mechanisms. It explores the construction and optimization of BFCs and their applications in food fermentation, identifying future directions for enhancing secondary metabolite yields.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42928000/",
+            "journal": "Critical reviews in biotechnology",
+            "authors": "Sun, Jin, Liu, et al.",
+            "published": "2026-10-25",
+            "doi": "10.1080/07388551.2026.2743742"
+          },
+          "score": 68,
+          "score_reason": "细菌真菌合成菌群互作，合成生物学",
+          "title_cn": "合成菌群中细菌-真菌跨界互作：提升次级代谢产物与可持续食品发酵",
+          "one_liner": "综述细菌-真菌合成菌群通过跨界信号与代谢重分配提升次级代谢产物产量与食品发酵性能。",
+          "key_findings": [
+            "细菌-真菌菌群在次级代谢产物产量上稳定优于单菌或无菌培养，但跨界互作机制尚不清楚。",
+            "互作涉及信号分子、基因调控与代谢流重分配，兼具合作与竞争。",
+            "提出构建高产菌群的合成微生物学框架：选配伴侣、组建菌群、优化培养条件。"
+          ],
+          "why_it_matters": "为合成生物学提供跨界菌群设计思路，可用于高值次级代谢产物生产与食品发酵增效，与深圳合成生物制造方向契合。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42930707",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Hyperproduction of a Fungal Natural Product, Calcarisarbulide A, From a Synthetic Transcriptional Cascade.",
+            "abstract": "Effective hyperproduction of fungal natural products (NPs) is one of the challenges in their pharmaceutical development. Calcarisarbulide A (1) is a promising anti-liver-fibrosis NP from the endophyte Calcarisporium arbuscula. Here, based on a hybrid transcription factor used to awaken the cal gene cluster (GC) in C. arbuscula and genetic engineering to block the biotransformation of 1, a yield of 1.13 g/L was obtained. To produce 1 more safely and at higher yields, heterologous expression in Aspergillus was demonstrated. However, the yields of 1 were much lower in A. nidulans and A. terreus, likely due to the endogenous metabolism of 1. In A. oryzae, where 1 is not metabolized, a synthetic transcriptional cascade was developed from the A. nidulans afo GC to produce 1.31 g/L of 1. Further aspartic acid feeding led to a 2.62 g/L yield. Our work provides a new synthetic biology strategy for the efficient production of bioactive fungal NPs.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42930707/",
+            "journal": "Journal of fungi (Basel, Switzerland)",
+            "authors": "Xie, Wang, Wang, et al.",
+            "published": "2026-10-03",
+            "doi": "10.3390/jof12100742"
+          },
+          "score": 65,
+          "score_reason": "合成转录级联高产天然产物",
+          "title_cn": "利用合成转录级联实现真菌天然产物 Calcarisarbulide A 的高产",
+          "one_liner": "在米曲霉中构建合成转录级联，使抗肝纤维化真菌天然产物产量达 2.62 g/L。",
+          "key_findings": [
+            "先用杂合转录因子激活 cal 基因簇并阻断产物转化，在原始菌株中产量达 1.13 g/L。",
+            "异源表达显示，构巢曲霉和土曲霉会代谢产物，而米曲霉不代谢，因此更适合作为生产宿主。",
+            "在米曲霉中构建基于 afo 基因簇的合成转录级联，产量达 1.31 g/L；补加天冬氨酸后提升至 2.62 g/L。"
+          ],
+          "why_it_matters": "该研究展示了通过合成转录级联和宿主选择实现真菌天然产物高产，为抗肝纤维化先导化合物的规模化制备提供可借鉴的合成生物学策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42929732",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Mechanistic insights into atmospheric and room-temperature plasma (ARTP)-induced genomic alterations and phenotypic evolution in Saccharomyces cerevisiae.",
+            "abstract": "UNLABELLED: Atmospheric and room-temperature plasma (ARTP) is a potent tool for microbial strain engineering; however, the mechanistic basis of its genome-wide mutagenic effects remains poorly understood. Utilizing Saccharomyces cerevisiae as a model, we performed a comprehensive characterization of the mutational landscape and DNA repair pathways elicited by ARTP. Under high-lethality conditions (~99% mortality), ARTP treatment induced a substantial mutational burden, with SNVs and InDels rates increasing 25.2- and 36.7-fold relative to untreated controls, respectively. These mutations exhibited a pronounced bias toward C-T/G-A and A-T/T-A substitutions and InDels within AT-rich regions. Remarkably, the frequency of loss of heterozygosity (LOH) surged 57.4-fold, suggesting a potent capacity for inducing DNA breaks. Through sectored colony assays, we demonstrate that ARTP primarily inflicts pre-replicative double-strand breaks (DSBs), with reciprocal crossovers serving as the predominant driver of terminal LOH. The distribution and pattern of LOH were also altered in ARTP-treated cells. Mechanistically, our study establishes that the translesion synthesis polymerases Rev1 and Pol ζ are indispensable for converting ARTP-induced lesions-likely pyrimidine dimers-into fixed point mutations. In contrast, Rad30 facilitates high-fidelity bypass across these dimers. The base excision repair pathway appears largely dispensable for the processing of these lesions. In contrast, the nucleotide excision repair pathway plays a predominant role in mitigating ARTP-induced mutations. Finally, the strategic application of iterative ARTP mutagenesis facilitated the rapid evolution of acetate-tolerant strains. Our findings provide fundamental insights into the molecular signatures of ARTP mutagenesis, offering a framework for its optimized application in directed evolution.\nIMPORTANCE: While ARTP is a cornerstone of non-thermal mutagenesis in industrial biotechnology, its genetic impact has long been treated as a \"black box.\" This study provides a high-resolution molecular dissection of ARTP-induced genomic alterations using a diploid yeast model. We demonstrate that ARTP is not merely a source of point mutations but a potent catalyst for pre-replicative double-strand breaks and extensive mitotic recombination. By elucidating the pivotal roles of specific DNA repair pathways in mutation fixation, we transition ARTP from a purely empirical screening tool to a mechanistically grounded platform for directed evolution. Furthermore, we demonstrate the practical utility of this platform by evolving acetate-tolerant strains and identifying the underlying genetic drivers of their resilience.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42929732/",
+            "journal": "Applied and environmental microbiology",
+            "authors": "Sheng, Yao, Liu, et al.",
+            "published": "2026-10-26",
+            "doi": "10.1128/aem.00955-26"
+          },
+          "score": 62,
+          "score_reason": "ARTP诱变机制，定向进化相关",
+          "title_cn": "常压室温等离子体（ARTP）诱导酿酒酵母基因组变异与表型进化的机制解析",
+          "one_liner": "ARTP主要通过复制前双链断裂与易错聚合酶固定嘧啶二聚体损伤，引发大量突变与LOH。",
+          "key_findings": [
+            "高致死条件下SNV与InDel分别升高25.2与36.7倍，LOH激增57.4倍，偏好C-T/G-A与AT富集区InDel。",
+            "ARTP主要造成复制前双链断裂，交互交换是终末LOH主因；Rev1与Pol ζ负责易错跨损伤合成固定突变。",
+            "核苷酸切除修复主导清除损伤，碱基切除修复基本不参与；迭代ARTP可快速进化出耐乙酸菌株。"
+          ],
+          "why_it_matters": "为ARTP诱变提供分子机制与突变谱框架，可指导合成生物学中菌株定向进化与突变库设计，提升筛选效率。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42929279",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Proteoliposome Preparation and Functional Reconstitution of Human Mitochondrial Transporters Via Wheat Germ Cell-Free Expression System.",
+            "abstract": "Mitochondrial membrane proteins play a crucial role in the transport of metabolites essential to cellular metabolism, and their dysfunction is linked to a wide range of metabolic diseases. Here, we present a method for the expression, reconstitution, and analysis of members of the solute carrier family 25 (SLC25), the largest family of human mitochondrial transport proteins, using the wheat germ cell-free protein synthesis (WG-CFPS) system. This approach enables the generation of proteoliposomes containing a defined and highly purified protein species. This workflow enables efficient production of active membrane proteins without the limitations of a cell-based expression system, such as aggregation into inclusion bodies, the need for purification, and the cytotoxic effects of membrane protein overexpression. SLC25A11 and SLC25A21 proteins, as examples of human mitochondrial transporters, are directly translated into asolectin liposomes in the presence of the non-ionic detergent Brij-35. Later, to form proteoliposomes suitable for downstream transport assays, the proteins were reconstituted into a substrate-loaded liposome. The article provides detailed procedures for template preparation, cell-free expression, proteoliposome assembly, and validation of incorporated protein transport activity. This method, by reducing the time required to express, purify, and reconstitute membrane proteins, provides a platform for studying human mitochondrial metabolite transport activity. Once the reagents and plasmid are prepared, the complete work, from protein expression to functional analysis, can be completed within 3 days. © 2026 The Author(s). Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Plasmid design and development Basic Protocol 2: Cell-free protein expression Basic Protocol 3: Active reconstitution and evaluation of transport activity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42929279/",
+            "journal": "Current protocols",
+            "authors": "Kharaghani, Deng, Su",
+            "published": "2026-10-01",
+            "doi": "10.1002/cpz1.70500"
+          },
+          "score": 60,
+          "score_reason": "小麦胚无细胞表达膜蛋白，无细胞系统",
+          "title_cn": "小麦胚芽无细胞体系表达人线粒体转运蛋白并制备蛋白脂质体与功能重建",
+          "one_liner": "用小麦胚芽无细胞体系直接表达SLC25转运蛋白并重建入脂质体，3天内完成功能检测。",
+          "key_findings": [
+            "以SLC25A11、SLC25A21为例，在Brij-35存在下将蛋白直接翻译进脂质体",
+            "再重建为载底物脂质体，用于下游转运活性测定",
+            "避开包涵体聚集、纯化与过表达毒性等细胞体系限制"
+          ],
+          "why_it_matters": "为膜转运蛋白提供快速表达与功能验证平台，适合合成生物学中转运元件表征及线粒体代谢研究。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42927998",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Sustainable biomanufacturing of rare ginsenosides from Panax notoginseng: a critical review.",
+            "abstract": "Rare ginsenosides (e.g. C-K, Rg3, Rh2) hold therapeutic promise but are severely constrained by low natural abundance. This review critically examines the entire biomanufacturing pipeline from green extraction to multi-modal conversion and de novo biosynthesis. Unlike previous reviews focusing on single technologies, this work systematically evaluates physical, chemical, and biological strategies and proposes an integrated upstream-midstream-downstream framework. Physical and chemical conversion methods can produce rare ginsenosides from abundant common precursors in Panax notoginseng, yet suffer from harsh conditions, poor selectivity, and C-20 epimeric mixtures. Biotransformation offers high regioselectivity, mild conditions, and retention of the desired 20(S)-configuration. However, distinct challenges exist such as microbial whole-cell fermentation suffers from complex metabolic networks, long cycles, and difficult separation, while enzymatic catalysis faces high enzyme costs, poor stability, and single-step limitations. Notably, while de novo biosynthesis draws upon key enzyme genes from Panax notoginseng to theoretically eliminate plant dependence, facing metabolic burden, low titers, and high costs, remain far from industrial viability. We highlight biocatalytic strengths including enzyme-mediated precise deglycosylation and recent breakthroughs in directed enzyme engineering for single products. From a techno-economic perspective, enzymatic conversion remains the most competitive route for producing rare ginsenosides at present, whereas de novo biosynthesis currently lacks the efficiency and economic feasibility to replace it.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42927998/",
+            "journal": "Critical reviews in biotechnology",
+            "authors": "Liang, Tian, Zhao, et al.",
+            "published": "2026-10-25",
+            "doi": "10.1080/07388551.2026.2728003"
+          },
+          "score": 58,
+          "score_reason": "稀有皂苷生物制造综述，常规",
+          "title_cn": "三七稀有皂苷可持续生物制造：关键综述",
+          "one_liner": "综述系统评估三七稀有皂苷各制造路线，认为酶催化转化目前最具经济竞争力。",
+          "key_findings": [
+            "物理化学转化条件苛刻、选择性差，且易产生 C-20 差向异构体混合物。",
+            "生物转化区域选择性高、条件温和，可保留 20(S)-构型，但全细胞发酵周期长、分离难。",
+            "从头生物合成仍受代谢负担、低滴度和高成本限制，尚不具备工业化可行性。"
+          ],
+          "why_it_matters": "为合成生物学选品与路线决策提供技术经济对比：酶法转化短期可落地，从头合成仍是待攻克的工程化目标。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.21.760811",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Metabolic engineering of Yarrowia lipolytica for higher fatty alcohol production",
+            "abstract": "Fatty alcohols are versatile chemicals with growing demand across a broad range of industries, yet conventional production methods pose environmental challenges. Microbial biosynthesis offers a promising alternative, if hosts can be engineered to achieve high product titers. The industrially relevant oleaginous yeast Yarrowia lipolytica is well suited to this challenge because of its natural capacity for lipid metabolism. Here, we engineered Y. lipolytica W29 for fatty alcohol production by disrupting pathways involved in lipogenesis and fatty alcohol oxidation, identifying fatty alcohol oxidation as a major constraint on product accumulation. Initial engineering yielded fatty alcohol titers of 2.5 g/L from 40 g/L glucose. Subsequent optimization of media supplements and nutrient concentrations, combined with deletion of the citrate transporter CEX1 and addition of 1% Tergitol to the extractive culture medium, increased titers to 10.9 g/L in shake flasks with 80 g/L glucose and a carbon-to-nitrogen ratio of 60. Scaling the process to fed-batch bioreactor cultivation further increased titers to 19.4 g/L. These results demonstrate that combining metabolic engineering with medium and process optimization enables high-titer fatty alcohol production in Y. lipolytica.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760811v1",
+            "journal": "bioRxiv · synthetic biology",
+            "authors": "Joseph, E.,  Eminli, F.,  Tohidifar, P.,  Jagtap, S. S.,  Rao, C. V.",
+            "published": "NA",
+            "doi": "10.64898/2026.10.21.760811"
+          },
+          "score": 58,
+          "score_reason": "解脂耶氏酵母代谢工程，常规优化",
+          "title_cn": "解脂耶氏酵母代谢工程实现高滴度脂肪醇生产",
+          "one_liner": "改造解脂耶氏酵母并优化培养基与补料工艺，脂肪醇滴度提升至19.4 g/L。",
+          "key_findings": [
+            "敲除脂肪醇氧化途径是提高积累的关键，初始工程菌产2.5 g/L脂肪醇。",
+            "优化培养基并敲除柠檬酸转运体CEX1、添加1% Tergitol，摇瓶达10.9 g/L。",
+            "补料分批生物反应器放大后滴度进一步提高至19.4 g/L。"
+          ],
+          "why_it_matters": "解脂耶氏酵母是合成生物学常用底盘，该工作给出从途径改造到培养基与工艺放大的完整提产路径，对高值脂质化学品产业化有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42928002",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "The historical evolution of CHO cell line development for biologics production: 60 years and still counting.",
+            "abstract": "Chinese Hamster Ovary (CHO) cells have played a central role in the production of therapeutic proteins since their initial isolation in the 1950s. Over the decades, scientific innovations have transformed CHO cells into the powerhouse of the biopharmaceutical industry. From rudimentary culture conditions and random integration of transgenes into the host genome, to synthetic biology, genetic engineering, high-performing chemically defined media, targeted transgene integration and AI-driven cell line development strategies, each decade has introduced transformative tools, knowledge, and insights to improve CHO cell line development and characterization processes. This review outlines the chronological history of the CHO cell line development process, decade by decade, highlighting central milestones and innovations, technological breakthroughs, and the role of key innovative steps that have enabled modern cell line development workflows and ultimately the industrial-scale manufacturing of biologics.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42928002/",
+            "journal": "Critical reviews in biotechnology",
+            "authors": "Fieder, Schneider, Fischer",
+            "published": "2026-10-25",
+            "doi": "10.1080/07388551.2026.2738418"
+          },
+          "score": 55,
+          "score_reason": "CHO细胞株发展史，生物制药常规",
+          "title_cn": "CHO细胞系开发的历史演变：60年生物药生产之路",
+          "one_liner": "综述按十年梳理CHO细胞系开发历程，从随机整合到合成生物学与AI驱动。",
+          "key_findings": [
+            "CHO细胞自1950年代分离以来，逐步成为生物药生产核心平台。",
+            "技术演进涵盖化学限定培养基、靶向转基因整合与AI辅助细胞系开发。",
+            "各十年关键里程碑共同支撑现代细胞系开发与工业规模生产。"
+          ],
+          "why_it_matters": "对合成生物学研究者，可快速把握CHO底盘改造与靶向整合、AI设计的历史脉络，为细胞工厂构建提供参照。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42927836",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Microscale zero-valent iron enhances light-dependent inorganic carbon assimilation in a Shewanella oneidensis-Rhodopseudomonas palustris coculture.",
+            "abstract": "Microbial carbon dioxide (CO2) fixation driven by solid electron donors is often constrained by interfacial electron transfer. Here, we evaluated microscale zero-valent iron (mZVI) in an illuminated, anoxic coculture of Shewanella oneidensis and Rhodopseudomonas palustris using physiological, isotopic, electrochemical and metatranscriptomic analyses. Under photoautotrophic conditions, 200 mg L-1 mZVI increased the peak optical density at 600  nm (OD600) from 0.36 to 0.80 and mixed-biomass δ13C from 3038.60 ‰ to 3503.65‰. Bulk OD600 increased in nanoscale zero-valent iron cultures, although extracellular lactate dehydrogenase release was 37.4% higher than with mZVI, consistent with greater membrane damage. With 10  mM succinate, mZVI increased the coculture peak OD600 from 0.682 to 0.927. Ferrozine lowered the mZVI-associated biomass response by 13-31% but did not abolish it, indicating that soluble Fe(II) contributed without fully accounting for the phenotype. Microscale magnetite produced a comparable peak OD600 (0.813), although its reversible Fe(II)/Fe(III) cycling precluded attribution to solid-state conduction alone. A lactate-nitrate diagnostic assay showed that the additional coculture growth was not reproduced by cell-free spent medium or membrane separation, indicating a requirement for close association. Extracellular appendages, enhanced anodic currents, increased expression of S. oneidensis electron-transfer genes and R. palustris carbon-assimilation genes, and lower pioABC expression were consistent with mineral-associated interspecies electron transfer beyond soluble Fe(II) shuttling. However, the relative contributions of direct contact, flavins and surface iron cycling remain unresolved. The response required illumination. Microscale iron minerals may therefore provide a biocompatible electron-transfer interface for CO2-fixing consortia at illuminated anoxic biointerfaces.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42927836/",
+            "journal": "Bioresource technology",
+            "authors": "Lu, Shen, Guan",
+            "published": "2026-10-25",
+            "doi": "10.1016/j.biortech.2026.136120"
+          },
+          "score": 50,
+          "score_reason": "零价铁促固碳共培养，相关但常规",
+          "title_cn": "微米级零价铁增强 Shewanella oneidensis 与 Rhodopseudomonas palustris 共培养的光依赖无机碳同化",
+          "one_liner": "微米级零价铁通过矿物界面电子传递，显著提升光照厌氧共培养的固碳与生物量。",
+          "key_findings": [
+            "200 mg/L mZVI 使光自养共培养 OD600 从 0.36 升至 0.80，混合生物量 δ13C 明显升高。",
+            "铁还原螯合剂仅部分削弱效应，且无细胞上清或膜分隔不能复现，提示需细胞-矿物紧密接触。",
+            "转录组显示 S. oneidensis 电子传递基因与 R. palustris 固碳基因上调，pioABC 下调。"
+          ],
+          "why_it_matters": "为合成生物学提供低成本铁基电子界面提升光驱动 CO2 固定，可启发固碳菌群共培养与生物电合成设计。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:eb1f27937a125969",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
+            "abstract": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer.",
+            "url": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "默沙东ADC三期死亡风险降三分之一",
+          "title_cn": "默克ADC药物在晚期子宫内膜癌III期试验中降低死亡风险三分之一",
+          "one_liner": "默克与科伦博泰的ADC在晚期子宫内膜癌III期试验中降低死亡风险三分之一。",
+          "key_findings": [
+            "III期试验显示该靶向ADC将晚期子宫内膜癌患者死亡风险降低三分之一。",
+            "药物由默克与中国科伦博泰联合开发，属ADC偶联药物。",
+            "针对晚期子宫内膜癌，具体ORR与PFS数据摘要未披露。"
+          ],
+          "why_it_matters": "ADC是当前肿瘤药物开发热点，中国Biotech参与全球III期并读出阳性终点，对关注偶联药物与中外合作管线的研发人员有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:3524f24cd2e5e8ac",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "Roche gets a lung cancer win with its KRAS drug divarasib",
+            "abstract": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+            "url": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "罗氏KRAS药物肺癌阳性数据",
+          "title_cn": "罗氏KRAS药物divarasib在肺癌治疗中取得积极数据",
+          "one_liner": "罗氏KRAS药物divarasib在ESMO公布肺癌积极数据，被视为大会亮点之一。",
+          "key_findings": [
+            "罗氏divarasib为KRAS靶向药，本次用于治疗肺癌。",
+            "数据在ESMO年会公布，被评本届较亮眼数据集之一。"
+          ],
+          "why_it_matters": "KRAS曾长期被视为不可成药靶点，新一代抑制剂临床数据对靶向药研发与联合疗法设计有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:178edbeb14212c8f",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#ESMO26: SystImmune/BMS and Hengrui detail data in EGFR-mutant lung cancer",
+            "abstract": "MADRID — Several drugmakers with antibody-drug conjugates are jockeying for a spot in EGFR-mutant non-small cell lung cancer patients who progress after AstraZeneca’s Tagrisso. And it seems that the most intriguing results are coming out of ...",
+            "url": "https://endpoints.news/esmo26-systimmune-bms-and-hengrui-detail-data-in-egfr-mutant-lung-cancer/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "EGFR突变肺癌ADC关键数据",
+          "title_cn": "ESMO26：SystImmune/BMS与恒瑞公布EGFR突变肺癌ADC数据",
+          "one_liner": "ESMO 2026上，SystImmune/BMS与恒瑞分别公布EGFR突变NSCLC在奥希替尼耐药后的ADC数据。",
+          "key_findings": [
+            "两项数据聚焦EGFR突变NSCLC患者，即奥希替尼（Tagrisso）治疗后进展的人群。",
+            "多家ADC药企正争夺该耐药人群的后续治疗位置，SystImmune/BMS与恒瑞的数据最受关注。",
+            "摘要未披露具体ORR、PFS等数值，需查阅ESMO报告原文。"
+          ],
+          "why_it_matters": "ADC是实体瘤合成生物学与偶联技术的重要落地方向；EGFR突变NSCLC奥希替尼耐药后存在明确未满足需求，值得跟踪后续疗效与安全性数据。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:7c85c7d2ee305ea8",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Five biotech updates to read after ESMO this weekend",
+            "abstract": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel.",
+            "url": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 76,
+          "score_reason": "mRNA癌症疫苗冲刺FDA申报",
+          "title_cn": "ESMO后值得关注的五项生物技术动态",
+          "one_liner": "Moderna与Merck正加速推进个体化癌症疫苗的FDA申报，预计2027年提交。",
+          "key_findings": [
+            "Moderna CEO Bancel表示，个体化癌症疫苗的FDA申报预计于2027年提交。",
+            "Moderna与Merck正就这款个体化癌症疫苗展开申报竞速。",
+            "该动态属于ESMO大会后值得关注的五项生物技术更新之一。"
+          ],
+          "why_it_matters": "个体化癌症疫苗是mRNA疗法的重要落地场景，其申报节奏与监管路径对合成生物学背景的读者判断mRNA肿瘤免疫赛道具有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:b0c1cc0053595293",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Beyond cancer vaccine, how did Merck’s oncology pipeline do at #ESMO26?",
+            "abstract": "MADRID — Much of the coverage on Merck at the European Society for Medical Oncology congress centered on its Moderna-partnered cancer vaccine trial. But the company is actually at the meeting with more than two ...",
+            "url": "https://endpoints.news/beyond-cancer-vaccine-how-did-mercks-oncology-pipeline-do-at-esmo26/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "默沙东肿瘤管线ESMO数据",
+          "title_cn": "默沙东ESMO 2026肿瘤管线盘点：癌症疫苗之外还有哪些看点",
+          "one_liner": "默沙东在ESMO 2026公布肿瘤管线进展，外界关注多集中于其与Moderna合作的癌症疫苗。",
+          "key_findings": [
+            "默沙东在ESMO 2026展示的肿瘤管线项目超过两项，覆盖癌症疫苗以外的多个方向。",
+            "会议报道焦点集中于默沙东与Moderna合作的癌症疫苗试验。",
+            "摘要未披露具体疗效数据、适应症或临床终点结果。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，mRNA癌症疫苗是核酸药物与免疫治疗交叉的重要方向；可关注其平台设计与临床验证路径，但本条信息有限。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c69bdef7671012d6",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
+            "abstract": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer.",
+            "url": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 74,
+          "score_reason": "Incyte胰腺癌持久缓解数据",
+          "title_cn": "Incyte胰腺癌靶向药联合化疗在ESMO报告持久肿瘤缓解",
+          "one_liner": "Incyte靶向药联合化疗在部分胰腺癌患者中产生持久肿瘤缓解，数据于ESMO公布。",
+          "key_findings": [
+            "靶向药联合化疗使部分胰腺癌患者获得持久肿瘤缓解。",
+            "数据在ESMO年会公布，具体缓解率与生存数据未披露。",
+            "针对特定胰腺癌患者人群，适应症细节尚未明确。"
+          ],
+          "why_it_matters": "胰腺癌治疗选择有限，持久缓解信号值得关注；但摘要缺少靶点与疗效数据，暂难评估与合成生物学或本方向的关联。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:e6389c265d9cf343",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "BioNTech, DualityBio ponder next steps for HER2 ADC after 'modest' breast cancer results",
+            "abstract": "BioNTech and DualityBio are mulling what to do next with trastuzumab pamirtecan in certain breast cancer patients after the antibody-drug conjugate delivered a “statistically significant, yet modest” success in a Phase 3 trial. The drugmakers ...",
+            "url": "https://endpoints.news/biontech-dualitybio-ponder-next-steps-for-her2-adc-after-modest-breast-cancer-results/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "HER2 ADC三期结果一般",
+          "title_cn": "BioNTech与DualityBio的HER2 ADC三期结果\"温和\"，下一步待定",
+          "one_liner": "BioNTech与DualityBio的HER2 ADC trastuzumab pamirtecan在三期乳腺癌试验中取得统计学显著但幅度温和的结果，双方正考虑后续策略。",
+          "key_findings": [
+            "trastuzumab pamirtecan在特定乳腺癌患者的三期试验达到统计学显著，但公司称疗效\"温和\"。",
+            "双方尚未公布具体疗效数据，正在评估该HER2 ADC的下一步开发方向。",
+            "该药为BioNTech与DualityBio合作开发的ADC资产。"
+          ],
+          "why_it_matters": "HER2 ADC是实体瘤热门赛道，结果\"显著但温和\"提示疗效窗口与差异化空间，值得关注后续数据披露及对同类ADC竞争格局的影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:95c06d4fd978106d",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Roche’s changing plans show how MFN is complicating European drug launches",
+            "abstract": "Roche will seek European approval for its promising new breast cancer pill giredestrant later than it once expected, highlighting how US drug pricing pressure may be affecting pharmaceutical companies’ launch strategies elsewhere. As recently as ...",
+            "url": "https://endpoints.news/roches-changing-plans-show-how-mfn-is-complicating-european-drug-launches/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "罗氏乳腺癌新药推迟，定价影响",
+          "title_cn": "罗氏调整上市计划：MFN政策如何拖累欧洲新药上市",
+          "one_liner": "罗氏推迟乳腺癌新药giredestrant的欧洲申报，反映美国最惠国定价压力正影响欧洲上市策略。",
+          "key_findings": [
+            "罗氏将giredestrant的欧洲上市申请时间推迟至原计划之后。",
+            "该药为口服乳腺癌新药，被视为罗氏肿瘤管线的重要资产。",
+            "美国药价压力（MFN）正促使药企重排全球上市优先级。"
+          ],
+          "why_it_matters": "对合成生物学背景的读者，这提示新药商业化节奏受定价政策牵制，评估项目价值时需关注欧美上市时序与支付环境。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:95b626f04c0bfdc4",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "æ¹åå®æâä¸ç ´ä¸ç«â æ¨è¿å­£åº¦æ¸ ç®æ¹é©è½å°",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ æ¹åå®æâä¸ç ´ä¸ç«â æ¨è¿å­£åº¦æ¸ ç®æ¹é©è½å° --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->æ¹åå®æâä¸ç ´ä¸ç«â æ¨è¿å­£åº¦æ¸ ç®æ¹é©è½å°end--> æ¥æï¼2026-10-26 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->æ¹åçå®æå¸å»ä¿é¨é¨å´ç»é¢ç®ç®¡æ§ãæµç¨åé ãç¹ä¾å¤ç½®ãæºè½çç®¡ï¼æ¨å¨åºéæ¸ ç®ä»âå¹´æ¸ å¹´ç»âåâå­£åº¦æ¸ ãåæ¶ä»âè½¬åï¼å¼å¯¼å»çæºæä¼åè¿è¥ãè§èè¯çã2026 å¹´ 5æåºå®æä¸å­£åº¦ DIP æ¸ ç®ï¼å ¨å¸ä½é¢æ¬¡åè´¹ç¨åæ¯ä¸é5.67%ï¼ç»ç­¹åºéæ¯åºåæ¯ä¸é 12.89%ï¼ä½é¢ DIP å­£åº¦æ¸ ç®æ¨ä»æ¯ä¾è¾¾ 95.58%ãä¸ãç ´å¹´åº¦é¢ç®å®å¼ãéæå­£åº¦é¢ç®ä½ç³»ï¼å°å¹´åº¦æ»é¢ç§å­¦æè§£ä¸ºå­£åº¦ç»è´¦ãä¾æ 21 ç±»ææ ç¼å¶é¢ç®",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/26/art_14_23228.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保结算改革，间接相关",
+          "title_cn": "湖北宜昌以“三破一立”推进季度清算改革落地",
+          "one_liner": "宜昌医保将基金清算从“年清年结”改为“季度清、及时付”，2026年一季度DIP清算已完成。",
+          "key_findings": [
+            "围绕预算管控、流程再造、特例处理、智能监管四方面推进改革",
+            "2026年5月底完成一季度DIP清算，住院次均费用同比下降5.67%",
+            "统筹基金支出同比下降12.89%，住院DIP季度清算拨付比例达95.58%"
+          ],
+          "why_it_matters": "医保支付从年度清算转向季度清算，将加快医院回款、影响诊疗与用药行为；合成生物学相关诊断、检测产品的医院准入与放量节奏可能随之变化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "nhsa:5b4ec4eb77f49ad5",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å½éè¯ä¼°è´¹ç¨ æäº¤ç»ç®ç³è¯·ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨ç»ç®ç³æ¥è¡¨ãè§èè§£è¯»",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å½éè¯ä¼°è´¹ç¨ æäº¤ç»ç®ç³è¯·ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨ç»ç®ç³æ¥è¡¨ãè§èè§£è¯» --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å½éè¯ä¼°è´¹ç¨ æäº¤ç»ç®ç³è¯·ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨ç»ç®ç³æ¥è¡¨ãè§èè§£è¯»end--> æ¥æï¼2026-10-26 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ãç¼è æãä¸ºæ¨å¨å»ºç«å ¨å½ç»ä¸çé¿ææ¤çæå¡ç®¡çæ åï¼æåç»åæå¡ååè®®ç®¡çè§èåæ°´å¹³ï¼å©åé¿ææ¤çä¿é©ç»åé«è´¨éåå±ï¼å½å®¶å»ä¿å±å¶å®ãé¿ææ¤çä¿é©æå¡ç®¡çæä¹¦ï¼2026çï¼ããä¸ºè§èæä¹¦ä½¿ç¨ï¼å¼å¯¼å®ç¹è¯ä¼°æºæåç¡®è§èå¡«åç¸å ³å å®¹ï¼æä»¬ç»ç»å¯¹å½å®¶çæä¹¦è¿è¡ç³»åè§£è¯»ãè¯ä¼°è´¹ç¨ç»ç®åºç±å®ç¹è¯ä¼°æºæå®æåç»ç­¹å°åºç»",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/26/art_14_23231.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "评估费用结算规范，弱相关",
+          "title_cn": "国家医保局：定点评估机构评估费用结算申报表填报规范解读",
+          "one_liner": "国家医保局发布定点评估机构评估费用结算申报表填报规范解读，明确费用结算申报要求。",
+          "key_findings": [
+            "明确定点评估机构定期向统筹地区提交评估费用结算申报表的填报规范",
+            "解读属长期护理保险服务管理文书（2026版）系列说明之一",
+            "发布日期为2026-10-26，面向定点评估机构经办人员"
+          ],
+          "why_it_matters": "该政策属长期护理保险经办管理范畴，与合成生物学研发、产品注册及医保准入无直接关联，仅可作行业政策背景了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:2ea75d5a7020761b",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "é¶è¡é´å¸åºåºå¸åè´­æ¥åæäº¤6.5ä¸äº¿å ãé¶è¡é´å¸åºåºå¸åè´­æªå°æä½é¢11.0ä¸äº¿å ãé¶è¡é´å¸åºéå¤è´¨æ¼å¼åè´­ï¼R001ï¼æå æå¹³åå©çä¸º1.40%ãå¾1Â è´§å¸å¸åºå©çèµ°å¿å¾2Â 2026å¹´1-9æDR001ä¸å¤®è¡æ¿ç­å©çäºãåºå¸å¸åºè¿è¡æ åµ2026å¹´9æãé¶è¡é´åºå¸å¸åºç°å¸æ¢æçä¸º16.8%ãåæ¯å¢å 7.6%ãå ­ãå¤æ±å¸åºè¿è¡æ åµ2026å¹´9ææ«ãä¸ãè¡ç¥¨å¸åºè¿è¡æ åµ2026å¹´9ææ«ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102614131538957/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无有效信息",
+          "title_cn": "2026年9月金融市场运行情况",
+          "one_liner": "央行发布2026年9月金融市场运行情况，涵盖货币、债券、外汇与股票市场数据。",
+          "key_findings": [
+            "银行间债市回购日均成交6.5万亿元，未到期余额11.0万亿元",
+            "隔夜质押式回购R001月加权平均利率为1.40%",
+            "9月现券换手率16.8%，同比增加7.6%"
+          ],
+          "why_it_matters": "该公告反映资金面与债市流动性状况，与合成生物学企业融资环境、利率成本间接相关，但无直接监管变化。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:3e73be0656279aed",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è®¾ç«åºå¸éé¶å¤§é¢èµåäºæ¢ä¾¿å©ï¼å ¬å¼å¸åºä¸å¡å ¬å[2026]ç¬¬12å·ï¼ãç»´æ¤åºå¸å¸åºç¨³å®ãä¸­å½äººæ°é¶è¡å³å®è®¾ç«åºå¸éé¶å¤§é¢èµåäºæ¢ä¾¿å©ï¼BondMarketNBFISwapFacilityãå¨èµç®¡æºæé¢ä¸´ç¾¤ä½æ§æµå¨æ§é£é©ãåºå¸å¸åºåºç°ç³»ç»æ§ååçç¹å®æ æ¯ä¸ãæ¯æå ·æç³»ç»æ§å½±åçé¶è¡çè´¢å­å ¬å¸ãå ¬ååºéç®¡çäººï¼æå¯¹åºæ¯è¡ãè¯å¸æ¯å ¬å¸ç­ï¼ãå¹¶åä¸­å½äººæ°é¶è¡æµæ¼ãåä¸æºæåºæç»­æ»¡è¶³éèå¸åºå®¡æ ç®¡çè¦æ±ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102616264823100/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无有效信息",
+          "title_cn": "中国人民银行设立债市非银机构大额赎回互换便利",
+          "one_liner": "央行新设债市非银大额赎回互换便利，在系统性压力情形下向机构提供流动性支持。",
+          "key_findings": [
+            "适用情形：资管机构面临群体性流动性风险、债市出现系统性压力",
+            "支持对象：具有系统性影响的银行理财子公司、公募基金管理人等",
+            "参与机构需向央行抵押，并持续满足金融市场监管要求"
+          ],
+          "why_it_matters": "合成生物学企业融资与基金退出依赖债市与资管流动性；该工具可缓解系统性赎回压力，间接影响一级市场资金环境。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:5664397e2812ae8f",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Introducing GPT-6.1 Terra",
+            "abstract": "Bringing fast and capable computer use to everyone",
+            "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "GPT-6.1新模型发布，重要",
+          "title_cn": "OpenAI 发布 GPT-6.1 Terra",
+          "one_liner": "OpenAI 推出 GPT-6.1 Terra，主打面向所有人提供快速且强大的计算机操作能力。",
+          "key_findings": [
+            "新模型命名为 GPT-6.1 Terra，由 OpenAI 官方发布",
+            "核心卖点是快速、能力强的 computer use，面向所有用户",
+            "摘要未披露参数、基准测试或定价等具体数据"
+          ],
+          "why_it_matters": "更强的 computer use 意味着可自动操作实验记录、数据库与仪器软件，对合成生物学湿实验流程自动化与数据管理有潜在价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6b6861f5dfdd32fb",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Working with academic communities to build scientific understanding",
+            "abstract": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+            "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "大模型攻克数学难题，科研相关",
+          "title_cn": "OpenAI 与学术社区合作，推进科学理解",
+          "one_liner": "OpenAI 公布模型在 Kakeya 猜想、ETH 与量子色动力学上的结果，供研究者验证。",
+          "key_findings": [
+            "模型在 Kakeya 猜想、指数时间假设、量子色动力学三个数学与物理问题上给出结果。",
+            "OpenAI 强调与学术社区合作，公开结果供研究者验证与继续推进。"
+          ],
+          "why_it_matters": "AI 辅助数学与理论物理的产出开始进入可验证阶段，合成生物学研究者可关注其方法迁移到通路设计与模型推断的潜力。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:083958a57723973f",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+            "abstract": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+            "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "特斯拉自动驾驶战略，关注领域",
+          "title_cn": "特斯拉放弃电动车王冠，转向自动驾驶竞赛",
+          "one_liner": "特斯拉寄望自动驾驶订阅带来汽车销售无法实现的利润率。",
+          "key_findings": [
+            "特斯拉不再追求电动车销量领先，转向自动驾驶赛道。",
+            "公司希望通过自动驾驶订阅服务提升利润率。",
+            "汽车销售利润承压，订阅模式被视为新增长点。"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这反映生物医药之外的高科技产业正从硬件销售转向软件订阅变现，可作为技术商业化模式参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:011555b6960ee180",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+            "abstract": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+            "url": "https://openai.com/index/greptile-code-review-codex-astra",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "GPT-6 Astra应用落地，值得关注",
+          "title_cn": "Greptile 借助 GPT-6 Astra 将缺陷检测拓展至代码审查之外",
+          "one_liner": "Greptile 用 GPT-6 Astra 测试用户工作流，并用 Daybreak 与 Codex 分别强化安全、减少返工。",
+          "key_findings": [
+            "Greptile 将缺陷检测从代码审查扩展到用户工作流测试，由 GPT-6 Astra 驱动。",
+            "Daybreak 用于强化安全，Codex 用于减少返工，三者构成组合工具链。",
+            "消息来自 OpenAI News，属于 AI 辅助软件工程的产品动态。"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，这类 AI 工具可把质控从代码层延伸到实验流程与数据管线，降低自动化平台的缺陷与返工成本。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:12c7a1020fa4d8a1",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+            "abstract": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+            "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "GPT-6.1安全应用，常规产品动态",
+          "title_cn": "CodeRabbit 借助 GPT-6.1 Sol 强化复杂代码库的安全审查",
+          "one_liner": "CodeRabbit 用 GPT-6.1 Sol 构建安全智能体，自动排查复杂代码库风险并给出修复建议。",
+          "key_findings": [
+            "安全智能体可跨复杂代码库定位安全风险",
+            "辅助开发者复核发现的问题与拟议修复方案",
+            "由 OpenAI 官方渠道披露的客户应用案例"
+          ],
+          "why_it_matters": "合成生物学团队代码与实验数据管线日益复杂，AI 代码安全审查可降低漏洞与合规风险，值得关注其落地效果。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:25e1b98740f4cadb",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+            "abstract": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+            "url": "https://openai.com/index/openai-cut-incident-investigation",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "Codex工程应用，常规参考",
+          "title_cn": "OpenAI 用 Ultrafast 将事故调查从数小时缩短至数分钟",
+          "one_liner": "OpenAI 工程师借助 Codex Ultrafast，把事故调查时间从数小时压缩到数分钟。",
+          "key_findings": [
+            "Codex Ultrafast 用于事故调查，将排查耗时从数小时降至数分钟",
+            "该工具还用于安全分析、代码重构和日常开发工作流",
+            "案例来自 OpenAI 内部工程实践，并非第三方评测"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，AI 辅助的事故排查与代码重构可加速实验数据平台和自动化流程的故障定位，值得关注其可迁移性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:38fe6a22544b47a4",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "ChatGPT’s expanding world of work",
+            "abstract": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+            "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "ChatGPT使用数据，弱技术相关",
+          "title_cn": "ChatGPT 工作用途的全球扩展",
+          "one_liner": "OpenAI 基于近 100 国、165 类工作活动的 Signals 数据，揭示 ChatGPT 工作用途及变化趋势。",
+          "key_findings": [
+            "覆盖近 100 个国家、165 类工作活动，呈现 ChatGPT 工作场景使用画像",
+            "数据展示工作用途随时间的演变，而非单一时点快照",
+            "由 OpenAI 官方发布，属平台侧使用行为统计"
+          ],
+          "why_it_matters": "合成生物学研发涉及文献调研、实验设计与数据分析，可据此判断 AI 在科研工作流中的渗透程度与可借鉴用法。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:915861e8a7961b82",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Fanatics and OpenAI streamline the fan experience",
+            "abstract": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+            "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "零售应用案例，关联度低",
+          "title_cn": "Fanatics 联手 OpenAI 优化球迷购物体验",
+          "one_liner": "Fanatics 用 OpenAI 技术推出 Shop the Look，约 3 万件 MLB 商品测试互动率提升 10%。",
+          "key_findings": [
+            "Shop the Look 帮助球迷搭配比赛日全套装备",
+            "约 3 万件 MLB 商品测试显示互动率提升 10%",
+            "OpenAI 技术用于电商球迷体验场景"
+          ],
+          "why_it_matters": "生成式 AI 在电商搭配推荐中已有可量化转化提升，可作为合成生物学产品商业化中 AI 辅助选品与用户触达的参考案例。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:bff6552ca2478558",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+            "abstract": "Investigators explain how highway thieves stole $100M in data center equipment.",
+            "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 42,
+          "score_reason": "数据中心供应链安全，边缘相关",
+          "title_cn": "高速公路窃贼伪造GPS信号，劫走价值上亿美元的数据中心货物",
+          "one_liner": "犯罪团伙伪造GPS信号，劫走价值1亿美元的数据中心设备。",
+          "key_findings": [
+            "窃贼在运输途中伪造GPS信号，误导货车偏离路线后实施抢劫",
+            "涉案数据中心设备总值约1亿美元，调查人员已披露作案手法",
+            "该案暴露物流追踪系统存在可被欺骗的安全漏洞"
+          ],
+          "why_it_matters": "数据中心设备供应链的物理安全风险上升，合成生物学实验室采购的测序仪、自动化设备同样依赖物流追踪，需关注运输环节的防欺骗措施。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:25b40a661f74cd01",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+            "abstract": "Included is the ability to limit which applications Siri can directly access.",
+            "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-26",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "苹果系统更新，弱相关",
+          "title_cn": "苹果发布 iOS 与 macOS 27.2，带来新 Siri AI 功能与新 Music 标志",
+          "one_liner": "苹果发布 iOS 与 macOS 27.2，新增 Siri AI 功能，并允许限制 Siri 可直接访问的应用。",
+          "key_findings": [
+            "iOS 与 macOS 27.2 同步发布，加入新的 Siri AI 功能",
+            "新增可限制 Siri 直接访问哪些应用的设置",
+            "Music 应用启用新标志"
+          ],
+          "why_it_matters": "与合成生物学研究无直接关联，但 Siri 应用访问权限控制涉及数据隐私，可留意实验室设备与数据管理场景。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
