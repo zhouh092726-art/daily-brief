@@ -1,0 +1,1150 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:22:29.567576+08:00",
+  "fetched_ids": [
+    "pubmed:42926929",
+    "pubmed:42926291",
+    "pubmed:42935498",
+    "pubmed:42920906",
+    "pubmed:42948601",
+    "pubmed:42933991",
+    "pubmed:42927286",
+    "pubmed:42920974",
+    "pubmed:42926854",
+    "pubmed:42926845",
+    "pubmed:42945261",
+    "pubmed:42945259",
+    "pubmed:42949643",
+    "pubmed:42948587",
+    "pubmed:42946409",
+    "pubmed:42928523",
+    "pubmed:42950181",
+    "pubmed:42949655",
+    "pubmed:42949625",
+    "pubmed:42949339",
+    "pubmed:42944860",
+    "pubmed:42948176",
+    "pubmed:42947535",
+    "pubmed:42947454",
+    "pubmed:42946975",
+    "pubmed:42946251",
+    "pubmed:42945275",
+    "pubmed:42945269",
+    "pubmed:42945042",
+    "pubmed:42944619",
+    "pubmed:42937653",
+    "pubmed:42937651",
+    "pubmed:42936890",
+    "pubmed:42935446",
+    "pubmed:42934175",
+    "pubmed:42929655",
+    "pubmed:42937235",
+    "pubmed:42934295",
+    "pubmed:42933642",
+    "pubmed:42933612",
+    "pubmed:42933584",
+    "pubmed:42933547",
+    "pubmed:42933412",
+    "pubmed:42933405",
+    "pubmed:42933312",
+    "pubmed:42932165",
+    "pubmed:42932163",
+    "pubmed:42929733",
+    "pubmed:42929732",
+    "pubmed:42945879",
+    "pubmed:42932927",
+    "pubmed:42928449",
+    "pubmed:42928002",
+    "pubmed:42928000",
+    "pubmed:42927998",
+    "pubmed:42927995",
+    "pubmed:42927836",
+    "pubmed:42927452",
+    "pubmed:42925681",
+    "pubmed:42925512",
+    "pubmed:42948688",
+    "pubmed:42945766",
+    "pubmed:42928634",
+    "pubmed:42921792",
+    "pubmed:42921097",
+    "pubmed:42920780",
+    "pubmed:42945726",
+    "pubmed:42945697",
+    "pubmed:42939789",
+    "pubmed:42939090",
+    "pubmed:42938932",
+    "pubmed:42938263",
+    "pubmed:42921427",
+    "pubmed:42921034",
+    "pubmed:42943838",
+    "pubmed:42943354",
+    "pubmed:42943174",
+    "pubmed:42941676",
+    "pubmed:42940200",
+    "pubmed:42938921",
+    "pubmed:42944487",
+    "pubmed:42944078",
+    "pubmed:42939480",
+    "pubmed:42943611",
+    "pubmed:42941973",
+    "pubmed:42941956",
+    "pubmed:42939460",
+    "pubmed:42938214",
+    "pubmed:42943597",
+    "pubmed:42942959",
+    "pubmed:42941905",
+    "pubmed:42935903",
+    "pubmed:42930855",
+    "pubmed:42939749",
+    "pubmed:42938176",
+    "pubmed:42938173",
+    "pubmed:42948011",
+    "biorxiv:10.64898/2026.10.22.761115",
+    "biorxiv:10.64898/2026.10.22.761041",
+    "rss:cfc419dcb118304b",
+    "rss:c788c47c79bc67dd",
+    "rss:aae223f47d6b34c7",
+    "rss:a5b6b906fff22048",
+    "rss:ab016f79653fb207",
+    "rss:dc6929b3e62cf3cc",
+    "rss:c2f9358e24e215e5",
+    "rss:5d7927f05ffb8ed1",
+    "rss:1489bb611629da77",
+    "rss:b293bb8f58f74063",
+    "rss:0bf1a67f49310b7d",
+    "rss:14e3718704c86db7",
+    "rss:2e0fc6d470fc269c",
+    "rss:3f641838c3152af0",
+    "rss:876b6da7afa564c7",
+    "rss:5deb41f26d257f38",
+    "rss:6d0aed43ba4e54e6",
+    "rss:0bbdb73a40158e5c",
+    "rss:5f86f796146a36b2",
+    "rss:662367e94c34b42e",
+    "rss:854232b8cfad3e76",
+    "rss:d26572feddf5aaf1",
+    "rss:368011d5f4dcca63",
+    "rss:3275892408754090",
+    "rss:360a145f48a8e151",
+    "rss:d1f3b892a88647a5",
+    "rss:6ea64dd2429bae3d",
+    "rss:80c11bd59bb2fd27",
+    "rss:ba1e37fa218f4b8a",
+    "rss:44c2a801f982cbbc",
+    "rss:36fca94eb2d6a848",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "ema:f85cd385d61c8305",
+    "ema:63edc587c45a99fd",
+    "pbc:3414b5296af43c62",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "pbc:d28020e17e953fbf",
+    "pbc:846ca3149106aa0f",
+    "pbc:d7a3f0f6d011e499",
+    "pbc:7ada5bfe7b29e971",
+    "nhsa:3ee4efd10e65051e",
+    "nhsa:0d484c6800ee63c5",
+    "nhsa:95b626f04c0bfdc4",
+    "nhsa:5b4ec4eb77f49ad5",
+    "nhsa:b5189f8503527f52",
+    "nhsa:ba9f750c6cfa9625",
+    "nhsa:51378e807753c144",
+    "nhsa:808a9c1f84c2527b",
+    "nhsa:c9648e2423ca5272",
+    "nhsa:ad62fc944f6784fc",
+    "rss:fbd38a03737261a6",
+    "rss:a0f1f341400c3ee4",
+    "rss:43a392c7fc8cfc96",
+    "rss:8c368ae02674f286",
+    "rss:866a8680f78e7f42",
+    "rss:150f1b29aeaf5e97",
+    "rss:011555b6960ee180",
+    "rss:6b6861f5dfdd32fb",
+    "rss:12c7a1020fa4d8a1",
+    "rss:38fe6a22544b47a4",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:8d6a4fe548901c01",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:d05be7d3fa9f0aa9",
+    "rss:1c86e9ba5b1d3cc9",
+    "rss:60024c90622f7eb3",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:f07f836d67713430",
+    "rss:7d7feeece49366f6",
+    "rss:0ee110650c52b9d5",
+    "rss:fb4a5a6acb5ff8a1",
+    "rss:a181ad8f60e90d95",
+    "rss:691d8c91182384b8",
+    "rss:1378e457077863eb",
+    "rss:c3668f0088864f20",
+    "rss:1c96b2fd3a955e99",
+    "rss:805b79e025e6beb0",
+    "rss:fb9dd3b3d1e671b9",
+    "rss:089388ff10e50c37"
+  ],
+  "stats": {
+    "fetched": 205,
+    "new_items": 51,
+    "kept": 35,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42947535",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "\"Illuminating\" the silkworm chassis: Synthetic biology-driven evolution of genetic-based sexing circuits.",
+            "abstract": "The silkworm (Bombyx mori), a classical lepidopteran model, is evolving into a highly tractable synthetic biology chassis. In modern sericulture, genetic sexing circuits provide a rational design framework for efficient all-male rearing, effectively overcoming the gene dosage disruptions and fitness costs associated with traditional radiation-induced chromosomal translocations. This review systematically summarizes the construction strategies and industrial applications of these circuits. We outline the optimization of sex determination elements and highlight the advantages of far-red optical markers in penetrating host physical barriers and reducing cytotoxicity. Furthermore, we trace the evolution of genomic manipulation tools from random transposon insertions to targeted CRISPR/Cas9 integration into genomic safe harbors (GSHs). To address circuit instability during multigenerational rearing, protective molecular strategies-including boundary insulators, conditional expression, and automatic excision networks-are evaluated. We also explore the industrial interface that integrates standardized biological optical reporters with artificial intelligence and high-throughput optoelectronic sorting hardware. Ultimately, engineering principles derived from the silkworm chassis can provide a molecular framework for the sterile insect technique in global pest management, with future directions pointing toward footprint-free genome editing and dynamic conditional regulation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42947535/",
+            "journal": "Insect science",
+            "authors": "Li, Cao, Li",
+            "published": "2026-10-27",
+            "doi": "10.1111/1744-7917.70385"
+          },
+          "score": 78,
+          "score_reason": "合成生物学底盘+基因线路+CRISPR，高度相关",
+          "title_cn": "点亮家蚕底盘：合成生物学驱动的遗传性别控制线路演进",
+          "one_liner": "综述家蚕遗传性别控制线路的设计策略与产业化路径，实现全雄养殖。",
+          "key_findings": [
+            "梳理性别决定元件优化与远红光标记，兼顾穿透性与低细胞毒性。",
+            "基因组操作从随机转座子插入演进到 CRISPR/Cas9 定点整合至基因组安全港。",
+            "用边界绝缘子、条件表达与自动切除网络应对多代饲养中的线路失稳。"
+          ],
+          "why_it_matters": "为昆虫底盘线路稳定性与定点整合提供系统框架，可迁移至害虫不育技术及光电高通量分选，对合成生物学底盘工程有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42946975",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Adaptation of a Fluorogenic RNA to N1-Methylpseudouridine Nucleoside Chemistry.",
+            "abstract": "N1-methylpseudouridine (mΨ) is a modified nucleoside that entirely replaces uridine in the design of many therapeutic messenger RNAs (mRNA) to alleviate their intrinsic immunogenicity while preserving their capacity to be translated into protein. However, the impact of such replacement in functional non-coding RNAs has only been scarcely studied, and most studies have shown impairment in the function of the tested RNAs thereby limiting their potential applications. In this work, we further show that exchanging uridines by mΨ in green-emitting Fluorogenic Light-up Aptamers (FLAP) is detrimental to their capacity of binding and enhancing the fluorescence of their cognate fluorogen. Moreover, combining directed evolution and rational design allowed not only to pinpoint the structural elements impacted by the replacement of uridine by mΨ, but also to re-establish the function of a mΨ-modified non-coding RNA for the first time. This yielded Ψ-Spinach, a FLAP suited for the precise labelling of mΨ-modified mRNA and usable for human cells transfection. This work thus paves the way for the adaptation of other functional non-coding RNAs with mΨ in view of engineering and optimizing therapeutic modified mRNAs.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42946975/",
+            "journal": "Angewandte Chemie (International ed. in English)",
+            "authors": "Bertrand, Cubi, Husser, et al.",
+            "published": "2026-10-27",
+            "doi": "10.1002/anie.8507021"
+          },
+          "score": 74,
+          "score_reason": "定向进化改造RNA适配体，mRNA疗法相关",
+          "title_cn": "荧光RNA适配体对N1-甲基假尿苷化学的适配改造",
+          "one_liner": "通过定向进化与理性设计，首次恢复mΨ修饰非编码RNA的功能，获得可标记mΨ-mRNA的Ψ-Spinach。",
+          "key_findings": [
+            "将FLAP中的尿苷替换为mΨ会损害其结合荧光团并增强荧光的能力。",
+            "结合定向进化与理性设计，定位了受mΨ替换影响的结构元件。",
+            "首次重建mΨ修饰非编码RNA的功能，得到Ψ-Spinach，可用于转染人细胞并精确标记mΨ-mRNA。"
+          ],
+          "why_it_matters": "为mRNA疗法中mΨ修饰的功能RNA提供标记与工程化改造范式，对合成生物学中RNA器件设计与治疗性mRNA优化有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42950181",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Directed Evolution of the Cbx1 Chromodomain Generates a High-Affinity Trimethyllysine-Binding Variant.",
+            "abstract": "Directed evolution is a powerful and versatile strategy for engineering proteins with enhanced affinity and tailored molecular recognition properties. Here, we applied phage display-guided directed evolution to enhance the binding of the wild-type Cbx1 chromodomain (Cbx1-CD) to an H3K9me3-containing peptide. Screening a soft-randomized library targeting residues surrounding the aromatic cage yielded C29, which bound the H3K9me3 peptide with a KD of 57 nM and exhibited an approximately 14-fold lower dissociation rate constant than Cbx1-CD. Across an H3K9me3-derived alanine-scanning series and a peptide panel, C29 showed stronger binding signals than Cbx1-CD for multiple peptides containing trimethyllysine (Kme3), suggesting lower flanking-sequence dependence for C29 than for Cbx1-CD. An AlphaFold3 model of the C29-H3K9me3 complex suggested local changes in the hydrophobic and electrostatic environment surrounding the Kme3-binding pocket, providing a mechanistic hypothesis for C29's enhanced affinity and reduced flanking-sequence dependence. When two Kme3-containing peptides were spiked into a 100-fold molar excess of unmodified background peptides, C29-conjugated beads effectively enriched both Kme3 peptides relative to the unmodified background. These findings define C29 as a high-affinity Kme3-binding Cbx1 chromodomain variant and support its further evaluation as an affinity reagent for Kme3-containing peptide enrichment.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42950181/",
+            "journal": "ACS chemical biology",
+            "authors": "Li, Wang, Yang, et al.",
+            "published": "2026-10-29",
+            "doi": "10.1021/acschembio.6c00573"
+          },
+          "score": 72,
+          "score_reason": "定向进化+AlphaFold3蛋白设计，明确相关",
+          "title_cn": "定向进化改造 Cbx1 染色质结构域获得高亲和力三甲基赖氨酸结合变体",
+          "one_liner": "经噬菌体展示定向进化获得 C29 变体，以 57 nM 亲和力结合 H3K9me3 肽段。",
+          "key_findings": [
+            "对 Cbx1-CD 芳香笼周边残基做软随机化文库筛选，获得解离速率降低约 14 倍的 C29。",
+            "C29 对多种含 Kme3 肽段结合更强，侧翼序列依赖性低于野生型。",
+            "AlphaFold3 模型提示 Kme3 结合口袋疏水与静电环境局部改变；偶联磁珠可在 100 倍未修饰肽背景中富集 Kme3 肽。"
+          ],
+          "why_it_matters": "为合成生物学提供高亲和 Kme3 富集试剂，可用于表观遗传组学样品前处理与组蛋白修饰检测工具开发。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42949339",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Rational Engineering of Carboxylic Acid Reductase for Improved Catalytic Efficiency and Substrate Tolerance Enabling Green Vanillin Biosynthesis.",
+            "abstract": "Vanillin is a high-value natural aromatic compound widely used in food, flavor, and pharmaceutical fields. Carboxylic acid reductase (CAR)-catalyzed vanillic acid bioreduction offers a green vanillin biosynthesis route, yet low catalytic activity and severe substrate inhibition limit its industrial application. Herein, we screened 10 bacterial CAR homologues and constructed superior chimeric CAR templates via domain recombination. Combined with structure-guided directed evolution and substrate tunnel remodeling, the optimized quadruple mutant M4 was obtained, exhibiting 4-fold higher catalytic efficiency compared with the wild-type MavCAR (and 1.6-fold higher than the parental chimera M0) and partially relieved activity decline at elevated substrate concentrations. Structural simulations clarified that tunnel expansion and hydrogen bond remodeling synergistically stabilized enzyme-substrate binding. The M4-based whole-cell system achieved 95% vanillin conversion (8.7 g·L-1) from 10 g·L-1 vanillic acid, and a two-step cascade system realized efficient de novo vanillin synthesis from glucose. This work provides a robust engineered CAR biocatalyst for green vanillin preparative-scale biosynthesis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42949339/",
+            "journal": "Journal of agricultural and food chemistry",
+            "authors": "Zhu, Huang, Liu, et al.",
+            "published": "2026-10-28",
+            "doi": "10.1021/acs.jafc.6c11041"
+          },
+          "score": 70,
+          "score_reason": "结构导向定向进化+酶工程，核心相关",
+          "title_cn": "羧酸还原酶的理性工程改造：提升催化效率与底物耐受性，实现绿色香兰素生物合成",
+          "one_liner": "经结构导向定向进化与底物通道重塑获得四重突变体CAR，催化效率提升4倍，全细胞体系香兰素转化率达95%。",
+          "key_findings": [
+            "筛选10种细菌CAR同源物并做结构域重组，构建嵌合模板M0，再经定向进化与通道改造获得M4。",
+            "M4催化效率为野生型MavCAR的4倍，并部分缓解高底物浓度下的活性抑制。",
+            "全细胞体系从10 g/L香兰酸转化生成8.7 g/L香兰素（95%），并实现葡萄糖从头合成。"
+          ],
+          "why_it_matters": "为香兰素绿色制备提供高效CAR催化剂与全细胞/级联路线，对合成生物学中酶工程改造、底物抑制缓解及天然产物细胞工厂设计有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42949625",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Atroposelective Construction of Tetra-ortho-Substituted Dibenz[c,e]azepines Using an Engineered Imine Reductase.",
+            "abstract": "Atropisomeric dibenz[c,e]azepines are privileged scaffolds in asymmetric synthesis, medicinal chemistry, and materials science, yet their atroposelective preparation remains challenging due to the difficulty of controlling axial chirality while constructing a strained medium-sized ring. Tetra-ortho-substituted dibenz[c,e]azepines are especially elusive, with no catalytic asymmetric method reported owing to extreme steric hindrance. Here, we report the first biocatalytic strategy for the atroposelective synthesis of these congested bridged biaryls, employing an engineered imine reductase (IRED) that catalyzes a sequential inter- and intramolecular reductive amination cascade. Structure-guided directed evolution of an IRED from Streptomyces tricolor provided a triple mutant (IRED-04-M3) that delivers various tetra-ortho-substituted dibenz[c,e]azepines in high yields with excellent atroposelectivity (up to 97% yield, >99:1 er) by dynamic kinetic resolution. Gram-scale preparation was also demonstrated. Mechanistic studies and molecular dynamics simulations provide insight into the cascade reaction and stereocontrol exerted by the engineered enzyme.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42949625/",
+            "journal": "Angewandte Chemie (International ed. in English)",
+            "authors": "Zhou, Yan, Fan, et al.",
+            "published": "2026-10-28",
+            "doi": "10.1002/anie.1024447"
+          },
+          "score": 68,
+          "score_reason": "工程化酶定向进化，生物催化有价值",
+          "title_cn": "工程化亚胺还原酶实现四邻位取代二苯并[c,e]氮杂䓬的阻转选择性构建",
+          "one_liner": "首次用工程化亚胺还原酶经还原胺化级联反应，不对称合成高空间位阻的四邻位取代二苯并[c,e]氮杂䓬。",
+          "key_findings": [
+            "对 Streptomyces tricolor 来源的 IRED 进行结构导向定向进化，获得三重突变体 IRED-04-M3。",
+            "经动态动力学拆分，以高达 97% 收率和 >99:1 er 得到多种四邻位取代二苯并[c,e]氮杂䓬。",
+            "已实现克级制备，并通过机理研究与分子动力学模拟解析级联反应与立体控制机制。"
+          ],
+          "why_it_matters": "为合成生物学中的酶工程提供新案例：通过定向进化改造 IRED，可攻克高空间位阻手性骨架的催化不对称合成难题，对深圳的酶设计与手性药物中间体研发有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42945726",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Binding pocket optimization of Pueraria mirifica type II chalcone isomerase synergizing with a necrosis-attenuating host transcription factor for persistent daidzein biosynthesis.",
+            "abstract": "Pathway reconstitution of leguminous isoflavonoids in non-legume plant chassis offers a tractably controlled environment to probe specialized metabolism, yet it remains critically bottlenecked by suboptimal heterologous enzyme efficiency and severe host tissue necrosis. Here, we overcome these long-standing architectural limitations by establishing a highly synergistic, necrosis-attenuated Nicotiana benthamiana synthetic biology platform. We characterized chalcone isomerases from Pueraria mirifica (PmCHIs), revealing that PmCHI Type II operates as a biochemical junction exhibiting a specialized substrate-dependent alkaline optimum (pH 7.5-8.0) exclusively toward isoliquiritigenin. Combining 500-ns molecular dynamics simulations with structure-guided mutagenesis, active-site engineering identified an I195V variant with enhanced isoliquiritigenin preference. The conservative I195V substitution was predicted to reduce local steric crowding and produced an isoliquiritigenin selectivity ratio of 1.63 in vitro. For in planta pathway integration, we delivered a polycistronic cascade using P2A ribosome-skipping peptides to streamline multiplex multi-gene stacking. Crucially, substituting the conventional Arabidopsis thaliana MYB12 regulator with a host-derived N. benthamiana MYB60 transcription factor successfully attenuated tissue necrosis, accompanied by reduced electrolyte leakage. Quantitative proteomics showed no statistically significant difference in PmCHI abundance between the I195V and WT-II treatments in planta, while independent plant batches consistently showed higher daidzein accumulation with I195V, although the magnitude of enhancement varied among experiments. The NbMYB60-based platform extended the operational viability window up to 9 days, delivering a robust daidzein titer of 1.5 mg/g DW at 6 days post-infiltration, with individual high-performing replicates reaching up to 2.5 mg/g DW. Together, these results establish an integrated enzyme-engineering and necrosis-attenuating regulatory framework for persistent daidzein biosynthesis and specialized pathway reconstitution in planta.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42945726/",
+            "journal": "Plant physiology and biochemistry : PPB",
+            "authors": "Suntichaikamolkul, Sanachai, Nutho, et al.",
+            "published": "2026-10-22",
+            "doi": "10.1016/j.plaphy.2026.111883"
+          },
+          "score": 66,
+          "score_reason": "植物合成生物学通路重构+酶工程",
+          "title_cn": "葛根II型查尔酮异构酶结合口袋优化与坏死缓解型宿主转录因子协同实现大豆苷元持续生物合成",
+          "one_liner": "改造PmCHI活性口袋并换用宿主MYB60抑制坏死，使本氏烟草大豆苷元产量达1.5 mg/g DW。",
+          "key_findings": [
+            "PmCHI II型对异甘草素具pH 7.5-8.0专一偏好，I195V突变使体外选择性比升至1.63。",
+            "用P2A多顺反子实现多基因堆叠，以NbMYB60替代AtMYB12显著减轻组织坏死与电解质渗漏。",
+            "平台将有效窗口延至9天，侵染后6天大豆苷元达1.5 mg/g DW，个别重复达2.5 mg/g DW。"
+          ],
+          "why_it_matters": "为非豆科底盘重构异黄酮通路提供酶工程+宿主调控的整合范式，对植物合成生物学与代谢途径稳定表达有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42947454",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Conditional genetic manipulation systems in mosquitoes: Progress, Challenges, and perspectives.",
+            "abstract": "Mosquitoes are major vectors of severe infectious diseases, including malaria, dengue fever, and chikungunya, and continue to pose a substantial threat to global public health. A comprehensive understanding of mosquito-pathogen interactions, disease transmission mechanisms, and ecological adaptations is essential for developing innovative strategies to control mosquito-borne diseases. In recent years, genetic manipulation technologies have greatly advanced functional genomics research in mosquitoes; however, their limited spatiotemporal precision restricts the functional characterization of essential genes, key developmental regulators, and tissue-specific genes, often due to embryonic or early developmental lethality, systemic editing effects, and complex phenotypic consequences. As an important strategy for precision genetic regulation, Conditional Genetic Manipulation Systems (CGMSs) utilize tissue-specific, developmental stage-specific, or externally inducible regulatory elements to achieve controlled expression of functional genetic components (e.g., Cas9), thereby enabling spatiotemporally precise genetic modifications. These systems provide a new research paradigm for investigating mosquito basic biology and developing genetic control technologies. This review systematically summarizes the major types, regulatory mechanisms, and current advances of CGMSs in mosquitoes, with particular emphasis on different regulatory elements and their applications in functional gene analysis, studies of pathogen transmission mechanisms, and vector control strategies. Furthermore, we discuss future directions for expanding editing systems and developing genetic manipulation resources, aiming to provide insights into the construction of precise genetic manipulation systems in mosquitoes and other insects and the advancement of next-generation genetic control technologies.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42947454/",
+            "journal": "Insect science",
+            "authors": "Ma, Bai, Ling, et al.",
+            "published": "2026-10-27",
+            "doi": "10.1111/1744-7917.70384"
+          },
+          "score": 65,
+          "score_reason": "条件性遗传操控系统，基因编辑工具相关",
+          "title_cn": "蚊虫条件性遗传操控系统：进展、挑战与展望",
+          "one_liner": "综述蚊虫条件性遗传操控系统（CGMS），用组织、时期或诱导型元件实现Cas9等组分的时空精准表达。",
+          "key_findings": [
+            "系统梳理CGMS主要类型、调控机制及在蚊虫中的研究进展",
+            "重点评述组织特异、发育阶段特异与外部诱导型调控元件的应用",
+            "覆盖功能基因分析、病原传播机制研究与媒介控制策略三方面"
+          ],
+          "why_it_matters": "对做蚊媒基因驱动与CRISPR精准调控的团队，是快速掌握时空特异编辑工具与元件资源的入口，可指导载体构建。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42948011",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Unleashing the industrial potential of microbial plant cell wall polysaccharide-degrading enzymes: recent advances in protein engineering.",
+            "abstract": "Plant cell wall polysaccharide-degrading enzymes (PCWPEs) used in industry are predominantly of microbial origin. Key enzyme classes, including cellulases, lytic polysaccharide monooxygenases (LPMOs), β-xylanases, β-mannanases and pectinases, have attained technological maturity and are widely deployed across agro-waste biorefineries, food and feed processing, textile and pulp manufacturing. Low catalytic efficiency, insufficient thermostability, poor operational adaptability, restricted functionality, and product inhibition limit the industrial use of these enzymes. Structure- and sequence-guided design, supported by computational design tools, now allows more targeted improvement of PCWPE performance. Yet, the stringent and context-specific performance requirements imposed by diverse industrial applications continue to present substantial challenges. This review systematically summarizes current engineering strategies for PCWPEs in the past decade, aiming to provide a comprehensive understanding of the tailored strategies employed in different engineering directions and to offer insightful proposals for future research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42948011/",
+            "journal": "Frontiers in microbiology",
+            "authors": "Huang, Xu, Zhou, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fmicb.2026.1945309"
+          },
+          "score": 62,
+          "score_reason": "酶蛋白工程综述，有一定参考价值",
+          "title_cn": "释放微生物植物细胞壁多糖降解酶的工业潜力：蛋白质工程最新进展",
+          "one_liner": "综述近十年PCWPE蛋白质工程策略，针对催化效率、热稳定性等瓶颈提出改造方向。",
+          "key_findings": [
+            "纤维素酶、LPMO、木聚糖酶、甘露聚糖酶和果胶酶已技术成熟，广泛用于生物炼制、食品饲料、纺织造纸。",
+            "低催化效率、热稳定性不足、操作适应性差和产物抑制是主要工业限制因素。",
+            "结构与序列引导设计结合计算工具可实现靶向改造，但工业场景的严苛需求仍是挑战。"
+          ],
+          "why_it_matters": "对从事酶工程与合成生物学的你，该综述系统梳理PCWPE改造策略，可为工业酶设计选型与计算辅助改造提供参考框架。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.22.761041",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Multimodal functional characterization of the LDLR noncoding landscape",
+            "abstract": "The expression level of the low-density lipoprotein receptor (LDLR) gene is a critical determinant of circulating low-density lipoprotein concentrations and the corresponding risk of atherosclerotic cardiovascular disease. While the importance of sterol response elements in LDLR transcriptional regulation has been firmly established, the functional contribution of other potential cis-regulatory elements (CREs) remains poorly understood. In this study, we developed and applied a variety of high throughput functional genomic tools to systematically interrogate the noncoding space at the LDLR locus. These included saturation CRISPR nuclease, CRISPR activation, and CRISPR inhibition screening as well as a massively parallel reporter assay. With each approach, we observed robust discrimination of control sequences and significant effects for other regions with a previously unrecognized influence on LDLR expression. The CREs identified by each modality were overlapping but distinct, both in relation to each other and to those regions predicted to harbor CRE activity. Collectively, our findings clarify the functional landscape of the LDLR locus and highlight the complementary nature of different functional genomic approaches to CRE identification.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761041v1",
+            "journal": "bioRxiv · genomics",
+            "authors": "Vyas, H. S.,  Leix, K.,  Burugula, B. B.,  Paye, S. M.,  Raut, C.,  Speliotes, E",
+            "published": "NA",
+            "doi": "10.64898/2026.10.22.761041"
+          },
+          "score": 62,
+          "score_reason": "CRISPR筛选解析非编码调控，方法相关",
+          "title_cn": "LDLR非编码区的多模态功能图谱解析",
+          "one_liner": "用饱和CRISPR筛选、CRISPRa/i和MPRA系统解析LDLR非编码区，发现多种此前未知的调控元件。",
+          "key_findings": [
+            "饱和CRISPR核酸酶、CRISPRa、CRISPRi与MPRA四种高通量方法并行筛查LDLR位点非编码区。",
+            "各方法均能区分对照序列，并检出对LDLR表达有显著影响的新调控区。",
+            "各模态鉴定的CRE彼此重叠但存在差异，且与计算预测的CRE区域不完全一致。"
+          ],
+          "why_it_matters": "为心血管疾病相关LDLR表达调控提供非编码元件图谱，展示多模态功能基因组学互补识别CRE的策略，可迁移至合成生物学中基因线路与调控元件设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.22.761115",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Conserved Brain-Associated CD8+ T Cell Programs and Their Regulation by the Brain Microenvironment",
+            "abstract": "CD8+ T cells are increasingly recognized as components of the healthy brain, yet whether their specialized functional characteristics are conserved across species and how the brain microenvironment regulates their effector programs remain poorly understood. Here, we characterized brain-associated CD8+ T cells in the common marmoset and investigated their regulation by brain-derived signals. Flow cytometric analysis revealed a substantial population of CD8+ T cells in the healthy marmoset brain parenchyma that exhibited high IFN-{gamma} competence but minimal granzyme B (GzmB) expression, resembling the functional phenotype previously identified in mice. Single-cell transcriptomic analyses of mouse and marmoset CD8+ T cells revealed tissue-associated transcriptional heterogeneity and distinct differentiation- and effector-associated programs. To investigate how the brain microenvironment shapes these characteristics, we exposed activated mouse CD8+ T cells to brain lysate and performed targeted CRISPR interference screening of 107 cell-surface receptor genes coupled with single-cell RNA sequencing. Brain lysate selectively reduced Gzmb and Ifng expression while increasing Tnf and Xcl1, indicating differential regulation of cytotoxic and inflammatory effector programs. Receptor perturbations revealed heterogeneous transcriptional responses and identified candidate pathways potentially involved in sensing brain-derived signals. Together, these findings identify shared functional characteristics of brain-associated CD8+ T cells across rodents and nonhuman primates and establish a framework for understanding how the neural microenvironment shapes adaptive immune function.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.22.761115v1",
+            "journal": "bioRxiv · immunology",
+            "authors": "Park, K.,  Sanchez, T.,  Jeon, S.,  Schade, P. F.,  Hildebrand, D. G. C.,  Yim, ",
+            "published": "NA",
+            "doi": "10.64898/2026.10.22.761115"
+          },
+          "score": 55,
+          "score_reason": "CRISPRi筛选免疫细胞，方法相关但非核心",
+          "title_cn": "保守的脑相关CD8+ T细胞程序及其受脑微环境的调控",
+          "one_liner": "狨猴与小鼠脑内CD8+ T细胞功能特征保守，脑裂解物差异调控其效应程序。",
+          "key_findings": [
+            "健康狨猴脑实质存在CD8+ T细胞，高IFN-γ潜能但低GzmB表达，与小鼠表型相似。",
+            "单细胞转录组揭示小鼠与狨猴CD8+ T细胞的组织相关转录异质性及分化效应程序。",
+            "脑裂解物降低Gzmb/Ifng、升高Tnf/Xcl1；107个受体CRISPRi筛选结合scRNA-seq识别候选感知通路。"
+          ],
+          "why_it_matters": "为神经免疫互作提供跨物种框架，提示脑微环境可编程T细胞效应功能，对合成生物学改造免疫细胞、设计中枢神经系统靶向治疗有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42949655",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Noninvasive Detection and Subtyping of Esophageal Cancer by Circulating Cell-Free mtDNA Fragmentomics: A Multi-Center Validation Study.",
+            "abstract": "Esophageal cancer (EC) is highly lethal due to late diagnosis, and accurate non-invasive tools for early detection and subtyping remain lacking. Circulating cell-free mitochondrial DNA (ccf-mtDNA) fragmentomics offers a promising biomarker source. In this large multi-center study enrolling 1,260 participants spanning healthy control (HC), benign esophageal diseases (BED), precancerous lesions and EC patients, we developed two machine learning models based on plasma ccf-mtDNA fragmentomic profiles: an EC detection (ED) model and a pathological subtyping prediction (PSP) model. The ED model achieved an AUC of 0.9706 (EC vs. non-EC) in the training cohort, with high performance in internal (0.9762), external (0.9748), and Chinese minority (0.9668, Uyghur and Kazakh) validation cohorts. At the optimal cut-off, it yielded 92.16% sensitivity for stage I EC in the combined validation cohort and correctly identified 93.10% of early EC cases missed by preoperative biopsy. It also discriminated high-grade intraepithelial neoplasia from non-EC with an AUC of 0.9597. The PSP model distinguished ESCC from EAC with 89.71% accuracy, improving to 90.74% after integrating key clinical parameters. In summary, ccf-mtDNA fragmentomics provides a robust, non-invasive platform for early EC detection, precancerous risk stratification, and histological subtyping, demonstrating strong potential to transform clinical management.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42949655/",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "authors": "Liu, Yang, Li, et al.",
+            "published": "2026-10-28",
+            "doi": "10.1002/advs.78377"
+          },
+          "score": 40,
+          "score_reason": "cfDNA片段组学癌症检测，诊断类",
+          "title_cn": "循环游离线粒体DNA片段组学无创检测与食管癌亚型分型：多中心验证研究",
+          "one_liner": "基于血浆ccf-mtDNA片段组学的机器学习模型可高精度无创检测早期食管癌并区分ESCC与EAC。",
+          "key_findings": [
+            "多中心纳入1260人，ED模型检测食管癌AUC达0.97，各验证队列均保持0.96以上。",
+            "最佳截断下I期食管癌灵敏度92.16%，并识别出93.10%术前活检漏诊的早期病例。",
+            "PSP模型区分ESCC与EAC准确率89.71%，整合临床参数后升至90.74%。"
+          ],
+          "why_it_matters": "液体活检新标志物路线，对cfDNA片段组学方法学与肿瘤早筛产品开发有直接参考价值，且多中心验证较扎实。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42949643",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Toward a digital urinary biopsy for early risk stratification in diabetic kidney disease: Anchoring shed cells, vesicles, and cell-free DNA to spatial kidney cell states.",
+            "abstract": "BACKGROUND: Diabetic kidney disease (DKD) is the leading cause of end-stage kidney disease worldwide. However, albuminuria and estimated glomerular filtration rate (eGFR), which define and stage DKD, report established injury and do not resolve the cellular heterogeneity underlying variable progression. Urine, the only biofluid to traverse every nephron segment, carries shed cells, extracellular vesicles (EVs) and cell-free DNA (cfDNA), each retaining information about its cell of origin.\nMAIN BODY: This review develops the concept of a digital urinary biopsy, in which the three compartments are read together against spatial single-cell kidney atlases to infer non-invasively which cell states are active and whether niche-associated programs are engaged, an approach we term atlas-anchored molecular profiling. For each compartment, we tabulate study population, sample size, processing, assay, performance and validation status. Because shed-cell RNA, selectively sorted vesicle cargo and cfDNA methylation differ in origin, measurement scale and bias, each requires its own reference matrix, sampling function and background terms. All three carry renal information in feasibility studies, yet none is a validated clinical assay in DKD. Moreover, a cfDNA methylation reference at the required resolution is lacking, and no named computational method has been tested on urine.\nCONCLUSION: We therefore present the framework as a structured research hypothesis and define the required validation, from analytical and clinical validity to prospective demonstration of utility, with non-albuminuric DKD, which albuminuria-based screening misses, as the index use case. It offers a testable route to cell-resolved, non-invasive staging of DKD rather than a demonstrated capability.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42949643/",
+            "journal": "Clinical and translational medicine",
+            "authors": "Wu, Sheng, Lu, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1002/ctm2.70866"
+          },
+          "score": 35,
+          "score_reason": "尿液cfDNA综述，与合成生物学弱相关",
+          "title_cn": "面向糖尿病肾病早期风险分层的数字化尿液活检：将脱落细胞、囊泡与cfDNA锚定至肾脏空间细胞状态",
+          "one_liner": "综述提出“图谱锚定的分子谱分析”框架，整合尿液脱落细胞、EV与cfDNA，对照肾脏空间单细胞图谱实现无创细胞分辨分层。",
+          "key_findings": [
+            "系统汇总三类尿液组分的研究人群、样本量、处理、检测、性能与验证状态。",
+            "三类组分各自来源、测量尺度与偏倚不同，需独立参考矩阵、采样函数与背景项。",
+            "cfDNA甲基化参考图谱分辨率不足，且尚无命名计算方法在尿液上验证。"
+          ],
+          "why_it_matters": "为DKD无创细胞分辨分层提供可检验路线，适合关注液体活检、单细胞图谱与cfDNA甲基化的合成生物学读者评估技术缺口与验证路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42948601",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Assessment of a direct fluorescence-based cell-free DNA assay for evaluating the extent of metastatic dissemination: An exploratory study.",
+            "abstract": "Fluorescence-based cell-free DNA (cfDNA) assays quantify nucleic acids without the need for DNA extraction and amplification. The present study investigated whether cfDNA levels differed between patients with active cancer and those with no evidence of disease (NED). Blood samples from patients with metastatic cancer (Patient group) and from individuals with NED (patients that had completed curative-intent treatment and remained recurrence free for ≥1 year; NED group) were used to quantify cfDNA levels using PicoGreen™ reagent. In total, 124 participants were prospectively enrolled between January 2020 and August 2021 (Patient group, n=72; NED group, n=52). The median age was 69 years (range: 27-83 years) in the Patient group and 65 years (range: 34-81 years) in the NED group. In the Patient group, the pancreatobiliary (n=32, 44.4%), genitourinary (n=20, 27.7%) and gastrointestinal (n=6, 8.3%) sites were the most common primary cancer sites. The median cfDNA value in the Patient group (9.80 µg/ml, IQR 8.63-11.08) was significantly higher than that in the NED group (8.40 µg/ml, IQR 7.75-9.10, P<0.001). In addition, the median cfDNA levels were significantly higher in patients with a high extent of metastatic dissemination (defined as metastases in three or more organs) than in those with a low tumor extent (10.70 µg/ml, IQR 9.35-12.4 vs. 9.45 µg/ml, IQR 8.48-10.85, respectively; P=0.027). Notably, there was no significant correlation between cfDNA and conventional tumor marker levels, including carcinoembryonic antigen and carbohydrate antigen 19-9 levels (P=0.468 and P=0.134, respectively). These findings indicated that cfDNA levels were elevated in patients with metastatic cancer compared with those with NED, particularly in those with a higher extent of metastatic dissemination. Additionally, cfDNA levels were not correlated with those of conventional tumor markers. These cross-sectional exploratory data highlight the potential utility of fluorescence-based cfDNA assays in assessing the extent of metastatic dissemination, and provide a foundational rationale for future longitudinal studies investigating treatment monitoring and prognosis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42948601/",
+            "journal": "Biomedical reports",
+            "authors": "Kim, Lee, Hong, et al.",
+            "published": "2026-12-01",
+            "doi": "10.3892/br.2026.2214"
+          },
+          "score": 30,
+          "score_reason": "cfDNA荧光检测，临床诊断非核心技术",
+          "title_cn": "基于直接荧光的无细胞DNA检测评估转移播散程度的探索性研究",
+          "one_liner": "PicoGreen直接荧光法测得转移性癌症患者cfDNA显著高于无病者，且与转移器官数相关。",
+          "key_findings": [
+            "无需DNA提取与扩增，用PicoGreen直接定量cfDNA，比较转移癌与无病（NED）两组。",
+            "转移组cfDNA中位9.80 µg/ml，显著高于NED组8.40 µg/ml（P<0.001）。",
+            "≥3器官转移者cfDNA更高（10.70 vs 9.45 µg/ml，P=0.027），且与CEA、CA19-9无相关。"
+          ],
+          "why_it_matters": "提示低成本免提取cfDNA荧光法或可辅助评估转移负荷，为液体活检监测提供新思路；但为横断面探索，样本量小，尚需纵向验证。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42946251",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Clinical Utility of Plasma Microbial Cell-Free DNA Sequencing in Adult Immunocompromised Patients: A Real-World Cohort Study.",
+            "abstract": "BACKGROUND: Plasma metagenomic next generation sequencing (mNGS) enables noninvasive pathogen detection independent of organism viability. Although analytic performance has been described, the real-world clinical impact in immunocompromised hosts remains incompletely defined.\nMETHODS: We conducted a retrospective cohort study of immunocompromised adults undergoing plasma mNGS testing from January 2022 through November 2024 at the Medical University of South Carolina. Immunocompromised conditions included solid organ transplantation, hematopoietic stem cell transplantation, active hematologic malignancy, HIV, or biologic immunosuppressants. Clinical impact was adjudicated by infectious disease physicians as positive, negative, or neutral. Positive results were classified as definite, probable, possible, or unlikely infectious based on clinical correlation and concordance with conventional microbiologic testing (CMT).\nRESULTS: Ninety-eight patients were included (median age 60 years [range 18-76]; 63% male), including solid organ transplant (31%), hematopoietic stem cell transplant (8%), HIV (13%), active malignancy (42%), corticosteroids (3%), and biologic therapy (10%). At testing, 85% were receiving antimicrobials and 88% were hospitalized. Plasma mNGS was positive in 62% of cases, with CMT concordance in 30%. Thirty-two percent of tests had positive clinical impact, identifying unrecognized infection or antimicrobial optimization. Sixty-six percent had no treatment impact and 2% had potential negative impact. More than half of discordant positives were deemed possible or unlikely infections. False-negative cases included invasive mold and nontuberculous mycobacterial infections.\nCONCLUSIONS: In this antimicrobial-exposed immunocompromised cohort, plasma mNGS frequently detected organisms but less often influenced clinical management. Discordant positives were common, and false negatives occurred in selected syndromes, supporting cautious interpretation and stewardship-guided use.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42946251/",
+            "journal": "The American journal of the medical sciences",
+            "authors": "Charles, Alkabab, Sharma, et al.",
+            "published": "2026-10-27",
+            "doi": "10.1016/j.amjms.2026.10.011"
+          },
+          "score": 30,
+          "score_reason": "mNGS临床应用，诊断类弱相关",
+          "title_cn": "血浆微生物游离DNA测序在成人免疫抑制患者中的临床效用：一项真实世界队列研究",
+          "one_liner": "免疫抑制患者血浆mNGS阳性率62%，但仅32%对临床治疗产生积极影响。",
+          "key_findings": [
+            "98例免疫抑制成人中，血浆mNGS阳性率62%，与传统微生物检测一致率仅30%。",
+            "32%的检测带来积极临床影响，66%无治疗影响，2%可能产生负面影响。",
+            "不一致阳性多为可能或不太可能的感染；假阴性见于侵袭性霉菌和非结核分枝杆菌。"
+          ],
+          "why_it_matters": "对开发病原mNGS诊断的合成生物学团队有直接参考价值：真实世界临床影响远低于分析性能，提示需重视结果解读与抗菌药物管理场景设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42948587",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Ginsenoside Re attenuates severe acute pancreatitis-associated acute lung injury by inhibiting pancreatic necroptosis-driven cfDNA release and pulmonary cGAS-STING activation.",
+            "abstract": "BACKGROUND: The high mortality of severe acute pancreatitis (SAP) is primarily driven by multiple organ dysfunction, particularly acute lung injury (ALI), a condition for which lacks specific pharmacological therapy. Ginsenoside Re (Re) has documented anti-inflammatory and antioxidant properties, with preliminary evidence indicating its protective potential in pancreatic injury. However, its precise therapeutic efficacy and underlying mechanisms in SAP, especially concerning the mitigation of systemic complications, remain incompletely understood.\nPURPOSE: This study aimed to investigate the therapeutic potential of Re in SAP and to delineate the underlying mechanistic pathway connecting pancreatic acinar cell death to pulmonary injury.\nMETHODS: SAP was induced in mice by seven hourly cerulein injections followed by a final lipopolysaccharide challenge, and Re was administered intraperitoneally during the induction period. Primary pancreatic acinar cells (PACs) were isolated, and mouse pulmonary microvascular endothelial cells (PMVECs) were cultured for in vitro studies. Underlying mechanisms were investigated through transcriptomic and network pharmacology analyses, followed by molecular docking and experimental validation.\nRESULTS: Re treatment significantly alleviated pancreatic injury in SAP mice, with a pronounced reduction in acinar necrosis. Integrated transcriptomic and network pharmacology analyses identified necroptosis as a key target for these effects. Accordingly, Re inhibited RIPK3/MLKL-mediated necroptosis both in vivo and in vitro. The specific RIPK3 inhibitor GSK872 abolished cfDNA release from PACs, indicating that necroptosis is the primary source of cfDNA, and notably, Re mimicked these effects. Acinar cell-derived cfDNA was shown to induce pulmonary endothelial inflammation and barrier dysfunction via activation of the cGAS-STING pathway, effects that were abolished by DNase I. In addition, correlation analysis showed that mouse serum cfDNA levels were positively correlated with lung injury parameters. Further pulmonary transcriptomic analysis confirmed that Re treatment suppressed cfDNA-triggered activation of the cGAS-STING signaling in vivo, thereby contributing to the significant attenuation of lung injury.\nCONCLUSION: Our study uncovers a novel pathological axis in SAP-ALI, wherein pancreatic necroptosis drives cfDNA release, which subsequently activates the pulmonary endothelial cGAS-STING signaling, ultimately leading to distant lung injury. Re interrupts this cascade at multiple nodes, primarily by inhibiting acinar necroptosis and thereby limiting cfDNA release, which in turn attenuates both local and systemic organ injuries. Together, these findings elucidate a novel mechanistic basis for SAP-ALI and support Re as a promising multi-target therapeutic agent for SAP.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42948587/",
+            "journal": "Journal of ginseng research",
+            "authors": "Hu, Yang, Luo, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1016/j.jgr.2026.101121"
+          },
+          "score": 25,
+          "score_reason": "中药机制研究，非关注领域",
+          "title_cn": "人参皂苷Re通过抑制胰腺坏死性凋亡驱动的cfDNA释放及肺cGAS-STING激活减轻重症急性胰腺炎相关急性肺损伤",
+          "one_liner": "人参皂苷Re抑制胰腺腺泡坏死性凋亡，减少cfDNA释放，阻断肺内皮cGAS-STING激活，从而减轻SAP相关肺损伤。",
+          "key_findings": [
+            "小鼠SAP模型中，Re显著减轻胰腺损伤与腺泡坏死，体内外均抑制RIPK3/MLKL介导的坏死性凋亡。",
+            "腺泡细胞坏死性凋亡是cfDNA主要来源；cfDNA经cGAS-STING激活肺内皮炎症与屏障障碍，DNase I可阻断。",
+            "血清cfDNA水平与肺损伤指标正相关，Re在体内抑制肺cGAS-STING激活并减轻肺损伤。"
+          ],
+          "why_it_matters": "揭示胰腺坏死性凋亡-cfDNA-肺cGAS-STING这一远端损伤轴，为SAP-ALI提供新靶点；cfDNA或可作生物标志物，Re为多靶点候选药物，值得关注。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:aae223f47d6b34c7",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "FDA charts path for approval of individualized gene editing therapies",
+            "abstract": "The FDA has outlined steps drugmakers can take to seek regulatory approval for gene editing medicines tailored to fix a single person's disease-causing mutation. The announcement is part of an ongoing ...",
+            "url": "https://endpoints.news/fda-charts-path-for-approval-of-individualized-gene-editing-therapies/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "FDA个体化基因编辑审批路径",
+          "title_cn": "FDA 为个体化基因编辑疗法指明审批路径",
+          "one_liner": "FDA 公布针对单患者致病突变定制基因编辑疗法的审批步骤。",
+          "key_findings": [
+            "FDA 明确药企为个体化基因编辑药物申请监管批准的路径",
+            "疗法针对单个患者的致病突变进行定制",
+            "该公告属于 FDA 正在推进的相关工作的一部分"
+          ],
+          "why_it_matters": "个体化基因编辑的监管路径一旦明确，将影响 CRISPR 疗法从单例同情用药走向可审批产品的开发策略与CMC设计。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:b293bb8f58f74063",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Lilly's triple-G drug retatrutide outshines Novo's Ozempic in diabetes",
+            "abstract": "Eli Lilly’s retatrutide, the incretin shot that has already proven its effectiveness against other assets on a cross-trial basis, has cemented its utility in a head-to-head trial, albeit in diabetes rather than obesity. The drug ...",
+            "url": "https://endpoints.news/lillys-triple-g-drug-retatrutide-outshines-novos-ozempic-in-diabetes/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "礼来三靶点药头对头胜出",
+          "title_cn": "礼来三重激动剂retatrutide在糖尿病头对头试验中优于诺和诺德Ozempic",
+          "one_liner": "礼来retatrutide在糖尿病头对头试验中疗效胜过诺和诺德Ozempic。",
+          "key_findings": [
+            "retatrutide为三重激动剂减重降糖注射药，此次头对头试验针对糖尿病。",
+            "此前跨试验比较已显示其相对其他同类药物的疗效优势。",
+            "本次为首次头对头验证，适应症为糖尿病而非肥胖。"
+          ],
+          "why_it_matters": "GLP-1类多靶点激动剂竞争格局变化，对代谢疾病药物研发与靶点组合设计有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:368011d5f4dcca63",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
+            "abstract": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study.",
+            "url": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "礼来三靶点药头对头胜出",
+          "title_cn": "礼来三靶点药物retatrutide在头对头研究中优于Ozempic",
+          "one_liner": "礼来retatrutide在大型糖尿病研究中降糖减重效果均优于诺和诺德Ozempic。",
+          "key_findings": [
+            "retatrutide为在研三靶点（triple-G）药物，头对头比较中降糖与减重均胜出",
+            "研究为大型糖尿病试验，对照药为Ozempic（司美格鲁肽）",
+            "具体效应量数据未在摘要中披露"
+          ],
+          "why_it_matters": "多靶点代谢药竞争格局变化，对多肽/蛋白类药物设计与减重管线布局有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:360a145f48a8e151",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
+            "abstract": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers.",
+            "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "礼来三靶点药头对头胜出",
+          "title_cn": "礼来「三重G」药物在糖尿病研究中优于诺和诺德Ozempic",
+          "one_liner": "礼来称其「三重G」药物在糖尿病研究中疗效超过诺和诺德Ozempic。",
+          "key_findings": [
+            "礼来公布「三重G」药物对比Ozempic的糖尿病研究结果，称其胜出。",
+            "数据强化了市场预期：该药将成为礼来最重要的增长引擎之一。",
+            "摘要未披露具体疗效数据、适应症细节或试验规模。"
+          ],
+          "why_it_matters": "GLP-1类多靶点激动剂竞争格局生变，若数据扎实，将影响代谢疾病药物研发方向与立项判断。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:5d7927f05ffb8ed1",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Beijing-based BioGeometry gets $100M+ for AI drug R&D",
+            "abstract": "A Chinese biotech startup has raised more than $100 million in Series A funding for its AI-driven protein design. BioGeometry, a 4-year-old company headquartered in Beijing, said in a statement Wednesday ...",
+            "url": "https://endpoints.news/beijing-based-biogeometry-gets-100m-for-ai-drug-rd/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "北京AI蛋白设计融资",
+          "title_cn": "北京BioGeometry获超1亿美元A轮融资，推进AI药物研发",
+          "one_liner": "北京初创BioGeometry完成超1亿美元A轮融资，用于AI驱动的蛋白质设计药物研发。",
+          "key_findings": [
+            "BioGeometry成立4年，总部北京，本轮为A轮融资，金额超1亿美元。",
+            "资金投向AI驱动的蛋白质设计平台，用于药物研发。",
+            "公司未披露具体管线、适应症或临床阶段信息。"
+          ],
+          "why_it_matters": "AI蛋白质设计是合成生物学与药物发现交叉热点，大额融资反映资本关注；但管线与数据未披露，需关注后续技术验证。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:a5b6b906fff22048",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AstraZeneca’s bruising summer raises the stakes for 2027",
+            "abstract": "When one of AstraZeneca’s medicines, Wainua, failed a major late-stage heart disease trial in July, it was a jarring setback for a drugmaker whose research pipeline had become one of the most admired in the ...",
+            "url": "https://endpoints.news/astrazenecas-bruising-summer-raises-the-stakes-for-2027/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "阿斯利康管线挫折分析",
+          "title_cn": "阿斯利康夏季受挫，2027年成败压力加大",
+          "one_liner": "阿斯利康药物Wainua在7月一项重大晚期心脏病试验中失败，令其备受推崇的研发管线承压。",
+          "key_findings": [
+            "Wainua在晚期心脏病试验中失败，是阿斯利康今夏的一次明显挫折。",
+            "阿斯利康研发管线此前被视为业内最受推崇之一，此次失败形成反差。",
+            "报道将此次挫折与公司2027年的关键节点和压力联系起来。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，这是观察大药企管线风险与后期临床失败如何影响研发战略的案例，可关注Wainua机制及心脏适应症后续。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:dc6929b3e62cf3cc",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Analysts press Biogen on lupus drug litifilimab ahead of pivotal readouts",
+            "abstract": "Scrutiny of Biogen’s late-stage pipeline is intensifying ahead of several Phase 3 readouts that are pivotal to CEO Chris Viehbacher's turnaround efforts. Analysts lobbed numerous questions at Viehbacher and other Biogen execs about the trials ...",
+            "url": "https://endpoints.news/analysts-press-biogen-on-lupus-drug-litifilimab-ahead-of-pivotal-readouts/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "Biogen狼疮药三期关注",
+          "title_cn": "分析师追问 Biogen 狼疮药 litifilimab 关键 III 期数据",
+          "one_liner": "Biogen 狼疮新药 litifilimab 多项 III 期数据临近，分析师密集追问试验细节。",
+          "key_findings": [
+            "litifilimab 是 Biogen 后期管线核心资产，多项 III 期读出在即。",
+            "分析师在业绩沟通中集中质询试验设计、终点与读出节奏。",
+            "该药被视为 CEO Viehbacher 扭转局面的关键赌注之一。"
+          ],
+          "why_it_matters": "狼疮领域仍缺高效低毒疗法，若 III 期阳性将影响自免赛道格局；对关注抗体药与临床转化的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c788c47c79bc67dd",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Formation Bio unveils $600M fund tied to existing model",
+            "abstract": "Formation Bio, an AI-focused biotech that acquires outside assets, develops them and then hands them off, has raised a $600 million investment found to double down on that strategy. The new fund will help it ...",
+            "url": "https://endpoints.news/formation-bio-unveils-600m-fund-tied-to-existing-model/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "AI生物科技融资，模式相关",
+          "title_cn": "Formation Bio 设立 6 亿美元基金，延续既有模式",
+          "one_liner": "Formation Bio 募集 6 亿美元基金，继续收购外部资产开发后再转手。",
+          "key_findings": [
+            "新基金规模 6 亿美元，用于加码收购外部资产、开发后转手的模式。",
+            "公司以 AI 为核心，业务涵盖引进资产、开发及后续转让。",
+            "摘要未披露具体适应症、管线或临床数据。"
+          ],
+          "why_it_matters": "该模式以 AI 驱动资产引进与开发，为合成生物学背景研究者提供观察 AI 制药资产流转与估值逻辑的窗口。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:3ee4efd10e65051e",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "ç­ç¢åºéé²çº¿ ç²¾åæ¨ä»è´¹ç¨ãå®ç¹é¿æ¤æå¡æºææ¤çè´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯»",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ ç­ç¢åºéé²çº¿ ç²¾åæ¨ä»è´¹ç¨ãå®ç¹é¿æ¤æå¡æºææ¤çè´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯» --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->ç­ç¢åºéé²çº¿ ç²¾åæ¨ä»è´¹ç¨ãå®ç¹é¿æ¤æå¡æºææ¤çè´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯»end--> æ¥æï¼2026-10-28 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ãç¼è æãä¸ºæ¨å¨å»ºç«å ¨å½ç»ä¸çé¿ææ¤çæå¡ç®¡çæ åï¼æåç»åæå¡ååè®®ç®¡çè§èåæ°´å¹³ï¼å©åé¿ææ¤çä¿é©ç»åé«è´¨éåå±ï¼å½å®¶å»ä¿å±å¶å®ãé¿ææ¤çä¿é©æå¡ç®¡çæä¹¦ï¼2026çï¼ããä¸ºè§èæä¹¦ä½¿ç¨ï¼å¼å¯¼ç»åæºæåç¡®è§èå¡«åç¸å ³å å®¹ï¼æä»¬ç»ç»å¯¹å½å®¶çæä¹¦è¿è¡ç³»åè§£è¯»ãå®ç¹é¿æ¤æå¡æºææäº¤ç»ç®ç³æ¥è¡¨åï¼ç»åæºæéå¯¹åº",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/28/art_14_23242.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "长护险支付规范，与医保相关",
+          "title_cn": "国家医保局《定点长护服务机构护理费用拨付表》规范解读",
+          "one_liner": "国家医保局发布长护险费用拨付表填写规范解读，统一长期护理保险结算申报标准。",
+          "key_findings": [
+            "配合《长期护理保险服务管理文书（2026版）》，规范定点长护机构费用拨付表填写。",
+            "定点机构提交结算申报表后，经办机构须按规范核对相应内容。",
+            "目标是建立全国统一的长护服务管理标准，提升经办与协议管理规范化水平。"
+          ],
+          "why_it_matters": "该政策属医保支付与长期护理服务管理范畴，与合成生物学研发、产品注册及市场准入无直接关联，仅可作政策环境背景了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:8ef6a852bab2d3b9",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "åä¸å­£åº¦äººæ°å¸è´·æ¬¾å¢å 11.52ä¸äº¿å ãäºãå·¥ä¸ä¸­é¿æè´·æ¬¾æ»ä½å¹³ç¨³å¢é¿2026å¹´ä¸å­£åº¦æ«ãæ¬å¤å¸å·¥ä¸ä¸­é¿æè´·æ¬¾ä½é¢28.06ä¸äº¿å ãæ¬å¤å¸æå¡ä¸ä¸­é¿æè´·æ¬¾ä½é¢76.84ä¸äº¿å ãä¸å«æ¿å°äº§ä¸çæå¡ä¸ä¸­é¿æè´·æ¬¾ä½é¢åæ¯å¢é¿9.2%ãæ¿å°äº§ä¸ä¸­é¿æè´·æ¬¾ä½é¢åæ¯ä¸é5.6%ãæ¬å¤å¸åºç¡è®¾æ½ç¸å ³è¡ä¸ä¸­é¿æè´·æ¬¾ä½é¢45.36ä¸äº¿å ãåãç»¿è²è´·æ¬¾å¢é¿è¾ä¸ºå¹³ç¨³2026å¹´ä¸å­£åº¦æ«ãæ¬å¤å¸ç»¿è²è´·æ¬¾ä½é¢49.22ä¸äº¿å ãåæ¯å¢é¿1.7%ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026102815121914211/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无效，无法判断内容",
+          "title_cn": "2026年前三季度金融机构贷款投向统计报告",
+          "one_liner": "央行发布2026年前三季度贷款投向数据，工业中长期贷款平稳增长，绿色贷款增速放缓。",
+          "key_findings": [
+            "前三季度人民币贷款增加11.52万亿元，工业中长期贷款余额28.06万亿元。",
+            "不含房地产的服务业中长期贷款同比增长9.2%，房地产中长期贷款同比下降5.6%。",
+            "绿色贷款余额49.22万亿元，同比增长1.7%，增长较为平稳。"
+          ],
+          "why_it_matters": "该数据反映信贷资源向工业、绿色领域倾斜，可作为合成生物学企业融资环境与绿色产业资金支持的宏观参考。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:05b8a9f5907e55fb",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Gemini 4 Carbon: Our next frontier model",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "Gemini新前沿模型发布",
+          "title_cn": "Gemini 4 Carbon：Google DeepMind 下一代前沿模型",
+          "one_liner": "Google DeepMind 发布下一代前沿模型 Gemini 4 Carbon。",
+          "key_findings": [
+            "Google DeepMind 发布下一代前沿模型，命名为 Gemini 4 Carbon。",
+            "官方博客仅公布模型名称与定位，未披露参数、能力或评测数据。",
+            "发布信息来自 DeepMind 官方博客，日期为 2026-10-28。"
+          ],
+          "why_it_matters": "前沿大模型迭代可能影响合成生物学中的文献挖掘、序列与实验数据分析及智能体设计工具，但当前无技术细节，暂难评估实际价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:0ee110650c52b9d5",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+            "abstract": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+            "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "Gemini 4 Carbon细节披露",
+          "title_cn": "Google 发布前沿 AI 模型 Gemini 4 Carbon，但外部无法使用",
+          "one_liner": "Google 发布 Gemini 4 Carbon，性能略优于 Argon，但仅限内部使用、不对外开放。",
+          "key_findings": [
+            "Gemini 4 Carbon 是 Google 最新前沿模型，定位为 Argon 的小幅升级版。",
+            "该模型不向外部用户开放，仅限 Google 内部使用。",
+            "发布信息未披露具体基准数据或产品化计划。"
+          ],
+          "why_it_matters": "前沿模型闭门迭代反映 AI 能力差距与可及性问题；对合成生物学研究者而言，短期难以用于实验设计或文献挖掘，需关注后续开放版本。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:fbd38a03737261a6",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+            "abstract": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+            "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "OpenAI企业级落地合作",
+          "title_cn": "OpenAI 与 ServiceNow 扩大合作，打通企业工作流",
+          "one_liner": "OpenAI 与 ServiceNow 扩大合作，双向集成模型、智能体与企业工作流。",
+          "key_findings": [
+            "OpenAI 模型与智能体将嵌入 ServiceNow 平台及其工作流。",
+            "ServiceNow 工作流将接入 ChatGPT 与 Codex，实现双向打通。"
+          ],
+          "why_it_matters": "企业级智能体与工作流融合加速，合成生物学研发的数据管理与实验自动化或可借鉴此类集成模式。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:3298e9231f537224",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+            "abstract": "NVIDIA will host a conference call on Tuesday, November 17, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the third quarter of fiscal year 2027, which ended October 25, 2026.",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "英伟达财报电话会",
+          "title_cn": "NVIDIA 将于 11 月 17 日召开 2027 财年第三季度财报电话会",
+          "one_liner": "NVIDIA 定于 11 月 17 日召开电话会，讨论 2027 财年第三季度财报。",
+          "key_findings": [
+            "电话会时间为 11 月 17 日太平洋时间下午 2 点（东部时间下午 5 点）。",
+            "讨论截至 2026 年 10 月 25 日的 2027 财年第三季度财务业绩。"
+          ],
+          "why_it_matters": "NVIDIA 的业绩与指引是 AI 算力投资的风向标，可间接反映合成生物学 AI 工具链的算力成本与可及性趋势。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:418810575294c2df",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+            "abstract": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+            "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "RTX笔记本新品常规",
+          "title_cn": "NVIDIA RTX Spark Windows 笔记本扩展新品，新增智能体工具与游戏支持",
+          "one_liner": "NVIDIA RTX Spark 笔记本新增多品牌机型，并加入智能体工具与游戏支持。",
+          "key_findings": [
+            "RTX Spark 笔记本现已由华硕、戴尔、惠普、联想、微软和微星供货。",
+            "该平台将 Blackwell RTX GPU 与 Grace CPU 集成于单颗超级芯片，最高支持 128GB 统一内存。",
+            "面向开发者、创作者和游戏玩家的轻薄本，新增智能体工具与游戏支持。"
+          ],
+          "why_it_matters": "统一内存的 Grace-Blackwell 超级芯片可能改变本地运行大模型与合成生物学 AI 工具的硬件门槛，值得关注其对开发工作流的影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:43a392c7fc8cfc96",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Legora is building the agentic operating system for legal work",
+            "abstract": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+            "url": "https://openai.com/index/legora",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "法律Agent应用案例",
+          "title_cn": "Legora 打造法律工作的智能体操作系统",
+          "one_liner": "Legora 基于 OpenAI 模型、ChatGPT 与 Codex 构建法律工作智能体平台，加速合同分析等流程。",
+          "key_findings": [
+            "Legora 利用 OpenAI 模型与 Codex 构建面向法律工作的智能体操作系统",
+            "平台可加速法律工作流、扩展合同分析能力",
+            "目标是让律师腾出精力投入更高价值的工作"
+          ],
+          "why_it_matters": "对合成生物学研发者而言，此类智能体工作流可迁移至专利与合同审阅、技术转让文件处理，降低法务协作成本。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:a0f1f341400c3ee4",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "The future of the firm",
+            "abstract": "How AI might enter the org chart—beneath, beside, and between us.",
+            "url": "https://openai.com/index/the-future-of-the-firm",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "AI组织形态趋势评论",
+          "title_cn": "AI 如何进入企业组织架构：从下属、同事到协调层",
+          "one_liner": "OpenAI 探讨 AI 在企业组织中的三种角色：下属、同事与协调层。",
+          "key_findings": [
+            "AI 可作为执行层下属，承担具体任务",
+            "AI 也可作为平级同事，参与协作决策",
+            "AI 还可能嵌入团队之间，充当协调层"
+          ],
+          "why_it_matters": "合成生物学研发高度依赖跨学科协作与流程管理，理解 AI 在组织中的定位，有助于设计实验室自动化与研发协作模式。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c3668f0088864f20",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+            "abstract": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+            "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "海底光缆地缘风险",
+          "title_cn": "中国在太平洋海底光缆周边的活动引发大型科技公司风险担忧",
+          "one_liner": "美方称中国在太平洋海底光缆周边活动增加，跨太平洋光缆面临破坏与地缘风险。",
+          "key_findings": [
+            "美国所有的跨太平洋海底光缆面临日益上升的破坏与外部干扰风险",
+            "报道将风险来源指向中国在光缆周边海域的活动",
+            "大型科技公司依赖这些光缆承载跨洋数据流量，风险直接波及运营"
+          ],
+          "why_it_matters": "海底光缆是跨境数据与云服务的关键基础设施；对合成生物学研究者而言，这关系到国际数据库、测序数据与云平台的访问稳定性，但与本领域技术进展无直接关联。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:691d8c91182384b8",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Apple announces touchscreen MacBook Pro with OLED display",
+            "abstract": "The OLED display is the main draw, but the price is a lot to reckon with.",
+            "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "苹果硬件与关注弱相关",
+          "title_cn": "苹果发布带 OLED 触控屏的 MacBook Pro",
+          "one_liner": "苹果推出首款 OLED 触控屏 MacBook Pro，但定价偏高。",
+          "key_findings": [
+            "OLED 显示屏是这款新 MacBook Pro 的最大卖点。",
+            "产品定价较高，价格成为主要顾虑。"
+          ],
+          "why_it_matters": "与合成生物学研究方向关联有限，但 OLED 触控屏与高定价或影响实验室移动办公设备选型与采购预算。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:fb4a5a6acb5ff8a1",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Google AI gets cagey when asked who won the 2020 elections",
+            "abstract": "But the AI responses get more forthright when asked outside the US.",
+            "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-28",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "AI政治敏感话题",
+          "title_cn": "Google AI 被问2020年大选胜者时闪烁其词，境外提问则更直白",
+          "one_liner": "Google AI 在美国境内被问2020年大选胜者时回避作答，境外提问则回答更直接。",
+          "key_findings": [
+            "同一问题在美国境内提问时，AI 回答含糊、回避",
+            "在境外提问时，AI 回答明显更直接",
+            "报道聚焦 AI 回答的地域差异，未涉及模型技术细节"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，这提示 AI 模型存在地域性行为差异与合规风险；若用 AI 辅助文献检索或实验设计，需留意其回答可能因地区而变。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
