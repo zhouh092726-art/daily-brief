@@ -1,0 +1,1224 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T07:21:05.090148+08:00",
+  "fetched_ids": [
+    "pubmed:42961752",
+    "pubmed:42961746",
+    "pubmed:42961744",
+    "pubmed:42961742",
+    "pubmed:42961740",
+    "pubmed:42961739",
+    "pubmed:42961738",
+    "pubmed:42961735",
+    "pubmed:42955644",
+    "pubmed:42955641",
+    "pubmed:42955637",
+    "pubmed:42935498",
+    "pubmed:42960151",
+    "pubmed:42959705",
+    "pubmed:42953289",
+    "pubmed:42951388",
+    "pubmed:42948601",
+    "pubmed:42960696",
+    "pubmed:42961938",
+    "pubmed:42945261",
+    "pubmed:42945259",
+    "pubmed:42960308",
+    "pubmed:42959434",
+    "pubmed:42952969",
+    "pubmed:42949643",
+    "pubmed:42948587",
+    "pubmed:42946409",
+    "pubmed:42962024",
+    "pubmed:42961608",
+    "pubmed:42961465",
+    "pubmed:42961044",
+    "pubmed:42961032",
+    "pubmed:42960709",
+    "pubmed:42957916",
+    "pubmed:42955337",
+    "pubmed:42952325",
+    "pubmed:42957789",
+    "pubmed:42957528",
+    "pubmed:42957139",
+    "pubmed:42956714",
+    "pubmed:42956643",
+    "pubmed:42955575",
+    "pubmed:42953984",
+    "pubmed:42951945",
+    "pubmed:42950181",
+    "pubmed:42955330",
+    "pubmed:42955177",
+    "pubmed:42954555",
+    "pubmed:42952019",
+    "pubmed:42951937",
+    "pubmed:42951926",
+    "pubmed:42951002",
+    "pubmed:42950961",
+    "pubmed:42950820",
+    "pubmed:42949655",
+    "pubmed:42949625",
+    "pubmed:42949339",
+    "pubmed:42944860",
+    "pubmed:42959945",
+    "pubmed:42948176",
+    "pubmed:42947535",
+    "pubmed:42947454",
+    "pubmed:42946975",
+    "pubmed:42946251",
+    "pubmed:42945275",
+    "pubmed:42945269",
+    "pubmed:42945042",
+    "pubmed:42944619",
+    "pubmed:42937653",
+    "pubmed:42937651",
+    "pubmed:42936890",
+    "pubmed:42935446",
+    "pubmed:42934175",
+    "pubmed:42953145",
+    "pubmed:42937235",
+    "pubmed:42934295",
+    "pubmed:42945879",
+    "pubmed:42948688",
+    "pubmed:42945766",
+    "pubmed:42945726",
+    "pubmed:42945697",
+    "pubmed:42939789",
+    "pubmed:42939090",
+    "pubmed:42938932",
+    "pubmed:42938263",
+    "pubmed:42943838",
+    "pubmed:42943354",
+    "pubmed:42943174",
+    "pubmed:42941676",
+    "pubmed:42940200",
+    "pubmed:42938921",
+    "pubmed:42944487",
+    "pubmed:42944078",
+    "pubmed:42939480",
+    "biorxiv:10.64898/2026.10.24.761574",
+    "biorxiv:10.64898/2026.10.23.761044",
+    "rss:2463c5d391d5cf1e",
+    "rss:1e9f1d71cca5b148",
+    "rss:f4f36ad10355e99d",
+    "rss:4942224a96a8177a",
+    "rss:9814d72acc3a7434",
+    "rss:55e250b992915f09",
+    "rss:228672a9045b7586",
+    "rss:fa9f73a81b935410",
+    "rss:8a343b21a0253b62",
+    "rss:f1ef297947a18223",
+    "rss:b073baf4d0960f33",
+    "rss:b2ce36c969c38e62",
+    "rss:c6f8497d37e5b2cd",
+    "rss:4b3f66b27e2cd721",
+    "rss:a2ee3038d87d7870",
+    "rss:f035761c4180e8b4",
+    "rss:210169e012136090",
+    "rss:e154cf7d41cc9c62",
+    "rss:e8469916efef01d1",
+    "rss:5fa9595f0f8de9d8",
+    "rss:4dd9732933b8bcf3",
+    "rss:ed7ec0ff6f363636",
+    "rss:632e21f30024bb28",
+    "rss:c8045b031d35e596",
+    "rss:1ce2f68e7cafdcc7",
+    "rss:e78ff8aa17efdb6e",
+    "rss:2d85321626b9c1c2",
+    "rss:894954c30d5037d7",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "pbc:3414b5296af43c62",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "pbc:d28020e17e953fbf",
+    "nhsa:63644759a64c08b9",
+    "nhsa:ef30561397dfaaad",
+    "nhsa:bc7e06e9e6433075",
+    "nhsa:2de85f07ffc47429",
+    "nhsa:3ee4efd10e65051e",
+    "nhsa:0d484c6800ee63c5",
+    "nhsa:95b626f04c0bfdc4",
+    "nhsa:5b4ec4eb77f49ad5",
+    "nhsa:b5189f8503527f52",
+    "nhsa:ba9f750c6cfa9625",
+    "rss:14b39e2399e0e210",
+    "rss:de97c2c5f0bfcb44",
+    "rss:a33227d4fab6900b",
+    "rss:aaf5e6791aaf44c5",
+    "rss:4745ac4816a80acd",
+    "rss:eb2bd3b12e173ecd",
+    "rss:4c59753c4e04cb78",
+    "rss:fbd38a03737261a6",
+    "rss:a0f1f341400c3ee4",
+    "rss:43a392c7fc8cfc96",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:8d6a4fe548901c01",
+    "rss:dfa28fccde924d6d",
+    "rss:e6f638debfa6c5cd",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:d05be7d3fa9f0aa9",
+    "rss:1c86e9ba5b1d3cc9",
+    "rss:60024c90622f7eb3",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:f0de965da6ea851c",
+    "rss:fcc3bbca0dfd9cd9",
+    "rss:4c313421afd4676e",
+    "rss:655f823878f84966",
+    "rss:a4df15e2609a100e",
+    "rss:45464663f5cb4135",
+    "rss:2a54c7268393e9c1",
+    "rss:4c741e774f8efa8f",
+    "rss:5a02832e79560891",
+    "rss:2c5cd1c49581a97e"
+  ],
+  "stats": {
+    "fetched": 199,
+    "new_items": 61,
+    "kept": 38,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42957916",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Research progress of gene correction for genetic diseases via in vivo prime editing.",
+            "abstract": "Curative therapies for genetic diseases caused by pathogenic mutations demand precise and safe genome editing technologies. Prime editing (PE), a CRISPR-Cas9-derived technology that enables precise base conversions without double-strand breaks (DSBs), has emerged as a transformative tool with the ability to correct 89% of human pathogenic mutations. However, transitioning PE from preclinical models to clinical applications faces critical challenges, particularly in the development of in vivo delivery systems and scalable manufacturing. This review systematically summarizes advances of in vivo PE therapeutics, focusing on the therapeutic outcomes across some retinal, metabolic, and hematologic genetic diseases. We further dissect barriers to clinical translation, including in the immunogenicity of viral vectors, off-target risks in nondividing cells, and large-scale production bottlenecks. By highlighting the unique advantages of in vivo PE and proposing actionable solutions for scalable manufacturing, the work provides a roadmap for accelerating in vivo PE-based therapies toward clinical reality.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42957916/",
+            "journal": "Molecular genetics and genomics : MGG",
+            "authors": "Shuran, Yuzhen, Zili, et al.",
+            "published": "2026-10-30",
+            "doi": "10.1007/s00438-026-02535-8"
+          },
+          "score": 88,
+          "score_reason": "先导编辑体内治疗综述，核心方向",
+          "title_cn": "体内先导编辑用于遗传病基因矫正的研究进展",
+          "one_liner": "综述体内先导编辑治疗遗传病的进展，指出递送与规模化生产是临床转化关键瓶颈。",
+          "key_findings": [
+            "先导编辑无需双链断裂即可精准碱基转换，理论上可矫正89%的人类致病突变。",
+            "汇总视网膜、代谢及血液遗传病的体内PE治疗效果，并剖析病毒载体免疫原性、非分裂细胞脱靶与量产瓶颈。",
+            "提出可规模化生产的可行方案，为体内PE疗法临床转化提供路线图。"
+          ],
+          "why_it_matters": "为合成生物学背景研究者提供体内基因编辑递送与量产的系统视角，有助于判断PE疗法在深圳基因治疗产业中的转化机会与技术切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42960151",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Precision meets scale: DSB- and recombinase-free targeted insertion of large DNA fragments.",
+            "abstract": "Targeted insertion of large DNA fragments has been constrained by the genotoxicity associated with double-strand breaks (DSBs) and the limitations of two-step recombinase systems. Three independently developed mammalian platforms, Quadruple pegRNA (QuadPE), Prime Assembly (PA), and PRIME-In, now achieve programmable, DSB- and recombinase-free insertion of up to 26 kb, 11.3 kb, and 9.2 kb, respectively, through convergent yet mechanistically distinct flap-guided integration strategies. Notably, QuadPE and PA achieve integration independent of cell-cycle progression. Furthermore, these systems outperform several existing recombinase- and/or transposase-based tools, underscoring their translational potential for therapeutic utility. Their mechanistic logic also provides a forward path for the DSB-free and recombinase-free integration of large DNA sequences in crop biotechnology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42960151/",
+            "journal": "Biodesign research",
+            "authors": "Kumar, Singh",
+            "published": "2026-12-01",
+            "doi": "10.1016/j.bidere.2026.100126"
+          },
+          "score": 85,
+          "score_reason": "无DSB大片段靶向插入，基因编辑重大进展",
+          "title_cn": "精准与规模兼得：无 DSB、无重组酶的大片段 DNA 靶向插入",
+          "one_liner": "三个哺乳动物平台实现无 DSB、无重组酶的可编程大片段 DNA 靶向插入，最大达 26 kb。",
+          "key_findings": [
+            "QuadPE、Prime Assembly 与 PRIME-In 分别实现 26 kb、11.3 kb、9.2 kb 的 flap 引导整合。",
+            "三者机制不同但思路趋同，均不依赖 DSB 与重组酶。",
+            "QuadPE 与 PA 的整合不依赖细胞周期进程，且优于部分现有重组酶/转座酶工具。"
+          ],
+          "why_it_matters": "为大片段基因写入提供低基因毒性路线，对基因治疗与合成基因组改造有直接参考价值，值得跟进机制与递送可行性。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42959945",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Simulating Directed Evolution In Silico with an Iterative, Physics-Based Workflow.",
+            "abstract": "Directed evolution consistently delivers engineered enzymes that facilitate diverse biocatalytic transformations. Despite advances in automation and high-throughput workflows, our ability to rapidly engineer novel enzymes is limited by our inability to thoroughly sample the vast protein design space. Generative artificial intelligence (AI) methods have alleviated this challenge to some degree, due to their ability to propose mutations based on learned patterns from complex protein data sets. However, the hidden logic of these AI-based methods can complicate our ability to reveal and exploit fundamental details of these enzymes. To complement these hidden-logic models, we present a structure- and physics-based workflow that mimics directed evolution in silico. This Virtual Protein EngineeR (referred to as ViPER) aims to simulate directed evolution by leveraging computational modeling, molecular dynamics simulations, in silico mutagenesis, and structure-based property evaluation to iteratively engineer an enzyme toward a desired target. In this work, we present a retrospective analysis to demonstrate ViPER's ability to efficiently navigate the complex protein-protein interfaces associated with the oligomerization of a ketoreductase (KRED) enzyme. In addition to successfully predicting >70% of sites that are crucial for toggling the oligomerization of this KRED enzyme (after only five rounds), this dynamics-based methodology identifies a distal mutation that was incorporated during experiment-based directed evolution. This work provides a novel foundation for computationally driven directed evolution efforts, opening the opportunity to simultaneously pursue and evaluate multiple evolutionary routes through a physics-based lens.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42959945/",
+            "journal": "ACS omega",
+            "authors": "Jones, Verma",
+            "published": "2026-10-27",
+            "doi": "10.1021/acsomega.6c08421"
+          },
+          "score": 82,
+          "score_reason": "计算模拟定向进化，直接相关",
+          "title_cn": "基于物理的迭代工作流在计算机中模拟定向进化",
+          "one_liner": "ViPER 用结构建模、分子动力学与计算突变迭代模拟定向进化，五轮内预测出逾 70% 控制 KRED 寡聚化的关键位点。",
+          "key_findings": [
+            "ViPER 整合计算建模、分子动力学、计算突变与结构性质评估，迭代优化酶。",
+            "对酮还原酶寡聚化界面做回顾性验证，五轮后成功预测 >70% 关键位点。",
+            "识别出实验定向进化中引入的一个远端突变，体现物理方法的互补价值。"
+          ],
+          "why_it_matters": "为酶工程提供可解释的物理驱动定向进化路线，可与生成式 AI 互补；对深圳合成生物学团队的酶设计与界面改造有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.24.761574",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Computational Design and Evaluation of De Novo Protein Minibinders Targeting Specific Sites of STAT3",
+            "abstract": "STAT3 is a transcription factor involved in the progression of many types of cancer, which makes it an attractive therapeutic target. Small-molecule STAT3 inhibitors have experienced a high failure rate in clinical trials, indicating alternative approaches may be warranted. To address these limitations, we used BindCraft, a modern AI-driven protein design tool, to create miniprotein binder candidates against several sites of STAT3. We selected seven target hotspots on the SH2, linker, DNA-binding and coiled-coil domains of STAT3. Of 139 designs that passed BindCraft's filters, 11 high-confidence binders emerged from five of the seven hotspots. These candidate binders were evaluated with AlphaFold3 (AF3). All eleven are predicted to dock with their intended domain; most within 4.5 [A] of one or more of their targeted hotspot residues. Several minibinders are predicted to dock simultaneously to STAT3 without overlap. Such pairs have the potential to constitute STAT3 sandwich assays. BLASTp searches found no matches with known protein sequences for six of the binders and only very low-significance matches for the other five. We disclose herein the sequences of our top binders targeting diverse regions of the STAT3 surface with the hope that experimental validation by the broader research community will yield promising leads for preclinical drug development against this important cellular regulator.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.24.761574v1",
+            "journal": "bioRxiv · bioengineering",
+            "authors": "Sragovicz, E. R.,  Tobias, A. V.",
+            "published": "NA",
+            "doi": "10.64898/2026.10.24.761574"
+          },
+          "score": 80,
+          "score_reason": "AI蛋白设计minibinder，AlphaFold方向",
+          "title_cn": "靶向STAT3特定位点的从头设计蛋白微结合剂的计算机设计与评估",
+          "one_liner": "用BindCraft设计出11个高置信度STAT3微蛋白结合剂，经AlphaFold3预测可结合目标结构域。",
+          "key_findings": [
+            "针对STAT3的SH2、linker、DNA结合及卷曲螺旋结构域选7个热点，139个设计中11个高置信度结合剂覆盖5个热点。",
+            "AlphaFold3预测11个结合剂均对接目标结构域，多数距靶点残基4.5Å内，部分可同时无重叠结合。",
+            "BLASTp显示6个结合剂与已知蛋白序列无匹配，其余5个仅极低显著性匹配。"
+          ],
+          "why_it_matters": "STAT3小分子抑制剂临床失败率高，AI设计的微蛋白结合剂提供新路径；序列已公开，可供合成生物学团队实验验证并开发检测或治疗工具。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42957139",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering Methylobacterium as a C1 biomanufacturing platform: Metabolic architecture, regulatory networks, and synthetic biology strategies.",
+            "abstract": "Methanol is emerging as a sustainable and energy-dense one carbon (C1) feedstock for next-generation biomanufacturing, owing to its superior energy density, abundance, water miscibility, and decoupling from food supply chains. Methylobacterium species are facultative methylotrophs that have evolved sophisticated metabolic and regulatory networks for efficient methanol utilization. This review highlights the transition of Methylobacterium from a model organism for dissecting methylotrophy to a programmable C1 chassis for synthetic biology. We provide a unique overview of its core metabolic architecture, focusing on the lanthanide-switchable pyrroloquinoline quinone (PQQ)-dependent methanol oxidation, the tetrahydromethanopterin (H₄MPT)-mediated formaldehyde buffering system, and the tight coupling of the serine cycle with the ethylmalonyl-CoA (EMC) pathway, which together govern carbon flux, redox balance, and energy efficiency. Building on this intrinsic framework, we survey how these traits are leveraged to produce high-value chemicals, such as folate derivatives, redox cofactors, organic acids, terpenoids, bioplastics, and single-cell protein. Furthermore, we discuss advanced engineering strategies for systematic chassis optimization including global transcriptional regulation, metabolic valve control, and photo-methylotrophic configurations, along with a comprehensive evaluation of Methylobacterium chassis advantages and disadvantages, concrete product-chassis matching rules, common engineering bottlenecks, and diversified low-cost feedstock options. Finally, we propose a product-chassis matching framework and outline future directions centered on regulatory control, flux coordination, and robustness enhancement to overcome current limitations in titer, yield, and scale-up, while also leveraging agricultural applications and low-cost feedstocks, thereby positioning Methylobacterium as a cornerstone of sustainable low-carbon biotechnology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42957139/",
+            "journal": "Biotechnology advances",
+            "authors": "Yao, Ma, Liu, et al.",
+            "published": "2026-10-29",
+            "doi": "10.1016/j.biotechadv.2026.109086"
+          },
+          "score": 78,
+          "score_reason": "甲基营养菌C1合成生物学底盘",
+          "title_cn": "甲基杆菌作为C1生物制造平台的工程化：代谢架构、调控网络与合成生物学策略",
+          "one_liner": "综述系统梳理甲基杆菌甲醇代谢架构与调控网络，提出产物-底盘匹配框架以推进C1生物制造。",
+          "key_findings": [
+            "核心代谢包括镧系可切换的PQQ依赖甲醇氧化、H₄MPT甲醛缓冲及丝氨酸循环与EMC通路耦合。",
+            "已用于生产叶酸衍生物、氧化还原辅因子、有机酸、萜类、生物塑料和单细胞蛋白。",
+            "工程策略涵盖全局转录调控、代谢阀门控制与光-甲基营养配置，并总结瓶颈与低成本原料。"
+          ],
+          "why_it_matters": "甲醇C1原料不依赖粮食供应链，为合成生物学提供低成本低碳底盘选择；其代谢与调控改造思路对开发非糖基原料细胞工厂有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961739",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Design Space Exploration of Genetic Circuits Using the UNFOLD Framework.",
+            "abstract": "In this chapter, we describe UNFOLD (UNified FramewOrk for reguLatory Dynamics), a comprehensive computational approach for exploring the design space of gene regulatory circuits and characterizing fundamental biological properties. UNFOLD enables systematic analysis of how three-node genetic circuits can exhibit properties such as robustness, plasticity, evolvability, and functional canalization. Through exhaustive simulation of over 190 million genetic circuits covering all possible three-node network structures, we identify the complete functional repertoire achievable by such circuits and establish quantitative relationships between circuit structure, parameters, and function. The framework introduces three key diversity metrics: structural diversity, parametric diversity, and functional diversity, which together provide a unified mathematical basis for understanding biological resilience. We demonstrate that only 20 distinct functions are achievable with three-node circuits, that every network exhibits multifunctionality, and that significant network degeneracy allows multiple structural implementations of the same function. We detail the computational pipeline for finding the functional repertoire, the methodology for calculating diversity metrics, and procedures for identifying circuits with specific biological properties. The UNFOLD framework implementation is available from https://github.com/RamanLab/UNFOLD-Framework .",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961739/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Chakraborty, Rengaswamy, Raman",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_5"
+          },
+          "score": 70,
+          "score_reason": "UNFOLD框架系统探索基因线路设计空间",
+          "title_cn": "UNFOLD 框架：基因线路设计空间探索",
+          "one_liner": "穷举 1.9 亿个三节点基因线路，发现仅 20 种可实现功能且普遍多能。",
+          "key_findings": [
+            "模拟超 1.9 亿个三节点网络，覆盖全部结构，建立结构-参数-功能定量关系。",
+            "三节点线路仅可实现 20 种不同功能，且每个网络均具多功能性。",
+            "提出结构、参数、功能三种多样性度量，揭示网络简并性支持同一功能多结构实现。"
+          ],
+          "why_it_matters": "为合成生物学线路设计提供计算蓝图与开源工具，可指导深圳团队在构建前预判功能与稳健性，减少试错。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42961740",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Synthetic Gene Circuit Analysis and Optimization.",
+            "abstract": "Synthetic biology aims to engineer synthetic circuits with predefined target functions. From a systems (model-based) perspective, two problems are of central importance: (i) given a model of a biomolecular circuit, determining whether it is capable of exhibiting a specific behavior or functionality; and (ii) starting from a predefined required functionality and a library of biological parts, identifying the biomolecular circuit that, when constructed as a combination of such parts, achieves the desired behavior. These two problems, which can be framed, respectively, as nonlinear analysis and automated design problems, are addressed here using efficient optimization methods. In this chapter, we specifically focus on deterministic frameworks, in which the effect of intrinsic molecular noise on the dynamics is not significant. We illustrate these methods through case studies focused on the analysis and design of biocircuits capable of bistability (bistable switches). Bistability is of particular interest in systems and synthetic biology because it endows cells with the capacity to make decisions.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961740/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Otero-Muras",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_6"
+          },
+          "score": 68,
+          "score_reason": "基因线路分析与优化，核心方法",
+          "title_cn": "合成基因电路的分析与优化",
+          "one_liner": "用高效优化方法解决合成基因电路的非线性分析与自动化设计问题。",
+          "key_findings": [
+            "将电路行为判定与部件组合设计分别建模为非线性分析与自动设计问题。",
+            "采用高效优化方法求解，聚焦确定性框架，忽略分子噪声影响。",
+            "以双稳态开关为案例，验证分析与设计方法的可行性。"
+          ],
+          "why_it_matters": "为合成基因电路提供模型驱动的分析与自动化设计思路，对从事基因线路构建与优化的研究者有方法学参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961738",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Computational Design of Prokaryotic Translation Regulation Based on RNA-Binding Proteins.",
+            "abstract": "Translation regulation enables precise control of protein expression levels. In prokaryotes, regulatory RNAs and RNA-binding proteins (RBPs) can modulate ribosome activity at the level of translation initiation. Here, we examine the computational design of RBP-based translation regulation systems. We first present a systematic exploration of protein databases and genomic datasets to identify candidate regulatory RBPs. We then describe the design of target RNA sequences required to achieve distinct regulatory behaviors. We show how model-based experimental characterization provides quantitative insight into regulatory performance and enables rational comparison among different designs. Finally, we present omics-based approaches to evaluate the orthogonality of the engineered systems within the host organism. Overall, our procedure outlines the main stages for engineering RBP-mediated translation control and provides a synthetic biology framework for programming bacterial cells.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961738/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Ruiz, Martínez-Martínez, Delicado-Mateo, et al.",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_4"
+          },
+          "score": 65,
+          "score_reason": "RBP翻译调控计算设计，合成生物学方法",
+          "title_cn": "基于RNA结合蛋白的原核翻译调控计算设计",
+          "one_liner": "提出基于RBP的原核翻译调控系统计算设计流程，涵盖候选蛋白筛选、靶RNA设计、定量表征与正交性评估。",
+          "key_findings": [
+            "系统挖掘蛋白数据库与基因组数据，筛选候选调控型RNA结合蛋白",
+            "设计靶RNA序列以实现不同调控行为，并用模型指导实验定量比较设计优劣",
+            "用组学方法评估工程系统在宿主内的正交性"
+          ],
+          "why_it_matters": "为细菌细胞编程提供可复用的RBP翻译调控设计框架，对合成生物学中构建正交、可调的基因回路有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42960696",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Expression of Human CYP2D6 in Artificial Cells Based on Polymer-Lipid Hybrid Vesicles.",
+            "abstract": "Artificial cells with the ability to express functional, biomedically relevant enzymes have long been a goal in the field of bottom-up synthetic biology. Here, we demonstrate the expression of human cytochrome P450 2D6 (CYP2D6) within the lumen of giant hybrid vesicle-based artificial cells using a cell-free protein expression system based on the protozoan Leishmania tarentolae. The vesicle membranes comprise 1,2-dioleoyl-sn-glycero-3-phosphocholine and amphiphilic block copolymers containing poly(cholesteryl methacrylate-co-butyl methacrylate) with either poly(galactose methacrylate) (pGalacMA) or poly(carboxyethyl acrylate) as the hydrophilic block. The amount and composition of the block copolymer incorporated into the giant hybrid vesicle membrane altered the artificial cells' ability to support functional protein expression, likely through changes in membrane properties. In particular, giant hybrid vesicles containing pGalacMA supported production of enzymatically active CYP2D6. Overall, the reported approach advances the development of artificial cells capable of producing functional, biomedically relevant enzymes. Further, the effort highlights complex interplay between polymer properties and performance of biological components in the functional complexity achievable in polymer-lipid hybrid vesicles.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42960696/",
+            "journal": "Chembiochem : a European journal of chemical biology",
+            "authors": "Dahl, De Dios Andres, Beaune, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1002/cbic.70572"
+          },
+          "score": 65,
+          "score_reason": "人工细胞表达CYP2D6，无细胞系统进展",
+          "title_cn": "基于聚合物-脂质杂化囊泡的人工细胞中表达人源CYP2D6",
+          "one_liner": "用聚合物-脂质杂化巨型囊泡构建人工细胞，成功表达具酶活性的CYP2D6。",
+          "key_findings": [
+            "以利什曼原虫无细胞体系在杂化囊泡腔内表达人源CYP2D6",
+            "共聚物含量与亲水段组成影响膜性质及蛋白表达效率",
+            "含pGalacMA的杂化囊泡可产出有酶活性的CYP2D6"
+          ],
+          "why_it_matters": "为自下而上合成生物学提供在人工细胞中表达功能性P450酶的可行路径，对构建代谢与药物筛选用人工细胞平台有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961746",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Meta-Scoring Approach to Curate Synthetic RNA 3D Structures.",
+            "abstract": "The structural diversity of RNA is central to molecular medicine, RNA-targeted drug discovery, and synthetic biology, where engineered RNA molecules are increasingly used in therapeutic, regulatory, and nanotechnology applications. While the rapid development of deep learning methods has heightened the demand for large, diverse structural datasets, high-quality RNA data remain scarce compared to protein datasets. Synthetic RNA structure datasets can help address this gap by enabling large-scale exploration of conformational space; however, their practical utility depends on careful curation and validation to ensure reliability. Here, we present a pipeline, RNA-SyntHub, for systematically constructing curated synthetic RNA datasets. The workflow integrates data from multiple structure-generation approaches with a meta-scoring function to identify low-quality models and select high-confidence candidates. As a proof of concept, we applied this method to a dataset of 447,402 synthetic RNA structures predicted by RFDiffusion, obtaining a curated subset of approximately 16,000 structures, further complemented with predictions from Boltz-1 and RNAComposer. This study provides both a methodological framework for generating and curating large collections of synthetic RNA 3D models under explicitly stated assumptions and a concrete dataset that supports methodological development, exploratory analyses, decoy-based applications, and selected deep learning workflows in RNA design, synthetic biology, and nanotechnology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961746/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Bernard, Justyna, Postic, et al.",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_12"
+          },
+          "score": 62,
+          "score_reason": "RNA结构数据集策展，与蛋白质设计方法相关",
+          "title_cn": "元评分方法用于筛选合成RNA三维结构",
+          "one_liner": "提出RNA-SyntHub流程，用元评分从44万合成RNA结构中筛出约1.6万高置信模型。",
+          "key_findings": [
+            "整合多种结构生成方法与元评分函数，识别低质量模型并筛选高置信候选。",
+            "以RFDiffusion预测的447,402个结构为概念验证，筛得约16,000个精选结构。",
+            "补充Boltz-1与RNAComposer预测，形成可复用的大规模合成RNA数据集。"
+          ],
+          "why_it_matters": "为合成生物学中RNA设计提供高质量结构数据与筛选框架，可支撑深度学习建模、诱饵评估与RNA纳米技术探索。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961938",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Deep mutational scanning of the GPCR rhodopsin reveals pleiotropic mutational effects and their roles in modulating receptor signaling.",
+            "abstract": "Biophysical pleiotropy, the phenomenon in which a mutation affects multiple protein properties, underlies many genetic diseases and shapes protein evolution, yet remains poorly understood, limiting synthetic biology and therapeutic development. Although extensively studied in soluble proteins, little is known about how pleiotropic effects shaped the evolution of receptor protein functions. Here, we developed a cell-based assay designed to assess pleiotropic effects in G protein-coupled receptors (GPCRs), the largest receptor class in eukaryotes. Because our assay allows for multiple GPCR molecular phenotypes (basal activity, ligand-dependent signaling, and cellular receptor abundance) to be simultaneously assessed, we applied it to study rhodopsin, a visual GPCR that evolved for high phototransduction capabilities by maximizing light-driven responses while minimizing noise. To investigate this, we integrated our assay with deep mutational scanning to test the impacts of ~2,000 single-residue substitutions in rhodopsin across all three molecular phenotypes (~6,000 measurements). By analyzing these data in the context of rhodopsin's protein structures, we found complex pleiotropic effects that act asymmetrically to impose joint constraints, restricting mutational tolerance in rhodopsin's retinal binding pocket and G protein interaction interface. A dose-response analysis of rhodopsin signaling revealed that these pleiotropic constraints arise from the dual functions of its chromophore, which acts as an agonist upon light-driven isomerization but also an inverse agonist in darkness. Because these constraints reflect mechanistically driven limitations in the evolution of receptor signaling, these findings reveal a role for biophysical pleiotropy in shaping the signaling capabilities of receptor proteins.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961938/",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "authors": "Chen, Liu, Chang",
+            "published": "2026-11-03",
+            "doi": "10.1073/pnas.2624087123"
+          },
+          "score": 62,
+          "score_reason": "GPCR深度突变扫描，蛋白设计相关",
+          "title_cn": "视紫红质GPCR深度突变扫描揭示多效性突变效应及其对受体信号调控的作用",
+          "one_liner": "用细胞 assay 结合深度突变扫描测约2000个视紫红质突变，揭示多效性约束塑造受体信号。",
+          "key_findings": [
+            "建立可同时测基础活性、配体信号与受体丰度的GPCR细胞 assay，完成约6000次测量。",
+            "多效性效应不对称地施加联合约束，限制视黄醛结合口袋与G蛋白界面的突变耐受。",
+            "色团兼具激动剂与反向激动剂双重功能，是这些多效性约束的来源。"
+          ],
+          "why_it_matters": "为GPCR工程与合成生物学提供多表型深度突变扫描范式，有助理性设计受体信号与药物靶点评估。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42961742",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Genome-Scale Metabolic Modeling of Escherichia coli and Its Chassis Design for Synthetic Biology Applications.",
+            "abstract": "Genome-scale metabolic modeling is and will continue to play a central role in computational systems metabolic engineering and synthetic biology applications for the production of chemicals and antibiotics. To that end, a survey and workflows of methods used for the development of high-quality genome-scale metabolic models (GEMs) and chassis design for synthetic biology are described here. The chapter consists of two parts (a) the methods of development of GEMs (Escherichia coli as a case study) and (b) E. coli chassis design for synthetic production of 1, 4-butanediol (BDO). Additionally, a case study of an engineered E. coli synthetically producing paracetamol from plastic waste is summarized. The methods described here can guide existing and future development of GEMs coupled with host chassis design for the synthetic production of novel materials, fuels, chemicals, and therapeutics.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961742/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Mienda, Dräger",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_8"
+          },
+          "score": 60,
+          "score_reason": "基因组尺度代谢模型与底盘设计",
+          "title_cn": "大肠杆菌全基因组尺度代谢建模及其合成生物学底盘设计",
+          "one_liner": "综述大肠杆菌GEM构建流程，并用于BDO与对乙酰氨基酚底盘设计。",
+          "key_findings": [
+            "系统梳理高质量GEM构建方法与工作流，以大肠杆菌为案例",
+            "基于GEM指导大肠杆菌底盘设计合成1,4-丁二醇",
+            "案例展示工程菌由塑料废物合成对乙酰氨基酚"
+          ],
+          "why_it_matters": "为代谢工程与合成生物学提供GEM到宿主底盘设计的可复用流程，对化学品与药物合成路线设计有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961735",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Fine-Tuning a Protein Language Model for Epitope Library Generation and Sequence Filtering.",
+            "abstract": "Linear peptide epitopes play a key role in vaccines, immunotherapies, and diagnostics, yet discovering them remains difficult because peptide sequence space grows exponentially and experimentally confirmed epitopes are relatively few. This chapter presents a computational framework for the generation of synthetic linear epitope libraries that reproduce key statistical and sequence-level properties of naturally occurring epitopes. A large language model pre-trained on protein sequences and subsequently fine-tuned on curated epitope datasets is employed to generate biologically plausible peptide candidates beyond those observed experimentally. To further enrich functional relevance of the generated sequences, they are filtered using transformer-based classification models trained on viral and bacterial epitope datasets. These models are applied as discriminative tools to distinguish likely epitopes from non-epitopes rather than to infer pathogen origin. The resulting libraries are designed to be compatible with high-throughput experimental screening platforms, such as droplet microfluidics, enabling efficient integration of generative artificial intelligence with experimental immunology workflows.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961735/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Flechas Manrique, Martínez Díez, López-Martínez, et al.",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_1"
+          },
+          "score": 60,
+          "score_reason": "蛋白语言模型表位库生成，AI蛋白设计相关",
+          "title_cn": "微调蛋白质语言模型用于表位文库生成与序列过滤",
+          "one_liner": "微调蛋白质语言模型生成合成线性表位文库，并用Transformer分类器过滤筛选候选表位。",
+          "key_findings": [
+            "在精选表位数据上微调预训练蛋白质语言模型，生成实验未观测到的合理肽候选。",
+            "用病毒与细菌表位数据训练的Transformer分类器区分表位与非表位，提升功能相关性。",
+            "生成文库兼容液滴微流控等高通量筛选平台，衔接AI与实验免疫学流程。"
+          ],
+          "why_it_matters": "为合成生物学提供AI驱动的表位文库设计与过滤思路，可对接高通量筛选，加速疫苗、免疫治疗与诊断用线性表位的发现。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42956714",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation.",
+            "abstract": "Meeting global food security goals while reducing agriculture's environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks comparable to those of conventional breeding, yet regulatory frameworks remain focused on the method used rather than the product. We highlight recent examples, including immune receptor transfer, cisgenesis-based disease resistance stacking, photosynthesis engineering, and AI-guided protein design, that illustrate innovations constrained by current regulatory approaches. A decisive shift toward science-based, proportionate, and product-focused regulation is needed so that improved crops are evaluated on the basis of their properties, not how they were made.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42956714/",
+            "journal": "Cell",
+            "authors": "Jones, Gao",
+            "published": "2026-10-29",
+            "doi": "10.1016/j.cell.2026.09.018"
+          },
+          "score": 60,
+          "score_reason": "基因编辑作物监管，政策相关",
+          "title_cn": "未走之路：植物育种创新的安全性与监管错配",
+          "one_liner": "植物育种技术风险已接近常规育种，但监管仍按方法而非产品特性划分。",
+          "key_findings": [
+            "转基因、顺式基因和基因编辑使作物改良更精准，风险与常规育种相当。",
+            "免疫受体转移、顺式基因抗病叠加、光合工程和AI蛋白设计等创新受现行监管制约。",
+            "呼吁转向基于科学、比例适当且以产品特性为导向的监管框架。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，作物基因编辑产品的监管路径直接影响研发转化与商业化；理解产品导向监管趋势有助于设计合规的植物合成生物学方案。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42961744",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Quantifying Turnover in Resource Economy of Synthetic Biology Applications via Stochastic Simulations.",
+            "abstract": "We present a quantitative framework for analyzing resource turnover in synthetic biology applications using stochastic simulation of chemical reaction networks (CRNs). Building on a conservative extension of Gillespie's stochastic simulation algorithm, our method tracks causal dependencies between reaction events to generate flux graphs that represent resource flow dynamics. We illustrate how these graphs complement conventional trajectory analyses by enabling comparative assessment of cellular resource expenditure across different model parameter regimes. As a case study, we examine the E. coli two-component system responsible for inorganic phosphate uptake and demonstrate how synthetic promoter variants affect ATP-related resource economy. This framework supports predictive, model-based design for optimizing energy efficiency in living technologies.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42961744/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Kahramanoğulları",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5583-2_10"
+          },
+          "score": 58,
+          "score_reason": "随机模拟资源周转，基因线路建模相关",
+          "title_cn": "基于随机模拟量化合成生物学应用中的资源周转",
+          "one_liner": "提出随机模拟框架，追踪反应因果依赖生成通量图，量化合成生物学中的资源周转。",
+          "key_findings": [
+            "扩展Gillespie算法追踪反应事件因果依赖，生成通量图表征资源流动。",
+            "通量图可跨参数区间比较细胞资源消耗，补充传统轨迹分析。",
+            "以大肠杆菌无机磷酸摄取双组分系统为例，揭示合成启动子变体对ATP资源经济的影响。"
+          ],
+          "why_it_matters": "为合成生物学提供基于模型的能量效率预测设计工具，有助于优化底盘细胞资源分配与代谢负担，对深圳合成生物学研发有直接参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:1e9f1d71cca5b148",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Gilead CAR-T on partial clinical hold; Agios' PDUFA date pushed back",
+            "abstract": "Plus news about Acumen, Bristol Myers Squibb, Regeneron, Aer Therapeutics and Hemay Pharmaceutical. Gilead pauses CAR-T after ICANS: After several cases of the neurological condition known as ICANS, Gilead said in ...",
+            "url": "https://endpoints.news/gilead-car-t-on-partial-clinical-hold-agios-pdufa-date-pushed-back/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "CAR-T临床暂停，细胞治疗重要",
+          "title_cn": "Gilead CAR-T 因 ICANS 病例被部分临床暂停；Agios PDUFA 日期推迟",
+          "one_liner": "Gilead 的 CAR-T 疗法因出现 ICANS 病例被部分临床暂停，Agios 的 PDUFA 日期推迟。",
+          "key_findings": [
+            "Gilead 在出现数例 ICANS（免疫效应细胞相关神经毒性）后暂停 CAR-T 部分临床研究。",
+            "Agios 的 PDUFA 审批日期被推迟，具体药物与适应症原文未详。",
+            "同批简讯还涉及 Acumen、BMS、Regeneron、Aer 与 Hemay。"
+          ],
+          "why_it_matters": "CAR-T 神经毒性是细胞治疗临床推进的关键风险点，暂停事件对同类 CAR 构建与安全性评估有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:f4f36ad10355e99d",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AstraZeneca says reorg could mean R&D cuts and trials shifted to emerging markets",
+            "abstract": "AstraZeneca’s leadership hinted at where the cost cuts and job losses from the company’s new restructuring program might fall on a call with journalists Friday. “We are losing patent protection for Farxiga ...",
+            "url": "https://endpoints.news/astrazeneca-says-reorg-could-mean-rd-cuts-and-trials-shifted-to-emerging-markets/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "阿斯利康研发调整，影响管线",
+          "title_cn": "阿斯利康重组或削减研发，并将试验转向新兴市场",
+          "one_liner": "阿斯利康重组或削减研发并裁员，部分临床试验将转向新兴市场。",
+          "key_findings": [
+            "重组涉及成本削减与岗位裁撤，研发部门可能首当其冲。",
+            "Farxiga 等产品专利到期带来收入压力，是重组背景之一。",
+            "部分临床试验计划转移至新兴市场开展。"
+          ],
+          "why_it_matters": "大型药企研发与试验布局调整会影响外包与临床合作机会，合成生物学背景者可关注其管线与新兴市场试验需求变化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:f1ef297947a18223",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Aspen Neuroscience lands $141M IPO, while Bambusa secures $169M",
+            "abstract": "A Parkinson’s cell therapy biotech and an I&I startup from former BioNTech leaders joined the public markets on Friday, extending a sizzling IPO streak for drug developers. Aspen Neuroscience raised $141 ...",
+            "url": "https://endpoints.news/aspen-neuroscience-lands-141m-ipo-while-bambusa-secures-169m/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "细胞治疗IPO，帕金森疗法",
+          "title_cn": "Aspen Neuroscience 完成 1.41 亿美元 IPO，Bambusa 融资 1.69 亿美元",
+          "one_liner": "帕金森细胞疗法公司 Aspen Neuroscience 与免疫炎症初创 Bambusa 同日上市，延续药企 IPO 热潮。",
+          "key_findings": [
+            "Aspen Neuroscience 通过 IPO 募资 1.41 亿美元，推进帕金森细胞疗法。",
+            "Bambusa 由前 BioNTech 高管创立，聚焦免疫与炎症（I&I），募资 1.69 亿美元。",
+            "两家生物技术公司同日登陆公开市场，反映药企 IPO 持续活跃。"
+          ],
+          "why_it_matters": "细胞疗法与 I&I 是合成生物学改造细胞、开发新模态的重要落地方向；关注其临床推进与融资环境，有助于判断细胞治疗赛道的资本与技术趋势。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:8a343b21a0253b62",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AstraZeneca follows GSK with $1.5B annual savings push",
+            "abstract": "Battered by late-stage trial failures and determined to meet its ambitious $80 billion-by-2030 revenue goal, AstraZeneca is cutting costs. The company said Friday that it was shifting resources with ...",
+            "url": "https://endpoints.news/astrazeneca-follows-gsk-with-1-5b-annual-savings-push/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "阿斯利康削减成本，药企动态",
+          "title_cn": "阿斯利康效仿GSK，推进15亿美元年度节支计划",
+          "one_liner": "阿斯利康因后期试验失败，为达成2030年800亿美元营收目标，启动15亿美元年度成本削减。",
+          "key_findings": [
+            "计划每年节省15亿美元，通过重新调配资源实现。",
+            "背景是后期临床试验失败，以及2030年800亿美元营收目标压力。",
+            "此前GSK已采取类似节支举措。"
+          ],
+          "why_it_matters": "大型药企收缩管线、重配资源，可能影响外部合作与早期项目估值；对合成生物学背景的读者，需关注其研发外包与新技术平台投入变化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:4942224a96a8177a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Anthropic's Nathan Frey on biopharma partners, M&A and pipeline",
+            "abstract": "Nathan Frey has stayed busy since Anthropic acquired his biotech startup Coefficient Bio this spring. The former Genentech machine-learning scientist now leads drug discovery and development research at the tech giant. Endpoints News exclusively interviewed ...",
+            "url": "https://endpoints.news/anthropics-nathan-frey-on-biopharma-partners-ma-and-pipeline/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "AI制药合作，行业趋势",
+          "title_cn": "Anthropic 收购 Coefficient Bio 后，Nathan Frey 谈生物医药合作、并购与管线",
+          "one_liner": "Anthropic 收购生物科技初创 Coefficient Bio，原 Genentech 机器学习科学家 Nathan Frey 现负责其药物发现研究。",
+          "key_findings": [
+            "Frey 曾任 Genentech 机器学习科学家，现任 Anthropic 药物发现与开发研究负责人。",
+            "Anthropic 于今年春季收购其创办的 Coefficient Bio，Frey 持续参与生物医药合作与并购。",
+            "访谈涉及生物医药合作、并购及管线布局，具体数据未披露。"
+          ],
+          "why_it_matters": "AI 巨头切入药物发现，可能改变合成生物学与生物医药的研发范式及合作生态，值得关注其技术路线与管线动向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:9814d72acc3a7434",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Sanofi has no plans for a 'major' overhaul as Dupixent's patent cliff looms",
+            "abstract": "It’s been six months since Belén Garijo took over as the CEO of Sanofi, and the French drugmaker said Friday it is not planning “major” changes to its business or R&D pipeline as the early ...",
+            "url": "https://endpoints.news/sanofi-has-no-plans-for-a-major-overhaul-as-dupixents-patent-cliff-looms/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "赛诺菲战略，常规药企动态",
+          "title_cn": "赛诺菲CEO：Dupixent专利悬崖临近，但无重大业务重组计划",
+          "one_liner": "赛诺菲新CEO Garijo上任半年，表示不会对业务或研发管线进行重大调整，尽管Dupixent面临专利到期。",
+          "key_findings": [
+            "Garijo接任赛诺菲CEO已六个月，公司明确表示不计划重大业务或研发管线调整。",
+            "Dupixent专利悬崖临近，是赛诺菲未来营收面临的核心压力点。",
+            "公司选择维持现有战略，而非通过大规模重组应对专利到期。"
+          ],
+          "why_it_matters": "Dupixent是赛诺菲核心增长引擎，其专利到期将重塑自免与炎症赛道格局；对关注抗体工程、生物类似药及新靶点机会的合成生物学读者，是判断管线竞争与BD窗口的重要信号。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:228672a9045b7586",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Setara gets $90M to continue rare disease pipeline spun out of Jazz's Actio deal",
+            "abstract": "After shipping its precision epilepsy drug to Jazz Pharmaceuticals, Actio Biosciences has spun out the remainder of its genetics-driven pipeline into a new company called Setara Biosciences. Setara is getting a fresh $90 million to ...",
+            "url": "https://endpoints.news/setara-gets-90m-to-continue-rare-disease-pipeline-spun-out-of-jazzs-actio-deal/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "罕见病融资，中等相关",
+          "title_cn": "Setara 获 9000 万美元，推进从 Jazz 收购 Actio 交易中分拆的罕见病管线",
+          "one_liner": "Actio 将精准癫痫药出售给 Jazz 后，把剩余遗传学管线分拆为 Setara，并获 9000 万美元融资。",
+          "key_findings": [
+            "Actio 已将精准癫痫药物转让给 Jazz Pharmaceuticals",
+            "剩余遗传学驱动的罕见病管线分拆至新公司 Setara Biosciences",
+            "Setara 新获 9000 万美元资金，用于继续推进该管线"
+          ],
+          "why_it_matters": "对合成生物学与基因驱动药物读者，这是罕见病精准疗法资产分拆与融资的案例，可关注其遗传学靶点与平台能否延续 Actio 的转化路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2463c5d391d5cf1e",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Sanofi may seek higher European drug prices, not withhold launches, under Trump deal",
+            "abstract": "While some of Europe’s biggest drugmakers have warned that President Donald Trump’s pricing policies could leave European patients waiting longer for new medicines, Sanofi is taking a different approach. ...",
+            "url": "https://endpoints.news/sanofi-may-seek-higher-european-drug-prices-not-withhold-launches-under-trump-deal/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "赛诺菲定价策略，间接相关",
+          "title_cn": "赛诺菲或在特朗普协议下寻求欧洲药价上调，而非推迟上市",
+          "one_liner": "赛诺菲称不会因特朗普定价政策推迟欧洲新药上市，而将寻求提高欧洲药价。",
+          "key_findings": [
+            "赛诺菲与部分欧洲药企警告推迟上市的做法不同，选择继续推进欧洲上市。",
+            "公司计划通过寻求更高欧洲药价来应对特朗普定价政策带来的压力。",
+            "摘要未披露具体药物、适应症或价格数据。"
+          ],
+          "why_it_matters": "定价与上市策略直接影响新药在欧洲的可及性和商业化节奏，对关注药物开发与市场准入的合成生物学研究者有参考价值。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:63644759a64c08b9",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯»",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯» --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->ãå®ç¹è¯ä¼°æºæè¯ä¼°è´¹ç¨æ¨ä»è¡¨ãè§èè§£è¯»end--> æ¥æï¼2026-10-30 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ãç¼è æãä¸ºæ¨å¨å»ºç«å ¨å½ç»ä¸çé¿ææ¤çæå¡ç®¡çæ åï¼æåç»åæå¡ååè®®ç®¡çè§èåæ°´å¹³ï¼å©åé¿ææ¤çä¿é©ç»åé«è´¨éåå±ï¼å½å®¶å»ä¿å±å¶å®ãé¿ææ¤çä¿é©æå¡ç®¡çæä¹¦ï¼2026çï¼ããä¸ºè§èæä¹¦ä½¿ç¨ï¼å¼å¯¼ç»åæºæåç¡®è§èå¡«åç¸å ³å å®¹ï¼æä»¬ç»ç»å¯¹å½å®¶çæä¹¦è¿è¡ç³»åè§£è¯»ãç»ç­¹å°åºå»çä¿éç»åæºæåºåå¥½ç»ç®ç³æ¥ãè´¹ç¨åå®¡ãè´¹ç¨å¤æ ¸ãè´¹ç¨æ¨ä»ç­å·¥ä½ãå®ç¹è¯ä¼°æºææäº¤è´¹ç¨ç»ç®ç³æ¥è",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/30/art_14_23263.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保评估费用规范，常规相关",
+          "title_cn": "《定点评估机构评估费用拨付表》规范解读",
+          "one_liner": "国家医保局发布定点评估机构评估费用拨付表填写规范解读，统一长期护理保险经办结算流程。",
+          "key_findings": [
+            "明确统筹地区医保经办机构承担结算申报、费用初审、复核与拨付职责。",
+            "规范定点评估机构提交费用结算申报的填写要求，配合2026版长期护理保险服务管理文书。",
+            "解读属国家版文书系列说明，发布日期为2026-10-30。"
+          ],
+          "why_it_matters": "该政策聚焦长期护理保险经办与费用拨付流程，与合成生物学研发、产品注册及技术转化无直接关联，仅可作为医保支付体系背景了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:bc7e06e9e6433075",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "é¿æ¤é©è®©å¤±è½èäººæäºæ°ä¿é",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ é¿æ¤é©è®©å¤±è½èäººæäºæ°ä¿é --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->é¿æ¤é©è®©å¤±è½èäººæäºæ°ä¿éend--> æ¥æï¼2026-10-30 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸å¥æç¼æ¸å®æ å®¶ä½è¿äºæ¸¯å¸éåæçå¨å¥¶å¥¶ï¼å èæ¢å§åºä¸å¹´ï¼æ¥å¸¸å ¨é èä¼´æå¤§ç·è´´èº«ç §æãç §æ¤ååæ²éï¼å®¶ä¸­ç§¯èæ¥æ¸æ¶èï¼å­å¥³å¨å¤å¡å·¥ä¹é¾ä»¥æ­æãæå¤§ç·å¬è¯´è¿äºæ¸¯å¸é¿æ¤é©ä» è¦çèå·¥å»ä¿åä¿äººåï¼åå¨å¥¶å¥¶è¿æ ·çåä¹¡å± æ°å¤±è½èäººè¿ä¸å¨å¶åº¦ä¿éèå´å ãè¿äºæ¸¯å¸å»ä¿å±å¨èµ°æå ¥æ·å¼å±å ¨æ°åä¿æ©é¢å®£ä¼ æ¶ï¼æå¤§ç·ä¸ç¨åå·¥ä½äººåè¯´åºæç¼ï¼âè½ä¸è½è®©æä»¬åæå¤±è½èäººï¼ä¹è½äº«åå°é¿æ¤é©çç §é¡¾ï¼âè¿äºæ¸¯å¸20",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/30/art_14_23258.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "长护险民生政策，弱相关",
+          "title_cn": "长护险让失能老人有了新保障",
+          "one_liner": "国家医保局发布长护险动态，介绍失能老人照护保障的落地情况。",
+          "key_findings": [
+            "文章以连云港市为例，介绍长护险对失能老人的照护保障。",
+            "原文提到，长护险目前仅覆盖职工医保参保人员，城乡失能老人尚未纳入。",
+            "地方医保部门通过走村入户宣传，推动全民参保扩面。"
+          ],
+          "why_it_matters": "长护险扩面涉及医保支付与基层健康服务，与合成生物学在诊断、康复辅具及老年健康产品上的应用场景间接相关，可关注政策走向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:ef30561397dfaaad",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å½å®¶å»çä¿éå±å ç»å¬å¼ä¼è®® ä¼ è¾¾å­¦ä¹ è´¯å½»å çäºåå±äºä¸­å ¨ä¼ç²¾ç¥",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å½å®¶å»çä¿éå±å ç»å¬å¼ä¼è®® ä¼ è¾¾å­¦ä¹ è´¯å½»å çäºåå±äºä¸­å ¨ä¼ç²¾ç¥ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å½å®¶å»çä¿éå±å ç»å¬å¼ä¼è®® ä¼ è¾¾å­¦ä¹ è´¯å½»å çäºåå±äºä¸­å ¨ä¼ç²¾ç¥end--> æ¥æï¼2026-10-30 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->10æ30æ¥ä¸åï¼å½å®¶å»çä¿éå±å ç»å¬å¼ä¼è®®ï¼è®¤çä¼ è¾¾å­¦ä¹ å çäºåå±äºä¸­å ¨ä¼ç²¾ç¥ï¼ç ç©¶å­¦ä¹ å®£ä¼ è´¯å½»çå ·ä½æªæ½ãå±å ç»ä¹¦è®°ãå±é¿ç« è½²åå¿ä¸»æä¼è®®å¹¶ä½å·¥ä½é¨ç½²ãä¼è®®æåºï¼å çäºåå±äºä¸­å ¨ä¼æ¯å¨åºæ¬å®ç°ç¤¾ä¼ä¸»ä¹ç°ä»£åçå ³é®æ¶æå¬å¼çä¸æ¬¡ååéè¦çä¼è®®ãä¹ è¿å¹³æ»ä¹¦è®°å¨å ¨ä¼ä¸åè¡¨çéè¦è®²è¯ï¼é«å±å»ºç´ãè§éå®éãææ³æ·±éãå æ¶µä¸°å¯",
+            "url": "https://www.nhsa.gov.cn/art/2026/10/30/art_14_23266.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 30,
+          "score_reason": "党建会议，弱相关",
+          "title_cn": "国家医保局党组召开会议 传达学习党的二十届五中全会精神",
+          "one_liner": "国家医保局党组召开会议，传达学习党的二十届五中全会精神并部署落实措施。",
+          "key_findings": [
+            "会议于10月30日上午召开，由局党组书记、局长主持并作工作部署",
+            "会议传达学习党的二十届五中全会精神，研究具体落实措施",
+            "会议为政治学习与工作部署性质，未涉及具体医保政策调整"
+          ],
+          "why_it_matters": "对合成生物学背景研究者而言，该公告属政治学习动态，未涉及药品准入、医保支付或创新疗法报销等实质政策，与研发方向关联有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:01806d0ceb21e64a",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å å§å¬å¼ä¼è®®ä¼ è¾¾å­¦ä¹ å çäºåå±äºä¸­å ¨ä¼ç²¾ç¥ãä¼ è¾¾å­¦ä¹ ä¹ è¿å¹³æ»ä¹¦è®°å¨å çäºåå±äºä¸­å ¨ä¼ä¸çéè¦è®²è¯åå ¨ä¼ç²¾ç¥ãçºµæ·±æ¨è¿å ¨é¢ä»ä¸¥æ²»å ãä¸ºç»æµå¹³ç¨³å¢é¿ãé«è´¨éåå±åéèå¸åºç¨³å®è¿è¡è¥é äºè¯å¥½çè´§å¸éèæ¡ä»¶ãä»¥ä¹ è¿å¹³åå¿ä¸ºæ ¸å¿çå ä¸­å¤®æå ¨é¢ä»ä¸¥æ²»å çº³å ¥ãæ·±å ¥æ¨è¿æ°æ¶ä»£å çå»ºè®¾æ°çä¼å¤§å·¥ç¨ãä¸ºæ·±å ¥æ¨è¿æ°æ¶ä»£å çå»ºè®¾æ°çä¼å¤§å·¥ç¨æä¾äºæ ¹æ¬éµå¾ªåè¡å¨æåãå¯¹æä¹ä»¥ææ¨è¿å ¨é¢ä»ä¸¥æ²»å ä½åºç³»ç»é¨ç½²ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026103018411743702/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无效无法判断",
+          "title_cn": "中国人民银行党委传达学习党的二十届五中全会精神",
+          "one_liner": "央行党委传达学习二十届五中全会精神，部署全面从严治党与金融服务经济高质量发展。",
+          "key_findings": [
+            "传达学习习近平总书记重要讲话和全会精神，纵深推进全面从严治党",
+            "为经济平稳增长、高质量发展和金融市场稳定运行营造良好货币金融条件",
+            "以习近平同志为核心的党中央把全面从严治党纳入新时代党的建设伟大工程"
+          ],
+          "why_it_matters": "属党建与宏观政策方向，未涉及生物技术或产业监管具体条款，对合成生物学研究无直接影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:ca9d7728c53be69f",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­åï¼éï¼ä¸¤å½å¤®è¡ç»­ç­¾åè¾¹æ¬å¸äºæ¢åè®®ãç»å½å¡é¢æ¹åãè¿æ¥ä¸­å½äººæ°é¶è¡ä¸åéå¨å¤é¶è¡ç»­ç­¾åè¾¹æ¬å¸äºæ¢åè®®ãäºæ¢è§æ¨¡ä¸º300äº¿å äººæ°å¸/740äº¿åéå °ç¹ãåè®®æææäºå¹´ãåæ¹åæ¬¡ç»­ç­¾åè¾¹æ¬å¸äºæ¢åè®®ãæå©äºè¿ä¸æ­¥æ·±åä¸¤å½è´§å¸éèåä½ãä¿è¿åè¾¹è´¸æåæèµä¾¿å©åãç»´æ¤éèå¸åºç¨³å®ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026103014283647038/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无效无法判断",
+          "title_cn": "中国人民银行与南非储备银行续签双边本币互换协议",
+          "one_liner": "央行与南非续签300亿元人民币/740亿南非兰特本币互换协议，有效期五年。",
+          "key_findings": [
+            "互换规模为300亿元人民币/740亿南非兰特，协议有效期五年。",
+            "经国务院批准，由中国人民银行与南非储备银行续签。",
+            "旨在深化两国货币金融合作，促进双边贸易和投资便利化。"
+          ],
+          "why_it_matters": "该协议属宏观金融与货币合作范畴，与合成生物学研发、监管及产业转化无直接关联，对您的科研方向影响有限。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:14b39e2399e0e210",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Making it easier for websites to express AI training preferences",
+            "abstract": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+            "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "OpenAI训练数据政策影响AI合规",
+          "title_cn": "OpenAI 支持共享 robots.txt 信号，网站可统一表达 AI 训练偏好",
+          "one_liner": "OpenAI 将遵循共享 robots.txt 信号，让网站统一向参与方表达 AI 训练偏好。",
+          "key_findings": [
+            "OpenAI 宣布采纳共享 robots.txt 信号，用于传达 AI 训练偏好。",
+            "该信号面向参与该机制的 AI 提供方，网站可一次声明偏好。",
+            "这是行业协作机制，非单方面技术限制。"
+          ],
+          "why_it_matters": "数据合规与训练语料来源是合成生物学 AI 模型的关键风险点，该机制影响未来公开数据获取与合规成本。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2a54c7268393e9c1",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "GM to pay $220 million after selling customer Smart Driver data",
+            "abstract": "Owners of GM cars found their driving data had been sold to insurance companies.",
+            "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "智能汽车数据隐私重要",
+          "title_cn": "通用汽车因出售车主驾驶数据被罚2.2亿美元",
+          "one_liner": "通用汽车将车主驾驶数据售予保险公司，被罚2.2亿美元。",
+          "key_findings": [
+            "通用汽车将车主Smart Driver驾驶数据出售给保险公司",
+            "处罚金额为2.2亿美元",
+            "涉及车主对个人驾驶数据被转售的知情与同意问题"
+          ],
+          "why_it_matters": "生物科技与合成生物学企业同样大量采集用户健康与基因数据，此案提示数据合规与知情同意是产品商业化的硬约束。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:fcc3bbca0dfd9cd9",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+            "abstract": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+            "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "AI数据中心电力需求趋势",
+          "title_cn": "超音速客机项目存疑，Boom 转向为 AI 数据中心供电",
+          "one_liner": "Boom 超音速客机或延期，公司转向 AI 数据中心供电业务，且已流失一个客户。",
+          "key_findings": [
+            "Boom 的超音速客机项目可能延期，公司战略重心转向 AI 数据中心供电。",
+            "其数据中心供电业务已失去一个客户，转型前景存疑。"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但反映 AI 算力扩张正吸引跨界资本与技术，可关注数据中心能源需求对生物制造用电与选址的间接影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:a4df15e2609a100e",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+            "abstract": "Low costs and offline security mean magnetic tape still has a job.",
+            "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "AI驱动存储需求产业链",
+          "title_cn": "富士胶片将磁带产能提升5倍，AI推动归档需求",
+          "one_liner": "富士胶片计划将磁带产能扩大5倍，以应对AI带来的数据归档需求增长。",
+          "key_findings": [
+            "低成本与离线安全性使磁带在归档场景中仍有不可替代的价值",
+            "AI发展带动冷数据归档需求，磁带作为存储介质需求回升",
+            "富士胶片大幅扩产，反映产业对磁带长期需求的信心"
+          ],
+          "why_it_matters": "合成生物学研究产生海量测序与实验数据，低成本离线归档方案对数据长期保存与合规管理有直接参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:dfa28fccde924d6d",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+            "abstract": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+            "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "AI智能体科研应用有趣",
+          "title_cn": "夜间鸣响之物：Agentic AI 加入搜寻地外信号",
+          "one_liner": "NVIDIA 报道称，Agentic AI 已用于搜寻地外智能信号，并关注人类构建的 AI agent 监听 AI agent 信号。",
+          "key_findings": [
+            "搜寻地外智能（SETI）借助 AI 取得重大进展，AI 成为信号搜寻的新工具。",
+            "重点转向由人类构建的 AI agent，去监听可能来自 AI agent 的信号。",
+            "报道来自 NVIDIA Newsroom，属科技产业动态而非同行评议研究。"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这提示 agentic AI 在自动化科学发现中的落地路径，可借鉴其自主搜索与筛选范式，但与本领域直接关联有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:a33227d4fab6900b",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Fair use benefits everyone",
+            "abstract": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+            "url": "https://openai.com/index/fair-use-benefits-everyone",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "合理使用法律议题相关",
+          "title_cn": "OpenAI 援引创作者与学界意见，主张合理使用利于 AI 训练与创新",
+          "one_liner": "OpenAI 公开法院意见书节选，以创作者、学者与法律专家观点论证合理使用支撑 AI 训练。",
+          "key_findings": [
+            "OpenAI 汇总创作者、学者、无障碍倡导者及法律专家的法庭意见书节选",
+            "核心主张是合理使用制度支撑 AI 训练与创新",
+            "内容来自 OpenAI News，属公司立场性披露"
+          ],
+          "why_it_matters": "合理使用是 AI 训练数据合规的关键变量，影响生物医药等领域的模型数据获取与知识产权边界，值得跟踪判例走向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:de97c2c5f0bfcb44",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Community safety report and new protections for teens",
+            "abstract": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+            "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "安全政策常规更新",
+          "title_cn": "OpenAI 发布社区安全报告并加强对青少年的保护",
+          "one_liner": "OpenAI 强化 ChatGPT 暴力预防措施，扩大防护并承诺公开安全报告。",
+          "key_findings": [
+            "扩展 ChatGPT 暴力预防机制，提前介入潜在风险",
+            "新增面向青少年的保护措施",
+            "承诺定期发布公共安全报告"
+          ],
+          "why_it_matters": "AI 安全治理与合规是合成生物学 AI 工具落地的前提，了解大模型安全框架有助于评估生物设计工具的风险边界。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:4c59753c4e04cb78",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+            "abstract": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+            "url": "https://openai.com/index/credit-saison",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-10-29",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "企业案例营销内容",
+          "title_cn": "Credit Saison 试点 ChatGPT Enterprise 实现 954% ROI",
+          "one_liner": "Credit Saison 试点 ChatGPT Enterprise 获 954% ROI，并推广至全公司。",
+          "key_findings": [
+            "试点实现 954% 投资回报率，由管理层与员工共同推动落地。",
+            "试点成果成为公司全员推广 ChatGPT Enterprise 的依据。",
+            "案例来自 OpenAI News，聚焦企业级 AI 部署的 ROI 验证。"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，这是企业级 AI 工具 ROI 的实证参考，可辅助评估在研发文档、数据分析等环节引入大模型的投入产出。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:4c313421afd4676e",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+            "abstract": "People who love AI don't always love telling others they used it.",
+            "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "AI使用伦理轶事",
+          "title_cn": "达特茅斯教务长曾警告AI作弊，却因自身使用AI丢职",
+          "one_liner": "达特茅斯教务长曾警告AI作弊风险，却因自身使用AI被免职。",
+          "key_findings": [
+            "教务长公开警告AI作弊，自身却未披露使用AI",
+            "其AI使用行为最终导致其失去职位",
+            "事件凸显AI使用透明度与学术诚信的矛盾"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，此事件提醒在论文写作、数据分析中披露AI使用的重要性，学术机构对AI透明度要求趋严。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:655f823878f84966",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Basically no one is using AI agents for their DoorDash orders",
+            "abstract": "But it's still early days for the relatively new e-commerce use case.",
+            "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 30,
+          "score_reason": "AI智能体应用弱相关",
+          "title_cn": "几乎没人用 AI agent 点 DoorDash 外卖",
+          "one_liner": "DoorDash 的 AI agent 点餐用例目前使用率极低，仍处早期阶段。",
+          "key_findings": [
+            "DoorDash 的 AI agent 点餐功能实际使用人数极少",
+            "该电商用例尚属新兴，行业仍处早期探索阶段",
+            "报道未披露具体使用数据，仅定性描述现状"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，这反映 AI agent 在真实消费场景落地仍不成熟，评估 AI 工具自动化实验流程时应保持审慎预期。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
