@@ -1,0 +1,1034 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:26:04.454074+08:00",
+  "fetched_ids": [
+    "pubmed:42965052",
+    "pubmed:42961752",
+    "pubmed:42961746",
+    "pubmed:42961744",
+    "pubmed:42961742",
+    "pubmed:42961740",
+    "pubmed:42961739",
+    "pubmed:42961738",
+    "pubmed:42961735",
+    "pubmed:42967754",
+    "pubmed:42964756",
+    "pubmed:42960151",
+    "pubmed:42959705",
+    "pubmed:42960696",
+    "pubmed:42961938",
+    "pubmed:42970489",
+    "pubmed:42970438",
+    "pubmed:42969355",
+    "pubmed:42969232",
+    "pubmed:42968757",
+    "pubmed:42967826",
+    "pubmed:42967547",
+    "pubmed:42967269",
+    "pubmed:42967025",
+    "pubmed:42960308",
+    "pubmed:42959434",
+    "pubmed:42965973",
+    "pubmed:42965952",
+    "pubmed:42965863",
+    "pubmed:42965314",
+    "pubmed:42965330",
+    "pubmed:42963830",
+    "pubmed:42963214",
+    "pubmed:42963104",
+    "pubmed:42963103",
+    "pubmed:42962024",
+    "pubmed:42961608",
+    "pubmed:42961465",
+    "pubmed:42961044",
+    "pubmed:42961032",
+    "pubmed:42960709",
+    "pubmed:42957916",
+    "pubmed:42966308",
+    "pubmed:42965979",
+    "pubmed:42957789",
+    "pubmed:42957528",
+    "pubmed:42962548",
+    "pubmed:42967126",
+    "pubmed:42959945",
+    "pubmed:42967090",
+    "pubmed:42964597",
+    "pubmed:42959914",
+    "pubmed:42959819",
+    "pubmed:42959280",
+    "pubmed:42962430",
+    "pubmed:42968091",
+    "pubmed:42961490",
+    "pubmed:42963556",
+    "pubmed:42957862",
+    "pubmed:42958246",
+    "pubmed:42958326",
+    "pubmed:42958551",
+    "pubmed:42960353",
+    "pubmed:42969309",
+    "biorxiv:10.64898/2026.10.26.761842",
+    "rss:022b48f5c2890fd5",
+    "rss:ac806d9208fd7ff7",
+    "rss:4a59228a3ee7d7b4",
+    "rss:f5ccd51996d4914d",
+    "rss:0699cf5972133b72",
+    "rss:5f8e17ee942aca61",
+    "rss:75f5b4476eb7569e",
+    "rss:2463c5d391d5cf1e",
+    "rss:1e9f1d71cca5b148",
+    "rss:f4f36ad10355e99d",
+    "rss:4942224a96a8177a",
+    "rss:9814d72acc3a7434",
+    "rss:55e250b992915f09",
+    "rss:228672a9045b7586",
+    "rss:fa9f73a81b935410",
+    "rss:8a343b21a0253b62",
+    "rss:f1ef297947a18223",
+    "rss:b073baf4d0960f33",
+    "rss:b2ce36c969c38e62",
+    "rss:c6f8497d37e5b2cd",
+    "rss:3767c77a969fdb2b",
+    "rss:a738cc1303619740",
+    "rss:4fccc30c24e3a861",
+    "rss:4a0b5b9ab5ed017c",
+    "rss:4dd9732933b8bcf3",
+    "rss:ed7ec0ff6f363636",
+    "rss:632e21f30024bb28",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:eff34e9033d15f44",
+    "ema:dc7ae573a418fe5c",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "pbc:3414b5296af43c62",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "pbc:e5ead960fb5ad74f",
+    "pbc:42216f2e9fc2a3ed",
+    "nhsa:855e9a644c69570e",
+    "nhsa:8aaf8046cb12c25c",
+    "nhsa:5f332bf4cba57339",
+    "nhsa:63644759a64c08b9",
+    "nhsa:ef30561397dfaaad",
+    "nhsa:bc7e06e9e6433075",
+    "nhsa:2de85f07ffc47429",
+    "nhsa:3ee4efd10e65051e",
+    "nhsa:0d484c6800ee63c5",
+    "nhsa:95b626f04c0bfdc4",
+    "rss:c155a34806a10bfa",
+    "rss:1468543483a0cb43",
+    "rss:bc0ed259e6eb5d0e",
+    "rss:14b39e2399e0e210",
+    "rss:de97c2c5f0bfcb44",
+    "rss:a33227d4fab6900b",
+    "rss:aaf5e6791aaf44c5",
+    "rss:4745ac4816a80acd",
+    "rss:eb2bd3b12e173ecd",
+    "rss:4c59753c4e04cb78",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:bf211d23154acfab",
+    "rss:dfa28fccde924d6d",
+    "rss:e6f638debfa6c5cd",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:d05be7d3fa9f0aa9",
+    "rss:1c86e9ba5b1d3cc9",
+    "rss:60024c90622f7eb3",
+    "rss:51462f7e3cc57c6b",
+    "rss:4912996ff66ce44a",
+    "rss:3eaeb530b9337820",
+    "rss:5d3ce503456311c8",
+    "rss:b26578c04a00196c",
+    "rss:7fe735d77a6cb0a4",
+    "rss:c38af2f5dc5f3f8e",
+    "rss:f0de965da6ea851c",
+    "rss:fcc3bbca0dfd9cd9",
+    "rss:4c313421afd4676e",
+    "rss:655f823878f84966"
+  ],
+  "stats": {
+    "fetched": 165,
+    "new_items": 34,
+    "kept": 32,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42969232",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A single liver-sparing myotropic AAV ameliorates muscular dystrophy in humanized mice by base editing.",
+            "abstract": "Duchenne muscular dystrophy (DMD) is caused by mutations in the DMD gene, most of which are large exon deletions that result in loss of dystrophin protein. Adenine base editing (ABE) enables permanent gene correction by modifying splice sites to cause exon skipping and restoration of the DMD open reading frame. We previously demonstrated that adeno-associated virus 9-mediated (AAV9-mediated) delivery of adenine base editors allows efficient gene editing in mouse models of DMD. However, conventional AAV-based gene delivery approaches are complicated by their limited packaging capacity and high-dose-related toxicity. Here, we describe a single AAV vector encoding a compact adenine base editor, SlugABE8e, and a single-guide RNA, which enable efficient editing in a humanized DMD mouse model at a lower dose using the muscle-tropic MyoAAV4 capsid. Systemic MyoAAV4A delivery in juvenile DMD mice efficiently restored dystrophin expression in the heart and skeletal muscles. This molecular rescue was accompanied by reduced serum creatine kinase activity and diminished muscle pathology. A liver-detargeted MyoAAV4E-off capsid eliminated viral entry and editing in the liver. We also explored a high-fidelity base editor, SlugHF-ABE8e(V106W), which showed similar on-target and off-target editing to SlugABE8e. Together, these findings establish an all-in-one AAV strategy that efficiently mitigates DMD disease progression.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42969232/",
+            "journal": "The Journal of clinical investigation",
+            "authors": "Pien, Li, Bulliard, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1172/JCI202378"
+          },
+          "score": 85,
+          "score_reason": "单AAV碱基编辑治DMD突破",
+          "title_cn": "单一肝脱靶肌向性 AAV 通过碱基编辑改善人源化小鼠的肌营养不良",
+          "one_liner": "单个 AAV 装载紧凑型 ABE 与 sgRNA，经肌向性衣壳低剂量系统递送，恢复 DMD 小鼠抗肌萎缩蛋白。",
+          "key_findings": [
+            "MyoAAV4 衣壳携带 SlugABE8e 与 sgRNA，单载体低剂量编辑人源化 DMD 小鼠",
+            "系统给药恢复心脏与骨骼肌抗肌萎缩蛋白，降低血清 CK 并减轻肌肉病理",
+            "MyoAAV4E-off 肝脱靶衣壳消除肝脏转导与编辑；高保真 SlugHF-ABE8e 脱靶相似"
+          ],
+          "why_it_matters": "单载体、低剂量、肝脱靶的体内碱基编辑方案，直接对应 DMD 基因治疗的可转化瓶颈，对 AAV 载体工程与体内编辑安全性设计有参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42970438",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Protocol for comprehensive genotyping of nuclease, base, and prime editing outcomes using CleanFinder.",
+            "abstract": "Genome editing experiments often produce heterogeneous allele mixtures that require structured genotyping. Here, we present a protocol for analyzing amplicon sequencing data from nuclease, base, prime, and mitochondrial base editing experiments using CleanFinder. We describe steps for preparing reference sequences and FASTQ files and running browser-native or command-line analyses. We then detail interpretation of genotype distributions, repair signatures, editing efficiencies, and allelic dropout. For complete details on the use and execution of this protocol, please refer to Ramachandran et al.1 and cleanfinder.org.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42970438/",
+            "journal": "STAR protocols",
+            "authors": "Dobner, Ramachandran, Rossi",
+            "published": "2026-11-02",
+            "doi": "10.1016/j.xpro.2026.104932"
+          },
+          "score": 72,
+          "score_reason": "基因编辑基因分型协议工具",
+          "title_cn": "CleanFinder 协议：核酸酶、碱基与先导编辑结果的全面基因分型",
+          "one_liner": "CleanFinder 提供一套流程，可对核酸酶、碱基、先导及线粒体碱基编辑的扩增子测序数据做结构化基因分型。",
+          "key_findings": [
+            "覆盖核酸酶、碱基、先导和线粒体碱基编辑四类实验的扩增子测序分析。",
+            "流程含参考序列与 FASTQ 准备，支持浏览器端或命令行运行。",
+            "可解读基因型分布、修复特征、编辑效率及等位基因丢失。"
+          ],
+          "why_it_matters": "合成生物学常需精确表征编辑产物异质性；该协议提供标准化、可复现的分型流程，便于在深圳实验室快速落地并比较不同编辑工具。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42968757",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Rational design of L-Pantolactone dehydrogenase to enhance the activity of whole-cell biocatalyst.",
+            "abstract": "L-Pantolactone dehydrogenase (LPLDH) is a key biocatalyst for the production of the chiral pharmaceutical intermediate D-pantolactone (D-PL). To address the limitations of low whole-cell catalytic activity and poor industrial applicability in the wild-type (WT) AmeLPLDH from Amycolatopsis methanolica, we employed a combined strategy of rational design and directed evolution. Using AlphaFold2-predicted structures, molecular docking, and bioinformatic analysis, residue T271 was identified as a critical functional determinant. Among the constructed variants, the T271D mutant exhibited a significant increase in whole-cell catalytic activity, with an 8.2-fold higher conversion rate than the wild type. Subsequent 50-ns molecular dynamics simulations suggested that the T271D mutation may rigidify the surface loop (residues 163-177). CD spectroscopy further showed that the overall secondary structure was largely preserved, with local secondary-structure changes consistent with this hypothesis. These findings are consistent with, but do not directly prove, a loop-rigidification mechanism. This study identifies a promising variant for further development, providing a basis for the practical application of AmeLPLDH and providing an improved biocatalyst for the green synthesis of D-pantolactone.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42968757/",
+            "journal": "3 Biotech",
+            "authors": "Liu, Shen, Chen, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1007/s13205-026-05121-2"
+          },
+          "score": 68,
+          "score_reason": "AlphaFold2指导酶定向进化",
+          "title_cn": "理性设计L-泛解酸内酯脱氢酶提升全细胞催化活性",
+          "one_liner": "基于AlphaFold2与定向进化获得T271D突变体，全细胞转化率较野生型提高8.2倍。",
+          "key_findings": [
+            "结合AlphaFold2结构预测、分子对接与生物信息学锁定关键位点T271。",
+            "T271D突变体全细胞催化转化率较野生型提升8.2倍。",
+            "50 ns分子动力学与CD谱提示突变可能刚性化163-177表面环，但未直接证明。"
+          ],
+          "why_it_matters": "为D-泛解酸内酯绿色生物合成提供更优全细胞催化剂；酶理性设计与定向进化组合策略可直接借鉴于合成生物学底盘与手性中间体制造。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42967826",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Expression and purification of SP6 RNA polymerase for in vitro transcription.",
+            "abstract": "Construction of a plasmid for efficient overexpression of SP6 RNA polymerase in E. coli and method of purification of multi-milligram quantities of this enzyme by two chromatographic steps is described. SP6 RNA polymerase purified by this method is highly active and stable in described storage conditions at -20 °C for many years. Due to its specific 5' sequence (5'-GAATACA…) uncapped mRNA synthesized by SP6 RNA polymerase can be used for cell-free translation yielding several times more protein product than uncapped mRNAs produced by other polymerases. These factors greatly reduce the costs of in vitro production of mRNA for cell-free translation, improving the feasibility of this protein expression system for various applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42967826/",
+            "journal": "Preparative biochemistry & biotechnology",
+            "authors": "Zozulya, Vishnivetskiy, Gurevich",
+            "published": "2026-11-01",
+            "doi": "10.1080/10826068.2026.2756446"
+          },
+          "score": 60,
+          "score_reason": "SP6聚合酶纯化，无细胞系统",
+          "title_cn": "用于体外转录的SP6 RNA聚合酶的表达与纯化",
+          "one_liner": "建立大肠杆菌高效过表达SP6 RNA聚合酶的两步层析纯化法，可稳定制备毫克级高活性酶。",
+          "key_findings": [
+            "构建大肠杆菌过表达质粒，经两步层析纯化获得毫克级SP6 RNA聚合酶。",
+            "纯化酶活性高，-20°C可稳定保存多年。",
+            "其5'序列GAATACA使无帽mRNA无细胞翻译产量数倍于其他聚合酶产物。"
+          ],
+          "why_it_matters": "低成本自产SP6酶与高效无帽mRNA，可降低体外转录与无细胞蛋白表达成本，对合成生物学中mRNA与蛋白表达体系搭建有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.10.26.761842",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "The Alzheimer's disease-associated rs28834970 variant in PTK2B impairs electrical activity and regulates Tau phosphorylation and APP processing in human neuronal cultures",
+            "abstract": "Background: Genome-wide association studies have identified the PTK2B gene, which encodes Proline-rich tyrosine kinase 2 (PYK2), as a genetic risk factor for Alzheimer's disease (AD). However, its role in AD aetiology remains to be understood, as a complex contribution to amyloid {beta} (A{beta}) toxicity, tauopathy and neuronal dysfunction is suggested by contradictory evidence. Determining how the causal variant among AD-associated PTK2B variants impairs PYK2 function to trigger AD hallmarks could bring clarification. Methods: We combined in silico prediction tools with luciferase reporter assays in neuroblastoma cells to prioritize potential AD-associated PTK2B functional variants. We generated isogenic KOLF2.1J induced pluripotent stem cells (iPSCs) carrying the most relevant functional variant using CRISPR-Cas9 and differentiated them into human neuronal cultures (hNCs). We assessed PYK2 expression via immunoblotting, performed transcriptomic profiling using RNA-sequencing, analyzed neuronal network activity via multielectrode array (MEA) recordings, quantified synaptic density through immunocytochemistry in microfluidic devices, and assessed Tau phosphorylation and amyloid-precursor protein (APP) metabolism. Results: The rs28834970 regulatory variant was identified as the most functionally relevant in our model, with the C risk allele promoting transcription factor C/EBP{beta} binding within a cis-regulatory element. In hNCs, the homozygous rs28834970 CC genotype reduced total PYK2 levels by more than 80%, while increasing the proportion of phosphorylated (activated) PYK2. Transcriptomic analysis revealed 724 downregulated and 113 upregulated gene sets, with altered expression of genes involved in extracellular matrix organization, cytoplasmic translation and neurotransmitter secretion. MEA recordings showed reduced network recruitment and altered burst organization. Immunocytochemistry in microfluidic devices consistently revealed that rs28834970 impacts dendritic development and postsynaptic maturation. The risk genotype significantly elevated Tau phosphorylation at pathological sites (Thr181, Thr217, Thr231, Ser202-Thr205, Ser396-Ser404), and enhanced APP processing, resulting in decreased levels of APP and CTF but increased levels of sAPP, sAPP{beta} and A{beta}. Conclusion: The rs28834970 C risk allele mechanistically links AD susceptibility to downregulation of PTK2B/PYK2 expression and to the increase in Tau pathology and A{beta} levels while compromising synaptic structure and function.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.10.26.761842v1",
+            "journal": "bioRxiv · genetics",
+            "authors": "Lannette-Weimann, N.,  Huyvaert, M.,  Limoge, F.,  Lemaire, M.,  Gao, V.,  Mauri",
+            "published": "NA",
+            "doi": "10.64898/2026.10.26.761842"
+          },
+          "score": 55,
+          "score_reason": "CRISPR iPSC研究AD变异功能",
+          "title_cn": "阿尔茨海默病相关 PTK2B 变异 rs28834970 在人神经元培养中损害电活动并调控 Tau 磷酸化与 APP 加工",
+          "one_liner": "rs28834970 C 风险等位基因降低 PYK2 表达，升高 Tau 磷酸化与 Aβ，并损害神经元网络活动。",
+          "key_findings": [
+            "用 CRISPR 构建同源 iPSC 神经元，CC 型 PYK2 总量降逾 80%，磷酸化比例升高。",
+            "转录组 724 个基因集下调、113 个上调，涉及胞外基质、翻译与神经递质分泌。",
+            "MEA 显示网络募集减弱、爆发紊乱；Tau 病理位点磷酸化与 APP 加工产物升高。"
+          ],
+          "why_it_matters": "为 AD 遗传风险提供因果机制与 iPSC 人源模型，提示 PYK2 通路可作为神经退行性靶点，对 iPSC 疾病建模与 CRISPR 验证有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42967754",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Mg2+ deficiency affects heat shock resistance in Escherichia coli.",
+            "abstract": "While thermal processing remains central to ensuring food safety, sublethal heat intensities stemming from gradients or from milder processing efforts risk enabling microbial adaptation. In efforts to investigate the capacity of foodborne bacteria to acquire heat resistance, most studies have focused on stationary phase cells, although many regions of the food processing chain are permissive for growth. To determine how growth-competent cells can adapt to heat through evolution, we subjected exponentially growing Escherichia coli MG1655 cells to iterative heat cycling. Interestingly, while all evolved lineages readily acquired improved heat shock resistance, none of them seemed to do so via the anticipated upregulation of heat shock proteins. In contrast, whole genome sequencing indicated that most lineages acquired loss-of-function mutations in mgrB, encoding a negative regulator of the PhoPQ two-component signal transduction system. Further genetic analysis revealed that upregulation of the PhoPQ-dependent MgtA Mg2+ importer was causal for the heat shock resistance. Moreover, chemical Mg2+ supplementation phenocopied this resistance and even improved heat survival of several pathogenic enterobacteria. Our findings highlight cellular Mg2+ homeostasis as a key determinant of intrinsic heat resistance in several proliferating enterobacteria, and underscore how both adaptive mutations and Mg2+ availability can readily impose increased heat resistance in the food processing chain.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42967754/",
+            "journal": "Food research international (Ottawa, Ont.)",
+            "authors": "Vaneynde, Delvaux, Lammens, et al.",
+            "published": "2026-12-01",
+            "doi": "10.1016/j.foodres.2026.120975"
+          },
+          "score": 45,
+          "score_reason": "大肠杆菌热抗性进化，弱相关",
+          "title_cn": "Mg2+缺乏影响大肠杆菌的耐热性",
+          "one_liner": "指数期大肠杆菌通过mgrB失活突变上调PhoPQ-MgtA镁转运，提升热休克抗性。",
+          "key_findings": [
+            "迭代热循环进化使所有谱系获得耐热性，但非通过热休克蛋白上调。",
+            "全基因组测序显示多数谱系获得mgrB失活突变，激活PhoPQ信号。",
+            "PhoPQ依赖的MgtA镁离子转运体上调是耐热原因，补镁可表型模拟。"
+          ],
+          "why_it_matters": "揭示镁稳态是细菌耐热关键，提示食品加工中补镁或突变可能增强致病菌耐热，对食品安全与合成生物学底盘抗逆改造有参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42963104",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Epigenetic targeting of an HBO1-H3K9la-CHI3L1 axis reduces regulatory B cell-mediated CD8+ T cell dysfunction in lung adenocarcinoma.",
+            "abstract": "BACKGROUND: Aberrant glycolysis and lactate accumulation are hallmarks of solid tumors, yet how tumor-derived lactate contributes to tumor progression has not been fully defined. This study intends to examine the role of glycolysis in lung adenocarcinoma (LUAD) growth and immunosuppression, and to explore the underpinning mechanisms.\nMETHODS: Syngeneic Lewis lung carcinoma models and autochthonous KrasLSL-G12D LUAD mice were used. Glycolysis was inhibited by 2-DG or LDH knockdown, followed by tumor growth and immune-cell composition assessments. Therapeutic anti-IL-35 blockade and CD8+ T depletion were performed using neutralizing antibodies. Chitinase 3-like 1 (CHI3L1) expression, regulatory B cell (Breg) polarization, and B-cell-mediated T-cell suppression were assessed by flow cytometry, RNA sequencing, qPCR, ELISA, immunohistochemistry, and co-culture assays. CUT&Tag, chromatin immunoprecipitation, co-immunoprecipitation, and cell-free transferase assays were used to define the lactylation mechanism.\nRESULTS: Glycolysis restriction suppressed tumor growth and metastatic colonization, reduced CD1dhiCD5+IL-35+ Bregs, and restored GZMB+CD8+ T cells. CHI3L1 was markedly downregulated after glycolysis inhibition, whereas recombinant CHI3L1 restored IL-13Rα2+ Breg polarization and impaired CD8+ T-cell responses through STAT3 activation. Lactate increased H3K9 lactylation and CHI3L1 expression, while glycolysis inhibition reduced H3K9la enrichment at the Chi3l1 promoter. HBO1 directly catalyzed H3K9 lactylation and promoted CHI3L1 production. Genetic or pharmacological HBO1 blockade reduced Bregs, enhanced cytotoxic T-cell activity, and improved the efficacy of anti-PD-1 therapy.\nCONCLUSIONS: This study demonstrates the participation of an HBO1-H3K9la-CHI3L1–IL-13Rα2-STAT3 axis in tumor glycolysis-established Breg polarization and CD8+ T dysfunction. Targeting HBO1 may provide a strategy to enhance the efficacy of PD-1 blockade in LUAD.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42963104/",
+            "journal": "Journal for immunotherapy of cancer",
+            "authors": "Gu, Zhu, Ge, et al.",
+            "published": "2026-10-30",
+            "doi": "10.1136/jitc-2026-015190"
+          },
+          "score": 40,
+          "score_reason": "表观遗传肿瘤免疫，弱相关",
+          "title_cn": "靶向HBO1-H3K9la-CHI3L1轴可减轻肺腺癌中调节性B细胞介导的CD8+ T细胞功能障碍",
+          "one_liner": "肿瘤糖酵解经HBO1催化H3K9乳酰化上调CHI3L1，驱动Breg极化并抑制CD8+ T细胞。",
+          "key_findings": [
+            "抑制糖酵解或敲低LDH可减少CD1dhiCD5+IL-35+ Breg、恢复GZMB+CD8+ T细胞并抑制肿瘤生长转移。",
+            "乳酸经HBO1直接催化H3K9乳酰化，增强Chi3l1启动子H3K9la富集与CHI3L1表达。",
+            "CHI3L1经IL-13Rα2-STAT3促Breg极化；阻断HBO1可增强抗PD-1疗效。"
+          ],
+          "why_it_matters": "为肺腺癌免疫抑制提供表观遗传（乳酰化）新靶点，HBO1抑制有望作为PD-1阻断的联合增敏策略，值得关注可成药性验证。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42967547",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "TaMYB39 positively regulates salt tolerance in wheat seedlings.",
+            "abstract": "Salt stress severely restricts wheat growth and productivity, yet the regulatory mechanisms governing the abundance and activity of stress-responsive transcription factors remain incompletely understood. In this study, we characterized the wheat MYB transcription factor TaMYB39 and investigated its role in salt tolerance and protein stability. TaMYB39 expression was rapidly induced by NaCl treatment, and the protein was predominantly localized in the nucleus. Transgenic wheat lines overexpressing TaMYB39 exhibited improved growth and greater dry weight under salt stress, whereas RNAi lines showed increased sensitivity. TaMYB39 overexpression was associated with reduced Na⁺ accumulation, enhanced K⁺ retention, a lower Na⁺/K⁺ ratio, increased proline accumulation, and reduced membrane damage. The overexpression lines also accumulated less H2O2 and O2- and exhibited higher SOD, POD, and CAT activities, consistent with enhanced antioxidant capacity. Yeast two-hybrid screening identified the bZIP transcription factor TabZIP27 as a TaMYB39-interacting protein, and this interaction was confirmed by pairwise Y2H, BiFC, GST pull-down, and Co-IP assays. Salt treatment enhanced the TaMYB39-TabZIP27 interaction. Cell-free degradation and CHX chase assays further showed that TabZIP27 delayed TaMYB39 degradation, whereas MG132 treatment attenuated the decline in TaMYB39 abundance, supporting the involvement of the 26S proteasome pathway in TaMYB39 turnover. Collectively, these findings identify TaMYB39 as a positive regulator of salt tolerance in wheat and suggest that its protein stability is modulated through interaction with TabZIP27 under salt stress.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42967547/",
+            "journal": "Gene",
+            "authors": "Zhang, Wang, Guo, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1016/j.gene.2026.150475"
+          },
+          "score": 35,
+          "score_reason": "小麦耐盐转录因子，植物方向",
+          "title_cn": "TaMYB39正调控小麦幼苗耐盐性",
+          "one_liner": "小麦MYB转录因子TaMYB39受盐诱导，通过减少Na⁺积累、增强抗氧化能力正调控耐盐性。",
+          "key_findings": [
+            "过表达TaMYB39改善盐胁迫下生长，降低Na⁺/K⁺比、提高脯氨酸与抗氧化酶活性",
+            "酵母双杂交及BiFC、Pull-down、Co-IP证实TaMYB39与bZIP转录因子TabZIP27互作",
+            "TabZIP27延缓TaMYB39经26S蛋白酶体降解，盐处理增强二者互作"
+          ],
+          "why_it_matters": "为小麦耐盐分子育种提供新靶点；蛋白稳定性调控机制对作物抗逆合成生物学线路设计有借鉴价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42970489",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Prognostic Significance of Early Donor-derived Cell-free DNA Trajectories After Kidney Transplantation.",
+            "abstract": "BACKGROUND: Early post-transplant elevations in donor-derived cell-free DNA are often attributed to ischemia-reperfusion injury, with uncertain prognostic significance. We assessed whether donor-derived cell-free DNA (dd-cfDNA) results during the first 4 mo post-transplantation are associated with long-term graft outcomes.\nMETHODS: We analyzed 1137 kidney transplant recipients enrolled in the prospective multicenter Kidney Outcomes AlloSure Registry. Recipients were categorized into 4 trajectory groups based on dd-cfDNA measurements obtained within the first 4 mo post-transplant: consistently low, transient-elevation, late-elevation, and persistent-elevation. Associations with donor-specific antibody (DSA) development, rejection, graft dysfunction, and graft loss were evaluated over 3 y using hazard regression, with multivariable models adjusted for calculated Panel Reactive Antibody (cPRA) and retransplant.\nRESULTS: Among the 1137 recipients, 83.7% exhibited consistently low dd-cfDNA, 9.8% transient-elevation, 3.2% late-elevation, and 3.3% persistent-elevation. Late elevation was associated with the highest cumulative incidence of DSA development, whereas persistent-elevation had the highest incidence of rejection, graft dysfunction, and graft loss. Graft loss occurred in 20.0% of recipients with persistent-elevation and 8.8% with late-elevation and was uncommon among consistently low (2.2%) and transient (2.9%) groups. On multivariable analysis, late elevation was independently associated with DSA development, rejection, and graft loss, and persistent-elevation with rejection, graft dysfunction, and graft loss, regardless of prior transplantation or sensitization status.\nCONCLUSIONS: Early dd-cfDNA trajectories stratify kidney transplant recipients into clinically meaningful risk phenotypes. Persistent or late-emerging elevation identifies patients at independently increased risk of rejection and graft loss, with persistent-elevation also associated with graft dysfunction, supporting serial dd-cfDNA monitoring as a tool for early post-transplant risk stratification.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42970489/",
+            "journal": "Transplantation",
+            "authors": "Sureshkumar, Klein, Kumar, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1097/TP.0000000000005959"
+          },
+          "score": 30,
+          "score_reason": "肾移植cfDNA预后，非本领域",
+          "title_cn": "肾移植术后早期供体来源游离DNA轨迹的预后意义",
+          "one_liner": "肾移植后4个月内dd-cfDNA持续或晚期升高者，排斥与移植物丢失风险独立增加。",
+          "key_findings": [
+            "1137例前瞻性多中心队列按术后4个月dd-cfDNA分为持续低、短暂升高、晚期升高、持续升高四组。",
+            "持续升高组移植物丢失率20.0%、晚期升高组8.8%，持续低与短暂升高组仅2.2%与2.9%。",
+            "晚期升高独立关联DSA产生、排斥与移植物丢失；持续升高还关联移植物功能障碍。"
+          ],
+          "why_it_matters": "提示系列dd-cfDNA监测可作为术后早期风险分层工具，对移植免疫监测与生物标志物转化研究有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42963103",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Gαi3 acts as a metabolic checkpoint orchestrating TAMs immunosuppression and lipid metabolism in glucose-deprived hepatocellular carcinoma.",
+            "abstract": "BACKGROUND: Tumor-associated macrophages (TAMs) are abundant in the hepatocellular carcinoma (HCC) tumor microenvironment (TME) and undergo metabolic reprogramming to support an immunosuppressive phenotype. While G protein-coupled receptors are known sensors of environmental cues, the specific role of the inhibitory G protein subunit alpha i3 (Gαi3) in linking metabolic stress to TAMs-mediated immunosuppression remains undefined.\nMETHODS: Clinical associations were evaluated by multiplex immunohistochemistry, Kaplan-Meier analysis, and multivariable Cox regression. Myeloid-specific Gnai3-deficient mice were studied in DEN/CCl4 or DEN/HFD-induced and orthotopic HCC models. Metabolic reprogramming was assessed by targeted metabolomics, Seahorse analysis, and pharmacological inhibition of fatty acid oxidation. Mechanistic studies included co-immunoprecipitation, a cell-free kinase assay using recombinant AMPK and Gαi3, chromatin immunoprecipitation, promoter-reporter assays, cycloheximide-chase analysis, surface-biotinylation-based EGFR recycling assays, and GBF1 knockdown/rescue experiments.\nRESULTS: Gαi3 was upregulated in TAMs within glucose-deprived HCC regions and was associated with M2-like polarization, CD8+T cell exhaustion, and shorter overall survival. High TAM Gαi3 remained associated with overall survival after adjustment for clinical covariates. Myeloid-specific Gnai3 deletion suppressed HCC progression and restored cytotoxic CD8+T cell activity. Etomoxir phenocopied Gnai3 deficiency and attenuated macrophage-mediated T-cell suppression, supporting a requirement for fatty acid oxidation. Mechanistically, glucose deprivation activated AMPK-dependent phosphorylation of Gαi3; the cell-free kinase assay, mass spectrometry, and S143A mutagenesis together supported Ser143 as the relevant regulatory site. Active Gαi3 stabilized EGFR through a GBF1-associated trafficking program, promoted EGFR-dependent PKM2 nuclear translocation, and enhanced formation of a nuclear PKM2/HIF-1α transcriptional complex that activated Pparg and sustained an immunosuppressive fatty acid oxidation program.\nCONCLUSIONS: Our study identifies Gαi3 as a critical metabolic checkpoint that orchestrates TAMs immunosuppression in the glucose-deprived TME. The Gαi3-EGFR-PKM2-PPARγ signaling axis drives metabolic reprogramming towards lipid oxidation, thereby inhibiting antitumor immunity. Targeting Gαi3 represents a novel immunotherapeutic strategy to reverse TAMs-mediated immunosuppression and improve outcomes in HCC.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42963103/",
+            "journal": "Journal for immunotherapy of cancer",
+            "authors": "Lu, Li, Du, et al.",
+            "published": "2026-10-30",
+            "doi": "10.1136/jitc-2026-015875"
+          },
+          "score": 30,
+          "score_reason": "肝癌巨噬细胞代谢，弱相关",
+          "title_cn": "Gαi3 作为代谢检查点调控葡萄糖缺乏型肝细胞癌中 TAM 的免疫抑制与脂质代谢",
+          "one_liner": "Gαi3 感知葡萄糖缺乏，经 AMPK 磷酸化后驱动 TAM 脂肪酸氧化与免疫抑制，促进肝癌进展。",
+          "key_findings": [
+            "髓系敲除 Gnai3 抑制肝癌进展并恢复 CD8+T 细胞杀伤活性，依赖脂肪酸氧化。",
+            "葡萄糖缺乏激活 AMPK 磷酸化 Gαi3 Ser143，稳定 EGFR 并促 PKM2 核转位。",
+            "核内 PKM2/HIF-1α 复合物激活 PPARγ，维持免疫抑制性脂肪酸氧化程序。"
+          ],
+          "why_it_matters": "为肝癌 TAM 代谢免疫抑制提供新检查点，Gαi3-EGFR-PKM2-PPARγ 轴可作靶点；合成生物学可设计干预回路或联合免疫治疗。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42969355",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Accuracy of plasma cell-free DNA PCR versus mNGS for non-invasive diagnosis of invasive mold disease.",
+            "abstract": "UNLABELLED: Cell-free DNA (cfDNA) detection in plasma is a novel testing modality for non-invasive diagnosis of invasive mold disease (IMD) in immunocompromised patients. The accuracy of PCR compared to metagenomic next-generation sequencing (mNGS) for diagnosis of IMD remains unknown. Plasma samples from patients with proven and probable IMD and no IMD were tested with mold PCR and shotgun mNGS. Mold PCR detected Aspergillus species, Mucorales agents, Fusarium species, Scedosporium species, and Lomentospora prolificans. The sensitivity and specificity of mold PCR and mNGS were measured. Ninety-four patients with proven (48) and probable (48) IMD due to Aspergillus species (64), Mucorales agents (13), Scedosporium species and Lomentospora prolificans (13), and Fusarium species (6), and 62 patients with no IMD were included in this study. 99.4% (155) of the patients were immunosuppressed. The overall sensitivity and specificity were 62.5% (60/96; 95% CI 52.0-72.2) and 99.8% (535/536; 95% CI 99.0-100), respectively, for mold PCR and 43.8% (42/96; 95% CI 33.6-54.3; P < 0.001) and 99.6% (534/536; 95% CI 98.7-100; P = 1.0), respectively, for mNGS. The proportion of mold PCR-positive mNGS-negative results was 16.0% (4/25) in focal cases compared with 25.0% (11/44; P = 0.384) and 18.5% (5/27; P = 0.810) in multifocal and disseminated cases, respectively. The median PCR cycle threshold was 40.6 (IQR, 37.5-41.5) in PCR-positive mNGS-negative cases compared with 37.3 (IQR, 34.5-39.3; P = 0.004) in PCR-positive mNGS-positive cases. Plasma cfDNA PCR is more sensitive than mNGS for the diagnosis of IMD in immunocompromised patients. Lower sensitivity of mNGS was associated with lower mold cfDNA burden.\nIMPORTANCE: Invasive mold disease (IMD) is a major cause of morbidity and mortality in immunocompromised patients. Early diagnosis and initiation of tailored antifungal therapy are critical for optimizing outcomes in patients with IMD. Detection of circulating fungal cell-free DNA (cfDNA) in the acellular fraction of blood is a novel testing modality that is increasingly used for early and non-invasive diagnosis of IMD. This study represents the first head-to-head accuracy study to compare the sensitivity and specificity of PCR with mNGS for the diagnosis of IMD. The study showed that the overall mold PCR was significantly more sensitive compared with mNGS, while both assays demonstrated very high specificity. Similar trends were observed in a smaller subgroup of patients with invasive aspergillosis, mucormycosis, and scedosporiosis. The findings have implications for assay selection when seeking to non-invasively diagnose IMD in immunocompromised patients.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42969355/",
+            "journal": "Journal of clinical microbiology",
+            "authors": "Pusz-Bochenska, Murugesan, Senchyna, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1128/jcm.01175-26"
+          },
+          "score": 25,
+          "score_reason": "霉菌cfDNA诊断，临床微生物",
+          "title_cn": "血浆游离DNA PCR与mNGS对侵袭性霉菌病无创诊断的准确性比较",
+          "one_liner": "血浆cfDNA PCR诊断侵袭性霉菌病的敏感性显著高于mNGS，两者特异性均极高。",
+          "key_findings": [
+            "94例确诊/临床诊断IMD与62例无IMD患者中，PCR敏感性62.5%，显著高于mNGS的43.8%。",
+            "PCR与mNGS特异性分别为99.8%和99.6%，均接近完美。",
+            "mNGS敏感性偏低与霉菌cfDNA载量低相关，PCR阳性/mNGS阴性者Ct值更高。"
+          ],
+          "why_it_matters": "为免疫抑制患者IMD无创诊断的检测方法选择提供头对头证据，提示低载量时PCR优于mNGS，对分子诊断产品开发有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42968091",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Peripheral molecular signatures of major depressive disorder: a systematic review of blood-derived biomarkers for diagnosis, stratification, and treatment response.",
+            "abstract": "BACKGROUND: Major depressive disorder (MDD) is biologically heterogeneous, yet diagnosis and treatment selection remain largely symptom-based. Blood-derived molecular biomarkers may offer scalable tools for biomarker discovery, biological stratification, and treatment-response research, but their clinical readiness remains uncertain.\nMETHODS: This PRISMA-compliant systematic review was registered in PROSPERO (CRD420261379864). PubMed, Scopus, and Embase were searched from 2014 to 27 April 2026 for human studies evaluating blood-derived molecular biomarkers in MDD or clinically defined depressive phenotypes with extractable depression-relevant data. Eligible domains included transcriptomics, DNA methylation, non-coding RNA, immune-inflammatory, mitochondrial/metabolic, neurotrophic/neuroendocrine, multi-omics, and machine-learning biomarker studies. Owing to methodological and platform heterogeneity, a structured narrative synthesis was performed rather than quantitative meta-analysis. Methodological quality was assessed using a modified QUADOMICS framework, prediction-model studies were additionally assessed using PROBAST, and certainty was judged using a modified GRADE approach.\nRESULTS: Of 9,354 records identified, 25 reports met the eligibility criteria, representing 24 independent participant datasets because two methylation analyses used the same underlying NESDA cohort. Included studies used whole blood, PBMCs, leukocytes, monocytes, serum, plasma, and cell-free RNA across diverse molecular platforms. Individual biomarkers were heterogeneous, but recurrent pathway-level signals involved immune-inflammatory and interferon-related pathways, NF-κB signalling, mitochondrial and energy metabolism, DNA methylation and epigenetic regulation, neurodevelopmental/synaptic pathways, stress-response signalling, autophagy, and non-coding RNA regulation. Multi-marker and multi-omics panels showed promising apparent diagnostic or treatment-response relevance, but most were internally validated, cohort-specific, or exploratory. Modified GRADE certainty was low to very low across biomarker domains.\nCONCLUSIONS: Blood-derived molecular signatures in MDD show stronger convergence at the pathway level than at the individual-biomarker level. Current evidence supports hypothesis generation and biological stratification, but no blood-derived biomarker or panel is ready for routine diagnosis or treatment selection.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42968091/",
+            "journal": "BMC psychiatry",
+            "authors": "Jayanth, Sindhu, Murugadoss, et al.",
+            "published": "2026-08-05",
+            "doi": "10.1186/s12888-026-08450-x"
+          },
+          "score": 20,
+          "score_reason": "抑郁症血液标志物综述",
+          "title_cn": "重性抑郁障碍的外周分子特征：血液来源生物标志物用于诊断、分层与治疗反应的系统综述",
+          "one_liner": "MDD血液标志物在通路层面趋同，但单个标志物异质、证据确定性低，尚不能临床常规使用。",
+          "key_findings": [
+            "纳入25篇报告、24个独立数据集，覆盖转录组、甲基化、免疫炎症、代谢与多组学等平台。",
+            "复现信号集中于免疫炎症/干扰素、NF-κB、线粒体能量代谢、表观遗传与ncRNA调控等通路。",
+            "多标志物与多组学面板显示初步诊断或疗效关联，但多为内部验证、队列特异或探索性。"
+          ],
+          "why_it_matters": "对做生物标志物与多组学分析的团队，可据此判断MDD外周标志物的证据缺口与分层思路，避免高估单标志物临床价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42969309",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Preliminary in vitro evaluation of biological responses associated with an Elumbotti-derived coating on titanium cortical screws.",
+            "abstract": "The biological response to coating-derived components is an important consideration in the preliminary development of functionalized titanium implants. In the present study, an Elumbotti (Ormocarpum cochinchinense)-derived composite coating was applied to titanium cortical screws (12 mm), and its preliminary in vitro biological response was investigated using a cell-free protein-denaturation assay and MG-63 osteoblast-like cells. Uncoated titanium (T1) and Elumbotti-coated titanium cortical screw samples (ST1) were included in the experimental evaluation. Bovine serum albumin (BSA) protein-denaturation inhibition was assessed as a preliminary cell-free measure of protein-stabilizing activity, with diclofenac sodium used as the reference standard. MG-63 cellular responses were evaluated using MTT viability, scratch-wound closure, and acridine orange/ethidium bromide (AO/EtBr) fluorescence staining assays. The MTT assay evaluated concentration-dependent responses to the ST1 test preparation, whereas the scratch-wound and AO/EtBr assays evaluated cellular responses following exposure to conditioned medium obtained from ST1-coated titanium cortical screws. ST1 demonstrated greater BSA protein-denaturation inhibitory activity than T1, with calculated IC50 values of 63.032 and 118.379 µg/mL, respectively. In the MTT assay, MG-63 viability showed a concentration-dependent response to the ST1 test preparation, remaining above 70% at concentrations up to 32 µg/mL and decreasing below 70% at concentrations of 64 µg/mL and above. Scratch-wound closure following exposure to ST1-conditioned medium increased from 67.07% at 24 h to 83.45% at 48 h, compared with 27.24% and 34.50%, respectively, in untreated control cells. AO/EtBr staining demonstrated time-dependent changes in cell viability and membrane integrity following prolonged exposure to ST1-conditioned medium. Overall, the findings provide preliminary evidence of concentration- and time-dependent biological responses associated with the Elumbotti-derived coating system and its soluble components. However, the present assays do not establish direct cell-coating interactions, cellular anti-inflammatory activity, osteogenic differentiation, osseointegration, or improved orthopedic implant performance. Further batch-specific physicochemical characterization, direct cell-surface studies, coating stability and release analyses, osteogenic and inflammatory-marker evaluation, and in vivo investigation are required to establish the biological and functional relevance of the coating for orthopedic applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42969309/",
+            "journal": "Journal of applied biomaterials & functional materials",
+            "authors": "Balasubramani, J, J",
+            "published": "2026-01-01",
+            "doi": "10.1177/22808000261503018"
+          },
+          "score": 15,
+          "score_reason": "钛植入物涂层，无关",
+          "title_cn": "Elumbotti 来源涂层钛皮质螺钉体外生物反应的初步评价",
+          "one_liner": "Elumbotti 复合涂层钛螺钉在体外显示浓度与时间依赖的抗蛋白变性及促成骨样细胞迁移反应。",
+          "key_findings": [
+            "ST1 涂层抑制 BSA 蛋白变性的 IC50 为 63.0 µg/mL，优于未涂层钛的 118.4 µg/mL。",
+            "MG-63 细胞活力在 ≤32 µg/mL 时保持 70% 以上，≥64 µg/mL 时降至 70% 以下。",
+            "ST1 条件培养基使划痕闭合率 24h 达 67.1%、48h 达 83.5%，显著高于对照组。"
+          ],
+          "why_it_matters": "为钛植入物植物来源功能涂层提供初步体外证据，但缺乏直接细胞-涂层互作、成骨分化与体内数据，与合成生物学改造涂层方向关联有限。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:4a59228a3ee7d7b4",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+            "abstract": "Plus news about AbbVie, Gilead and Tiziana Life Sciences. FDA gives uniQure a review date and adcomm: The agency will decide whether or not to approve UniQure’s high-profile Huntington’s disease gene therapy by May 1 ...",
+            "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "亨廷顿基因疗法关键审批节点",
+          "title_cn": "uniQure亨廷顿病基因疗法获FDA审评日期与专家会；Inovia获批后股价大涨",
+          "one_liner": "FDA将于5月1日前决定是否批准uniQure亨廷顿病基因疗法，并召开专家咨询会。",
+          "key_findings": [
+            "uniQure亨廷顿病基因疗法获FDA审评期限，截止日期为5月1日。",
+            "FDA将召开专家咨询会讨论该疗法，属高关注度基因治疗项目。",
+            "Inovia在获批后股价大涨；另含AbbVie、Gilead、Tiziana消息。"
+          ],
+          "why_it_matters": "亨廷顿病基因疗法若获批将是神经领域里程碑，其CMC、递送与安全性数据对基因治疗开发有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:4fccc30c24e3a861",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+            "abstract": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
+            "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "湿疹新药对标Dupixent关键数据",
+          "title_cn": "STAT：Kymera湿疹试验数据即将公布，挑战Dupixent的关键时刻",
+          "one_liner": "Kymera实验性湿疹疗法中期结果即将公布，被视为挑战Dupixent的重要节点。",
+          "key_findings": [
+            "投资者与医生高度关注该在研湿疹疗法中期数据",
+            "该疗法被定位为Dupixent的潜在竞争对手",
+            "结果公布被视为Kymera的高风险关键时刻"
+          ],
+          "why_it_matters": "湿疹生物制剂竞争格局可能生变；对关注免疫炎症靶点与差异化疗法开发的读者，值得跟踪其机制与疗效信号。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ac806d9208fd7ff7",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+            "abstract": "WuXi Biologics and German drugmaker Fresenius have reached one of the largest biosimilar deals to date ahead of what some in the industry have called an upcoming “golden decade” for such products. ...",
+            "url": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "生物类似药大单，行业风向标",
+          "title_cn": "药明生物与费森尤斯达成合作，布局生物类似药黄金十年",
+          "one_liner": "药明生物与德国费森尤斯达成迄今规模最大的生物类似药合作之一，抢先生物类似药市场布局。",
+          "key_findings": [
+            "双方达成生物类似药领域迄今规模最大的交易之一，具体金额未披露。",
+            "业内预计生物类似药将迎来“黄金十年”，此次合作意在提前卡位。",
+            "药明生物提供研发生产平台，费森尤斯具备商业化与市场渠道。"
+          ],
+          "why_it_matters": "生物类似药放量将重塑大分子CDMO需求格局，对合成生物学背景的研发与工艺开发人员而言，是判断产业机会与职业方向的重要信号。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:3767c77a969fdb2b",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
+            "abstract": "The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries.",
+            "url": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "仿制HIV预防针获批，可及性提升",
+          "title_cn": "FDA 批准 HIV 预防注射剂仿制药，扩大低收入国家可及性",
+          "one_liner": "FDA 批准 HIV 预防注射剂仿制药，助力数十个低收入国家扩大用药可及性。",
+          "key_findings": [
+            "FDA 批准了一款 HIV 预防注射剂的仿制药。",
+            "该举措旨在扩大数十个低收入国家的用药可及性。"
+          ],
+          "why_it_matters": "对合成生物学背景研究者而言，这反映长效注射制剂与仿制药可及性路径，可关注其递送技术与生产平台。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:0699cf5972133b72",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "FDA puts Bright Minds drug on partial hold, stock tanks",
+            "abstract": "The FDA placed an experimental seizure drug from Bright Minds Biosciences on a partial clinical hold, the company announced Monday. Regulators issued the hold for BMB-101 after identifying toxicity issues in preclinical mouse models, Bright ...",
+            "url": "https://endpoints.news/fda-puts-bright-minds-drug-on-partial-hold-stock-tanks/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "FDA部分临床暂停，安全性信号",
+          "title_cn": "FDA 对 Bright Minds 实验性抗癫痫药 BMB-101 实施部分临床暂停，股价大跌",
+          "one_liner": "FDA 因临床前小鼠模型出现毒性问题，对 Bright Minds 抗癫痫药 BMB-101 实施部分临床暂停，公司股价大跌。",
+          "key_findings": [
+            "BMB-101 是 Bright Minds 的实验性抗癫痫药，此次被 FDA 部分临床暂停。",
+            "暂停原因是临床前小鼠模型中发现毒性问题。",
+            "部分临床暂停通常限制部分试验活动，具体范围原文未详述。"
+          ],
+          "why_it_matters": "对关注中枢神经药物与临床前毒理转化的读者，这是评估 5-HT2C 等靶点安全窗与 IND 风险的近期案例。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:f5ccd51996d4914d",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Karyopharm plans to merge with Ayrmid, the company that tried buying bluebird",
+            "abstract": "With few options remaining, a commercial-stage blood cancer biotech will go through a bankruptcy process and plans to merge with another drugmaker in the blood disorder field. Karyopharm Therapeutics, maker of the multiple myeloma drug ...",
+            "url": "https://endpoints.news/karyopharm-plans-to-merge-with-ayrmid-the-company-that-tried-buying-bluebird/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "血液肿瘤biotech破产合并",
+          "title_cn": "Karyopharm 拟与 Ayrmid 合并，后者曾试图收购 bluebird",
+          "one_liner": "Karyopharm 将走破产程序，并计划与血液病药企 Ayrmid 合并。",
+          "key_findings": [
+            "Karyopharm 是多发性骨髓瘤药物开发商，已处于商业化阶段。",
+            "公司选择破产程序后与 Ayrmid 合并，称其余选项有限。",
+            "Ayrmid 专注血液疾病领域，此前曾尝试收购 bluebird。"
+          ],
+          "why_it_matters": "多发性骨髓瘤赛道药企整合加速，破产加合并路径值得关注；对合成生物学读者而言，可留意细胞与基因疗法在血液瘤的竞争格局变化。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:022b48f5c2890fd5",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
+            "abstract": "AbbVie has agreed to a discovery and commercialization deal with Brise Pharma for two preclinical migraine programs. The Beijing-based partner said Monday the agreement actually stemmed from 2024. An investor relations ...",
+            "url": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "临床前偏头痛合作，早期阶段",
+          "title_cn": "艾伯维与Brise达成两项临床前偏头痛药物合作",
+          "one_liner": "艾伯维与北京Brise Pharma就两项临床前偏头痛项目达成发现与商业化协议。",
+          "key_findings": [
+            "协议覆盖两项处于临床前阶段的偏头痛在研项目",
+            "合作方为总部位于北京的Brise Pharma，协议实际始于2024年",
+            "交易涵盖药物发现与后续商业化环节"
+          ],
+          "why_it_matters": "偏头痛新靶点尚属蓝海，中国Biotech向MNC输出临床前资产，可作为合成生物学改造神经肽/小分子路线的选题参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:5f8e17ee942aca61",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "CinRx teams with Sam Waksal's Graviton on ROCK2 for PAH, other cardio conditions",
+            "abstract": "Sam Waksal is doubling down on ROCK2 after his first work on the target led to the chronic graft-versus-host disease medicine Rezurock. Now, the Graviton Bioscience CEO is teaming up with a cardio drug development ...",
+            "url": "https://endpoints.news/cinrx-teams-with-sam-waksals-graviton-on-rock2-for-pah-other-cardio-conditions/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "ROCK2新靶点合作，早期研发",
+          "title_cn": "CinRx与Sam Waksal的Graviton合作开发ROCK2抑制剂，用于PAH等心血管疾病",
+          "one_liner": "CinRx与Graviton达成合作，共同开发靶向ROCK2的心血管药物，首个方向为肺动脉高压（PAH）。",
+          "key_findings": [
+            "Graviton由Sam Waksal掌舵，其此前基于ROCK2靶点开发出慢性GVHD药物Rezurock。",
+            "本次合作聚焦ROCK2抑制剂在PAH及其他心血管疾病中的应用。",
+            "具体交易金额、临床阶段与时间表未在摘要中披露。"
+          ],
+          "why_it_matters": "ROCK2已有成药先例（Rezurock），此次向心血管适应症拓展，对关注小分子靶点验证与适应症外延的研发人员有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:855e9a644c69570e",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "âè¯åå·®æ¯ä»·è§åâè½»æ¾è¯»",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ âè¯åå·®æ¯ä»·è§åâè½»æ¾è¯» --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->âè¯åå·®æ¯ä»·è§åâè½»æ¾è¯»end--> æ¥æï¼2026-11-02 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->âè¯åå·®æ¯ä»·è§åâæ¯å»è¯äººç»å¸¸ç¢°å°çåè¯ãå¨è¯åéè´­ãæç½ãå®ä»·ãæ¥éçæ¿ç­ä½ç³»éï¼æææåç¸åãååè§æ ¼å è£ ä¸åçè¯åï¼å®ä»¬çä»·æ ¼è°å¯ä»¥é«ãè°åºè¯¥ä½ï¼å ·ä½å¯ä»¥ç¸å·®å¤å°é±ï¼å¾å¾é½ç¦»ä¸å¼ä¸å¥ï¼é£å°±æâè¯åå·®æ¯ä»·è§åâæ¥åï¼ä»å¤©ï¼å°ç¼å°±å¸¦å¤§å®¶è®¤è¯ä¸ä¸ï¼ä»ä¹æ¯âè¯åå·®æ¯ä»·è§åâãç¬¬ä¸ä¸ªæ¦å¿µï¼âå·®æ¯ä»·å ³ç³»ââå·®æ¯ä»·å ³ç³»âå¹¿æ³å­å¨äºååæå¡é¢åï¼å¹¿æ³å­å¨äºæä»¬èº«è¾¹ï¼æ¯å¦ä¸å¾æä¸¾çä¾å­ï¼ç¸ååçç",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/2/art_14_23286.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "药品比价规则影响药企定价",
+          "title_cn": "药品差比价规则轻松读",
+          "one_liner": "国家医保局发布科普解读，说明同有效成分、不同剂型规格药品的差比价定价规则。",
+          "key_findings": [
+            "差比价规则用于药品采购、挂网、定价、报销环节",
+            "同有效成分但剂型规格不同的药品，价格高低按规则确定",
+            "文章为科普解读，未提出新政策或生效时间"
+          ],
+          "why_it_matters": "合成生物学药品多为新剂型或新规格，定价与医保挂网需参照差比价规则，影响产品定价策略。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:8aaf8046cb12c25c",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "é¢å ä¸åºç­éµå°ï¼é¢å¤ä¸é¨æ¤æ°çââå¾å·å¸é¿ææ¤çä¿é©èµè½åºå±å»çæºææ°åå±",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ é¢å ä¸åºç­éµå°ï¼é¢å¤ä¸é¨æ¤æ°çââå¾å·å¸é¿ææ¤çä¿é©èµè½åºå±å»çæºææ°åå± --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->é¢å ä¸åºç­éµå°ï¼é¢å¤ä¸é¨æ¤æ°çââå¾å·å¸é¿ææ¤çä¿é©èµè½åºå±å»çæºææ°åå±end--> æ¥æï¼2026-11-02 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ºæ¨å¨é¿ææ¤çä¿é©å¶åº¦è½å°è§æï¼ç ´è§£åæå¤±è½ç¾¤ä½âå°±å»ä¸ä¾¿ãç §æ¤ä¸è¶³âé¾é¢ï¼å¾å·å»ä¿é¨é¨éæ¾é¿æ¤é©æ¿ç­çº¢å©ï¼ç»åä¹¡éå«çé¢åå±é¢ä¸´çå°å¢ï¼å°é¿æ¤é©æå¡åçâåµå ¥âåºå±å»çæºæï¼æ¨å¨å»çæºæå¼å±é¿æ¤é©æå¡ï¼è®©é²ç½®ç åºåå»æ¤äººåâå¨èµ·æ¥âï¼åæå°åºå¤±è½äººåå¨å®¶é¨å£å°±è½äº«åé¿æ¤é©ä¸ä¸ç §æ¤ãæªè",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/2/art_14_23284.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "地方长护险试点，相关性一般",
+          "title_cn": "徐州市长期护理保险赋能基层医疗机构新发展",
+          "one_liner": "徐州将长护险服务嵌入基层医疗机构，农村失能人员可在家门口获得专业照护。",
+          "key_findings": [
+            "长护险服务合理嵌入乡镇卫生院等基层医疗机构，盘活闲置病床与医护人力。",
+            "重点破解农村失能群体“就医不便、照护不足”难题，提供上门照护。",
+            "属地方医保部门落实长护险制度的实践，发布日期为2026-11-02。"
+          ],
+          "why_it_matters": "与合成生物学研发无直接关联，但反映医保支付向基层照护延伸；若涉及居家检测、诊断耗材或数字健康，可关注基层渠道机会。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:83633c72c2d7980d",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡éèçç®¡æ»å±Â ä¸­å½è¯çä¼å¬å¼æ¯æèµæ¬å¸åºä¸¤é¡¹å·¥å ·åº§è°ä¼ãä¸­å½äººæ°é¶è¡ä¼åéèçç®¡æ»å±ãä¸­å½è¯çä¼ç­é¨é¨å åå¬å¼è¯å¸ãåºéãä¿é©å ¬å¸äºæ¢ä¾¿å©åº§è°ä¼åè¡ç¥¨åè´­å¢æåè´·æ¬¾åº§è°ä¼ãæ¯æèµæ¬å¸åºå¥åº·ç¨³å®åå±ãæ¯æèµæ¬å¸åºä¸¤é¡¹å·¥å ·èª2024å¹´10ææ¨åºä»¥æ¥ãè¯å¸ãåºéãä¿é©å ¬å¸äºæ¢ä¾¿å©å·²å¤æ¬¡å±æãè¡ä¸æºæç¨³å¸åä¸å¸å ¬å¸å¸å¼ç®¡ççæè¯ãè½åæç»­æåãä¸ºç»´æ¤èµæ¬å¸åºç¨³å®ãæ¿å±éèæºæç¨å¥½ç¨è¶³æ¿ç­å·¥å ·ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110219495213912/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无效，无法判断内容",
+          "title_cn": "中国人民银行与证监会召开支持资本市场两项工具座谈会",
+          "one_liner": "央行与证监会召开座谈会，推动证券、基金、保险公司互换便利与股票回购增持再贷款两项工具持续使用。",
+          "key_findings": [
+            "两项工具自2024年10月推出，互换便利已多次展期",
+            "行业机构稳市和上市公司市值管理意识、能力持续提升",
+            "政策目标是维护资本市场稳定，激励金融机构用好用足政策工具"
+          ],
+          "why_it_matters": "该政策属金融监管与资本市场工具，与合成生物学研发、产业转化无直接关联，仅作宏观融资环境背景了解即可。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:5f332bf4cba57339",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å½å®¶å»çä¿éå±ä¸¾åâä¹¦é¦æ¶¦åå¿ å»ä¿å¯æ°ç¨âè¯»ä¹¦åäº«æ´»å¨",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å½å®¶å»çä¿éå±ä¸¾åâä¹¦é¦æ¶¦åå¿ å»ä¿å¯æ°ç¨âè¯»ä¹¦åäº«æ´»å¨ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å½å®¶å»çä¿éå±ä¸¾åâä¹¦é¦æ¶¦åå¿ å»ä¿å¯æ°ç¨âè¯»ä¹¦åäº«æ´»å¨end--> æ¥æï¼2026-11-02 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸ºè´¯å½»è½å®ãå ¨æ°é è¯»ä¿è¿æ¡ä¾ãï¼è¿ä¸æ­¥æ¨è¿ä¹¦é¦æºå ³å»ºè®¾ï¼è¥é å¤å­¦åæãç¥è¡åä¸çæºå ³æåæ°å´ï¼æææåå¹²é¨èå·¥éä¼çç»¼åç´ å »ä¸å±¥èè½åï¼10æ27æ¥ï¼å½å®¶å»çä¿éå±ä¸¾åâä¹¦é¦æ¶¦åå¿ å»ä¿å¯æ°ç¨âè¯»ä¹¦åäº«æ´»å¨ãå±å ç»æåãå¯å±é¿çæååºå¸­ã10åéå¹´å¹²é¨ç»åèªèº«ç»ååå»çä¿éå·¥ä½å®é ï¼å´ç»æ¿æ²»çè®ºãçº¢è²ç»å ¸ãäººæåå²ãå»ä¿ä¸å¡ç­ä¸»é¢ï¼ä»",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/2/art_14_23282.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "机关读书活动，无政策价值",
+          "title_cn": "国家医保局举办“书香润初心 医保启新程”读书分享活动",
+          "one_liner": "国家医保局举办内部读书分享活动，不涉及医保政策调整。",
+          "key_findings": [
+            "活动于10月27日举行，局党组成员、副局长王文君出席。",
+            "10名青年干部围绕政治理论、红色经典、人文历史、医保业务分享。",
+            "属机关文化建设活动，无政策或监管变化内容。"
+          ],
+          "why_it_matters": "与合成生物学研发、产品注册及医保准入无直接关联，仅反映医保局内部文化建设动态。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:c155a34806a10bfa",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Introducing the Grid Protectors Program",
+            "abstract": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+            "url": "https://openai.com/index/grid-protectors-program",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "OpenAI算力基建与电网合作",
+          "title_cn": "OpenAI 推出电网保护者计划",
+          "one_liner": "OpenAI 启动 Grid Protectors 计划，与公用事业合作，确保未来算力园区不损害电网可靠性与居民电价。",
+          "key_findings": [
+            "OpenAI 将与电力公司合作，使未来算力园区支撑电网可靠性",
+            "计划明确以保护消费者电价为约束目标",
+            "面向未来大规模算力基础设施的用电规划"
+          ],
+          "why_it_matters": "AI 算力扩张正成为电力需求与电价的关键变量；合成生物学同样依赖大规模计算与自动化设施，该模式对深圳生物制造与算力基础设施的用电规划有参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:28e570ea26527001",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Speeding up planning decisions with AI",
+            "abstract": "Google DeepMind and UK government work together to reduce planning assessment times",
+            "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-10-30",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "DeepMind政府合作应用落地",
+          "title_cn": "Google DeepMind 与英国政府合作，用 AI 加速规划审批决策",
+          "one_liner": "Google DeepMind 与英国政府合作，用 AI 缩短规划评估时间。",
+          "key_findings": [
+            "合作方为 Google DeepMind 与英国政府，目标是压缩规划评估周期。",
+            "应用场景是政府规划审批决策，属于 AI 落地公共行政流程。",
+            "原文未披露具体技术方案、试点规模或量化效果数据。"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这提示 AI 正进入监管与审批流程；未来涉及基因编辑、生物制造项目的合规评估可能提速，值得关注监管科技动向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:1468543483a0cb43",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "LifeVal",
+            "abstract": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+            "url": "https://openai.com/index/lifeval",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "OpenAI日常任务基准发布",
+          "title_cn": "LifeVal：衡量 AI 协助完成日常事务能力的基准",
+          "one_liner": "OpenAI 发布 LifeVal 基准，评估 AI 在育儿、理财、政务文书等日常事务中的实际帮助能力。",
+          "key_findings": [
+            "LifeVal 覆盖育儿查找、财务管理、政府文书等真实日常任务场景。",
+            "该基准衡量 AI 帮助人们完成日常事务的实际效果，而非单项能力测试。",
+            "由 OpenAI News 发布，属于 AI 评测基准类工具。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，此类基准可帮助判断通用 AI 在文献检索、经费与合规文书等科研事务中的实用价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:b26578c04a00196c",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+            "abstract": "The tsunami of imitators is way bigger than any one model maker can stem.",
+            "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "Anthropic游戏克隆政策动态",
+          "title_cn": "Claude 新规禁止游戏克隆，难挡 AI 复制潮",
+          "one_liner": "Anthropic 为 Claude 新增反游戏克隆规则，但难遏制 AI 模仿浪潮。",
+          "key_findings": [
+            "Claude 新增使用规则，禁止用其克隆游戏。",
+            "文章认为模仿者规模远超单一模型厂商可控范围。",
+            "AI 复制现象已成行业趋势，单方限制效果有限。"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这反映 AI 生成与知识产权边界收紧的趋势，可能影响用 LLM 辅助设计、代码生成与数据复用的合规判断。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:bc0ed259e6eb5d0e",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Qodo builds context into AI code review with Codex",
+            "abstract": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+            "url": "https://openai.com/index/qodo-codex-plugin",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "AI代码审查工具常规更新",
+          "title_cn": "Qodo 将公司知识与编码规范注入 Codex，强化 AI 代码审查",
+          "one_liner": "Qodo 把企业知识与编码标准接入 Codex，让开发者在提交 PR 前跨仓库发现 P0 级问题。",
+          "key_findings": [
+            "Qodo 将公司内部知识与编码规范注入 Codex，使 AI 代码审查具备企业上下文。",
+            "可在打开 PR 前跨多个仓库识别 P0 级严重问题，提前拦截风险。",
+            "该能力由 OpenAI News 报道，定位为面向开发者的 AI 代码审查增强。"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖自建软件与数据管线，跨仓库的 AI 审查有助于在提交前发现关键缺陷，降低实验数据与自动化流程的出错风险。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:5d3ce503456311c8",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+            "abstract": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+            "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "苹果家用机器人弱相关",
+          "title_cn": "苹果计划2027年推出1000美元家用机器人，主打FaceTime与智能家居控制",
+          "one_liner": "苹果拟2027年发布约1000美元家用机器人，由John Ternus主导，功能限于FaceTime和开关灯。",
+          "key_findings": [
+            "定价约1000美元，预计2027年上市，由CEO John Ternus支持推进。",
+            "核心用途为FaceTime通话与智能家居控制，功能范围有限。",
+            "高售价与有限用途可能影响其市场接受度。"
+          ],
+          "why_it_matters": "与合成生物学研究无直接关联，但可作为智能家居与实验室自动化终端的潜在参考，优先级较低。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:7fe735d77a6cb0a4",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "The world has a new plan to save nature, but it still needs the money",
+            "abstract": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+            "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "自然保护议题无关",
+          "title_cn": "全球自然保护新行动计划出台，资金缺口仍是关键障碍",
+          "one_liner": "新行动计划旨在挽救2030年自然目标，但融资仍不足。",
+          "key_findings": [
+            "新行动计划聚焦挽救2030年自然目标，应对生物多样性进展滞后。",
+            "融资不足被明确列为计划落地的主要制约因素。",
+            "报道未披露具体资金规模或新增融资机制细节。"
+          ],
+          "why_it_matters": "生物多样性目标与资金机制会影响合成生物学在生物制造、生物资源获取与监管框架上的长期环境政策环境，值得跟踪。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
