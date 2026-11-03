@@ -1,0 +1,1163 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T07:27:16.739010+08:00",
+  "fetched_ids": [
+    "pubmed:42971508",
+    "pubmed:42965052",
+    "pubmed:42967754",
+    "pubmed:42964756",
+    "pubmed:42975940",
+    "pubmed:42975929",
+    "pubmed:42975864",
+    "pubmed:42975769",
+    "pubmed:42975659",
+    "pubmed:42975309",
+    "pubmed:42975141",
+    "pubmed:42974969",
+    "pubmed:42974710",
+    "pubmed:42972613",
+    "pubmed:42972103",
+    "pubmed:42971525",
+    "pubmed:42971416",
+    "pubmed:42971394",
+    "pubmed:42971384",
+    "pubmed:42971274",
+    "pubmed:42971258",
+    "pubmed:42970489",
+    "pubmed:42970438",
+    "pubmed:42969355",
+    "pubmed:42969232",
+    "pubmed:42975241",
+    "pubmed:42968757",
+    "pubmed:42967826",
+    "pubmed:42967547",
+    "pubmed:42967269",
+    "pubmed:42967025",
+    "pubmed:42965973",
+    "pubmed:42965952",
+    "pubmed:42965863",
+    "pubmed:42965314",
+    "pubmed:42965330",
+    "pubmed:42963830",
+    "pubmed:42963214",
+    "pubmed:42974087",
+    "pubmed:42971025",
+    "pubmed:42966308",
+    "pubmed:42965979",
+    "pubmed:42973795",
+    "pubmed:42967126",
+    "pubmed:42971007",
+    "pubmed:42967090",
+    "pubmed:42973349",
+    "pubmed:42974302",
+    "pubmed:42973330",
+    "pubmed:42973934",
+    "pubmed:42964597",
+    "pubmed:42973979",
+    "pubmed:42972587",
+    "pubmed:42972386",
+    "pubmed:42972221",
+    "pubmed:42968091",
+    "pubmed:42963556",
+    "pubmed:42972439",
+    "pubmed:42972600",
+    "pubmed:42969309",
+    "rss:5ce4ae66ea721cc8",
+    "rss:85ced8b75e4d9c08",
+    "rss:bb4b1ee496869b7f",
+    "rss:e3053dc01629bd43",
+    "rss:68de7a3c1ba8344c",
+    "rss:086d8ade4cbafee6",
+    "rss:79a65cd23f969087",
+    "rss:447e43c4343df7f7",
+    "rss:7363b64428c3e9ae",
+    "rss:022b48f5c2890fd5",
+    "rss:ac806d9208fd7ff7",
+    "rss:4a59228a3ee7d7b4",
+    "rss:f5ccd51996d4914d",
+    "rss:0699cf5972133b72",
+    "rss:5f8e17ee942aca61",
+    "rss:75f5b4476eb7569e",
+    "rss:2463c5d391d5cf1e",
+    "rss:1e9f1d71cca5b148",
+    "rss:f4f36ad10355e99d",
+    "rss:4942224a96a8177a",
+    "rss:3c22f84fbf2536b1",
+    "rss:a3fbeb9723fa8f19",
+    "rss:ed6e18bbb28528e4",
+    "rss:441db0c6085c7172",
+    "rss:3767c77a969fdb2b",
+    "rss:a738cc1303619740",
+    "rss:4fccc30c24e3a861",
+    "rss:4a0b5b9ab5ed017c",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "pbc:96726ba6e3376621",
+    "nhsa:6fec0c56de8ac960",
+    "nhsa:855e9a644c69570e",
+    "nhsa:8aaf8046cb12c25c",
+    "nhsa:5f332bf4cba57339",
+    "nhsa:63644759a64c08b9",
+    "nhsa:ef30561397dfaaad",
+    "nhsa:bc7e06e9e6433075",
+    "nhsa:2de85f07ffc47429",
+    "nhsa:3ee4efd10e65051e",
+    "nhsa:0d484c6800ee63c5",
+    "rss:f98ffa6f91b408c7",
+    "rss:c350bb8798160290",
+    "rss:250b236eb5899531",
+    "rss:158693e545d71cb5",
+    "rss:64b539777c9b52d3",
+    "rss:c155a34806a10bfa",
+    "rss:8e75a62f19b34305",
+    "rss:4524e83e3abb0aed",
+    "rss:1468543483a0cb43",
+    "rss:d0861db8fca9d93f",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:24694907e497e2c3",
+    "rss:2425dfb6183914ab",
+    "rss:dfa28fccde924d6d",
+    "rss:e6f638debfa6c5cd",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:d05be7d3fa9f0aa9",
+    "rss:1c86e9ba5b1d3cc9",
+    "rss:60024c90622f7eb3",
+    "rss:51462f7e3cc57c6b",
+    "rss:c3696f86bfc50e5c",
+    "rss:e5995bcf9200dce7",
+    "rss:f289bb509f6cf2e2",
+    "rss:fc23f4362e0e2592",
+    "rss:a617ef7c21b9b56a",
+    "rss:c6f9c0c2c51e3706",
+    "rss:0ad806eff95c96cd",
+    "rss:75ac1a268ba2e828",
+    "rss:406009df40af7e88",
+    "rss:5d3ce503456311c8",
+    "rss:b26578c04a00196c"
+  ],
+  "stats": {
+    "fetched": 164,
+    "new_items": 70,
+    "kept": 37,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42971508",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Liver biopsy confirms precise and efficient correction of SERPINA1 after in vivo Base Editing in a Patient with Alpha-1 Antitrypsin Deficiency.",
+            "abstract": "BACKGROUND: Alpha-1 antitrypsin deficiency (AATD) caused by the PI*ZZ genotype (Glu342Lys) is characterized by hepatic accumulation of misfolded AAT-Z protein and reduced circulating AAT levels, leading to progressive liver disease and pulmonary emphysema. Gene correction therapy represents a potentially curative approach by directly correcting the underlying genetic defect. We report the first clinical case with direct assessment of hepatic gene correction by liver biopsy following in vivo base editing in a patient with AATD.\nMETHODS/CASE PRESENTATION: We report the case of a 66-year-old male patient with PI*ZZ AATD who underwent gene correction therapy within the YOLT-202 phase I/Ia clinical trial (clinical trial.gov ID NCT07193615). Ten weeks after treatment a liver biopsy was performed to assess hepatic histology in the context of pre-existing F2 fibrosis identified by elastography before treatment. Liver tissue was analyzed for correction of the Pi*ZZ variant using Sanger and Illumina sequencing, including assessment of bystander and off-target editing. Serum levels and biological activity of AAT were assessed longitudinally using an elastase inhibition assay.\nRESULTS: Liver biopsy showed no evidence of hepatic inflammation and demonstrated correction of the PI*ZZ variant in 54% of alleles by Sanger and 57% by Illumina sequencing without detectable off-target signals. Following a transient post-treatment increase in transaminases, liver enzymes returned to baseline. Monthly measurements demonstrated sustained circulating AAT levels with preserved biological activity, as assessed by elastase inhibition, throughout follow-up.\nCONCLUSIONS: In vivo base editing achieved substantial and precise hepatic correction of the pathogenic SERPINA1 PI*ZZ variant, without concerning histological findings or detectable bystander or off-target editing. Sustained biologically active AAT levels support feasibility and potential of this approach for the treatment of AATD.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42971508/",
+            "journal": "Journal of hepatology",
+            "authors": "Krooss, Yang, Yuan, et al.",
+            "published": "2027-10-20",
+            "doi": "10.1016/j.jhep.2026.09.028"
+          },
+          "score": 92,
+          "score_reason": "体内碱基编辑首例肝活检验证",
+          "title_cn": "肝活检证实体内碱基编辑精准高效纠正AATD患者SERPINA1基因",
+          "one_liner": "首例AATD患者体内碱基编辑后肝活检显示54-57%等位基因获精准纠正，无脱靶。",
+          "key_findings": [
+            "YOLT-202 I期试验中66岁PI*ZZ患者接受体内碱基编辑，10周后肝活检评估",
+            "Sanger测序纠正54%、Illumina测序纠正57%，未检出旁观者或脱靶编辑",
+            "肝组织无炎症证据，转氨酶短暂升高后回落，血清AAT水平及弹性蛋白酶抑制活性持续保持"
+          ],
+          "why_it_matters": "这是体内碱基编辑肝内基因纠正的首个人体活检证据，纠正效率与安全性数据对肝脏靶向基因编辑疗法开发具直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42971416",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Research progress in the production, purification, and applications of long single-stranded DNA.",
+            "abstract": "Long single-stranded DNA (long ssDNA) plays important roles in cutting-edge fields such as DNA origami, gene therapy, and synthetic biology. However, the production, preparation, and purification of long ssDNA remain technically challenging. This review systematically summarizes current strategies for long ssDNA production and preparation, including phage-E. coli-based biological production, template-dependent enzymatic amplification, and viral-vector-based generation of ssDNA genomes. CRISPR-Cas-assisted approaches are discussed separately as complementary tools for post-synthetic processing, sequence-selective cleavage, enrichment, and quality control, whereas other enzymatic approaches are considered for post-synthetic strand conversion. We compare the characteristics and limitations of these production and preparation strategies, discuss purification techniques for long ssDNA, and summarize its applications in DNA origami nanotechnology and gene therapy. This review comprehensively synthesizes the bottlenecks in long ssDNA production, preparation, and purification, and outlines further development trends. We highlight template-independent de novo enzymatic DNA synthesis, automated DNA manufacturing, synthetic biology-based production systems, and AI-assisted sequence optimization. These developments are expected to accelerate the transition of long ssDNA technologies from laboratory research toward scalable manufacturing and practical applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42971416/",
+            "journal": "Biotechnology advances",
+            "authors": "Wang, Wu, Zhang, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1016/j.biotechadv.2026.109089"
+          },
+          "score": 80,
+          "score_reason": "长单链DNA制备，合成生物学工具",
+          "title_cn": "长单链DNA的生产、纯化与应用研究进展",
+          "one_liner": "综述系统梳理长单链DNA的生产制备、纯化策略及其在DNA折纸与基因治疗中的应用瓶颈。",
+          "key_findings": [
+            "生产策略涵盖噬菌体-大肠杆菌生物法、模板依赖酶扩增与病毒载体生成ssDNA基因组三类。",
+            "CRISPR-Cas作为合成后处理工具，用于序列选择性切割、富集与质控，区别于其他酶法链转换。",
+            "未来方向包括无模板从头酶合成、自动化DNA制造、合成生物学生产系统与AI辅助序列优化。"
+          ],
+          "why_it_matters": "长ssDNA是DNA折纸与基因治疗的关键材料，其规模化制备瓶颈直接影响合成生物学下游应用，对深圳相关研发与制造有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42972103",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Self-organization of Drosophila chromatin architecture in a cell-free system.",
+            "abstract": "Metazoan genomes are organized by folding of the nucleosome fiber into loops and domains that support long-range regulatory interactions. Although cohesin-mediated loop extrusion and architectural DNA-binding proteins are central to current models of genome organization, how these mechanisms integrate to generate higher-order structure remains incompletely understood. Early Drosophila melanogaster embryogenesis provides a unique window into the emergence of chromatin architecture, as rapid syncytial nuclear divisions occur largely in the absence of transcription. However, probing the mechanisms underlying this primordial folding in vivo is technically challenging. Here, we establish an in vitro system that reconstitutes complex chromatin using extracts from syncytial embryos. Nucleosome mapping and Micro-C analyses reveal that long-range interactions, including cis and trans loops and topologically associating domains (TADs), emerge spontaneously from soluble extract components. While some structures resemble those observed in early embryos, others represent latent interaction potentials that are constrained in vivo. Focusing on the eve locus, we find that TAD formation is incompatible with a simple loop extrusion model and instead requires direct pairing of boundary elements mediated by the insulator protein 'Suppressor-of-hairy-wing' Su(Hw). Together, our work demonstrates that key features of 3D genome organization can be reconstituted in a cell-free system and provides a tractable platform for the mechanistic dissection of chromatin folding in Drosophila.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42972103/",
+            "journal": "EMBO reports",
+            "authors": "Jayakrishnan, Kars, Campos-Sparr, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1038/s44319-026-00969-0"
+          },
+          "score": 78,
+          "score_reason": "无细胞系统重构染色质架构",
+          "title_cn": "果蝇染色质结构在无细胞体系中的自组织",
+          "one_liner": "果蝇合胞体胚胎提取物可在体外自发重建环、TAD等三维染色质结构。",
+          "key_findings": [
+            "用合胞体胚胎提取物建立体外染色质重构体系，Micro-C显示cis/trans环与TAD自发形成。",
+            "部分结构与早期胚胎一致，另一些为体内受约束的潜在互作。",
+            "eve位点TAD形成不符合简单环挤压模型，需Su(Hw)介导边界元件直接配对。"
+          ],
+          "why_it_matters": "提供可操作的体外平台，用于机制解析染色质折叠与边界元件，对合成生物学中人工染色质与基因回路的空间调控设计有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42973349",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "CRISPR/Cas9-based Genome Editing in Inherited Diseases: Mechanisms, Therapeutic Advances, Safety and Clinical Translation.",
+            "abstract": "Gene therapy has transformed modern biomedical research by enabling curative strategies that target the molecular basis of disease. Among genome-editing technologies, the CRISPR/Cas9 system has emerged as a versatile and efficient platform due to its programmability, simplicity, and precision. This review summarizes the evolution of gene therapy and highlights the therapeutic potential of CRISPR-based genome editing. CRISPR/Cas9 has demonstrated significant potential in correcting disease-causing mutations across multiple inherited disorders, including sickle cell disease, β- thalassemia, familial hypercholesterolemia, phenylketonuria, muscular dystrophies, and cystic fibrosis. Emerging technologies such as base editing and prime editing further improved editing precision and reduced unintended genomic alterations. However, challenges including off-target effects, DNA repair pathway bias, immune responses, and vector-associated toxicities remain major limitations. The review highlights the rapid progress of CRISPR-mediated therapeutics and emphasizes the importance of improving editing accuracy, delivery efficiency, and long-term safety. Advances in vector engineering and genome-editing platforms are expected to overcome current technical and ethical barriers, facilitating broader clinical applications. CRISPR/Cas9 and related genome- editing technologies represent promising disease-modifying and potentially curative therapeutic approaches. Continued optimization of precision, safety, and delivery systems will be essential for successful translation into routine clinical practice.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42973349/",
+            "journal": "Current drug targets",
+            "authors": "Fatima, Siddique",
+            "published": "2026-10-21",
+            "doi": "10.2174/0113894501509343261013070100"
+          },
+          "score": 78,
+          "score_reason": "CRISPR基因编辑治疗综述，含碱基/先导编辑",
+          "title_cn": "CRISPR/Cas9 基因组编辑在遗传病中的应用：机制、治疗进展、安全性与临床转化",
+          "one_liner": "综述 CRISPR/Cas9 及碱基/先导编辑在多种遗传病中的治疗进展，并指出脱靶、递送与安全性仍是临床转化的主要瓶颈。",
+          "key_findings": [
+            "CRISPR/Cas9 已在镰状细胞病、β-地中海贫血、家族性高胆固醇血症等遗传病中展现纠正致病突变的潜力",
+            "碱基编辑与先导编辑提升了精确性、减少非预期基因组改变",
+            "脱靶效应、DNA 修复通路偏好、免疫反应与载体毒性仍限制临床应用"
+          ],
+          "why_it_matters": "为合成生物学背景研究者提供遗传病基因编辑治疗的机制与临床转化全景，有助于判断递送系统与精确编辑平台的研发切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42974969",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Harnessing yeast biodiversity to identify superior chassis strains for metabolic engineering and precision fermentation.",
+            "abstract": "Microbial cell factories are increasingly used for the sustainable production of fuels, chemicals and pharmaceuticals. Yeasts are particularly suitable as production hosts because of their metabolic flexibility, robustness, and expanding synthetic biology toolkits. Metabolic engineering of yeast historically relied on a narrow set of reference species and strains, especially Saccharomyces cerevisiae. Recent studies, however, show that applying identical pathway designs to different strain backgrounds or species can yield significant differences in titer, rate and yield (TRY). In this review, we examine how diversity within and between species in genomic features, metabolic regulation, substrate utilization and stress tolerance shapes chassis performance. We focus on eight species, including S. cerevisiae, Yarrowia lipolytica, Kluyveromyces marxianus, Komagataella phaffii, Ogataea polymorpha, Rhodotorula toruloides, Lipomyces starkeyi and Pichia kudriavzevii. We highlight that different species and strain backgrounds provide distinct advantages depending on the target product, pathway requirements, substrate, and process conditions. Finally, we discuss the transition from empirical strain screening toward diversity-informed and predictive chassis selection through multi-omics, phenotyping, metabolic modeling, and machine learning. We propose that chassis identity should be treated as a design variable, and that chassis selection should become an integral part of the Design-Build-Test-Learn cycle to develop optimal cell factories.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42974969/",
+            "journal": "FEMS yeast research",
+            "authors": "Zhu, Voordeckers, Steensels, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1093/femsyr/foag060"
+          },
+          "score": 72,
+          "score_reason": "酵母底盘多样性，合成生物学核心",
+          "title_cn": "利用酵母生物多样性筛选用于代谢工程与精密发酵的优质底盘菌株",
+          "one_liner": "综述指出同一途径在不同酵母物种或菌株中产量差异显著，底盘应作为设计变量纳入DBTL循环。",
+          "key_findings": [
+            "比较8种酵母（含解脂耶氏酵母、马克斯克鲁维酵母等）在基因组、代谢调控、底物利用与胁迫耐受上的差异。",
+            "不同物种或菌株背景对目标产物、途径需求、底物和工艺条件各有优势，TRY差异显著。",
+            "提出借助多组学、表型分析、代谢建模与机器学习，从经验筛选转向多样性驱动的预测性底盘选择。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，底盘选择直接影响产量与工艺可行性；该框架可指导非模式酵母的理性选型，提升精密发酵项目成功率。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42975940",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Coacervate droplets as a liquefier for the solid-to-liquid transition of RNA aggregates.",
+            "abstract": "Biomolecular condensates are functionally gated by their material properties. While RNA is a primary structural scaffold, its sequence-specific interactions can aberrantly drive condensates into dysfunctional solid aggregates. Yet, actively reversing this solidification to restore function remains a fundamental challenge, impeding progress in synthetic biology and therapeutics interventions. Here, we establish that complex coacervates can be engineered as liquefiers to actively remodel solid RNA-peptide aggregates into functional liquid droplets. Integrating systematic experiments with all-atom simulations, we decode a multiscale mechanism: coacervate infiltration at the micrometer scale mediates molecular buffering at the nanometer scale, which fluidizes the crosslinked network to drive macroscopic liquefaction. This capability is governed by a design rule, where coacervates formed by small-molecular anions exhibit optimal efficacy. We deploy this principle to functionally rescue silenced RNA within a model of pathologically solidified ribonucleoprotein assemblies. Our work provides a general framework for the active, compositional control of biomolecular phase behavior, with direct implications for managing pathological aggregation and engineering functional condensates in synthetic and living systems.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42975940/",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "authors": "Guo, Luo, Shen, et al.",
+            "published": "2026-11-10",
+            "doi": "10.1073/pnas.2604185123"
+          },
+          "score": 62,
+          "score_reason": "凝聚体调控RNA相变，合成生物学相关",
+          "title_cn": "凝聚层液滴作为液化剂实现RNA聚集体固-液相转变",
+          "one_liner": "复合凝聚层可主动将固态RNA-肽聚集体重塑为功能性液态液滴。",
+          "key_findings": [
+            "微米级凝聚层浸润介导纳米级分子缓冲，使交联网络流化，驱动宏观液化。",
+            "小分子阴离子形成的凝聚层液化效果最佳，构成一条设计规则。",
+            "在病理性固化核糖核蛋白模型上成功恢复沉默RNA的功能。"
+          ],
+          "why_it_matters": "为合成生物学中凝聚体材料属性的主动调控提供通用框架，可用于工程化功能性凝聚体及干预病理性聚集。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42975864",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Neural Stem Cell Therapies for Central Nervous System Regeneration: Advances, Challenges, and Integrative Technologies.",
+            "abstract": "Neural stem cells (NSCs) are promising candidates for central nervous system (CNS) regeneration because they self-renew and differentiate into neural lineages. Advances in genome engineering, extracellular vesicles (EVs), biomaterials, organoids, single-cell technologies, and precision medicine have expanded approaches for characterizing, engineering, delivering, and evaluating NSC-based therapies for neurological disorders. CRISPR/Cas9 and related platforms may enable more precise modification of NSC function, while NSC-derived EVs offer potential cell-free strategies. Engineered hydrogels and three-dimensional scaffolds may improve cell survival, engraftment, migration, and integration. Organoids and single-cell omics provide increasingly detailed models of cellular heterogeneity and lineage specification. However, clinical translation remains limited by immune compatibility, tumorigenic risk, manufacturing standardization, graft survival and integration, and regulatory requirements. Rigorous preclinical validation, standardized manufacturing, appropriately designed clinical trials, long-term safety monitoring, and harmonized regulatory frameworks are required before routine clinical application.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42975864/",
+            "journal": "Neuroscience bulletin",
+            "authors": "Marei",
+            "published": "2026-11-03",
+            "doi": "10.1007/s12264-026-01731-1"
+          },
+          "score": 58,
+          "score_reason": "神经干细胞疗法综述，CRISPR提及",
+          "title_cn": "神经干细胞治疗与中枢神经系统再生：进展、挑战与整合技术",
+          "one_liner": "综述指出，CRISPR、EV、生物材料、类器官与单细胞技术正推动神经干细胞疗法，但临床转化仍受安全性与标准化制约。",
+          "key_findings": [
+            "CRISPR/Cas9 可精准改造神经干细胞功能，其衍生胞外囊泡提供无细胞治疗路径。",
+            "工程化水凝胶与三维支架有望改善细胞存活、植入、迁移与整合。",
+            "类器官与单细胞组学提升异质性与谱系分化建模精度。"
+          ],
+          "why_it_matters": "为神经干细胞疗法的工程化改造、递送与评价提供技术路线图，适合评估 CRISPR 与合成生物学在 CNS 再生中的切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42975929",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Rising cell-free DNA level tracks cancer-associated methylation signal and improves multicancer detection.",
+            "abstract": "Cancer patients carry more circulating cell-free DNA (ccfDNA)-small DNA fragments shed into the blood-than healthy people. Most of this excess comes not from the tumor itself but from immune cells, suggesting that it would simply dilute the much smaller amount of tumor-derived DNA in a blood sample. Using a study of 1,480 previously untreated participants across 43 hospitals-including patients with 14 cancer types spanning all stages, patients with benign growths, and healthy volunteers-we show the opposite: as total ccfDNA rises, it becomes enriched, not diluted, in fragments carrying cancer-associated DNA methylation signatures, independent of cancer type, disease stage, and a broad panel of demographic, clinical, and technical covariates. In fact, total ccfDNA explains more variance in cancer-associated methylation signal than the disease stage itself. This basic biological finding suggests a coupling between immune cell activity and tumor methylation. It also has a practical implication: we show that rising ccfDNA concentration is associated with higher cancer detection sensitivity, even within disease stages and particularly in early-stage disease-stage I sensitivity varied from 0.55 in the lowest ccfDNA concentration tertile to 0.85 in the highest, and stage II from 0.59 to 0.86. This suggests that ccfDNA concentration should be considered as a stage-independent stratification variable for benchmarking cancer-detection tests. Interestingly, similar behavior was observed in patients with symptomatic benign lesions, suggesting a broader biological response to abnormal tissue growth and not something unique to malignancy.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42975929/",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "authors": "Basu, Hiremath, Rathod, et al.",
+            "published": "2026-11-10",
+            "doi": "10.1073/pnas.2629041123"
+          },
+          "score": 55,
+          "score_reason": "cfDNA甲基化癌症检测，非核心技术",
+          "title_cn": "游离DNA水平升高伴随癌症相关甲基化信号富集并提升多癌种检测灵敏度",
+          "one_liner": "总cfDNA升高时癌症相关甲基化片段反而富集，可显著提高早期癌症检测灵敏度。",
+          "key_findings": [
+            "1480例43家医院多癌种研究显示，总cfDNA越高，携带癌症甲基化特征的片段越富集而非稀释。",
+            "总cfDNA对癌症甲基化信号变异的解释力超过疾病分期本身。",
+            "I期灵敏度从cfDNA最低三分位的0.55升至最高三分位的0.85，II期从0.59升至0.86。"
+          ],
+          "why_it_matters": "提示cfDNA浓度可作为独立于分期的分层变量，用于优化多癌种甲基化检测的基准评估与灵敏度判读，对液体活检产品开发有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42974302",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "LM2KM: feature extraction from pretrained protein and molecular language models combined with quantum mechanics (QM) features for K M predictions.",
+            "abstract": "The Michaelis constant (K M) is a key parameter for characterizing enzyme-substrate interactions and plays an essential role in enzyme kinetics modeling and physiologically based pharmacokinetic (PBPK) applications. However, experimental determination of K M is labor-intensive, and existing computational prediction approaches remain limited in accuracy and scalability. In this study, we systematically evaluated pretrained protein and molecule language models for K M prediction by integrating four protein language models (PLMs) and two molecule language models (MLMs) to encode enzyme sequences and substrate structures, respectively. Principal component analysis (PCA) was applied to reduce feature dimensionality, and a wide range of representation combinations were assessed. Our results indicated that protein representations derived from the last four layers of ProtT5 using approximately 70 features, combined with 20 CLS-based molecular features from MolFormer, provided a well-balanced and efficient representation for K M prediction. In addition, the incorporation of quantum mechanics (QM) descriptors consistently improved prediction performance across all tested configurations, with the model R 2 of 0.537. In summary, this work provides a flexible and extensible framework for large-scale K M prediction, with strong potential to facilitate enzyme pathway identification, drug and lead screening, and sequence-based protein design, supporting broader applications in enzyme kinetics-driven modeling and drug development.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42974302/",
+            "journal": "Digital discovery",
+            "authors": "Zhai, Cai, Niu, et al.",
+            "published": "2026-10-20",
+            "doi": "10.1039/d6dd00139d"
+          },
+          "score": 55,
+          "score_reason": "蛋白语言模型预测酶动力学，方法相关",
+          "title_cn": "LM2KM：结合预训练蛋白质与分子语言模型及量子力学特征预测米氏常数",
+          "one_liner": "整合蛋白质/分子语言模型特征与量子力学描述符，可将K_M预测R²提升至0.537。",
+          "key_findings": [
+            "系统评测4种蛋白质语言模型与2种分子语言模型，ProtT5末四层约70维特征加MolFormer的20维CLS特征组合最优。",
+            "引入量子力学描述符在所有配置下均稳定提升K_M预测性能，最终模型R²为0.537。",
+            "PCA降维后评估多种表征组合，构建出灵活可扩展的大规模K_M预测框架。"
+          ],
+          "why_it_matters": "K_M预测可加速酶通路识别、药物筛选与基于序列的蛋白设计，对合成生物学中酶元件表征与代谢通路建模有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42975141",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Deletion of the Envelope gene attenuates SARS-CoV-2 infection by altered spike localization and increased cell-to-cell transmission.",
+            "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19, a highly transmissible acute respiratory infection that can result in severe pneumonia and death. Many details of SARS-CoV-2 infection are not fully understood, including the cell biology and host-virus interactions involved in coronavirus assembly and release, in which the Envelope (E) structural protein is instrumental. Deletion of E in other coronaviruses has been shown previously to either attenuate or abrogate infection. To determine the role of E in SARS-CoV-2 virus production and infectivity, we produced a reporter SARS-CoV-2 with or without the E gene deleted using a bacterial artificial chromosome. Replication of ΔE SARS-CoV-2 was attenuated in Vero E6 cells expressing human ACE2 and TMPRSS2 and in human epithelial cell lines. Electron and immunofluorescence microscopy and virology assays showed that ΔE SARS-CoV-2 increased cell surface expression of Spike (S) glycoprotein, leading to reduced S incorporation into ΔE SARS-CoV-2 particles and promotion of increased cell-to-cell transmission that evades neutralizing antibody inhibition. Trans-complementation of E partially rescued ΔE SARS-CoV-2 S incorporation and restored cell-free transmission. In addition to validating the role of E in retention of S in the ER-Golgi intermediate complex (ERGIC), our results showed that a lack of E led to reorganization of the ERGIC and Golgi during SARS-CoV-2 infection. Improved understanding of E in SARS-CoV-2 replication and host pathogenesis may help the development of novel therapeutics.IMPORTANCENon-Spike coronavirus structural proteins, including Envelope, are conserved, making them potential pan-coronavirus therapeutic targets. Many details about these proteins and their roles in viral replication and host pathogenesis are unknown. In this study, we showed that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) replicates without Envelope but is attenuated and impaired in virus particle formation, with less Spike incorporated into virions and more Spike expressed on the cell surface compared to wild-type virus. SARS-CoV-2 lacking Envelope transmitted primarily via cell fusion and evaded neutralizing antibodies. In addition, the absence of Envelope resulted in the reorganization of the cell secretory compartment during SARS-CoV-2 infection. A better understanding of how Envelope influences SARS-CoV-2 replication could guide directed design of novel therapeutics for treatment of COVID-19 patients, as well as the potential for pan-coronavirus protection against future coronavirus outbreaks.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42975141/",
+            "journal": "mBio",
+            "authors": "Fischer, Shanmugapriya, Kline, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1128/mbio.01574-26"
+          },
+          "score": 48,
+          "score_reason": "SARS-CoV-2 E基因缺失，病毒学边缘",
+          "title_cn": "缺失包膜E蛋白通过改变Spike定位并增强细胞间传播减弱SARS-CoV-2感染",
+          "one_liner": "SARS-CoV-2缺失E蛋白后复制减弱，但Spike在细胞表面增多、病毒粒子掺入减少，转向细胞融合传播并逃逸中和抗体。",
+          "key_findings": [
+            "用BAC构建ΔE报告病毒：在Vero E6-ACE2/TMPRSS2及人上皮细胞中复制减弱。",
+            "ΔE使Spike在细胞表面表达升高、病毒粒子掺入减少，细胞间传播增强并逃逸中和抗体。",
+            "反式互补E部分恢复S掺入与无细胞传播；缺E导致ERGIC与高尔基体重新组织。"
+          ],
+          "why_it_matters": "E为保守结构蛋白，是泛冠状病毒药物靶点；该研究揭示E调控S定位与传播方式，对减毒疫苗设计与抗病毒策略有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42971258",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Cyclotides from Clitoria ternatea: Genomic Organization, Biosynthesis, and Roles in Plant Defense.",
+            "abstract": "Clitoria ternatea, commonly known as butterfly pea, is a perennial legume widely recognized for its ornamental and medicinal value. Beyond its characteristic anthocyanin-rich blue flowers, the plant produces cyclotides, a type of ultra-stable, cyclic cystine-knot peptide, with exceptional biological functions. Unlike other cyclotide-bearing families that carry independent cyclotide genes, C. ternatea integrates cyclotide domains into albumin-1 genes, replacing β-chain domains through divergent or convergent evolution. Genomic and transcriptomic studies reveal a large repertoire of albumin-1 loci and associated biosynthetic enzymes, including asparaginyl endopeptidases (butelase-1), protein disulphide isomerases, and peptidyl-prolyl isomerases, which orchestrate the cyclization, folding, and stabilization of cyclotides. Transcriptome analyses further demonstrate tissue-specific expression patterns, with distinct cyclotides such as cliotides T2 and T3 enriched in flowers and pods, and cliotides T8-T10 specialized in seeds, reflecting adaptive responses to localized biotic stress. Functionally, C. ternatea cyclotides exhibit broad-spectrum defense properties, including insecticidal, bactericidal, nematicidal, and antifungal activities, primarily through membrane permeabilization and disruption of lipid bilayers. Their preferential affinity for phosphatidylethanolamine-rich membranes highlights their selective toxicity toward insect and microbial targets. Recent advances in synthetic biology exploit cyclotides' structural stability as molecular scaffolds for therapeutic peptide design, with applications in immunomodulatory, antimicrobial, and anticancer drug development. This review consolidates genomic, transcriptomic, and functional insights into cyclotide biosynthesis and activity in C. ternatea, highlighting its evolutionary distinctiveness and biotechnological potential. Future research integrating multi-omics and spatial single-cell analyses can further unravel regulatory networks, defense dynamics, and translational applications of these unique plant peptides.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42971258/",
+            "journal": "Planta medica",
+            "authors": "Kumar, Yeo, Singaram, et al.",
+            "published": "2026-11-02",
+            "doi": "10.1055/a-2995-3627"
+          },
+          "score": 45,
+          "score_reason": "环肽生物合成，植物天然产物边缘",
+          "title_cn": "蝶豆环肽的基因组组织、生物合成及其在植物防御中的作用",
+          "one_liner": "蝶豆将环肽结构域嵌入白蛋白-1基因，并借助butelase-1等酶完成环化折叠，从而赋予其广谱防御活性。",
+          "key_findings": [
+            "蝶豆环肽结构域整合进白蛋白-1基因，替代β链，属趋异或趋同进化",
+            "基因组与转录组揭示大量白蛋白-1位点及butelase-1、PDI、PPI等生物合成酶",
+            "环肽呈组织特异表达，花荚富集cliotide T2/T3，种子富集T8-T10"
+          ],
+          "why_it_matters": "环肽超稳定、可膜透化，是肽类药物与抗菌抗虫分子的理想骨架；butelase-1等酶系对合成生物学环化平台有直接借鉴价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42973330",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Cell-Based Therapeutic Strategies for Correcting Mitochondrial DNA Mutations and Mitigating Oxidative Stress.",
+            "abstract": "Mitochondria are essential structures that produce energy in cells through mitochondrial oxidative phosphorylation and are one of the primary sources of reactive oxygen species (ROS). Mutations in mitochondrial DNA (mtDNA) cause a wide range of hereditary illnesses with multisystem clinical symptoms, poor cellular bioenergetics, and decreased mitochondrial oxidative phosphorylation. Effective treatment approaches have been hampered by the genetic complexity associated with mtDNA disorders, including heteroplasmy and tissue-specific diversity. The relationship between mutations in the mitochondrial DNA and oxidative stress is multidimensional and snowballing, with structural malfunction of the electron transport chain encouraging the development of ROS that causes further damage to mitochondrial DNA, lipids, and proteins. Under carefully regulated experimental conditions, cell-based disease models, in particular induced pluripotent stem cells (iPSCs) and standard transmitochondrial cybrids, have become useful tools for studying disease mechanisms, simulating mutation-specific phenotypes, and assessing possible therapeutic interventions. This review provides the key roles of mutations and oxidative stress in the pathogenesis of the disease in the context of the primary role of the mitochondrial genome, its maternal inheritance, and the most common disorders, i.e., mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS) and myoclonic epilepsy with ragged red fibers (MERRF). We outline the use of cell-based models to study mitochondrial pathologies, including patient-derived primary cells and iPSCs, which could be differentiated into cell types of interest to the disease, and cybrid systems, which could isolate the contribution of single mutations in the mitochondrial DNA to an underlying background of controlled nuclear genetic backgrounds. Besides, the review focuses on innovative technologies to mend mutations in mitochondrial DNA, such as allotopic expression, mitoTALENs and mitoZFNs, and the new base-editing systems like DdCBEs. Included are the free cell-based therapies like mitochondrial transfer and nuclear transfer procedures. Finally, we discussed the measures to be taken to minimize oxidative stress, and these actions are standard: mitochondria- targeted antioxidants, mitophagy, and autophagy regulation. The study also looks at the present level of proof supporting these therapy techniques and discusses the advantages and disadvantages of existing experimental models. Although several gene editing and mitochondria replacement technologies have shown promising results in clinical and cellular research, their clinical translation is still restricted and needs more confirmation in terms of long-term therapeutic efficacy, safety, and delivery efficiency.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42973330/",
+            "journal": "Current gene therapy",
+            "authors": "Asif, Zain, Manzoor, et al.",
+            "published": "2026-10-20",
+            "doi": "10.2174/0115665232514985261011110951"
+          },
+          "score": 45,
+          "score_reason": "线粒体DNA细胞疗法，边缘相关",
+          "title_cn": "线粒体DNA突变修复与氧化应激缓解的细胞治疗策略",
+          "one_liner": "综述梳理iPSC、cybrid等细胞模型及mitoTALENs、DdCBE等mtDNA编辑与线粒体替代疗法的现状与局限。",
+          "key_findings": [
+            "iPSC与胞质杂合体可模拟MELAS、MERRF等mtDNA病表型并评估干预",
+            "mtDNA编辑工具包括allocopic表达、mitoTALENs、mitoZFNs与DdCBE碱基编辑",
+            "线粒体/核移植及靶向抗氧化、线粒体自噬等缓解氧化应激策略仍待验证"
+          ],
+          "why_it_matters": "为合成生物学改造mtDNA编辑工具、构建线粒体疾病细胞模型提供技术路线图，但临床转化受递送效率与长期安全性限制。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42975659",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Hydrogel-extracellular vesicle platforms: orchestrating the osteogenic microenvironment for cell-free bone regeneration.",
+            "abstract": "Bone defects remain difficult to treat because impaired vascularization, inflammation, infection and metabolic dysfunction limit endogenous repair. Unencapsulated extracellular vesicles (EVs) may also be rapidly cleared from defect sites. Hydrogel-EV systems combine vesicle bioactivity with local retention, controlled release and structural support, offering a cell-free strategy for bone regeneration. This review summarizes EV sources, separation, characterization and cargo, and outlines the endosomal biogenesis of exosomes. We examine EV-mediated regulation of osteogenesis, angiogenesis, immunity and osteoclast-mediated resorption. Hydrogel materials, EV-loading approaches, passive and stimuli-responsive release, and methods for evaluating EVs within hydrogels are discussed. Applications in uncomplicated, infected and diabetes-associated bone defects are compared according to their pathological microenvironments. Translational barriers include heterogeneous EV preparations, inconsistent separation and dosing standards, inadequate mechanical performance, and mismatched hydrogel degradation and bone-healing kinetics. Insufficient biodistribution and long-term safety data further limit clinical translation. This review provides a framework for developing hydrogel-EV platforms for bone regeneration.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42975659/",
+            "journal": "Journal of materials chemistry. B",
+            "authors": "Zhao, Chen, Zhe, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1039/d6tb02293f"
+          },
+          "score": 40,
+          "score_reason": "水凝胶EV骨再生，无细胞策略边缘",
+          "title_cn": "水凝胶-细胞外囊泡平台：调控成骨微环境实现无细胞骨再生",
+          "one_liner": "综述水凝胶-细胞外囊泡平台如何通过局部滞留与控释调控成骨微环境，实现无细胞骨再生。",
+          "key_findings": [
+            "系统梳理EV来源、分离、表征及货物，并阐述外泌体腔内生成机制。",
+            "总结EV对成骨、血管生成、免疫及破骨细胞吸收的调控作用。",
+            "比较水凝胶材料、载EV方式与被动/刺激响应释放，及无感染、感染和糖尿病骨缺损应用。"
+          ],
+          "why_it_matters": "为无细胞骨再生提供平台设计框架；合成生物学可改造EV货物，结合水凝胶控释，是骨修复与递送研究的高价值切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42973934",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Mesenchymal stem cell-derived extracellular vesicles in diabetes: immunomodulation and therapeutic prospects.",
+            "abstract": "Diabetes mellitus is characterized by chronic hyperglycemia, immune dysregulation, and progressive multi-organ injury. Mesenchymal stem cell-derived extracellular vesicles(MSC-EVs) have emerged as cell-free mediators capable of transferring bioactive cargo and modulating immune, metabolic, and regenerative responses. This narrative review summarizes current evidence on the roles of MSC-EVs in diabetes, focusing on immune-cell regulation, pancreatic β-cell protection, metabolic homeostasis, and major complications, while also considering EV isolation, engineering, delivery, and clinical translation. Preclinical studies indicate that MSC-EVs can modulate T-cell, macrophage, dendritic-cell, B-cell, natural killer-cell, innate lymphoid-cell, and complement-associated responses; reduce inflammatory and oxidative injury; protect β cells from apoptosis; improve insulin signaling; and promote tissue repair in diabetic wounds, kidney disease, retinopathy, neuropathy, cardiovascular injury, bone metabolic disorders, and erectile dysfunction. These effects are mediated by preparation-specific cargo and signaling pathways, including miRNAs, proteins, programmed death-ligand 1(PD-L1)/PD-1 signaling, Phosphoinositide 3-kinase/Protein Kinase B(PI3K/Akt)-related pathways, and phosphatase and tensin homolog(PTEN)/AKT signaling. The review also distinguishes direct diabetes-specific evidence from mechanistic background derived from non-diabetic models. However, the evidence remains heterogeneous across MSC sources, EV preparations, experimental models, doses, and delivery strategies, and current clinical evidence is still limited. Registered investigations should therefore be distinguished from studies reporting clinical outcomes, and product-specific efficacy should not be inferred from trial registration alone. Overall, MSC-EVs represent a promising but not yet established therapeutic platform for diabetes. Future translation will require standardized terminology and characterization, scalable manufacturing, reproducible potency assessment, optimized targeting and dosing, long-term safety evaluation, and well-designed product-specific clinical trials.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42973934/",
+            "journal": "Frontiers in immunology",
+            "authors": "Ma, Hou, Zhang, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fimmu.2026.1918124"
+          },
+          "score": 40,
+          "score_reason": "MSC外泌体糖尿病治疗，弱相关",
+          "title_cn": "间充质干细胞来源细胞外囊泡在糖尿病中的免疫调节与治疗前景",
+          "one_liner": "综述指出MSC-EVs在糖尿病中具免疫调节与β细胞保护作用，但临床证据仍有限。",
+          "key_findings": [
+            "MSC-EVs可调节T细胞、巨噬细胞、B细胞、NK细胞等免疫反应，减轻炎症与氧化损伤。",
+            "临床前研究显示其保护β细胞、改善胰岛素信号，并促进多种糖尿病并发症组织修复。",
+            "效应由miRNA、蛋白、PD-L1/PD-1、PI3K/Akt、PTEN/AKT等制备特异性货物与通路介导。"
+          ],
+          "why_it_matters": "为无细胞治疗平台提供系统证据梳理，对合成生物学改造EV货物、标准化制备与效力评估有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42974087",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Residual Invasive Disease After Neoadjuvant Therapy in Triple-Negative Breast Cancer: Risk Stratification and Postoperative Radiotherapy-Pembrolizumab Integration.",
+            "abstract": "Residual invasive disease (RD) after neoadjuvant systemic therapy identifies patients with triple-negative breast cancer (TNBC) at increased but heterogeneous recurrence risk. Continued perioperative pembrolizumab may overlap with postoperative radiotherapy (RT), raising unresolved questions about treatment timing and long-term net clinical benefit. This narrative review examines the pathologic definition and distribution of RD, prognostic stratification, mechanistic evidence, and clinical studies of postoperative RT-pembrolizumab integration. Breast-only, nodal-only, and combined breast and nodal RD should be distinguished alongside residual burden. Residual cancer burden, nodal status, tumor-infiltrating lymphocytes, and circulating tumor DNA may inform prognosis or research stratification, but none is validated to predict benefit from a specific RT-pembrolizumab schedule. Longitudinal molecular monitoring and cell-free DNA fragmentomics remain investigational for postoperative treatment selection. DNA repair, hypoxia, metabolic adaptation, tumor-cell plasticity, and immune suppression provide plausible mechanisms of resistance. However, features measured in surgically removed RD cannot be assumed to persist in occult postoperative disease, and much of the supporting evidence is preclinical or derived from other treatment settings. RT may stimulate antitumor immunity while also injuring immune cells. Small nonrandomized postoperative studies support short-term feasibility of concurrent treatment, but do not establish comparative efficacy or long-term safety. Severe adverse events and treatment interruptions have occurred, and late cardiopulmonary injury, fibrosis, and reconstruction outcomes remain insufficiently characterized. Management should preserve timely, guideline-concordant RT and base pembrolizumab continuation or interruption on clinical recovery and toxicity. Prospective comparisons with clearly defined schedules, prespecified RD subgroups, biomarker analyses, and adequate follow-up are needed to establish long-term net clinical benefit.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42974087/",
+            "journal": "Cancer management and research",
+            "authors": "Jia, Eerdemutu, Ren, et al.",
+            "published": "2026-01-01",
+            "doi": "10.2147/CMAR.S653901"
+          },
+          "score": 38,
+          "score_reason": "TNBC术后放疗免疫，临床边缘",
+          "title_cn": "三阴性乳腺癌新辅助治疗后残留浸润性疾病：风险分层与术后放疗-帕博利珠单抗整合",
+          "one_liner": "综述指出TNBC术后残留病灶风险异质，放疗与帕博利珠单抗联用的时机与长期获益仍缺证据。",
+          "key_findings": [
+            "应区分乳腺、淋巴结及两者合并残留，并结合残留负荷进行风险分层。",
+            "RCB、淋巴结状态、TILs与ctDNA可辅助预后或研究分层，但均未验证可预测特定放免方案获益。",
+            "小样本非随机研究仅支持同期治疗短期可行，未证实疗效与长期安全性。"
+          ],
+          "why_it_matters": "为TNBC术后免疫与放疗联合的临床设计提供批判性梳理，提示生物标志物与前瞻试验缺口，对肿瘤免疫方向有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:85ced8b75e4d9c08",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Servier's $1.5B bet on Edgewise drug fails five months in",
+            "abstract": "The muscular dystrophy drug that Servier bought for $1.55 billion upfront has already failed its pivotal trial. The drug, called sevasemten, failed the primary and secondary endpoints in the GRAND CANYON pivotal ...",
+            "url": "https://endpoints.news/serviers-1-5b-bet-on-edgewise-drug-fails-five-months-in/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "15亿美元交易关键试验失败",
+          "title_cn": "Servier 15亿美元押注 Edgewise 药物，五个月即告失败",
+          "one_liner": "Servier 以15.5亿美元预付款收购的肌营养不良药物 sevasemten 关键试验失败。",
+          "key_findings": [
+            "sevasemten 在 GRAND CANYON 关键试验中未达到主要和次要终点。",
+            "该药为肌营养不良疗法，Servier 五个月前以15.5亿美元预付款引进。",
+            "交易达成仅五个月即宣告失败，凸显后期临床风险。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，此案例提示基因/细胞疗法之外的小分子或生物药后期临床风险，评估 BD 交易与管线估值时需关注关键试验数据。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:3c22f84fbf2536b1",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
+            "abstract": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.",
+            "url": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 76,
+          "score_reason": "肌营养不良药物关键失败",
+          "title_cn": "Servier 15.5亿美元肌营养不良药物首次关键试验失败",
+          "one_liner": "Servier 针对缺乏疗法的一种肌营养不良症的药物在首次关键试验中意外失败。",
+          "key_findings": [
+            "该药物针对一种目前缺乏治疗手段的肌营养不良症",
+            "这是该药物首次重大试验，结果意外受挫",
+            "交易金额达15.5亿美元，失败影响重大"
+          ],
+          "why_it_matters": "肌营养不良症基因治疗与寡核苷酸疗法是合成生物学重要应用方向，此次失败提示递送与疗效验证风险，值得关注同类管线。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:5ce4ae66ea721cc8",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Ultragenyx to lay off 20% of employees, scrap a Wilson disease gene therapy",
+            "abstract": "After a whirlwind third quarter that saw two FDA approvals but a major setback in Angelman syndrome, Ultragenyx is laying off staff for the second time this year. The California biopharma",
+            "url": "https://endpoints.news/ultragenyx-to-lay-off-20-of-employees-scrap-a-wilson-disease-gene-therapy/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "基因治疗管线终止+裁员，行业信号",
+          "title_cn": "Ultragenyx 裁员 20% 并放弃 Wilson 病基因疗法",
+          "one_liner": "Ultragenyx 宣布裁员 20%，并终止 Wilson 病基因疗法项目。",
+          "key_findings": [
+            "裁员规模达 20%，为该公司今年第二次裁员。",
+            "公司放弃 Wilson 病基因疗法项目。",
+            "第三季度刚获两项 FDA 批准，但 Angelman 综合征项目遇重大挫折。"
+          ],
+          "why_it_matters": "基因疗法项目终止与裁员反映该赛道临床与商业化风险，对关注 AAV 基因治疗及合成生物学转化路径的研发者具参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:086d8ade4cbafee6",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Pfizer lifts 2026 guidance as cancer, migraine sales offset Covid slide",
+            "abstract": "Pfizer raised its 2026 financial guidance as strong growth in its oncology and migraine businesses helped it weather sharp sales drops in its Covid products. The company reported third-quarter sales and ...",
+            "url": "https://endpoints.news/pfizer-lifts-2026-guidance-as-cancer-migraine-sales-offset-covid-slide/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "辉瑞财报指引，MNC动态",
+          "title_cn": "辉瑞上调2026年业绩指引：肿瘤与偏头痛业务增长抵消新冠产品下滑",
+          "one_liner": "辉瑞上调2026年业绩指引，肿瘤与偏头痛业务增长抵消新冠产品收入下滑。",
+          "key_findings": [
+            "肿瘤与偏头痛业务强劲增长，弥补新冠产品销售额大幅下降。",
+            "公司发布第三季度财报并同步上调2026年财务指引。",
+            "摘要未披露具体销售数字与药物名称。"
+          ],
+          "why_it_matters": "反映大型药企在新冠后周期依靠肿瘤管线重塑收入结构，对关注肿瘤新药研发与产业并购方向的读者有参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:a3fbeb9723fa8f19",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Who will get the first psychedelic approved?",
+            "abstract": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit…",
+            "url": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "迷幻药首获批竞赛，新疗法",
+          "title_cn": "STAT+：首个致幻类药物将花落谁家？",
+          "one_liner": "Compass Pathways被视为首个致幻药获批热门，但一家非营利机构可能紧追不舍。",
+          "key_findings": [
+            "Compass Pathways是首个致幻药获批竞赛中的领跑者之一。",
+            "一家非营利机构可能参与竞争，使竞赛形势变得胶着。"
+          ],
+          "why_it_matters": "致幻药临床开发与监管路径对合成生物学背景读者有参考价值，但摘要信息有限，可先了解竞争格局。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:441db0c6085c7172",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Pharmalittle: We’re reading about a generic HIV prevention shot, Lonza buying U.S. facilities, and more",
+            "abstract": "The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic version of a groundbreaking HIV prevention medicine",
+            "url": "https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "HIV预防药仿制获批，常规",
+          "title_cn": "FDA 初步批准 Dr. Reddy's 仿制 HIV 预防药物",
+          "one_liner": "FDA 初步批准 Dr. Reddy's 生产一款突破性 HIV 预防药物的仿制药。",
+          "key_findings": [
+            "FDA 对 Dr. Reddy's 的 HIV 预防药物仿制药给出暂定批准",
+            "该药物为突破性 HIV 预防药，原研药未在摘要中具名",
+            "暂定批准意味着专利或独占期问题解决后方可正式上市"
+          ],
+          "why_it_matters": "HIV 预防药物的仿制化将降低用药成本、扩大可及性；对关注 mRNA、CRISPR 等预防性生物技术路线的研究者，可作为小分子预防策略商业化的参照。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:79a65cd23f969087",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Novartis ends BioArctic pact; Two VC firms raise inaugural funds",
+            "abstract": "Plus news about Teva, Ultragenyx and Specific Biologics. Novartis cans BioArctic collab: The Swiss pharma axed its discovery-stage work with the Swedish biotech, which created the Alzheimer’s drug Leqembi. The neurodegeneration-focused ...",
+            "url": "https://endpoints.news/novartis-ends-bioarctic-pact-two-vc-firms-raise-inaugural-funds/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "诺华终止合作等常规动态",
+          "title_cn": "诺华终止与BioArctic合作；两家VC机构完成首期基金募集",
+          "one_liner": "诺华终止与BioArctic的发现阶段合作，另有两家VC完成首期基金募集。",
+          "key_findings": [
+            "诺华终止与BioArctic的发现阶段合作，具体项目未披露。",
+            "BioArctic曾开发阿尔茨海默病药物Leqembi，专注神经退行性疾病。",
+            "同篇简讯还提及Teva、Ultragenyx和Specific Biologics的动态。"
+          ],
+          "why_it_matters": "神经退行性疾病是合成生物学与新型递送技术的重要应用方向；大药企收缩早期合作，可能影响相关靶点与平台的转化路径。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:7363b64428c3e9ae",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Updated: Merck KGaA is selling its CDMO business in the US to Lonza",
+            "abstract": "Merck KGaA is set to hand over its US CDMO business to Lonza, with the deal covering five manufacturing facilities and about 1,100 employees. While the finer financial details of the pact were kept under ...",
+            "url": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "CDMO资产出售，产业动态",
+          "title_cn": "默克KGaA将美国CDMO业务出售给龙沙",
+          "one_liner": "默克KGaA把美国CDMO业务卖给龙沙，涉及5个生产设施和约1100名员工。",
+          "key_findings": [
+            "交易涵盖5个生产设施及约1100名员工，财务细节未披露。",
+            "龙沙借此扩大美国CDMO产能与客户网络。",
+            "默克KGaA收缩CDMO布局，聚焦核心业务。"
+          ],
+          "why_it_matters": "CDMO产能格局变化影响生物药与合成生物学产品的工艺开发、放大与外包选择，深圳相关企业可关注龙沙整合后的服务能力与价格。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:6fec0c56de8ac960",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "æµæ±æ­å·åæè§åå¼é¢ å®ç°å»ä¿å®ç¹ç®¡çæè´¨èµè½",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ æµæ±æ­å·åæè§åå¼é¢ å®ç°å»ä¿å®ç¹ç®¡çæè´¨èµè½ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->æµæ±æ­å·åæè§åå¼é¢ å®ç°å»ä¿å®ç¹ç®¡çæè´¨èµè½end--> æ¥æï¼2026-11-03 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->æµæ±çæ­å·å¸å»ä¿é¨é¨ç¼å¶å®æ½ãæ­å·å¸å»çä¿éå®ç¹å»è¯æºæèµæºé ç½®è§åï¼2025â2027å¹´ï¼ãï¼å¨åç¼å¢éãä¼åå¸å±ãå¤¯å®åºå±ãç¨³å®é¢æç­æ¹é¢åå¾é¶æ®µæ§ææã2026å¹´ä¸åå¹´ï¼å ¨å¸272å®¶å»è¯æºæç³è¯·å»ä¿å®ç¹ï¼åæ¯ä¸é55.70%ã185å®¶éè¿å®ç¹åå ¥è¯ä¼°ï¼åæ¯ä¸é24.49%ï¼æºææ åºæ©å¼ å¿å¤´å¾å°ææéå¶ãæªè³2026å¹´8æåºï¼å ¨å¸å®ç¹å»è¯æºææ»æ°ä¸º9129å®¶ï¼è¾2024å¹´åºä» å¢é¿0.30%ãä¸ãç§å­¦ç¼å¶",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/3/art_14_23288.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保定点管理，与支付政策相关",
+          "title_cn": "杭州市医保定点医药机构资源配置规划（2025—2027年）实施进展",
+          "one_liner": "杭州实施医保定点机构资源配置规划，2026年上半年定点申请量同比降55.70%，无序扩张得到遏制。",
+          "key_findings": [
+            "2026年上半年全市272家机构申请医保定点，同比下降55.70%；185家通过准入评估，同比下降24.49%。",
+            "截至2026年8月底，全市定点医药机构共9129家，较2024年底仅增长0.30%。",
+            "规划在减缓增量、优化布局、夯实基层、稳定预期等方面取得阶段性成效。"
+          ],
+          "why_it_matters": "医保定点准入收紧将影响基因检测、细胞治疗等创新诊疗服务的医院准入与支付路径，合成生物学产品商业化需关注定点机构布局变化。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:d0d2d8e6461dd15f",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§äºé¿æ¼ä¸­å¤®é¶è¡è¡é¿è¾åè¿å¾·Â·ç©è¨ç±³ãåæ¹å°±åè¾¹ç»æµéèåä½ç­è®®é¢äº¤æ¢äºæè§ãå¨ä¸¤å½å é¦è§è¯ä¸ãæ½åèè¡é¿åè¾åè¿å¾·è¡é¿ç­¾è®¢äºãäººæ°å¸/é¿æ¼éäºå°åè¾¹æ¬å¸äºæ¢åè®®ãåãå å¼ºæ°å­æ¯ä»åæ³å®æ°å­è´§å¸åä½çè° è§£å¤å¿å½ãããäººæ°å¸/é¿æ¼éäºå°åè¾¹æ¬å¸äºæ¢åè®®ãçäºæ¢è§æ¨¡ä¸º300äº¿å äººæ°å¸/15äº¿é¿æ¼éäºå°ãåè®®æææ5å¹´ãä¸è¿°åè®®çç­¾ç½²æå©äºæ·±åä¸¤å½è´§å¸éèåä½ãæåè·¨å¢æ°å­æ¯ä»ä¾¿å©åæ°´å¹³ãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110318093610834/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行与阿曼央行签署人民币/阿曼里亚尔双边本币互换协议及数字支付合作谅解备忘录",
+          "one_liner": "中阿央行签署300亿元人民币/15亿阿曼里亚尔本币互换协议，有效期5年，并达成数字支付与法定数字货币合作备忘录。",
+          "key_findings": [
+            "本币互换规模为300亿元人民币/15亿阿曼里亚尔，协议有效期5年。",
+            "双方同时签署加强数字支付和法定数字货币合作的谅解备忘录。",
+            "协议在两国元首见证下签署，旨在深化货币金融合作、提升跨境支付便利化。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，该协议本身不直接涉及生物技术监管；但跨境支付与法定数字货币合作可能影响未来国际科研采购、试剂进口结算及跨境资金流动效率，可作为宏观金融环境背景了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:fbd435c7cbf58c22",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "è¯å¸ãåºéãä¿é©å ¬å¸äºæ¢ä¾¿å©ï¼SFISFï¼æä½ç»æå ¬å[2026]ç¬¬1å·ãæ ¹æ®åä¸æºæéæ±æ åµãä¸­å½äººæ°é¶è¡äº2026å¹´11æ3æ¥å¼å±äºè¯å¸ãåºéãä¿é©å ¬å¸äºæ¢ä¾¿å©æä½ãæ¬æ¬¡æä½éé¢1000äº¿å ã31å®¶è¯å¸ãåºéå ¬å¸åä¸ææ ãä¸­æ è´¹çä¸º10bpãä¸­å½äººæ°é¶è¡å ¬å¼å¸åºä¸å¡æä½å®¤äºãäºå ­å¹´åä¸æä¸æ¥ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110313380716818/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "证券、基金、保险公司互换便利（SFISF）操作结果公告[2026]第1号",
+          "one_liner": "央行11月3日开展SFISF操作，金额1000亿元，中标费率10bp，31家机构参与投标。",
+          "key_findings": [
+            "操作金额1000亿元，31家证券、基金公司参与投标",
+            "中标费率10bp，央行公开市场业务操作室发布",
+            "2026年11月3日开展，面向证券、基金、保险公司"
+          ],
+          "why_it_matters": "该工具为金融机构提供流动性支持，间接影响生物医药一级市场融资环境与估值，但与合成生物学研发监管无直接关系。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:a2b56d05046f145d",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å³å®ä¸è°éèæºæå¤æ±å­æ¬¾åå¤éçãä¸ºå å¼ºéèæºæå¤æ±æµå¨æ§ç®¡çãä¸­å½äººæ°é¶è¡å³å®ãèª2026å¹´11æ15æ¥èµ·ãä¸è°éèæºæå¤æ±å­æ¬¾åå¤éç2ä¸ªç¾åç¹ãå³å¤æ±å­æ¬¾åå¤éçç±ç°è¡ç4%æé«å°6%ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110308254969050/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行上调金融机构外汇存款准备金率",
+          "one_liner": "央行自2026年11月15日起将外汇存款准备金率由4%上调至6%，以加强外汇流动性管理。",
+          "key_findings": [
+            "外汇存款准备金率上调2个百分点，由4%提高至6%",
+            "自2026年11月15日起生效",
+            "目的是加强金融机构外汇流动性管理"
+          ],
+          "why_it_matters": "该政策影响跨境资金流动与外汇融资成本，对依赖进口试剂、设备及海外合作的合成生物学团队的资金安排有间接影响。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:24694907e497e2c3",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+            "abstract": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+            "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "AI改变半导体晶圆厂，高度相关",
+          "title_cn": "AI 正在改变晶圆厂运作方式，工程师因此行动更快",
+          "one_liner": "英伟达指出，AI 正帮助晶圆厂工程师更快理解工艺变更、材料交互与缺陷根因。",
+          "key_findings": [
+            "先进芯片需求上升，制造流程更复杂，容错空间持续收窄。",
+            "工程师需快速判断工艺变更行为、材料与新步骤的相互作用。",
+            "缺陷回溯到根因是制造中的关键挑战，AI 被用于加速这一过程。"
+          ],
+          "why_it_matters": "合成生物学同样面对复杂工艺与缺陷归因，AI 辅助根因分析和工艺预测的思路可迁移到菌株构建与发酵优化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:a4a8ae975d2d01d7",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Agentic cheminformatics with Google Antigravity",
+            "abstract": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+            "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "AI化学信息学，合成生物学相关",
+          "title_cn": "Google Antigravity 实现智能体化化学信息学",
+          "one_liner": "Google DeepMind 展示 Antigravity 与化学信息学技能，加速药物发现并设计新型大环化合物。",
+          "key_findings": [
+            "Antigravity 智能体可自动执行化合物检索等药物发现工作流",
+            "系统能提出新型刚性化大环分子结构",
+            "以化学信息学技能模块形式集成，面向实际研发流程"
+          ],
+          "why_it_matters": "智能体直接介入分子设计与检索，可能改变合成生物学中化合物筛选与分子构建的研发范式，值得关注其可迁移性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2425dfb6183914ab",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+            "abstract": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+            "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "英伟达物理AI城市应用",
+          "title_cn": "全球城市借助 NVIDIA 物理 AI 与智能体 AI 构建并扩展城市服务",
+          "one_liner": "NVIDIA 称全球城市正用物理 AI 与智能体 AI 把摄像头、传感器数据转化为规划、维护与公共服务行动。",
+          "key_findings": [
+            "城市摄像头与传感器数据量大，但转化为规划、维护和公共服务行动仍是难点。",
+            "物理 AI 与智能体 AI 提供新路径：数字孪生用于基础设施规划，视觉与服务智能体用于城市服务。",
+            "方案强调在地方政府场景中落地，兼顾数据利用与本地治理需求。"
+          ],
+          "why_it_matters": "合成生物学研究者可关注数字孪生与智能体在生物制造设施、实验室自动化与城市生物经济中的数据闭环思路，判断是否可迁移到菌株设计或发酵监控。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:f98ffa6f91b408c7",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Accelerating engineering for the physical world",
+            "abstract": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+            "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "AI辅助工程工作流，相关但常规",
+          "title_cn": "ChatGPT 与 Codex 加速物理世界工程研发",
+          "one_liner": "OpenAI 称 ChatGPT 和 Codex 正帮助工程师加速 CAD、PCB 设计与仿真等工作流。",
+          "key_findings": [
+            "ChatGPT 与 Codex 被用于加速 CAD 和 PCB 设计流程",
+            "仿真等物理世界工程工作流也在被 AI 加速",
+            "面向硬件工程场景，而非纯软件编程"
+          ],
+          "why_it_matters": "合成生物学实验室常涉及硬件、微流控与自动化设备设计，AI 辅助 CAD、PCB 与仿真可缩短自建平台的迭代周期。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:64b539777c9b52d3",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Scaling Git at OpenAI",
+            "abstract": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+            "url": "https://openai.com/index/scaling-git-at-openai",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "工程基础设施，间接相关",
+          "title_cn": "OpenAI 构建 Pando：为 Codex 规模开发打造 Git 兼容后端",
+          "one_liner": "OpenAI 推出 Git 兼容后端 Pando，支撑 Codex 带来的超大规模开发。",
+          "key_findings": [
+            "Pando 是 Git 兼容后端，专为 Codex 带来的开发规模设计。",
+            "目标是在超大规模代码协作下保持 Git 兼容性。",
+            "由 OpenAI 工程团队构建并发布。"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖 AI 编码与大规模代码协作，了解 Pando 有助于评估团队代码基础设施能否支撑 AI 驱动的开发流程。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:c350bb8798160290",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Cisco defends at machine speed with OpenAI",
+            "abstract": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+            "url": "https://openai.com/index/cisco-cyber",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "企业安全案例，弱相关",
+          "title_cn": "思科借助 OpenAI 模型以机器速度构建企业安全防御",
+          "one_liner": "思科将网络智能与 OpenAI 模型结合，提升企业安全的自适应防御能力。",
+          "key_findings": [
+            "思科把网络智能与 OpenAI 模型结合，用于强化企业安全防御。",
+            "目标是构建更具自适应性的防御体系，以机器速度响应威胁。",
+            "该消息由 OpenAI News 发布，属企业安全应用案例。"
+          ],
+          "why_it_matters": "对合成生物学实验室而言，AI 驱动的网络安全方案可保护菌株、基因序列与自动化设备数据，降低研发数据泄露与勒索风险。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:f289bb509f6cf2e2",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Buttons are back and storage is king when it comes to car interiors",
+            "abstract": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+            "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 52,
+          "score_reason": "汽车内饰设计，弱相关",
+          "title_cn": "汽车内饰回归实体按键，储物空间成新焦点",
+          "one_liner": "日产设计师谈汽车内饰设计趋势：实体按键回归，储物空间更受重视。",
+          "key_findings": [
+            "汽车内饰设计正重新引入实体按键，取代部分触控操作",
+            "储物空间成为内饰设计的关键考量因素",
+            "日产设计师 Hiren Patel 分享了内饰设计变化的方向"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但可作为人机交互与产品设计趋势的参考，对实验室仪器界面设计有间接启发。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:8e75a62f19b34305",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Preparing our next security sprint to harden OpenAI",
+            "abstract": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+            "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-02",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "安全演练，常规信息",
+          "title_cn": "OpenAI 筹备下一轮安全冲刺，加固自身防御",
+          "one_liner": "OpenAI 将与 Cathedral Systems 开展内部安全冲刺，用 AI 测试并强化自身防御。",
+          "key_findings": [
+            "OpenAI 计划开展下一轮内部安全冲刺，合作方为 Cathedral Systems。",
+            "该冲刺以 AI 为手段，测试并强化 OpenAI 自身的安全防御。",
+            "信息来自 OpenAI 官方新闻，未披露时间表与技术细节。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，AI 安全防御的进展会影响生物设计工具与数据平台的可信度，值得关注其后续技术细节。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:fc23f4362e0e2592",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Google will let schools skip AI tools, but they have to give up search, too",
+            "abstract": "Google will offer schools AI tools that purportedly don't give away the answers.",
+            "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 48,
+          "score_reason": "教育AI政策，弱相关",
+          "title_cn": "Google 要求学校二选一：用 AI 工具，还是保留搜索",
+          "one_liner": "Google 向学校提供不直接给答案的 AI 工具，但学校须放弃搜索功能。",
+          "key_findings": [
+            "Google 推出面向学校的 AI 工具，声称不会直接给出答案。",
+            "学校若选择跳过 AI 工具，则须同时放弃 Google 搜索。",
+            "该方案将 AI 工具与搜索服务捆绑，形成二选一。"
+          ],
+          "why_it_matters": "与合成生物学研究无直接关联，但反映 AI 教育工具的产品化与平台捆绑策略，可作行业动态参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:250b236eb5899531",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Heimstaden is changing residential real estate management with AI",
+            "abstract": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+            "url": "https://openai.com/index/heimstaden",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "房产管理应用，弱相关",
+          "title_cn": "Heimstaden 借助 AI 变革住宅物业管理",
+          "one_liner": "Heimstaden 用 OpenAI 的 ChatGPT Enterprise 与 Codex 改造欧洲物业管理、降本增效。",
+          "key_findings": [
+            "Heimstaden 采用 ChatGPT Enterprise 与 Codex 改造物业管理流程",
+            "目标是降低运营成本，并赋能欧洲各地员工",
+            "案例来自 OpenAI News，属企业级 AI 落地实践"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，这是企业级 AI 工具落地运营的参考案例，可借鉴其用 ChatGPT Enterprise 与 Codex 提效降本、赋能团队的做法。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
