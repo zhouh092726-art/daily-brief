@@ -1,0 +1,1019 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:29:41.024062+08:00",
+  "fetched_ids": [
+    "pubmed:42971508",
+    "pubmed:42967754",
+    "pubmed:42975940",
+    "pubmed:42975929",
+    "pubmed:42981110",
+    "pubmed:42981011",
+    "pubmed:42980835",
+    "pubmed:42980452",
+    "pubmed:42980419",
+    "pubmed:42980409",
+    "pubmed:42980390",
+    "pubmed:42980163",
+    "pubmed:42978541",
+    "pubmed:42978405",
+    "pubmed:42980964",
+    "pubmed:42979841",
+    "pubmed:42977800",
+    "pubmed:42977750",
+    "pubmed:42977118",
+    "pubmed:42976864",
+    "pubmed:42975864",
+    "pubmed:42975769",
+    "pubmed:42975659",
+    "pubmed:42975309",
+    "pubmed:42975141",
+    "pubmed:42974969",
+    "pubmed:42974710",
+    "pubmed:42976641",
+    "pubmed:42972613",
+    "pubmed:42972103",
+    "pubmed:42971525",
+    "pubmed:42971416",
+    "pubmed:42971394",
+    "pubmed:42971384",
+    "pubmed:42971274",
+    "pubmed:42971258",
+    "pubmed:42970489",
+    "pubmed:42970438",
+    "pubmed:42969355",
+    "pubmed:42969232",
+    "pubmed:42979102",
+    "pubmed:42978385",
+    "pubmed:42975241",
+    "pubmed:42968757",
+    "pubmed:42967826",
+    "pubmed:42967547",
+    "pubmed:42967269",
+    "pubmed:42967025",
+    "pubmed:42979157",
+    "pubmed:42976534",
+    "pubmed:42974087",
+    "pubmed:42971025",
+    "pubmed:42973795",
+    "pubmed:42967126",
+    "pubmed:42971007",
+    "pubmed:42967090",
+    "pubmed:42973349",
+    "pubmed:42980008",
+    "pubmed:42978922",
+    "pubmed:42978642",
+    "pubmed:42974302",
+    "pubmed:42973330",
+    "pubmed:42973934",
+    "pubmed:42980022",
+    "pubmed:42973979",
+    "pubmed:42972587",
+    "pubmed:42972386",
+    "pubmed:42972221",
+    "pubmed:42968091",
+    "pubmed:42972439",
+    "pubmed:42972600",
+    "pubmed:42969309",
+    "rss:78283695a8b36114",
+    "rss:a92fbe524784ea8c",
+    "rss:4aadfa816d166d20",
+    "rss:e37b5a7ebb306ce8",
+    "rss:bc61a3cb3b9215d4",
+    "rss:20094fe26c20162a",
+    "rss:90af3ad3723e9fa3",
+    "rss:a7fef857114c0851",
+    "rss:575e111f3786378b",
+    "rss:1fc678e0acaa5a69",
+    "rss:3f983510239a84e3",
+    "rss:56cbfc699dc1f997",
+    "rss:5ce4ae66ea721cc8",
+    "rss:85ced8b75e4d9c08",
+    "rss:bb4b1ee496869b7f",
+    "rss:e3053dc01629bd43",
+    "rss:68de7a3c1ba8344c",
+    "rss:086d8ade4cbafee6",
+    "rss:79a65cd23f969087",
+    "rss:447e43c4343df7f7",
+    "rss:8bebb95507352683",
+    "rss:de3e32a1c87e8ab1",
+    "rss:e1431caa60c34f8d",
+    "rss:a4d5241d93fab31e",
+    "rss:ea63c31b8cc58c06",
+    "rss:e89f2bdb86a663ac",
+    "rss:3c22f84fbf2536b1",
+    "rss:a3fbeb9723fa8f19",
+    "rss:ed6e18bbb28528e4",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "pbc:3e73be0656279aed",
+    "pbc:2baaeb98ca6de8e9",
+    "pbc:1593bd6471fe93d7",
+    "pbc:cfaea3f7f43887dc",
+    "nhsa:6fec0c56de8ac960",
+    "nhsa:855e9a644c69570e",
+    "nhsa:8aaf8046cb12c25c",
+    "nhsa:5f332bf4cba57339",
+    "nhsa:63644759a64c08b9",
+    "nhsa:ef30561397dfaaad",
+    "nhsa:bc7e06e9e6433075",
+    "nhsa:2de85f07ffc47429",
+    "nhsa:3ee4efd10e65051e",
+    "nhsa:0d484c6800ee63c5",
+    "rss:8ccb12fff18af596",
+    "rss:b9febe6c65ab0c74",
+    "rss:30ad2e480e6f94c3",
+    "rss:47bc864ef0d25079",
+    "rss:f98ffa6f91b408c7",
+    "rss:c350bb8798160290",
+    "rss:250b236eb5899531",
+    "rss:158693e545d71cb5",
+    "rss:64b539777c9b52d3",
+    "rss:c155a34806a10bfa",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:fa170ce8a5ccc7bd",
+    "rss:24694907e497e2c3",
+    "rss:2425dfb6183914ab",
+    "rss:dfa28fccde924d6d",
+    "rss:e6f638debfa6c5cd",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:d05be7d3fa9f0aa9",
+    "rss:1c86e9ba5b1d3cc9",
+    "rss:60024c90622f7eb3",
+    "rss:51462f7e3cc57c6b",
+    "rss:24e560ad31910656",
+    "rss:2209c7e8e02a0915",
+    "rss:531adeae60eca9bf",
+    "rss:c3696f86bfc50e5c",
+    "rss:e5995bcf9200dce7",
+    "rss:f289bb509f6cf2e2",
+    "rss:fc23f4362e0e2592",
+    "rss:a617ef7c21b9b56a",
+    "rss:c6f9c0c2c51e3706",
+    "rss:0ad806eff95c96cd",
+    "rss:75ac1a268ba2e828"
+  ],
+  "stats": {
+    "fetched": 177,
+    "new_items": 51,
+    "kept": 31,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42976864",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "The chromatin context differently impacts prime editors and base editors and controls the fidelity and purity of base editing.",
+            "abstract": "Base editors and prime editors allow changing specific genomic sequences without chromosomal breakage. However, the role of the chromatin environment and its underlying factors on the efficiency, product fidelity, and purity of prime editing versus base editing is unknown. Here, using human cellular systems that monitor the efficiency and fidelity of gene-editing tools at isogenic target sites controlled by specific epigenetic remodeling factors, we report that heterochromatin impinged by the Krüppel-associated box (KRAB)/KRAB-associated protein 1 (KAP-1)/heterochromatin protein-1 (HP-1) axis alone (non-heritable), or in concert with the DNA methyltransferases DNMT3A and DNMT3L (heritable), mostly hinders prime editors over base editors with the extended portions of prime-editing guide RNAs contributing to this outcome. Indeed, base editors are frequently unhindered or, strikingly, more active at heterochromatin than at euchromatin, an outcome observed neither for prime editors nor nucleases. Critically, the extent and types of byproducts accumulated upon base editing is also contingent upon the epigenetic context of target sequences.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42976864/",
+            "journal": "Molecular cell",
+            "authors": "Wang, Zittersteijn, Wang, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1016/j.molcel.2026.10.012"
+          },
+          "score": 85,
+          "score_reason": "染色质对先导编辑与碱基编辑影响，重要",
+          "title_cn": "染色质环境对先导编辑与碱基编辑的差异影响及其对碱基编辑保真度和纯度的调控",
+          "one_liner": "异染色质主要阻碍先导编辑而非碱基编辑，且碱基编辑副产物的类型与程度取决于表观遗传环境。",
+          "key_findings": [
+            "KRAB/KAP-1/HP-1轴介导的异染色质（非遗传性）及联合DNMT3A/3L（遗传性）主要抑制先导编辑，对碱基编辑影响较小。",
+            "碱基编辑在异染色质处常不受阻甚至活性更高，此现象未见于先导编辑或核酸酶。",
+            "碱基编辑副产物的程度与类型同样取决于靶序列的表观遗传环境。"
+          ],
+          "why_it_matters": "为合成生物学中编辑工具选型与脱靶/副产物控制提供染色质层面依据，提示需按靶位点表观状态评估碱基编辑纯度。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980409",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "FASTOP─Fast Editing Toolkit for Top Expression Sites in Yeast.",
+            "abstract": "Budding yeast Saccharomyces cerevisiae is a widely used chassis for producing food- and agriculture-related compounds, but construction of multienzyme pathways often requires repeated genomic integration. We developed FASTOP, a genome-editing toolkit for rapid engineering of eight transcriptionally active genomic hot-spot loci. FASTOP combines selectable markers, extended homology arms, and Cas9/gRNA-assisted integration, and enables PCR-free release of donor cassettes by restriction digestion to reduce sequence errors introduced during amplification. After characterizing the sites, we integrated a five-gene naringenin biosynthetic pathway into the hot spots as a proof of concept. Our results demonstrated that, upon expressing the five essential genes in simple shake-flask culture, naringenin production reached 505.7 mg/L, 6-fold higher than an episomal control expressing the same pathway genes and 4.5-fold higher than the previously reported strain using additional precursor engineering and controlled bioreactor cultivation. FASTOP therefore provides a practical platform for the rapid assembly of multienzyme pathways in yeast for stable heterologous gene expression.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980409/",
+            "journal": "Journal of agricultural and food chemistry",
+            "authors": "Borah, Gautron, Courdavault, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1021/acs.jafc.6c06735"
+          },
+          "score": 78,
+          "score_reason": "酵母基因组编辑工具包，合成生物学实用",
+          "title_cn": "FASTOP：酵母高表达位点快速编辑工具包",
+          "one_liner": "FASTOP 可快速将多基因通路整合到酵母 8 个高转录活性位点，纳林根素产量达 505.7 mg/L。",
+          "key_findings": [
+            "整合 8 个高转录活性基因组热点位点，结合筛选标记、延长同源臂与 Cas9/gRNA 辅助整合。",
+            "通过限制酶切释放供体盒，免 PCR 扩增，减少序列错误。",
+            "五基因纳林根素通路整合后摇瓶产量 505.7 mg/L，较游离质粒对照高 6 倍。"
+          ],
+          "why_it_matters": "为酵母多酶通路稳定整合提供即用型位点与免 PCR 流程，适合合成生物学底盘改造与天然产物生产，可评估用于深圳相关研发。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42977118",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Advancing Terpenoid Biosynthesis in Saccharomyces cerevisiae: Synthetic Biology Approaches for Efficient Longifolene Production.",
+            "abstract": "The sustainable microbial production of high-value terpenoids like longifolene represents a critical frontier in green manufacturing, yet it is often hindered by systemic metabolic inefficiencies in microbial hosts. To address this, we present a comprehensive systems metabolic engineering framework in Saccharomyces cerevisiae that integrates three complementary modules to overcome the key bottlenecks of enzyme catalysis, cofactor supply, and precursor availability. First, we enhanced the catalytic module by employing the RII dimerization/docking domain-RI anchoring disruptor (RIDD-RIAD) peptide-mediated enzyme assembly and structure-guided Pinus sylvestris longifolene synthase (psTPS) variant screening, `which improved whole-cell longifolene production under the tested conditions. Second, to resolve nicotinamide adenine dinucleotide phosphate (NADPH) cofactor imbalance, we engineered a dual-regeneration system by introducing an exogenous formate dehydrogenase (FDH) and simultaneously amplifying endogenous pentose phosphate pathway (PPP) flux. Third, we reprogrammed central carbon metabolism by integrating the non-oxidative glycolysis (NOG) pathway and deleting the transcriptional repressors DOS2 and YNR063W, and was associated with a larger steady-state cytosolic acetyl-CoA pool, the essential terpenoid precursor. This multi-pronged strategy culminated in a highly optimized strain that achieved a titer of 92.84 mg/L in shake-flask cultures. Critically, the process was successfully scaled to a 5 L bioreactor under fed-batch conditions, yielding 4181.51 mg/L total longifolene at 204 h (3484.79 mg/L extracellular and 696.72 mg/L cell-associated), the highest total titer among the microbial reports identified in Supplementary Table S4. Differences in product recovery and cultivation protocols limit direct process comparisons. Our work demonstrates that coordinated optimization of enzyme assembly, cofactor regeneration, and carbon-flow reprogramming can substantially improve longifolene biosynthesis in S. cerevisiae. This study provides a longifolene-focused case study for modular pathway optimization, while broader application of this strategy to other terpenoids or natural products will require further pathway-specific validation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42977118/",
+            "journal": "Metabolic engineering",
+            "authors": "Zhang, Xin, Li, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1016/j.ymben.2026.102577"
+          },
+          "score": 72,
+          "score_reason": "酵母萜类合成代谢工程，系统策略",
+          "title_cn": "酿酒酵母中萜类生物合成的推进：高效生产长叶烯的合成生物学方法",
+          "one_liner": "整合酶组装、辅因子再生与碳流重编程，使酵母长叶烯产量达4181.51 mg/L。",
+          "key_findings": [
+            "用RIDD-RIAD肽介导酶组装并筛选psTPS变体，提升全细胞催化效率。",
+            "引入外源FDH并增强内源PPP通量，构建NADPH双再生系统。",
+            "整合NOG通路并敲除DOS2、YNR063W，扩大胞质乙酰辅酶A池。"
+          ],
+          "why_it_matters": "该工作展示模块化系统代谢工程在酵母萜类生产中的可复制路径，5 L罐放大数据对深圳合成生物学产业化有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42977750",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Ca2+ signature gates responsiveness to exogenous auxin in Arabidopsis roots.",
+            "abstract": "Plants must continually balance growth with arrest, especially under stress. Auxin signaling acts as a central regulatory hub in this process, yet the mechanisms that dynamically tune auxin signaling in real time remain unknown. Here, we use the light-gated, Ca2+-permeable Channelrhodopsin 2 variant XXM2.0 to optogenetically impose defined Ca2+ signatures on Arabidopsis root cells. Repetitive light activation triggers cytosolic Ca2+ signals that in turn suppress membrane depolarization and Ca2+ transients triggered by exogenous auxin. Moreover, prolonged optogenetic Ca2+ stimulation affects auxin-responsive transcriptional reprogramming. As phenotypic output, reversible inhibition of root growth by suppressing cell division and elongation is observed. We further identify a candidate CaM7-CNGC14 module that likely mediates Ca2+-dependent gating of responsiveness to exogenous auxin as well as Ca2+-dependent root growth inhibition. Our study thus introduces a synthetic biology approach to decompose calcium-auxin crosstalk in plant cells, and demonstrates that optogenetically imposed cytosolic Ca2+ signals act as dynamic regulators of auxin susceptibility in roots.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42977750/",
+            "journal": "Nature communications",
+            "authors": "Song, Baudon, Freund, et al.",
+            "published": "2026-11-03",
+            "doi": "10.1038/s41467-026-78361-8"
+          },
+          "score": 70,
+          "score_reason": "光遗传学操控钙信号，合成生物学方法",
+          "title_cn": "Ca2+ 信号特征门控拟南芥根对外源生长素的响应",
+          "one_liner": "光遗传学施加的胞质Ca2+信号可动态抑制拟南芥根对外源生长素的响应并抑制根生长。",
+          "key_findings": [
+            "用光门控Ca2+通道XXM2.0在根细胞施加可控Ca2+信号，抑制生长素引发的膜去极化和Ca2+瞬变",
+            "持续光遗传Ca2+刺激改变生长素响应转录重编程，可逆抑制细胞分裂与伸长致根生长受阻",
+            "鉴定候选CaM7-CNGC14模块介导Ca2+依赖的生长素响应门控与根生长抑制"
+          ],
+          "why_it_matters": "该工作用光遗传学合成生物学手段解耦钙-生长素互作，为植物信号通路正交控制提供范式，对做植物底盘与光控基因回路的合成生物学研究者有方法学参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980452",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering an α-Amino-ε-Caprolactam Racemase for Efficient d-Phenylalanine Synthesis Using a Coupled Colorimetric Screening Method.",
+            "abstract": "α-Amino-ε-caprolactam racemase (AoACLR) is a key biocatalyst for the synthesis of optically pure d-amino acids, yet its application is constrained by poor activity toward bulky aromatic substrates and limited thermostability. Here, we developed a coupled colorimetric high-throughput screening method and applied directed evolution, structure-guided engineering, and in silico screening to engineer AoACLR. Through combinatorial mutagenesis, we obtained M7 (N17D/L21V/L80T/S211G), which exhibited improved activity, soluble expression, and thermostability. Using l-phenylalaninamide as the substrate, the purified M7 exhibited approximately 1.89-fold higher specific activity toward l-phenylalaninamide than the previously reported L19V/L78T variant, together with 1.63-fold higher residual activity. In a coupled cascade biocatalytic system, M7 produced 14.61 g·L-1d-phenylalanine with 97.78% enantiomeric excess, corresponding to a 2.46-fold increase in d-phenylalanine production. Molecular docking and dynamics simulations suggested that M7 remodeled the substrate access pathway and strengthened the active-site interaction network. This work provides an improved AoACLR variant for efficient d-phenylalanine synthesis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980452/",
+            "journal": "Journal of agricultural and food chemistry",
+            "authors": "Gao, Yue, Li, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1021/acs.jafc.6c12724"
+          },
+          "score": 68,
+          "score_reason": "定向进化酶工程，方法学有参考价值",
+          "title_cn": "工程化改造α-氨基-ε-己内酰胺消旋酶，结合比色筛选实现高效d-苯丙氨酸合成",
+          "one_liner": "定向进化获得AoACLR突变体M7，d-苯丙氨酸产量提升2.46倍，ee达97.78%。",
+          "key_findings": [
+            "建立偶联比色高通量筛选法，结合定向进化与结构引导改造AoACLR。",
+            "最优突变体M7（N17D/L21V/L80T/S211G）比活提高1.89倍，热稳定性提升1.63倍。",
+            "级联催化产14.61 g/L d-苯丙氨酸，ee 97.78%，产量提高2.46倍。"
+          ],
+          "why_it_matters": "为手性d-氨基酸的酶法合成提供高效突变体与筛选工具，对合成生物学中非天然氨基酸和手性药物中间体生产有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980390",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Synergistic Pairwise Residues Identification for Efficient Evolution of Candida antarctica Lipase B for Synthesis of γ- and δ-Lactones.",
+            "abstract": "The lipase enzyme shows great potential for catalyzing the synthesis of valuable food flavor compounds, such as γ- and δ-lactones, but natural lipases are limited by low conversion rates. In this study, we developed a computational-guided strategy named Synergistic Pairwise Residues Evolution for the efficient directed evolution of Candida antarctica lipase B (CalB). This approach identifies synergistic hotspot residues by combining substrate-contact information with evolutionarily coupled functional sectors. E188Q/I189F, the top-performing mutant with 2.75-fold improved activity, achieved over 99.5% conversion within 5 h at 37 °C, compared with only 49% for wild-type CalB in the synthesis of δ-dodecalactone. This study presents an efficient strategy for building functional enzyme toolkits and demonstrates their high catalytic performance in lactone synthesis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980390/",
+            "journal": "Journal of agricultural and food chemistry",
+            "authors": "Zhang, Tang, Zhao, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1021/acs.jafc.6c02612"
+          },
+          "score": 65,
+          "score_reason": "计算引导定向进化，酶工程方法",
+          "title_cn": "协同成对残基识别策略助力南极假丝酵母脂肪酶B高效进化合成γ-与δ-内酯",
+          "one_liner": "计算指导的协同成对残基进化策略改造CalB，最优突变体活性提升2.75倍，5小时转化率超99.5%。",
+          "key_findings": [
+            "提出Synergistic Pairwise Residues Evolution策略，结合底物接触信息与进化耦合功能模块识别协同热点残基。",
+            "最优突变体E188Q/I189F活性提升2.75倍，37°C下5小时δ-十二内酯转化率超99.5%，野生型仅49%。",
+            "该策略为构建功能酶工具箱提供高效定向进化方法。"
+          ],
+          "why_it_matters": "对做酶工程与定向进化的合成生物学研究者有直接参考价值：协同残基识别可减少筛选负担，内酯类风味化合物合成也具产业应用潜力。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42981011",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Resurrecting Robust CYP152 Peroxygenases for Versatile Biocatalysis.",
+            "abstract": "Cytochrome P450 CYP152s are attractive biocatalysts which catalyze decarboxylation and hydroxylation of fatty acids using H2O2 as a co-substrate (peroxygenase activity). Contemporary CYP152s have limited stability and substrate scope. Here we characterized eight reconstructed variants of CYP152 obtained using ancestral sequence reconstruction (ASR). The results showed that variants remote from Jeotgalicoccus sp. 8456 (CYP152L1) in the tree used for the ASR tended to catalyze hydroxylation, while nodes closer to CYP152L1 favored decarboxylation; this transition correlates with Q85H substitution and FG-loop insertion alongside other structural features. Three reconstructed variants exhibit high Tm (66°C-76°C), tolerance to solvents, H2O2, extreme pH, and use non-native substrates. CYP152-AncG2 can catalyze one-pot chemoenzymatic C─C bond coupling reactions to synthesize methoxy stilbene and can serve as a template for directed evolution. X-ray structure at 1.83 Å and molecular dynamics (MD) simulations indicate that loop structures, surface salt bridges, and optimized access tunnels in CYP152-AncG2 are key for enabling its superior features. These findings provide insights into the structural and evolutionary features of robust peroxygenase templates for expanding peroxygenase biocatalysis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42981011/",
+            "journal": "Angewandte Chemie (International ed. in English)",
+            "authors": "Phaisan, Trisrivirat, Lawan, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1002/anie.4076828"
+          },
+          "score": 62,
+          "score_reason": "祖先序列重构酶工程，定向进化相关",
+          "title_cn": "祖先序列重建复活稳健的 CYP152 过加氧酶用于多功能生物催化",
+          "one_liner": "祖先序列重建获得热稳定、耐溶剂与 H2O2 的 CYP152 过加氧酶，可催化非天然底物及一锅 C─C 偶联。",
+          "key_findings": [
+            "重建 8 个 CYP152 祖先变体，远离 CYP152L1 的节点偏羟化，近者偏脱羧，与 Q85H 及 FG-loop 插入相关。",
+            "3 个变体 Tm 达 66–76°C，耐受溶剂、H2O2 与极端 pH，并利用非天然底物。",
+            "CYP152-AncG2 可一锅化学酶法合成甲氧基二苯乙烯，1.83 Å 结构与 MD 揭示 loop、盐桥与通道优化。"
+          ],
+          "why_it_matters": "为合成生物学提供高稳定过加氧酶模板，可拓展脂肪酸羟化/脱羧及 C─C 偶联的酶催化路线，并适合定向进化改造。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42978922",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Bone morphogenetic protein 4 meets artificial intelligence: a comprehensive review of AI-driven advances in drug discovery, structural modeling, and clinical translation.",
+            "abstract": "BACKGROUND: Bone Morphogenetic Protein 4 (BMP4), a member of the transforming growth factor-beta (TGF-β) superfamily, plays pivotal roles in embryonic development, tissue homeostasis, and disease pathogenesis-including cancer, fibrosis, and fibrodysplasia ossificans progressiva (FOP). The rapid advancement of artificial intelligence (AI) and machine learning (ML) methodologies over the past 5 years has created unprecedented opportunities for understanding and therapeutically targeting BMP4 biology at multiple scales, from atomic-resolution structure prediction to population-level clinical prognostication.\nOBJECTIVE: This review systematically examines the intersection of BMP4 biology and AI across three core domains: (1) AI-driven drug discovery targeting BMP4 signaling pathways, (2) deep learning-based protein structure prediction and computational modeling of BMP4 and its receptor complexes, and (3) clinical AI applications for BMP4-associated diseases.\nMETHODS: A narrative review with systematic search elements was conducted across PubMed, Scopus, Web of Science, bioRxiv, and arXiv for English-language publications from 2020 to 2026, supplemented by targeted searches via Semantic Scholar. Included studies were categorized as BMP4-specific, BMP receptor/BMP-pathway-targeted, or transferable AI methodology not yet applied to BMP4.\nRESULTS: We find that AI has accelerated BMP4-related research along multiple axes, though with important caveats. AlphaFold3 and related tools have generated high-confidence predicted models of BMP4-receptor complex architecture, aspects of which were previously intractable to experimental structure determination; these predictions remain to be fully validated experimentally. ML-guided virtual screening has identified first-in-class BMP pathway (receptor) modulators for FOP, although BMP4-specific small-molecule modulators have not yet been identified computationally. Single-cell transcriptomics combined with machine learning have revealed BMP4's context-dependent roles in glioblastoma cell state transitions and cancer-associated fibroblast biology; and LASSO-Cox regression models incorporating BMP4 expression have shown promising prognostic value in pancreatic adenocarcinoma and gastric cancer, pending prospective validation. Significant gaps persist-most notably the absence of BMP4-specific de novo protein design efforts, the scarcity of large-scale training datasets for BMP4-targeted drug discovery, and the limited integration of multimodal AI approaches in BMP4 clinical research.\nCONCLUSION: The convergence of BMP4 biology and AI represents a fertile research Frontier. While foundational tools are now in place, realizing the full translational potential of AI-augmented BMP4 research will require coordinated efforts in data generation, model development, and rigorous experimental and clinical validation. We outline priority directions for the next 5 years (approximately 2026-2031).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42978922/",
+            "journal": "Frontiers in molecular biosciences",
+            "authors": "Sun, Huo, Ye, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fmolb.2026.1930582"
+          },
+          "score": 62,
+          "score_reason": "AI蛋白结构建模，与AlphaFold方向相关",
+          "title_cn": "BMP4 遇上人工智能：AI 驱动药物发现、结构建模与临床转化的综合综述",
+          "one_liner": "综述指出 AI 已加速 BMP4 通路药物发现、结构预测与临床预后研究，但尚缺 BMP4 特异性分子与实验验证。",
+          "key_findings": [
+            "AlphaFold3 等工具高置信预测 BMP4-受体复合物结构，但尚待实验验证。",
+            "ML 虚拟筛选已发现 FOP 的 BMP 通路受体调节剂，尚无 BMP4 特异性小分子。",
+            "单细胞转录组+ML 揭示 BMP4 在胶质母细胞瘤与 CAF 中的情境依赖作用。"
+          ],
+          "why_it_matters": "为 BMP4 靶向药与结构建模提供 AI 方法全景，指出数据与验证缺口，可指导合成生物学改造 BMP 信号与药物筛选选题。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42978385",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Genetic Engineering Efforts to Generate Chlamydomonas Strains for Large-Scale Biomolecule Production.",
+            "abstract": "Chlamydomonas reinhardtii is an established model microalga. Its easy manipulation, metabolic flexibility and tractable genomes allowed researchers to investigate fundamental processes such as photosynthesis using genetic studies for decades. Chlamydomonas is not naturally rich in lipids or pigments compared to industrially relevant microalgae. However, we highlight how its biotechnological potential relies on advanced genetic and metabolic engineering strategies, now possible due to the availability of extensive toolbox and synthetic biology platforms, which can improve industrial traits and allow to produce a variety of biomolecules of biotechnological interest. We provide examples of biomolecule production (terpenoids and recombinant proteins), and show that productivities (mg/L) are in the same range or could even be higher than those reached in other photosynthetic chassis (e.g., cyanobacteria or mosses). We point out that despite these achievements, the industrial implementation of C. reinhardtii is still lacking. Further technological advancements as well as clear international regulations and social acceptance are fundamental to reach the full potential of this microalga.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42978385/",
+            "journal": "Microbial biotechnology",
+            "authors": "Inturri, Rouhier, Remacle",
+            "published": "2026-11-01",
+            "doi": "10.1111/1751-7915.70466"
+          },
+          "score": 60,
+          "score_reason": "衣藻基因工程综述，合成生物学相关",
+          "title_cn": "通过基因工程改造莱茵衣藻以实现大规模生物分子生产",
+          "one_liner": "综述指出，借助合成生物学工具，莱茵衣藻生产萜类和重组蛋白的产量已与其他光合底盘相当甚至更高。",
+          "key_findings": [
+            "莱茵衣藻的合成生物学工具箱已较为完善，可进行代谢工程改造，以提升工业性状。",
+            "萜类和重组蛋白的产量（mg/L）与蓝细菌、苔藓等光合底盘处于同一量级，甚至更高。",
+            "该藻的产业化仍受限于技术成熟度、国际法规和社会接受度。"
+          ],
+          "why_it_matters": "对光合底盘和合成生物学研究者而言，该综述梳理了莱茵衣藻作为生物分子生产平台的产量基准与工程化瓶颈，有助于判断其产业化潜力。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980163",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Directed evolution and characterisation of light harvesting complexes with altered spectral properties in purple non-sulfur bacteria.",
+            "abstract": "Purple non-sulfur bacteria (PNSB) are metabolically versatile microorganisms that inhabit diverse environments taking advantage of a remarkably efficient photosynthetic machinery. In this work, we describe the creation of a workflow for experimental studies aiming to compare the light absorption properties of structural variants of the light-harvesting complex 2 (LH2) of PNSB. Through the creation of a library of LH2 variants using site-directed mutagenesis, we engineered proteins with different spectral properties to be expressed in a LH2-defficient mutant of the model PNSB Rhodobacter sphaeroides. We validated this approach by reproducing a previously described mutant with a blue-shift in the B850 absorption peak, in addition to identifying a novel mutant exhibiting a red-shift of this peak. We characterised the fluorescence lifetime of the purified LH2 spectral variants in vitro. Our results suggest that directed evolution approaches can be used to systematically explore the landscape of light absorption in LH2s variants.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980163/",
+            "journal": "FEMS microbiology letters",
+            "authors": "Nery, Cardona, Avignone-Rossa, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1093/femsle/fnag138"
+          },
+          "score": 55,
+          "score_reason": "定向进化光捕获复合体，常规研究",
+          "title_cn": "紫色非硫细菌捕光复合体光谱特性改造的定向进化与表征",
+          "one_liner": "通过定点突变构建LH2变体库，获得B850吸收峰红移的新突变体并表征其荧光寿命。",
+          "key_findings": [
+            "用定点突变构建LH2变体库，在LH2缺陷型R. sphaeroides中表达筛选。",
+            "重现已知B850蓝移突变体，并发现一个B850红移的新突变体。",
+            "体外测定纯化变体的荧光寿命，支持定向进化系统探索LH2吸收光谱。"
+          ],
+          "why_it_matters": "为光合捕光蛋白光谱工程提供可复用工作流，对合成生物学改造光能捕获与光遗传学元件有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42976534",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Characterization of a salt-responsive promoter from the moss Physcomitrium patens.",
+            "abstract": "Engineering stress-responsive gene regulation is critical for developing abiotic stress-tolerant plants. Two native Physcomitrium patens promoters was characterized under osmotic and salt stress, identifying Pp3c20_8210 as a salt-inducible promoter in P. patens that could hold a potential in future synthetic biology applications. We also investigated salt-responsive elements in the native promoters of Physcomitrium patens with long-term monitoring of protein expression under high osmotic and saline stress conditions. To evaluate the role of cis-regulatory elements in salt-inducible gene expression, we analyzed shorter engineered versions of Pp3c20_8210, which displayed continuous salt-responsive expression, even after the targeted deletion of key transcription factor binding sites for Homeodomain, MYB, GATA, and Dof transcription factors. Deletion of Homeodomain and GATA transcription factor binding sites reduced Venus reporter expression, suggesting that they are possibly the primary drivers of the Pp3c20_8210 promoter activity in P. patens. No statistically significant effect on promoter responsiveness was detected following the deletion of MYB and Dof transcription factor binding sites under our experimental conditions, possibly due to compensatory mechanisms from other regulatory elements. These findings lay the foundation for future dissection of salt-responsive promoter architecture and can provide valuable tools for synthetic gene regulation in plants.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42976534/",
+            "journal": "Plant physiology and biochemistry : PPB",
+            "authors": "Ríos, Horn, Workman, et al.",
+            "published": "2026-10-29",
+            "doi": "10.1016/j.plaphy.2026.111908"
+          },
+          "score": 55,
+          "score_reason": "植物合成启动子，相关但非核心",
+          "title_cn": "小立碗藓盐响应型启动子的表征",
+          "one_liner": "在小立碗藓中鉴定出盐诱导型启动子Pp3c20_8210，并解析其顺式调控元件。",
+          "key_findings": [
+            "在渗透与盐胁迫下表征两个原生启动子，Pp3c20_8210表现为盐诱导型。",
+            "删除Homeodomain与GATA结合位点降低Venus表达，可能是启动子活性主驱动。",
+            "删除MYB与Dof位点无显著影响，或存在补偿机制。"
+          ],
+          "why_it_matters": "为植物合成生物学提供可用的盐诱导调控元件，并奠定解析启动子架构的基础，对设计抗逆基因回路有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42978642",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Biologically induced spontaneous alginate gelation mediated by extracellular products of Lactiplantibacillus plantarum.",
+            "abstract": "INTRODUCTION: Biological regulation of polysaccharide assembly represents an emerging concept in biofabrication. However, spontaneous gelation of natural polymers driven by bacterial extracellular metabolism remains largely unexplored. This study aimed to characterize a previously unrecognized alginate gelation phenomenon induced by Lactiplantibacillus plantarum without the intentional addition of conventional crosslinking agents.\nMETHODS: The effects of alginate concentration, bacterial cultivation time, and incubation temperature on gel formation were systematically investigated. The contributions of bacterial cells and cell-free supernatants were evaluated to identify the active fraction responsible for gelation. The role of acidification was examined using defined organic and inorganic acids, and the resulting gel microstructures, secondary Ca2+ crosslinking capability, processability, and bacterial viability during refrigerated storage were assessed.\nRESULTS: Reproducible gelation was achieved using 1% (w/v) sodium alginate following 24 h of bacterial cultivation and subsequent incubation at 4 °C. Gel formation depended on bacterial growth, alginate concentration, and low-temperature treatment. Cell-free supernatants retained gelation activity, whereas bacterial cells alone failed to induce gel formation, indicating that extracellular bacterial products mediated the process. Although acidification alone was sufficient to initiate visible gelation, gels formed using defined acids exhibited microstructures distinct from those induced by bacterial extracellular products. Furthermore, the resulting gels remained processable, supported secondary Ca2+ crosslinking, and maintained high bacterial viability during refrigerated storage.\nDISCUSSION: These findings demonstrate that extracellular products of L. plantarum can induce alginate gelation under mild conditions without intentionally added conventional crosslinkers. The distinct gel microstructures suggest that bacterial extracellular metabolism may influence gel architecture beyond acidification alone. This biologically induced gelation process provides a foundation for developing bacteria-directed biofabrication strategies, living biomaterials, and biologically engineered hydrogel systems.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42978642/",
+            "journal": "Frontiers in bioengineering and biotechnology",
+            "authors": "Gong, Cisterna-Vergara, Kanazawa, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fbioe.2026.1955981"
+          },
+          "score": 50,
+          "score_reason": "生物诱导凝胶，生物材料边缘相关",
+          "title_cn": "植物乳植杆菌胞外产物介导的生物诱导海藻酸盐自发凝胶化",
+          "one_liner": "植物乳植杆菌胞外产物可在温和低温条件下诱导海藻酸盐自发凝胶，无需外加交联剂。",
+          "key_findings": [
+            "1% 海藻酸钠经 24 h 细菌培养后于 4 °C 孵育即可重复成胶，依赖菌体生长与低温。",
+            "无细胞上清保留成胶活性，单独菌体不能成胶，说明胞外产物是关键。",
+            "仅酸化也能成胶，但结构与细菌诱导凝胶不同；凝胶可加工、可二次 Ca2+ 交联并维持菌活性。"
+          ],
+          "why_it_matters": "为活体材料与细菌导向生物制造提供温和成胶策略，合成生物学中可编程水凝胶与益生菌封装方向值得关注。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42978405",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Global health security and smallpox: A strategic review of post-eradication biosafety and preparedness.",
+            "abstract": "The global biosecurity framework faces a potential critical transition driven by synthetic biology advancements and declining population-level immunity. This review evaluates smallpox as a central case study for contemporary pathogen governance and biopolitical preparedness. We analyze the convergence of two primary risks: the technical feasibility of de novo orthopoxvirus synthesis and the expanding immunity gap following the cessation of routine vaccination. The 2022 mpox resurgence is assessed as a sentinel event revealing strategic vulnerabilities in cross-protective immunity. Ultimately, this perspective argues that smallpox reemergence risk is not merely a technological byproduct, but a fundamental global governance crisis. To mitigate these threats, we propose a multidimensional framework integrated with One Health principles and transnational coordination. Maintaining strategic vigilance and institutional memory is presented as a critical political capacity for post-eradication health security.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42978405/",
+            "journal": "Politics and the life sciences : the journal of the Association for Politics and the Life Sciences",
+            "authors": "Bülbül, Kara",
+            "published": "2026-11-04",
+            "doi": "10.1017/pls.2026.10031"
+          },
+          "score": 45,
+          "score_reason": "天花生物安全，合成生物学治理边缘",
+          "title_cn": "全球卫生安全与天花：根除后生物安全与防范的战略综述",
+          "one_liner": "合成生物学使正痘病毒可人工合成，叠加免疫缺口，天花重现风险本质是全球治理危机。",
+          "key_findings": [
+            "两大风险叠加：正痘病毒de novo合成的技术可行性与停止常规接种后的免疫缺口扩大。",
+            "2022年mpox复燃被视为哨兵事件，暴露跨保护免疫的战略脆弱性。",
+            "提出融合One Health与跨国协调的多维治理框架，强调制度记忆与战略警觉。"
+          ],
+          "why_it_matters": "合成生物学博士需关注病原合成双重用途治理；该文为DNA合成筛查、跨境生物安全协作与疫苗储备策略提供政策框架参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980008",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Inflammasomes in Atherosclerosis and Atherothrombosis.",
+            "abstract": "Atherosclerotic cardiovascular disease and its thrombotic complications, particularly myocardial infarction and ischemic stroke, remain leading causes of morbidity and mortality worldwide. Atherosclerosis was historically considered primarily a lipid accumulation disorder; however, it is now well recognized as a chronic inflammatory disesse driven in large part by innate immune signaling. Inflammasomes, particularly NOD-like receptor protein 3 (NLRP3) and absent in melanoma 2 (AIM2), play important role in this process, linking vascular inflammation, plaque progression, and thrombosis through caspase-1 activation, interleukin-1 beta (IL-1β) and IL-18 release, and gasdermin-mediated pyroptosis. In this narrative review we integrate mechanistic and translational evidence defining inflammasome activity across the continuum of atherosclerosis and atherothrombosis. We highlight inflammasome signaling in endothelial cells, macrophages, vascular smooth muscle cells, platelets, neutrophils, and perivascular adipose tissue, and discuss how these pathways contribute to early inflammation, necrotic core expansion, fibrous cap destabilization, and ultimately to acute thrombus formation. Emerging data on AIM2 activation, clonal hematopoiesis, platelet inflammasomes, and cell-free deoxyribonucleic acid (DNA) further expand current paradigms beyond macrophage focused models on macrophages. We also review single-cell and spatial transcriptomics, circulating biomarkers, and advanced vascular imaging approaches that may enable the identification of inflammasome-high atherothrombotic phenotypes. Finally, we appraise therapeutic strategies targeting inflammasomes and downstream pathways. These include IL-1β and IL-6 inhibition, colchicine, direct NLRP3 inhibition, and cardiometabolic therapies with indirect effects on inflammasome activity. By examining the role of inflammasomes in linking plaque pathogenesis to thrombosis, this review outlines key translational opportunities and challenges for the precision prevention of atherothrombosis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980008/",
+            "journal": "Frontiers in bioscience (Landmark edition)",
+            "authors": "Grigoriou, Antoniadis, Lamprou, et al.",
+            "published": "2026-10-20",
+            "doi": "10.31083/FBL49612"
+          },
+          "score": 45,
+          "score_reason": "炎症小体综述，非合成生物学核心",
+          "title_cn": "炎症小体在动脉粥样硬化与动脉血栓形成中的作用",
+          "one_liner": "综述指出NLRP3与AIM2炎症小体经caspase-1、IL-1β/IL-18及焦亡通路串联斑块进展与血栓形成。",
+          "key_findings": [
+            "炎症小体信号贯穿内皮、巨噬、平滑肌、血小板、中性粒细胞及血管周围脂肪组织",
+            "AIM2激活、克隆性造血、血小板炎症小体与cfDNA拓展了以巨噬细胞为中心的旧模型",
+            "单细胞/空间转录组、循环标志物与血管影像可识别炎症小体高表达血栓表型"
+          ],
+          "why_it_matters": "为心血管炎症机制与靶点（NLRP3、IL-1β）提供整合框架，对合成生物学改造免疫细胞、设计炎症小体报告或干预回路有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42980835",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Breeding the unbreedable: bottlenecks and genetic pathways to climate-resilient saffron (Crocus sativus L.).",
+            "abstract": "Cultivated saffron (Crocus sativus L.) is a sterile autotriploid clone (2n = 3x = 24), propagated by corm division for roughly 3,600 years from a single auto-triploidisation event. Sequence-level polymorphism across the global crop is barely 4%, and no F2, recombinant inbred, QTL, or GWAS population has ever been produced, because triploid meiosis forecloses recombination-based breeding outright. This genetic standstill coincides with an accelerating production crisis: Kashmir has lost over 70% of its historical stigma yield, and global stigma yield has fallen by roughly 35% over recent decades. Methylation polymorphism across the World Saffron and Crocus Collection is eight-fold higher than sequence polymorphism, making epigenetic divergence the only substantial non-mutagenic source of heritable variation currently accessible. Heat, drought, cold, and Fusarium-driven disease converge on the florigen activation complex and the apocarotenoid pathway, defining a compact target set led by CsatSVP2, CsCCD2, and a defined NBS-LRR resistance-gene catalogue. Against the genomic infrastructure now available, including a fully phased 8.42 Gb triploid assembly, we evaluate the strategies open to this crop: epigenomic selection, clean-stock reform, induced mutagenesis, soma-clonal selection, wild-relative pre-breeding, and CRISPR/base/prime editing. Improvement is no longer limited mainly by a shortage of molecular targets or tools, but by a small number of translational bottlenecks, foremost the absence of any published whole-plant regeneration pipeline for edited tissue. We rank these bottlenecks by dependency and set out our own view of research priorities for the next five to fifteen years.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42980835/",
+            "journal": "Plant cell reports",
+            "authors": "Sofi, Reshi, Khan, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1007/s00299-026-04035-w"
+          },
+          "score": 40,
+          "score_reason": "藏红花育种，植物基因编辑边缘相关",
+          "title_cn": "无法杂交的作物如何改良：气候韧性藏红花的瓶颈与遗传路径",
+          "one_liner": "藏红花是三倍体不育克隆，序列多态性仅4%，但表观遗传变异高8倍，成为主要可遗传变异来源。",
+          "key_findings": [
+            "藏红花为单次自体三倍化起源的2n=3x=24不育克隆，全球序列多态性仅约4%，无法构建F2、RIL、QTL或GWAS群体。",
+            "全球藏红花种质甲基化多态性为序列多态性的8倍，表观遗传分化是当前唯一可及的非诱变遗传变异来源。",
+            "热、旱、冷与镰刀菌病害汇聚于成花素激活复合体与类胡萝卜素裂解途径，核心靶点包括CsatSVP2、CsCCD2及NBS-LRR抗病基因目录。"
+          ],
+          "why_it_matters": "对做植物合成生物学与基因编辑的团队，该文梳理了三倍体不育作物的改良路径与瓶颈，尤其指出缺乏编辑组织全株再生体系是首要转化障碍，可指导靶点选择与递送/再生技术布局。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:a7fef857114c0851",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino",
+            "abstract": "Germany's Boehringer Ingelheim is further planting its stake in China, teaming up with Sino Biopharmaceutical in a cancer drug development deal that could balloon past $7 billion. Boehringer is delivering $358 million ...",
+            "url": "https://endpoints.news/boehringer-ingelheim-strikes-7b-backloaded-adc-tce-cancer-deal-with-chinas-sino/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "勃林格70亿美元中国ADC交易",
+          "title_cn": "勃林格殷格翰与中国生物制药达成超70亿美元ADC及TCE抗癌药合作",
+          "one_liner": "勃林格殷格翰与中国生物制药达成超70亿美元抗癌药合作，首付3.58亿美元，聚焦ADC与TCE。",
+          "key_findings": [
+            "交易总额可超70亿美元，首付款3.58亿美元，属后端重仓结构",
+            "合作聚焦ADC与T细胞衔接器（TCE）两类抗癌药物开发",
+            "勃林格持续加码中国，这是其深化在华布局的又一动作"
+          ],
+          "why_it_matters": "ADC与TCE是当前肿瘤免疫与偶联药物热点，大额后端交易反映跨国药企对中国创新资产的估值逻辑，对关注抗体工程与合成生物学递送平台的研发者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:78283695a8b36114",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Kamau shares first data from revamped sickle cell gene editing therapy",
+            "abstract": "Kamau Therapeutics, which has stayed relatively quiet since its 2023 emergence, is sharing clinical data from its revamped sickle cell gene editing program for the first time. The startup is giving a ...",
+            "url": "https://endpoints.news/kamau-shares-first-data-from-revamped-sickle-cell-gene-editing-therapy/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "镰刀型细胞基因编辑首次临床数据",
+          "title_cn": "Kamau首次公布改良版镰状细胞病基因编辑疗法临床数据",
+          "one_liner": "Kamau公布其改良版镰状细胞病基因编辑疗法的首批临床数据。",
+          "key_findings": [
+            "Kamau自2023年成立以来鲜有公开动态，此次首次披露临床数据",
+            "疗法为改良版镰状细胞病基因编辑方案，具体疗效数据尚未在摘要中披露",
+            "适应症为镰状细胞病，属基因编辑治疗血液病赛道"
+          ],
+          "why_it_matters": "镰状细胞病基因编辑是CRISPR临床转化最前沿赛道，对合成生物学背景研究者判断基因编辑疗法竞争格局与载体/编辑策略演进有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:bc61a3cb3b9215d4",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "China climbed biotech's worry list, while Big Pharma kept shopping",
+            "abstract": "In the months leading up to the Treasury Department's release of draft rules that would limit US investment in Chinese biopharma, the industry's view of China was already in a downward sentiment ...",
+            "url": "https://endpoints.news/china-climbed-biotechs-worry-list-while-big-pharma-kept-shopping/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "中国生物医药投资限制与情绪",
+          "title_cn": "中国登上生物科技担忧清单，大型药企仍在持续扫货",
+          "one_liner": "美国财政部拟限制对华生物医药投资，行业对华情绪转冷，但大型药企仍在持续收购中国资产。",
+          "key_findings": [
+            "美国财政部发布限制对华生物医药投资草案前，行业对中国的看法已趋于负面",
+            "尽管政策收紧，大型制药公司仍在持续收购中国生物科技资产",
+            "报道聚焦投资限制政策与跨国药企交易行为之间的反差"
+          ],
+          "why_it_matters": "对合成生物学与生物医药研发者而言，中美资本流动受限可能影响融资、BD交易与跨境合作节奏，需关注政策落地对项目估值和出海路径的影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:1fc678e0acaa5a69",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AbbVie bets up to $1.47B on Nxera's gut-targeting IBD program",
+            "abstract": "AbbVie is licensing Nxera Pharma’s EP4 receptor agonist program for $100 million upfront, with up to $1.37 billion at stake in development and commercial milestones. Through its UK subsidiary, Tokyo-based Nxera will hand over global ...",
+            "url": "https://endpoints.news/abbvie-bets-up-to-1-47b-on-nxeras-gut-targeting-ibd-program/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "艾伯维14.7亿IBD授权交易",
+          "title_cn": "艾伯维最高14.7亿美元引进Nxera肠道靶向IBD项目",
+          "one_liner": "艾伯维以1亿美元首付款引进Nxera的EP4受体激动剂项目，里程碑总额最高13.7亿美元。",
+          "key_findings": [
+            "交易首付1亿美元，开发与商业化里程碑最高13.7亿美元，总额达14.7亿美元。",
+            "标的为EP4受体激动剂项目，定位肠道靶向，用于炎症性肠病（IBD）。",
+            "Nxera通过英国子公司授予全球权益，总部位于东京。"
+          ],
+          "why_it_matters": "IBD肠道靶向小分子是当前热门赛道，EP4激动剂机制与合成生物学衍生的肠道递送、菌群干预方向可形成对照，值得关注其临床验证路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:575e111f3786378b",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
+            "abstract": "Novo won't launch its big obesity hope CagriSema in Europe for another “couple of years,” Novo’s outgoing CFO Karsten Munk Knudsen told Endpoints News in a Wednesday interview. “For CagriSema, the clear ...",
+            "url": "https://endpoints.news/novo-wont-launch-cagrisema-in-europe-for-a-couple-of-years-cfo-says/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "CagriSema欧洲上市延迟",
+          "title_cn": "诺和诺德CFO：CagriSema未来数年不会在欧洲上市",
+          "one_liner": "诺和诺德CFO称，其减肥药CagriSema未来数年不会在欧洲推出。",
+          "key_findings": [
+            "诺和诺德CFO Knudsen表示，CagriSema在欧洲上市还需“数年”时间。",
+            "CagriSema是诺和诺德寄予厚望的肥胖症候选药物。",
+            "该表态来自Endpoints News的采访，未披露具体上市时间表。"
+          ],
+          "why_it_matters": "对关注代谢疾病与多肽药物研发的读者，欧洲上市延迟影响CagriSema的商业化节奏与竞争格局判断。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:20094fe26c20162a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "First wave of #ASH26 abstracts is here, with data from J&J, Servier and AstraZeneca",
+            "abstract": "The American Society of Hematology's annual meeting is just a little over a month away. This year's edition will be in New Orleans, LA, and Endpoints News will be covering the meeting in person. For ...",
+            "url": "https://endpoints.news/first-wave-of-ash26-abstracts-is-here-with-data-from-jj-servier-and-astrazeneca/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "ASH血液学会议摘要数据",
+          "title_cn": "ASH26首批摘要公布：强生、施维雅、阿斯利康将发布血液学数据",
+          "one_liner": "美国血液学会年会首批摘要公布，强生、施维雅、阿斯利康将发布血液学数据。",
+          "key_findings": [
+            "ASH26年会将于一个多月后在新奥尔良举行，Endpoints将现场报道。",
+            "首批摘要含强生、施维雅、阿斯利康的血液学数据。",
+            "摘要未披露具体药物、适应症或疗效数据。"
+          ],
+          "why_it_matters": "血液学是新药研发热点，ASH摘要常预示关键临床数据；但本条仅预告，需待摘要全文再评估。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:3f983510239a84e3",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Novo forecasts flat 2026 sales as finance chief departs",
+            "abstract": "For most biopharmas, guiding to flat growth for the year would be a disappointment. For Novo, it’s an upgrade. The drugmaker said Wednesday that its 2026 sales would be between 2% ...",
+            "url": "https://endpoints.news/novo-forecasts-flat-2026-sales-as-finance-chief-departs/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "诺和2026指引与CFO离职",
+          "title_cn": "诺和诺德预计2026年销售持平，首席财务官离职",
+          "one_liner": "诺和诺德预计2026年销售增长约2%，同时宣布首席财务官离职。",
+          "key_findings": [
+            "公司预计2026年销售额增长约2%，对诺和诺德而言已属上调指引。",
+            "首席财务官同日离职，管理层出现变动。",
+            "摘要未披露具体药物或适应症数据。"
+          ],
+          "why_it_matters": "诺和诺德是代谢疾病药物龙头，其业绩指引与管理层变动反映GLP-1市场竞争与增长预期，对关注多肽/代谢药物研发与产业格局的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:4aadfa816d166d20",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Sanofi ends development of Nurix's STAT6 degrader",
+            "abstract": "Sanofi is dropping an experimental drug targeting a pathway that many analysts see as a potential pillar of the next generation of immunology medicine. The company will no longer pursue the program known as SAR448272 ...",
+            "url": "https://endpoints.news/sanofi-ends-development-of-nurixs-stat6-degrader/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "赛诺菲终止STAT6降解剂项目",
+          "title_cn": "赛诺菲终止与Nurix合作的STAT6降解剂开发",
+          "one_liner": "赛诺菲停止开发靶向STAT6的实验性降解剂SAR448272，该通路被视为下一代免疫学药物的重要方向。",
+          "key_findings": [
+            "SAR448272为STAT6靶向降解剂，赛诺菲决定不再推进该项目的后续开发。",
+            "STAT6通路被多位分析师视为下一代免疫学药物的潜在支柱。",
+            "摘要未披露终止原因及具体临床数据。"
+          ],
+          "why_it_matters": "STAT6降解剂是免疫学新药的热门方向，此次大药企退出提示该靶点开发风险，值得关注同类项目与降解剂技术路线。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "pbc:5f0501c5f0de5dc8",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å åå®æ½è¡ç¥¨åè´­å¢æåè´·æ¬¾æ¿ç­ãä¸ãèª2026å¹´11æ4æ¥èµ·ãä¸è°è¡ç¥¨åè´­å¢æåè´·æ¬¾å©ç0.25ä¸ªç¾åç¹è³1%ãè¡ç¥¨åè´­å¢æåè´·æ¬¾çæ¯æå¯¹è±¡ä¸º21å®¶å ¨å½æ§é¶è¡å5å®¶ç³»ç»éè¦æ§ååè¡ãæ¯ææ¯ä¾ä¸º100%ãé¶è¡å¯å¨åè´·æ¬¾å©çåºç¡ä¸éå½å ç¹ãåçç¡®å®è¡ç¥¨åè´­å¢æè´·æ¬¾æéåå©çãäºãåé¶è¡æä¾å è¶³çåè´·æ¬¾é¢åº¦ä¿éã11æ2æ¥åº§è°ä¼ä¹åãé¶è¡å·²åä¸­å½äººæ°é¶è¡æ¥éè¡ç¥¨åè´­å¢æåè´·æ¬¾é¢åº¦ç³è¯·è¶ è¿2000äº¿å ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110408502315269/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无效，无法判断内容",
+          "title_cn": "中国人民银行下调股票回购增持再贷款利率至1%",
+          "one_liner": "央行自2026年11月4日起将股票回购增持再贷款利率下调0.25个百分点至1%。",
+          "key_findings": [
+            "适用对象为21家全国性银行和5家系统重要性城商行，支持比例100%",
+            "银行可在再贷款利率基础上适当加点，自主确定贷款期限和利率",
+            "11月2日座谈会后，银行已报送超2000亿元再贷款额度申请"
+          ],
+          "why_it_matters": "该政策通过低成本资金支持上市公司回购增持，利好生物医药等板块的融资与估值环境，但与合成生物学研发和监管无直接关联。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:30ad2e480e6f94c3",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "A thousand fewer paths to root",
+            "abstract": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+            "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "AI自主发现修复内核漏洞里程碑",
+          "title_cn": "OpenAI 自动化流水线发现并修复近千个 Linux 内核提权漏洞",
+          "one_liner": "OpenAI 构建自主流水线，发现、验证并生成 948 个 Linux 内核本地提权漏洞的补丁。",
+          "key_findings": [
+            "流水线覆盖漏洞发现、验证到补丁生成全流程，共处理 948 个本地提权漏洞。",
+            "目标为 Linux 内核，属高价值基础软件安全场景。",
+            "由 OpenAI 发布，显示 AI 自主安全研究已进入工程化落地阶段。"
+          ],
+          "why_it_matters": "AI 自主漏洞挖掘与修复正从演示走向规模化，对合成生物学实验室常用的 Linux 服务器与生信流程安全有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:8ccb12fff18af596",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+            "abstract": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+            "url": "https://openai.com/index/openai-to-acquire-pierre",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "OpenAI收购强化Codex编码能力",
+          "title_cn": "OpenAI 收购 Pierre Computer Company，扩展 Codex 代码能力",
+          "one_liner": "OpenAI 宣布收购 Pierre Computer Company，以增强 Codex 构建、理解与审查代码的工具。",
+          "key_findings": [
+            "OpenAI 将收购 Pierre Computer Company，交易细节未披露。",
+            "收购旨在扩展 Codex 在代码构建、理解与审查方面的工具能力。",
+            "消息由 OpenAI News 于 2026 年 11 月 4 日发布。"
+          ],
+          "why_it_matters": "AI 编程工具正快速渗透研发流程，合成生物学团队若用 Codex 类工具做序列分析脚本或实验流程代码，工具链能力变化值得关注。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:47bc864ef0d25079",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+            "abstract": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+            "url": "https://openai.com/index/devrev-enterprise-self-service",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "GPT新模型企业应用案例",
+          "title_cn": "DevRev 借助 GPT-6.1 Sol 实现自主式自助服务",
+          "one_liner": "DevRev 用 GPT-6.1 Sol 驱动 Computer 与 Operator，兼顾推理、速度与成本。",
+          "key_findings": [
+            "DevRev 将 GPT-6.1 Sol 用于 Computer 和 Operator 两款企业服务产品",
+            "该模型在推理能力、响应速度与成本之间取得平衡",
+            "面向企业服务场景提供自主式自助服务能力"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这属于通用企业 AI 应用，与湿实验、菌株工程或生物设计自动化无直接关联，仅可作 AI 工具选型参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:b9febe6c65ab0c74",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+            "abstract": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+            "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "政府云GPT模型上线，相关但常规",
+          "title_cn": "Daybreak Red 在 AWS GovCloud（美国东部）上线",
+          "one_liner": "Daybreak Red 通过 Amazon Bedrock 向 AWS GovCloud 获批客户提供 GPT-5.6 Cyber，用于授权网络安全工作。",
+          "key_findings": [
+            "Daybreak Red 已在 AWS GovCloud（美国东部）区域上线",
+            "通过 Amazon Bedrock 向获批客户提供 GPT-5.6 Cyber 模型",
+            "面向经授权的网络安全工作场景"
+          ],
+          "why_it_matters": "政府云环境开放专用网络安全模型，反映 AI 在受监管场景的合规部署路径；合成生物学研究者可关注其生物安全与双用途审查机制。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:24e560ad31910656",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+            "abstract": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "AI政治舆论，弱相关",
+          "title_cn": "科技巨头称选民对AI的反弹是“反特朗普”而非“反科技”",
+          "one_liner": "美国选民压倒性投票限制AI与数据中心，科技巨头却将其解读为“反特朗普”情绪。",
+          "key_findings": [
+            "美国选民以压倒性票数通过限制AI和数据中心的措施。",
+            "科技行业否认这是对技术本身的反对，归因于政治情绪。",
+            "行业与公众在AI治理上的认知分歧正在扩大。"
+          ],
+          "why_it_matters": "美国AI监管风向与公众态度直接影响合成生物学AI工具的合规环境与产业政策，值得关注政策风险。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2209c7e8e02a0915",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+            "abstract": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "美国FCC人事政治，无关",
+          "title_cn": "Ted Cruz 拟在民主党掌控参议院前为 FCC 增补共和党席位",
+          "one_liner": "Cruz 与 Trump 似无意填补 FCC 民主党空缺席位，欲抢先扩增共和党委员。",
+          "key_findings": [
+            "Cruz 计划在民主党接管参议院前，为 FCC 增补共和党委员。",
+            "Cruz 与 Trump 似无计划填补 FCC 的民主党空缺席位。"
+          ],
+          "why_it_matters": "FCC 委员党派构成将影响美国频谱分配、通信与生物技术相关无线监管走向，对在美布局的合成生物学团队有间接影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:531adeae60eca9bf",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+            "abstract": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-03",
+            "doi": null
+          },
+          "score": 18,
+          "score_reason": "宽带政策纠纷，弱相关",
+          "title_cn": "加州拒绝特朗普政府废除州宽带法规的要求，称其“荒谬”",
+          "one_liner": "加州为争取宽带资金，拒绝特朗普政府要求废除州宽带法规的条件。",
+          "key_findings": [
+            "加州拒绝接受特朗普政府以废除州宽带法规为条件的宽带资金。",
+            "加州称该要求“荒谬”，并试图在拒绝条件的同时仍获得资金。"
+          ],
+          "why_it_matters": "该新闻涉及美国宽带政策与联邦资金分配，与合成生物学研究方向无直接关联，仅作一般产业政策背景了解。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
