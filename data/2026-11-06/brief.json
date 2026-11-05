@@ -1,0 +1,1273 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:30:20.754798+08:00",
+  "fetched_ids": [
+    "pubmed:42971508",
+    "pubmed:42985552",
+    "pubmed:42985122",
+    "pubmed:42985086",
+    "pubmed:42985999",
+    "pubmed:42975940",
+    "pubmed:42975929",
+    "pubmed:42986098",
+    "pubmed:42985799",
+    "pubmed:42984288",
+    "pubmed:42985917",
+    "pubmed:42984085",
+    "pubmed:42983095",
+    "pubmed:42983087",
+    "pubmed:42982803",
+    "pubmed:42982247",
+    "pubmed:42982154",
+    "pubmed:42982153",
+    "pubmed:42982105",
+    "pubmed:42981110",
+    "pubmed:42981011",
+    "pubmed:42980835",
+    "pubmed:42980452",
+    "pubmed:42980419",
+    "pubmed:42980409",
+    "pubmed:42980390",
+    "pubmed:42980163",
+    "pubmed:42978541",
+    "pubmed:42978405",
+    "pubmed:42980964",
+    "pubmed:42979841",
+    "pubmed:42977800",
+    "pubmed:42977750",
+    "pubmed:42977118",
+    "pubmed:42976864",
+    "pubmed:42975864",
+    "pubmed:42975769",
+    "pubmed:42975659",
+    "pubmed:42975309",
+    "pubmed:42975141",
+    "pubmed:42974969",
+    "pubmed:42974710",
+    "pubmed:42981640",
+    "pubmed:42976641",
+    "pubmed:42972613",
+    "pubmed:42972103",
+    "pubmed:42971525",
+    "pubmed:42971416",
+    "pubmed:42971394",
+    "pubmed:42971384",
+    "pubmed:42971274",
+    "pubmed:42971258",
+    "pubmed:42970489",
+    "pubmed:42970438",
+    "pubmed:42969355",
+    "pubmed:42969232",
+    "pubmed:42985203",
+    "pubmed:42979102",
+    "pubmed:42978385",
+    "pubmed:42975241",
+    "pubmed:42968757",
+    "pubmed:42979157",
+    "pubmed:42976534",
+    "pubmed:42974087",
+    "pubmed:42971025",
+    "pubmed:42981927",
+    "pubmed:42973795",
+    "pubmed:42971007",
+    "pubmed:42985149",
+    "pubmed:42984625",
+    "pubmed:42973349",
+    "pubmed:42980008",
+    "pubmed:42978922",
+    "pubmed:42978642",
+    "pubmed:42974302",
+    "pubmed:42973330",
+    "pubmed:42973934",
+    "pubmed:42985631",
+    "pubmed:42980022",
+    "pubmed:42973979",
+    "pubmed:42983643",
+    "pubmed:42983101",
+    "pubmed:42983527",
+    "pubmed:42983385",
+    "pubmed:42983847",
+    "pubmed:42972587",
+    "pubmed:42972386",
+    "pubmed:42972221",
+    "pubmed:42968091",
+    "pubmed:42972439",
+    "pubmed:42972600",
+    "pubmed:42969309",
+    "rss:71aa44d0eeb82932",
+    "rss:024efe846c9f4777",
+    "rss:09792ba110547339",
+    "rss:cd36723abcd7163a",
+    "rss:d0bd1bc1a61fa316",
+    "rss:2236dd8c9826faef",
+    "rss:5178213c0466e1f9",
+    "rss:6b1023de2cba6d5a",
+    "rss:8dd772a776ab5f02",
+    "rss:78283695a8b36114",
+    "rss:a92fbe524784ea8c",
+    "rss:4aadfa816d166d20",
+    "rss:e37b5a7ebb306ce8",
+    "rss:bc61a3cb3b9215d4",
+    "rss:20094fe26c20162a",
+    "rss:90af3ad3723e9fa3",
+    "rss:a7fef857114c0851",
+    "rss:575e111f3786378b",
+    "rss:1fc678e0acaa5a69",
+    "rss:3f983510239a84e3",
+    "rss:b596439d8ef0921c",
+    "rss:18f9d942854c5cc6",
+    "rss:1b651106542815d8",
+    "rss:e8ed6f01fb0e2f96",
+    "rss:f335fde3e4e624dd",
+    "rss:d67bdf2066cbaf09",
+    "rss:49cb9f948ddc4005",
+    "rss:ce5ed7ee1b22e35a",
+    "rss:6a977bf2039d2a00",
+    "rss:8bebb95507352683",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "ema:15124cc8f3abaf28",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "nhsa:41f33fbd348f61e5",
+    "nhsa:895344d5fb26fafc",
+    "nhsa:4be24f312ed6d1da",
+    "nhsa:6fec0c56de8ac960",
+    "nhsa:855e9a644c69570e",
+    "nhsa:8aaf8046cb12c25c",
+    "nhsa:5f332bf4cba57339",
+    "nhsa:63644759a64c08b9",
+    "nhsa:ef30561397dfaaad",
+    "nhsa:bc7e06e9e6433075",
+    "rss:8a77616c0c9245f0",
+    "rss:47af8b9f451ce4d4",
+    "rss:e1307179e49cf8be",
+    "rss:8ccb12fff18af596",
+    "rss:b9febe6c65ab0c74",
+    "rss:30ad2e480e6f94c3",
+    "rss:7a4bae13d7faff0a",
+    "rss:47bc864ef0d25079",
+    "rss:f98ffa6f91b408c7",
+    "rss:c350bb8798160290",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:00be108b6d5113c9",
+    "rss:fa95eb760b56378c",
+    "rss:66f1edd61f27038d",
+    "rss:fe4481cd8a8de6cd",
+    "rss:24694907e497e2c3",
+    "rss:2425dfb6183914ab",
+    "rss:dfa28fccde924d6d",
+    "rss:e6f638debfa6c5cd",
+    "rss:3298e9231f537224",
+    "rss:418810575294c2df",
+    "rss:5144f037e0a3af7f",
+    "rss:34bc134b90abc766",
+    "rss:bf344060c72a7165",
+    "rss:539ebf1a46a3e9c1",
+    "rss:40fceecee0d49643",
+    "rss:9f1acedb711347ab",
+    "rss:9e827dbe569b5563",
+    "rss:f1988aa1b6e14687",
+    "rss:ba9e82b9d7e08d4e",
+    "rss:24e560ad31910656"
+  ],
+  "stats": {
+    "fetched": 197,
+    "new_items": 70,
+    "kept": 40,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42983087",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "An AI-native experimental laboratory for autonomous biomolecular operations.",
+            "abstract": "Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1-4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an 'add-on' architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, such as reagent and labware replenishment. Across four representative applications, AutoDNA matched expert-optimized enzymatic DNA synthesis yields, accelerated concurrent protocol execution by 3.2-fold, completed an end-to-end DNA data storage cycle with exact recovery of the original digital content, and identified and validated a clinically detected KRAS G13D mutation. AutoDNA establishes a blueprint towards science-as-a-service, accelerating biological discovery and advancing various applications in synthetic biology and information storage.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42983087/",
+            "journal": "Nature",
+            "authors": "Wu, Wang, Wang, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1038/s41586-026-11228-6"
+          },
+          "score": 78,
+          "score_reason": "AI原生自主实验室，合成生物学里程碑",
+          "title_cn": "面向自主生物分子操作的 AI 原生实验平台",
+          "one_liner": "AutoDNA 以 AI 原生架构自主调度 20 余种仪器，完成核酸合成、转录、扩增与测序等多目标实验。",
+          "key_findings": [
+            "模型、实验与仪器协同设计，AI 与自动化系统在端到端多用户框架内共同演化。",
+            "自主编排超 11,000 步、20 余种仪器，人工仅负责试剂与耗材补充等硬件维护。",
+            "四类应用中匹配专家优化产率、并行提速 3.2 倍、完成 DNA 存储闭环并验证 KRAS G13D 突变。"
+          ],
+          "why_it_matters": "对合成生物学读者，这是实验室自动化的范式转变：AI 从单任务工具升级为全局实验编排者，可加速 DNA 合成、存储与突变检测等核心流程。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42982803",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Systematic screen of RNA binding proteins that enhance circular RNA translation.",
+            "abstract": "Translatable circular RNAs (circRNAs) have emerged as a promising alternative to conventional mRNA therapy due to their improved stability that results in a prolonged expression window. The translation of circRNAs is mainly driven by internal ribosome entry site (IRES) or IRES-like elements, which is tightly regulated by various trans-acting RNA binding proteins (RBPs). Here we develop a cell-based system to systematically screen RBPs that enhance translation of circRNAs, identifying 68 proteins as putative activators of noncanonical translation. These translation activators are involved in a broad range of biological processes including RNA processing, ribosomal biogenesis, and translation initiation. We further design a machine learning algorithm to extract common sequence features of these activators and predict more potential RBPs with translation activator activities. The newly identified and predicted activators are subsequently validated to promote the IRES-mediated circRNA translation in a context-dependent fashion. Overall, this study provides new insights into IRES-related trans-acting factors and expands the toolbox for engineered RBPs in RNA synthetic biology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42982803/",
+            "journal": "Nature communications",
+            "authors": "Lu, Wang, Ye, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1038/s41467-026-77614-w"
+          },
+          "score": 74,
+          "score_reason": "环状RNA翻译RBP筛选，RNA合成生物学",
+          "title_cn": "系统性筛选增强环状RNA翻译的RNA结合蛋白",
+          "one_liner": "建立细胞筛选体系，鉴定出68个增强环状RNA非经典翻译的RNA结合蛋白。",
+          "key_findings": [
+            "建立细胞筛选体系，鉴定68个环状RNA翻译激活蛋白，涉及RNA加工、核糖体生成等过程。",
+            "设计机器学习算法提取激活蛋白共有序列特征，预测更多潜在激活蛋白。",
+            "新鉴定与预测的激活蛋白经实验验证，以情境依赖方式促进IRES介导的环状RNA翻译。"
+          ],
+          "why_it_matters": "环状RNA是mRNA疗法的潜力替代，该研究扩展了工程化RNA结合蛋白工具箱，对合成生物学中翻译调控元件设计有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42985122",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "ATP-free fatty aldehyde biosynthesis enables an autonomous lux-based bioluminescence system.",
+            "abstract": "Autonomous bioluminescence systems enable continuous light emission in engineered organisms by genetically encoding both luciferase enzymes and their substrate biosynthetic pathways, offering a powerful platform for non-invasive and long-term monitoring of biological processes. However, bioluminescence output is highly sensitive to substrate availability and host metabolic state, often leading to signal instability under energy-limited conditions. Here, we report an alternative luciferin biosynthetic strategy for the bacterial Lux bioluminescence system in which the adenosine triphosphate (ATP)-dependent LuxEC complex is replaced by α-dioxygenase (αDOX), an enzyme that directly converts fatty acids into fatty aldehydes without consuming ATP. Using machine learning-guided directed evolution, we engineered αDOX variants that markedly enhanced bioluminescence intensity when coupled with bacterial luciferase. The resulting ATP-free Lux bioluminescence system enabled single-cell-level bioluminescence imaging and showed a smaller reduction in light emission than the native LuxCDABE system under several antibiotic treatments, although these experiments do not establish ATP availability as the causal mechanism.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42985122/",
+            "journal": "iScience",
+            "authors": "Kusuma, Nagai",
+            "published": "2026-11-20",
+            "doi": "10.1016/j.isci.2026.118029"
+          },
+          "score": 72,
+          "score_reason": "无细胞ATP生物发光，定向进化工程",
+          "title_cn": "无 ATP 脂肪酸醛生物合成驱动自主 lux 生物发光系统",
+          "one_liner": "用不耗 ATP 的 α-双加氧酶替代 LuxEC，重塑细菌 Lux 发光底物供给。",
+          "key_findings": [
+            "以 αDOX 直接催化脂肪酸生成脂肪醛，替代 ATP 依赖的 LuxEC 复合体",
+            "经机器学习引导的定向进化改造 αDOX 变体，与细菌荧光素酶偶联后显著提升发光强度",
+            "无 ATP 系统实现单细胞级成像，在多种抗生素处理下发光衰减小于天然 LuxCDABE"
+          ],
+          "why_it_matters": "对合成生物学而言，把发光底物供给与宿主 ATP 解耦，可提升能量受限下报告系统的稳定性，适合长期、无创监测与体内成像应用。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42984085",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Photobiocatalytic Diastereo- and Enantioselective Synthesis of Noncanonical Amino Acids Bearing Challenging Stereochemical Dyads and Triads.",
+            "abstract": "Catalyst-controlled stereodivergent synthesis of acyclic molecules bearing multiple stereogenic centers remains a longstanding challenge in asymmetric catalysis, particularly through intermolecular radical C-C coupling. Here, we report the directed evolution of pyridoxal 5'-phosphate (PLP)-dependent biocatalysts for the stereodivergent synthesis of noncanonical amino acids bearing either skipped α,γ-stereochemical dyads or contiguous α,β,γ-stereochemical triads. Starting from a thermophilic tryptophan synthase β-subunit, protein engineering generated complementary enzyme variants that selectively construct three of the four possible α,γ-stereoisomers through biocatalyst-controlled reversal of both remote γ-stereochemistry and proximal α-stereochemistry. These engineered enzymes catalyzed intermolecular radical C-C bond formation with a broad range of secondary alkyltrifluoroborates, affording α,γ-disubstituted amino acids in excellent yields and stereoselectivities. Furthermore, directed evolution enabled efficient β-dehydroxylative radical coupling of the non-native threonine-derived aminoacrylate intermediate, providing amino acids bearing contiguous α,β,γ-stereochemical triads with up to 96:4:<0.1:<0.1 d.r. and >99:1 e.r. To further demonstrate the synthetic utility of this platform, the stereochemically enriched amino acids were transformed into valuable γ-chiral amines through engineered PLP-dependent tryptophan decarboxylases, establishing a dual PLP enzyme-based biocatalytic cascade for the enantiodivergent synthesis of privileged amine scaffolds. Molecular dynamics simulations reveal that enzyme-controlled γ-stereoselectivity originates from active-site remodeling that modulates π-π interactions and steric contacts governing the facial selectivity of the radical addition step. This work expands the synthetic capabilities of radical biocatalysis by enabling catalyst-controlled stereodivergent assembly of complex acyclic stereochemical arrays and establishes engineered PLP enzymes as versatile catalysts for the synthesis of stereochemically complex amino acids and chiral amines.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42984085/",
+            "journal": "Journal of the American Chemical Society",
+            "authors": "Bo, Cheng, Zhang, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1021/jacs.6c14337"
+          },
+          "score": 70,
+          "score_reason": "定向进化光生物催化非天然氨基酸",
+          "title_cn": "光生物催化非天然氨基酸的非对映选择性与对映选择性合成：构建具挑战性的立体化学二元组与三元组",
+          "one_liner": "定向改造PLP依赖酶，实现非天然氨基酸α,γ与α,β,γ立体中心的可控发散合成。",
+          "key_findings": [
+            "以嗜热色氨酸合酶β亚基为起点，工程化酶变体可选择性构建四种α,γ异构体中的三种。",
+            "酶催化分子间自由基C-C偶联，与多种二级烷基三氟硼酸盐反应，产率与立体选择性优异。",
+            "进一步实现苏氨酸衍生丙烯酸酯的β-脱羟基自由基偶联，得到连续α,β,γ三元组，d.r.达96:4、e.r.>99:1。"
+          ],
+          "why_it_matters": "为合成生物学提供可编程PLP酶模块，可高效构建复杂手性氨基酸与γ-手性胺，拓展自由基生物催化在药物砌块合成中的应用。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42985999",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Coiled Coils as a Programmable Platform for Computational Biosensor Design.",
+            "abstract": "Coiled coils are a versatile class of α-helical protein motifs characterized by recurring sequence patterns that direct their assembly into defined oligomeric bundles and underpin a wide range of biological functions. The well-established sequence-structure relationships governing coiled-coil formation enable predictive control over stability, specificity, and oligomerization state, making them attractive and chemically tractable building blocks for biosensor design in applications ranging from single-molecule detection to synthetic biochemical circuits and functional nanomaterials. After revisiting the theoretical foundations of coiled-coil architecture, this review outlines strategies to engineer programmable binding interfaces that can be rationally tuned to generate orthogonal, high-affinity interaction pairs, enabling flexible and modular biosensor platforms. Particular emphasis is placed on recent advances in computational and data-driven design approaches, including machine-learning and AI-based strategies, alongside established rational and empirical methods for coiled-coil construction. These complementary design principles underpin the development of coiled-coil-based biosensors and are discussed together with selected application examples to illustrate how engineered coiled-coil interactions support sensitive and specific molecular recognition as well as switchable control in synthetic biology and chemical biology. Overall, this review highlights coiled coils as programmable, stable, and highly designable scaffolds at the interface of molecular engineering, computation, and chemical biology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42985999/",
+            "journal": "Chembiochem : a European journal of chemical biology",
+            "authors": "Kluge, Shabani, Gemming, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1002/cbic.70585"
+          },
+          "score": 68,
+          "score_reason": "卷曲螺旋计算设计生物传感器",
+          "title_cn": "卷曲螺旋作为计算型生物传感器设计的可编程平台",
+          "one_liner": "综述指出卷曲螺旋序列-结构关系明确，可编程设计正交高亲和配对，支撑模块化生物传感器。",
+          "key_findings": [
+            "卷曲螺旋序列模式可预测控制稳定性、特异性与寡聚态，是化学可操作的构建模块。",
+            "可理性设计正交高亲和结合界面，构建灵活模块化的传感平台。",
+            "重点评述机器学习与AI等计算数据驱动设计方法及代表性应用。"
+          ],
+          "why_it_matters": "为合成生物学提供稳定可编程的蛋白支架，可用于构建正交传感与开关线路，AI设计思路对深圳蛋白工程与生物传感研发有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42981927",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Aerobic electrical ATP synthesis at mild redox potentials.",
+            "abstract": "Combining electrochemical and biochemical energy conversion approaches offers exciting opportunities for sustainable biotechnological applications. Here, we present an electrochemical system that directly powers oxidative phosphorylation under aerobic conditions at a mild redox potential of -0.16 V vs Ag/AgCl (0.05 V vs. SHE) by delivering electrons to a minimal respiratory chain reconstituted in liposomes. Using phenazine methosulfate (PMS) or its derivative as redox mediators, electrons are transferred across lipid membranes to cytochrome c, subsequently driving cytochrome aa₃ oxidase activity and ATP synthesis via F1FO ATP synthase. Furthermore, we extend this approach to native sub-mitochondrial particles (SMPs) extracted from bovine heart, demonstrating that such electrochemical reduction can also energise complex, natural respiratory machinery and support ATP production. This work establishes a novel strategy towards coupling electrical inputs to both minimal and native oxidative phosphorylation systems, paving the way for scalable biohybrid energy conversion technologies.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42981927/",
+            "journal": "Bioelectrochemistry (Amsterdam, Netherlands)",
+            "authors": "Moning, Baumann, Rimle, et al.",
+            "published": "2026-10-28",
+            "doi": "10.1016/j.bioelechem.2026.109495"
+          },
+          "score": 65,
+          "score_reason": "电驱动ATP合成，无细胞能量系统",
+          "title_cn": "温和氧化还原电位下的有氧电化学ATP合成",
+          "one_liner": "在温和电位下向脂质体呼吸链或天然亚线粒体颗粒直接输入电子，驱动有氧氧化磷酸化产ATP。",
+          "key_findings": [
+            "以PMS类介体跨膜传递电子至细胞色素c，驱动aa₃氧化酶与F1FO合酶合成ATP",
+            "在-0.16 V vs Ag/AgCl温和电位、有氧条件下实现电驱动氧化磷酸化",
+            "该策略可延伸至牛心来源天然亚线粒体颗粒，激活复杂天然呼吸机器产ATP"
+          ],
+          "why_it_matters": "为电-生物杂合能量转换提供极简与天然双平台，对无细胞ATP再生、生物电合成与合成生物学能量模块设计有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42983095",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A conserved flowering-time module underlies double-season cropping.",
+            "abstract": "Adapting crops to intensive cultivation systems under climate change requires varieties that combine yield potential with optimized flowering and maturation1,2. In central and eastern China, barley has long been cultivated in a double-season cropping system, in which early flowering and maturation are critical for escaping presummer terminal heat stress and enabling flexible rotation with summer crops3,4. Here we trace the genomic footprints of 80 years of modern breeding in China using 505 representative cultivars and identify a flowering-time module defined by a single amino acid substitution in PHYTOCHROME C in combination with a winter-type VERNALIZATION 1 haplotype that underpins this adaptation. The derived allele accelerates heading and maturity, and its frequency has risen sharply in modern autumn-sown varieties. Using base editing in barley and wheat, we confirm causality and demonstrate that this flowering-time combination module, PhyC-VRN1, is functionally conserved across Triticeae. Our results identify and experimentally validate a breeding-relevant flowering-time module that has been selected during modern breeding to enable intensive crop rotations, as well as demonstrate how precision genome editing can be used to reconstruct such adaptive modules for climate-resilient crop design.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42983095/",
+            "journal": "Nature",
+            "authors": "Gao, Jiang, Wu, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1038/s41586-026-11187-y"
+          },
+          "score": 62,
+          "score_reason": "碱基编辑作物开花模块，编辑应用",
+          "title_cn": "保守的开花时间模块支撑双季种植",
+          "one_liner": "大麦PHYTOCHROME C单氨基酸替换与冬型VRN1单倍型组合成开花模块，加速抽穗成熟以适配双季种植。",
+          "key_findings": [
+            "分析505个代表性品种80年育种足迹，发现PhyC单氨基酸替换与冬型VRN1单倍型组合模块。",
+            "该衍生等位基因加速抽穗与成熟，在现代秋播品种中频率急剧上升。",
+            "在大麦与小麦中通过碱基编辑验证因果性，证明PhyC-VRN1模块在Triticeae中功能保守。"
+          ],
+          "why_it_matters": "为合成生物学提供可编辑的开花时间模块范例，有助设计气候韧性作物与集约轮作品种，对作物精准育种有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42982153",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Protein nanocages: Programmable biomaterial platforms for therapeutics, bioimaging, and diagnostics.",
+            "abstract": "Protein nanocages are monodisperse, hollow structures formed through the symmetric self-assembly of protein subunits. Their genetically encoded architectures combine the geometric precision of nanoscale assemblies with the intrinsic biocompatibility and functional versatility of naturally evolved proteins. Well-defined internal cavities and engineerable interior and exterior surfaces enable the spatial organization of therapeutic cargoes, molecular recognition elements, and bioactive components within a single nanoscale platform. In this Review, we examine the structural organization, self-assembly mechanisms, physicochemical properties, and functional diversity of representative protein nanocages, including ferritin, the pyruvate dehydrogenase E2 core, DNA-binding proteins from starved cells (Dps), small heat shock proteins (sHSPs), encapsulins, and lumazine synthase. We discuss how their structural features and assembly behavior govern biological performance and support biomedical applications in targeted drug delivery, cancer immunotherapy, vaccine development, and in vivo and in vitro diagnostics. Beyond describing individual platforms, we establish a unifying framework that positions protein nanocages as programmable molecular organizers and highlights five transferable design principles: multivalent ligand display, spatial compartmentalization, receptor-guided targeting, reporter organization and signal enhancement, and stimulus-responsive cargo release and functional activation. We also examine persistent challenges in structural stability, immunogenicity, scalable manufacturing, and clinical translation, alongside emerging opportunities in protein engineering, synthetic biology, and computational protein design. Collectively, these principles establish protein nanocages as versatile biomaterial platforms for integrating sensing, targeting, imaging, and therapy within a single molecular architecture, providing a foundation for next-generation precision nanomedicine. STATEMENT OF SIGNIFICANCE: Reviews typically treat protein nanocages individually, obscuring shared structural features and the extent to which design strategies transfer across systems. This Review addresses this gap by establishing a comparative framework spanning structurally diverse nanocages and distilling their similarities into a concise set of generalizable design principles. It reframes protein nanocages not merely as passive delivery vehicles but as programmable molecular scaffolds that organize cargo with controlled spatial arrangement and stoichiometry. This framework provides biomaterials researchers with a transferable basis for engineering protein assemblies for precision nanomedicine while identifying key challenges in structural stability, immunogenicity, and scalable manufacturing that must be addressed to facilitate clinical translation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42982153/",
+            "journal": "Acta biomaterialia",
+            "authors": "Shin, Jung, Lee, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1016/j.actbio.2026.11.007"
+          },
+          "score": 60,
+          "score_reason": "蛋白纳米笼平台综述，蛋白设计相关",
+          "title_cn": "蛋白质纳米笼：用于治疗、生物成像与诊断的可编程生物材料平台",
+          "one_liner": "综述提出蛋白质纳米笼作为可编程分子组织者的统一框架与五项可迁移设计原则。",
+          "key_findings": [
+            "系统比较铁蛋白、E2核心、Dps、sHSP、encapsulin、lumazine synthase等纳米笼的结构与自组装机制。",
+            "提炼五项设计原则：多价配体展示、空间区隔化、受体导向靶向、报告分子组织与信号增强、刺激响应释放。",
+            "指出结构稳定性、免疫原性、可放大生产与临床转化仍是主要瓶颈。"
+          ],
+          "why_it_matters": "为合成生物学改造蛋白自组装提供可迁移设计规则，可指导靶向递送、疫苗与体内诊断的纳米平台构建。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42985149",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Microbial CO2 bioconversion: integrating carbon fixation pathways and sustainable biomanufacturing.",
+            "abstract": "The continued rise in atmospheric carbon dioxide (CO2) concentrations has intensified the need for sustainable technologies capable of mitigating greenhouse gas emissions while generating value-added products. In this context, microbial CO2 bioconversion has emerged as a promising biological strategy within broader carbon capture, utilization, and storage (CCUS) frameworks, particularly through biological carbon capture and utilization (bio-CCU). These approaches enable the conversion of inorganic carbon into fuels, chemicals, biomaterials, proteins, and other value-added products. This review provides a comprehensive assessment of recent advances in microbial CO2 bioconversion by bridging biological, technological, and industrial perspectives. Unlike previous reviews focusing on individual topics, such as carbon fixation pathways, gas fermentation, or metabolic engineering, this work presents an integrated framework connecting natural and synthetic carbon fixation pathways, microbial production platforms, metabolic engineering strategies, product diversification, and techno-economic considerations. To support this analysis, we conducted a systematic bibliometric assessment of 913 publications indexed in the Web of Science Core Collection, revealing sustained growth in scientific output, increasing interdisciplinarity, structured collaboration networks, and strong thematic interconnections across microbial ecology, carbon fixation, metabolism, and carbon utilization. Recent advances in synthetic biology, systems-level metabolic engineering, microbial electrosynthesis, bioelectrochemical systems, synthetic microbial consortia, and artificial intelligence-assisted strain engineering are discussed as important drivers of microbial carbon utilization. The review also critically examines major barriers to industrial implementation, including CO2 mass transfer, carbon fixation efficiency, energy constraints, process scale-up, downstream processing, and economic feasibility. By integrating systematic bibliometric evidence with a critical assessment of microbial CO2 biomanufacturing, this review identifies the convergence of microbial physiology, metabolic engineering, bioprocess development, renewable energy, and data-driven approaches as central to advancing biological CO2 conversion toward scalable, sustainable biomanufacturing.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42985149/",
+            "journal": "Frontiers in microbiology",
+            "authors": "de Souza Sevalho, da Silva, de Sousa Gomes, et al.",
+            "published": "2026-01-01",
+            "doi": "10.3389/fmicb.2026.1961758"
+          },
+          "score": 58,
+          "score_reason": "微生物CO2转化综述，代谢工程",
+          "title_cn": "微生物CO2生物转化：整合碳固定途径与可持续生物制造",
+          "one_liner": "综述整合天然与合成碳固定途径、代谢工程与产业化瓶颈，系统评估微生物CO2生物转化。",
+          "key_findings": [
+            "对913篇Web of Science文献做计量分析，显示该领域产出持续增长、跨学科性增强",
+            "整合碳固定途径、微生物平台、代谢工程、产物多元化与技术经济分析框架",
+            "指出CO2传质、固碳效率、能量约束、放大与下游成本是产业化主要障碍"
+          ],
+          "why_it_matters": "为合成生物学背景研究者提供bio-CCU全景框架，可据此定位菌株改造、固碳途径与放大工艺的切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42981640",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "His-tag-binding DNA aptamer-JQ1 conjugates enable comparative in vitro profiling of BRD4 ubiquitination.",
+            "abstract": "Only a small fraction of E2 ubiquitin-conjugating enzymes and E3 ubiquitin ligases has been exploited for targeted protein degradation, in part because cellular degradation assays conflate intrinsic ubiquitin-transfer competence with compound exposure, ternary-complex formation, and downstream proteasome biology. Here, we developed modular bifunctional conjugates in which JQ1 was linked by copper(I)-catalyzed azide-alkyne cycloaddition to a His-tag-binding DNA aptamer. The conjugates retained recognition of both His-tagged CHIP and GST-BRD4(44-168) in surface plasmon resonance experiments. In a reconstituted cell-free system, JQ1-aptamer conjugates promoted concentration-dependent formation of high-molecular-weight BRD4 ubiquitin conjugates upon recruitment of His-tagged VHL complex; attenuation at the highest conjugate concentration was consistent with a hook effect. Qualitative comparisons with His-tagged CHIP, Cul2/Rbx1, Cul4A/Rbx1, and UBE2D3 produced distinct ubiquitination patterns. Experiments with lysine-free ubiquitin further distinguished chain extension from modification at multiple substrate sites and revealed conjugate-length-dependent product distributions. With quantitative readouts and broader target validation, this modular bioconjugate strategy could provide a useful biochemical triage step for ubiquitination activity of E2/E3s.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42981640/",
+            "journal": "Bioorganic & medicinal chemistry",
+            "authors": "Okitsu, Tsuji, Demizu",
+            "published": "2026-11-02",
+            "doi": "10.1016/j.bmc.2026.118840"
+          },
+          "score": 55,
+          "score_reason": "DNA适配体PROTAC体外泛素化分析",
+          "title_cn": "His标签结合DNA适配体-JQ1偶联物实现BRD4泛素化的体外比较分析",
+          "one_liner": "JQ1-DNA适配体偶联物可在无细胞体系中招募E2/E3，比较不同酶组合对BRD4的泛素化模式。",
+          "key_findings": [
+            "JQ1经点击化学连His标签结合DNA适配体，SPR证实可同时识别His-CHIP与GST-BRD4。",
+            "无细胞体系中招募His-VHL复合物后呈浓度依赖的BRD4高分子量泛素化，高浓度出现钩状效应。",
+            "与CHIP、Cul2/Rbx1、Cul4A/Rbx1、UBE2D3比较产生不同泛素化模式；赖氨酸缺失泛素可区分链延伸与多位点修饰。"
+          ],
+          "why_it_matters": "为E2/E3泛素化活性提供模块化体外分诊平台，可绕开细胞降解实验的混杂因素，助力靶向蛋白降解与合成生物学元件筛选。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42983527",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Donor-tailored MSC-EVs for osteoarthritis phenotypes: source heterogeneity, engineering, and precision therapy.",
+            "abstract": "Osteoarthritis (OA) is a highly heterogeneous degenerative joint disease comprising distinct clinical phenotypes. Recently, mesenchymal stem cells-derived extracellular vesicles (MSC-EVs) have emerged as a promising cell-free therapeutic approach. While MSC-EVs from diverse sources share fundamental therapeutic mechanisms, they also possess source-specific properties. However, the therapeutic efficacy of EVs is limited in treatments without considering the OA phenotypic diversity. This review aims to elucidate the biological heterogeneity of MSC-EVs derived from diverse tissues (bone marrow, adipose, umbilical cord, and others). By comparing their molecular mechanisms in OA, we outline a potential donor-tailored approach that may inform matching of MSC-EV sources to predominant OA phenotypes. Furthermore, to overcome the limitations of native EVs in targeted delivery and in vivo half-life, we apply frontier bioengineering paradigms, including cellular preconditioning, genetic engineering, cargo loading, and integration with biomaterial scaffolds. Collectively, these advanced methodologies significantly enhance the targeting capability, intra-articular retention, and phenotype-specific therapeutic potency of MSC-EVs. Finally, we delineate current challenges and future research directions, establishing a theoretical foundation to accelerate the clinical translation of donor-tailored MSC-EVs as a precise and effective therapeutic approach for OA.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42983527/",
+            "journal": "Journal of nanobiotechnology",
+            "authors": "Liu, Liu, Shi, et al.",
+            "published": "2026-08-07",
+            "doi": "10.1186/s12951-026-04894-1"
+          },
+          "score": 55,
+          "score_reason": "MSC-EV工程化改造，与无细胞治疗相关",
+          "title_cn": "供体定制化 MSC-EV 治疗骨关节炎表型：来源异质性、工程化改造与精准治疗",
+          "one_liner": "综述提出按骨关节炎表型匹配不同组织来源的 MSC-EV，并结合工程化改造提升靶向与疗效。",
+          "key_findings": [
+            "系统比较骨髓、脂肪、脐带等来源 MSC-EV 的分子机制与来源特异性差异",
+            "提出供体定制策略：将 MSC-EV 来源与主要 OA 表型匹配",
+            "归纳预处理、基因工程、载物装载与生物材料支架等工程化增强手段"
+          ],
+          "why_it_matters": "为 MSC-EV 的理性选源与工程化设计提供框架，对做 EV 工程、递送载体或骨关节炎无细胞治疗的合成生物学团队有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42983847",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Simulation-based Bayesian deep learning enables uncertainty-aware tumor fraction estimation in cell-free DNA.",
+            "abstract": "BACKGROUND: Estimating tumor fraction from whole-genome cell-free DNA sequencing is critical for liquid biopsy, but is hampered by weak signals and baseline noise at low tumor fractions. Existing computational methods often require matched controls or large labeled datasets for training and lack uncertainty quantification. To address these gaps, we developed purNPE, a Bayesian deep-learning framework trained without labeled cancer cell-free DNA samples. Specifically, purNPE leverages a two-part generative model: one component simulates diverse tumor copy-number profiles based on evolutionary genealogies, while a second, data-driven component learns and replicates realistic sequencing background patterns from cancer-free cell-free DNA. By training a Neural Posterior Estimator on synthetic tumor profiles augmented with learned noise, purNPE performs amortized inference in milliseconds without needing a reference sample set at inference.\nRESULTS: In a real-world pan-cancer cohort, purNPE achieved comparable performance with existing methods against an orthogonal mutant-allele-fraction proxy (MAE [Formula: see text]). In semi-synthetic and in silico experiments, purNPE showed calibrated uncertainty estimates and a dose-response across low tumor-fraction spike-ins, with separation of approximately 1% TF spike-ins from blanks under the evaluated conditions.\nCONCLUSIONS: This work provides a proof-of-concept framework for using simulation-based inference to derive calibrated, uncertainty-aware TF estimates. Larger prospective cohorts with stronger orthogonal ground truth are required before analytical sensitivity or clinical utility can be established.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42983847/",
+            "journal": "BioData mining",
+            "authors": "Volkov, Raitses-Gurevich, Grad, et al.",
+            "published": "2026-08-06",
+            "doi": "10.1186/s13040-026-00595-5"
+          },
+          "score": 50,
+          "score_reason": "cfDNA贝叶斯深度学习，计算生物学相关",
+          "title_cn": "基于模拟的贝叶斯深度学习实现 cfDNA 肿瘤分数的不确定性感知估计",
+          "one_liner": "purNPE 无需标注肿瘤 cfDNA，用模拟数据训练贝叶斯深度学习，毫秒级估计肿瘤分数并给出校准不确定性。",
+          "key_findings": [
+            "双部分生成模型：按演化谱系模拟肿瘤拷贝数谱，并从无癌 cfDNA 学习真实测序背景噪声。",
+            "在合成肿瘤谱上训练神经后验估计器，推理无需参考样本，耗时毫秒级。",
+            "泛癌队列中与现有方法性能相当；低 TF 加标呈剂量响应，约 1% TF 可与空白区分。"
+          ],
+          "why_it_matters": "为液体活检提供无需对照、带不确定性量化的 TF 估计思路；合成生物学背景可借鉴其模拟数据与贝叶斯深度学习方法，但临床灵敏度尚待前瞻队列验证。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42986098",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.",
+            "abstract": "Protein-based biologics are converging at an unprecedented pace as generative artificial intelligence (AI) reshapes early-stage drug discovery. Nanobodies, single-domain antibody fragments derived from camelid heavy chain-only immunoglobulins, are an emerging class of antiviral biologics prized for their small size, stability, and access to cryptic viral epitopes. Traditional nanobody discovery relies on animal immunization and phage display screening, a process that can take 6 to 12 months and is entirely inaccessible within a standard undergraduate laboratory session. Here, we describe a succinct, in silico-based laboratory activity that uses a generative AI protein design server, GeoFlow-V3 (https://prot.design/), to allow undergraduate students to design a novel antiviral nanobody against the influenza A virus (IAV) hemagglutinin (HA) protein. This activity builds on our group's prior use of generative AI for undergraduate siRNA design teaching and extends the same pedagogical model to structural protein engineering. To our knowledge, this is the first use of a generative AI protein design platform for teaching nanobody design at the undergraduate level.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42986098/",
+            "journal": "Journal of microbiology & biology education",
+            "authors": "Idris, Idres, Bhattacharjee, et al.",
+            "published": "2026-11-05",
+            "doi": "10.1128/jmbe.00253-26"
+          },
+          "score": 45,
+          "score_reason": "AI纳米抗体设计教学，非研究",
+          "title_cn": "面向本科生的AI驱动纳米抗体设计抗病毒治疗教育实践",
+          "one_liner": "用生成式AI蛋白设计平台GeoFlow-V3，让本科生在干实验中设计抗流感病毒纳米抗体。",
+          "key_findings": [
+            "传统纳米抗体发现需动物免疫与噬菌体展示，耗时6-12个月，本科实验课无法开展。",
+            "该活动基于GeoFlow-V3在线服务器，学生针对流感A病毒HA蛋白设计新型纳米抗体。",
+            "延续课题组此前用生成式AI教授siRNA设计的教学模式，扩展至结构蛋白工程。"
+          ],
+          "why_it_matters": "对合成生物学教育者与抗体/蛋白设计方向研究者有参考价值：展示了低成本、可规模化的AI蛋白设计教学范式，也可启发深圳本地合成生物学课程与培训设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42983101",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Aldehyde dehydrogenases for oligo-isoprene aldehyde oxidation in Rhodococcus sp. RDE2.",
+            "abstract": "The microbial degradation of natural rubber (NR), which is mainly composed of cis-1,4-polyisoprene, is a promising sustainable strategy for rubber waste treatment. In rubber-degrading actinomycetes, the polymer is cleaved by the latex-clearing protein (Lcp) into oligo-isoprene aldehydes (OIA), which are then oxidized and channeled into the β-oxidation pathway. Some strains employ heterodimeric molybdenum hydroxylases (OxiAB) for this oxidation, whereas others, including Gordonia and Nocardia strains, lack oxiA/oxiB adjacent to lcp and instead use NAD(P)+-dependent aldehyde dehydrogenases (ALDHs); however, the ALDH repertoire differs among strains. Here, we identified the ALDHs responsible for OIA oxidation in Rhodococcus sp. RDE2. Cell-free extracts oxidized OIA preferentially with NAD+, although substantial NADP+-dependent activity (~37% of the NAD+-dependent activity) was also detected. Neither activity was induced during NR growth. Six candidate ALDHs were selected by combining homology searches, qRT-PCR, and heterologous expression analyses in Escherichia coli. Among the purified candidates, only LPH33_RS08240 and LPH33_RS17900 exhibited substantial NAD+-dependent OIA-oxidizing activity, which was 2.0- and 1.3-fold higher than that of the reference VH2 ALDH (GPOL_c02580), respectively. Deletion of either gene reduced both NR and OIA oxidation activities, identifying these two enzymes as major contributors to NAD+-dependent OIA oxidation in RDE2 and, to our knowledge, as the first OIA-oxidizing ALDHs identified in the genus Rhodococcus. Double knockouts did not abolish these activities, indicating contributions from additional ALDHs, consistent with the NADP+-dependent activities detected for the three other candidates. These findings extend the OIA-oxidizing ALDH repertoire of rubber-degrading actinomycetes and provide a foundation for engineering rubber-derived bioconversion. KEY POINTS: LPH33_RS08240 and RS17900 are the first OIA-oxidizing ALDHs found in Rhodococcus. Deleting both genes lowers rubber growth and OIA activity without abolishing either. NADP+-linked ALDHs may couple rubber degradation to reductive biosynthesis in RDE2.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42983101/",
+            "journal": "Applied microbiology and biotechnology",
+            "authors": "Kawagiwa, Gibu, Andler, et al.",
+            "published": "2026-08-08",
+            "doi": "10.1007/s00253-026-13993-w"
+          },
+          "score": 45,
+          "score_reason": "醛脱氢酶降解橡胶，酶学常规研究",
+          "title_cn": "红球菌 RDE2 中醛脱氢酶催化寡聚异戊二烯醛氧化的研究",
+          "one_liner": "鉴定出红球菌 RDE2 中首个催化寡聚异戊二烯醛氧化的两个 NAD+ 依赖醛脱氢酶。",
+          "key_findings": [
+            "无细胞提取物优先以 NAD+ 氧化 OIA，NADP+ 活性约为其 37%，且均不被天然橡胶诱导。",
+            "LPH33_RS08240 与 RS17900 活性分别比参考 VH2 ALDH 高 2.0 和 1.3 倍。",
+            "单基因敲除降低橡胶与 OIA 氧化活性，双敲除未完全消除，提示其他 ALDH 参与。"
+          ],
+          "why_it_matters": "为橡胶废弃物生物降解与异戊二烯类化合物转化提供酶元件，对合成生物学改造降解或生物合成途径有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42982105",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Circulating cell-free DNA and plasma nuclease activity in human aging.",
+            "abstract": "Circulating cell-free DNA (cfDNA) is an emerging biomarker of aging, but age-related changes in its abundance, oxidation, and plasma nuclease activity have rarely been examined together. We measured plasma cfDNA concentration and nuclease activity in 418 community-dwelling participants aged 7-95 years and quantified 8-oxo-7,8-dihydro-2'-deoxyguanosine (8-oxodG) in cfDNA from 333 participants. cfDNA concentration increased and nuclease activity decreased across ages 7-80 years, whereas participants aged 81-95 years showed lower cfDNA concentration and higher nuclease activity than the 61-80-year group. The cfDNA-to-nuclease activity ratio peaked at 61-80 years and declined thereafter. cfDNA 8-oxodG content increased with age and was highest in the oldest group. The estimated plasma concentration of DNA-bound 8-oxodG rose sharply up to approximately 45 years and then plateaued. An exploratory composite index integrating cfDNA concentration, oxidation, and nuclease activity increased up to approximately 45 years and subsequently stabilized. These cross-sectional findings identify coordinated age-related changes in cfDNA burden, oxidation, and extracellular nuclease activity and support further mechanistic studies of oxidized cfDNA turnover in human aging.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42982105/",
+            "journal": "Mechanisms of ageing and development",
+            "authors": "Ershova, Umriukhin, Chudakova, et al.",
+            "published": "2026-11-04",
+            "doi": "10.1016/j.mad.2026.112273"
+          },
+          "score": 42,
+          "score_reason": "cfDNA与衰老，生物标志物常规",
+          "title_cn": "人体衰老中的循环游离DNA与血浆核酸酶活性",
+          "one_liner": "418人横断面研究显示，cfDNA浓度与氧化随年龄变化，核酸酶活性呈非线性下降。",
+          "key_findings": [
+            "7–80岁cfDNA浓度升高、核酸酶活性下降；81–95岁组cfDNA更低、酶活性回升。",
+            "cfDNA中8-oxodG含量随年龄增加，最年长组最高；DNA结合的8-oxodG约45岁后趋平。",
+            "cfDNA/核酸酶活性比值在61–80岁达峰，综合指标约45岁后趋稳。"
+          ],
+          "why_it_matters": "为衰老液体活检提供cfDNA丰度、氧化与核酸酶活性的联合视角，提示氧化cfDNA清除机制值得机制研究与生物标志物开发关注。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:71aa44d0eeb82932",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Seven new tumor cases reported in Zolgensma patients",
+            "abstract": "Nine patients who have received Novartis' spinal muscular gene therapy Zolgensma have developed tumors following their treatment, the company confirmed Thursday. Seven of those cases were disclosed for the first time. Two may be linked ...",
+            "url": "https://endpoints.news/seven-new-tumor-cases-reported-in-zolgensma-patients/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "基因治疗致癌信号重大安全警示",
+          "title_cn": "Zolgensma 治疗后新增 7 例肿瘤病例",
+          "one_liner": "诺华确认 9 名 Zolgensma 受者出现肿瘤，其中 7 例首次披露，2 例或与治疗相关。",
+          "key_findings": [
+            "诺华脊髓性肌萎缩基因疗法 Zolgensma 累计报告 9 例治疗后肿瘤，新增 7 例为首次公开。",
+            "其中 2 例被评估可能与治疗相关，其余关联性尚待明确。",
+            "事件涉及 AAV 基因治疗长期安全性，需关注监管与随访数据。"
+          ],
+          "why_it_matters": "AAV 载体整合与致癌风险是基因治疗核心安全性议题，对基因治疗载体设计、临床前评价及长期随访策略有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:18f9d942854c5cc6",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+            "abstract": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+            "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "Zolgensma新增肿瘤病例确认",
+          "title_cn": "诺华披露7例SMA基因疗法Zolgensma治疗后新发肿瘤病例",
+          "one_liner": "诺华承认7名接受Zolgensma治疗的SMA患儿出现此前未知的肿瘤病例。",
+          "key_findings": [
+            "涉及7例此前未知的儿童肿瘤，均在接受SMA基因疗法Zolgensma后被发现。",
+            "Zolgensma为AAV载体基因疗法，此次为新报告的肿瘤安全性信号。",
+            "原文未披露肿瘤类型、发生时间及与治疗的因果关系判定。"
+          ],
+          "why_it_matters": "AAV基因治疗的安全性信号直接影响载体设计思路；对关注基因治疗递送与临床转化的研究者，需评估插入突变等潜在风险。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:49cb9f948ddc4005",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+            "abstract": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history.",
+            "url": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "胰腺癌新药商业爆发里程碑",
+          "title_cn": "Revolution Medicines胰腺癌新药Rasonque上市首秀惊艳",
+          "one_liner": "Revolution Medicines的胰腺癌新药Rasonque上市初期销售表现创肿瘤药历史最佳之一。",
+          "key_findings": [
+            "Rasonque是Revolution Medicines新获批的胰腺癌药物",
+            "上市初期销售表现跻身史上最佳肿瘤药上市之列",
+            "摘要未披露具体销售额、适应症细节或临床数据"
+          ],
+          "why_it_matters": "胰腺癌治疗选择有限，若该药商业化成功印证临床价值，值得关注其靶点机制与后续临床数据，对肿瘤合成生物学方向有参考意义。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:1b651106542815d8",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+            "abstract": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy…",
+            "url": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "镰刀型基因编辑疗法复苏",
+          "title_cn": "STAT：一款曾失败的镰状细胞基因疗法或迎来转机",
+          "one_liner": "十年前启动的镰状细胞基因编辑疗法因首例患者严重不良事件中止，如今或有望重启。",
+          "key_findings": [
+            "该基因编辑疗法研发历时约十年，三年前因首例患者出现严重不良事件而试验中止。",
+            "报道称该疗法目前出现回归可能，但摘要未披露具体数据或重启细节。",
+            "适应症为镰状细胞病，属于基因编辑治疗血液遗传病的探索方向。"
+          ],
+          "why_it_matters": "镰状细胞病是基因编辑与体外编辑细胞疗法的标杆适应症，其安全性挫折与复起路径对评估同类基因治疗风险、临床设计有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6a977bf2039d2a00",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+            "abstract": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future.",
+            "url": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "中国临床试验监管收紧影响",
+          "title_cn": "中国收紧研究者发起的生物技术临床试验，罕见病家庭与美国投资者面临不确定性",
+          "one_liner": "患者死亡事件后，中国限制研究者发起的生物技术临床试验，罕见病家庭与美国投资者前景不明。",
+          "key_findings": [
+            "患者死亡事件后，中国收紧研究者发起的生物技术临床试验（IIT）。",
+            "试验数量骤减，罕见病家庭获取在研疗法的渠道受限。",
+            "美国投资者面临相关项目前景不确定的风险。"
+          ],
+          "why_it_matters": "中国IIT是细胞与基因治疗早期临床的重要路径，监管收紧将影响合成生物学衍生疗法的转化节奏与中美合作项目的临床推进。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2236dd8c9826faef",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#AASLD26: Merck unwraps biopsy data for MASH drug it got from South Korea's Hanmi",
+            "abstract": "Merck reported Thursday its dual GLP-1/glucagon agonist cleared a mid-stage trial in the liver disease called MASH, sharing biopsy data on a drug it licensed from Hanmi Pharmaceutical in 2020 for $10 ...",
+            "url": "https://endpoints.news/aasld26-merck-unwraps-mash-biopsy-data-for-drug-it-got-from-south-koreas-hanmi/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "MASH二期活检数据，明确价值",
+          "title_cn": "AASLD26：默克公布从韩国韩美引进的MASH药物活检数据",
+          "one_liner": "默克公布其从韩美引进的GLP-1/胰高血糖素双激动剂治疗MASH的II期活检数据，显示达到主要终点。",
+          "key_findings": [
+            "该药为GLP-1/胰高血糖素双激动剂，2020年从韩国韩美引进",
+            "II期MASH试验达到主要终点，并公布肝活检组织学数据",
+            "MASH为代谢相关脂肪性肝炎，活检改善是监管关注的核心终点"
+          ],
+          "why_it_matters": "MASH是代谢疾病领域竞争激烈的适应症，双激动剂机制与活检终点数据可为靶点组合与临床转化策略提供参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ce5ed7ee1b22e35a",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+            "abstract": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up.",
+            "url": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "阿尔茨海默药数据解读",
+          "title_cn": "ProMis Neurosciences 阿尔茨海默病药物股价大跌的深层原因",
+          "one_liner": "STAT 分析 ProMis 阿尔茨海默病药物股价上周暴跌原因及合理性",
+          "key_findings": [
+            "ProMis Neurosciences 为阿尔茨海默病疗法开发公司",
+            "上周公司股价大幅下跌",
+            "STAT 深入分析下跌原因并评估其是否成立"
+          ],
+          "why_it_matters": "阿尔茨海默病是神经退行性疾病药物开发热点，股价异动常反映临床数据或监管信号变化，值得关注其机制与数据可信度。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:8dd772a776ab5f02",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "T-Therapeutics secures $133M for cancer, autoimmune TCRs",
+            "abstract": "Johnson & Johnson, Merck KGaA and Eli Lilly are joining Sanofi in backing a UK biotech working on T cell receptors for autoimmune conditions and cancer. The pharma companies or their corporate ...",
+            "url": "https://endpoints.news/t-therapeutics-secures-133m-for-cancer-autoimmune-tcrs/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "TCR细胞治疗大额融资，有价值",
+          "title_cn": "T-Therapeutics 融资 1.33 亿美元，推进癌症与自身免疫 TCR 疗法",
+          "one_liner": "英国 biotech T-Therapeutics 获 1.33 亿美元融资，开发针对癌症和自身免疫病的 TCR 疗法，J&J、默克、礼来等大药企参投。",
+          "key_findings": [
+            "融资 1.33 亿美元，J&J、Merck KGaA、Eli Lilly 与 Sanofi 共同参投",
+            "核心方向为 T 细胞受体（TCR）疗法，覆盖自身免疫病与肿瘤两大适应症",
+            "多家跨国药企或旗下公司参与，显示对 TCR 平台的产业认可"
+          ],
+          "why_it_matters": "TCR 疗法是继 CAR-T 后细胞治疗的重要方向，大药企集中下注反映赛道升温；对关注合成生物学与细胞工程转化的研究者，可留意其靶点选择与 TCR 工程化策略。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:41f33fbd348f61e5",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å±±ä¸æ·ååæ°åºä½ç¼ç æ°å­åç®¡ç æååè®®ç®¡çç²¾ç»åæ°´å¹³",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å±±ä¸æ·ååæ°åºä½ç¼ç æ°å­åç®¡ç æååè®®ç®¡çç²¾ç»åæ°´å¹³ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å±±ä¸æ·ååæ°åºä½ç¼ç æ°å­åç®¡ç æååè®®ç®¡çç²¾ç»åæ°´å¹³end--> æ¥æï¼2026-11-05 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->å±±ä¸çæ·åå¸å»ä¿é¨é¨åæâæ»éåªåä¸å¢ãå­éç»ç­¹è°åãç»æå¨æä¼åãæ°å­èµè½çç®¡âååï¼ä»¥ä½é¢åºä½æ ååç¼ç ãæ°å­åå ¨é¾æ¡ç®¡æ§ä¸ºæ¹é©çªç ´å£ï¼æ­å»ºå ¨åè¦çãå ¨ç¨å¯æ§ãæ°æ®èµè½çåºä½ä¿¡æ¯åç®¡çä½ç³»ï¼æç»­ä¼åå»çèµæºé ç½®ï¼æ¨å¨å®ç°ç¾¤ä¼åè´ãæºææè´¨ãåºéå¢æãä¸ãæ°æºèµè½ï¼æ¨å¨åºä½ç®¡çä¸æ°æ®æ²»çèå¨ãåæ°å¶å®18ä½å¯ä¸åºä½ç¼ç è§åï¼èµäºæ",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/5/art_14_23303.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保床位编码管理，常规政策",
+          "title_cn": "山东淄博创新床位编码数字化管理，提升协议管理精细化水平",
+          "one_liner": "淄博以18位唯一床位编码和数字化全链条管控，推进住院床位标准化管理。",
+          "key_findings": [
+            "按“总量只减不增、存量统筹调剂、结构动态优化、数字赋能监管”原则推进床位改革。",
+            "创新制定18位唯一床位编码规则，搭建全域覆盖、全程可控的床位信息化管理体系。",
+            "目标是优化医疗资源配置，实现群众减负、机构提质的基金增效。"
+          ],
+          "why_it_matters": "床位编码与数字化监管属于医保协议管理的基础设施，合成生物学相关检测、细胞治疗等住院项目的医保结算与床位资源挂钩，可关注其对创新疗法入院路径的间接影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:895344d5fb26fafc",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "ä¸è·¯å»çä¿éåä½è¡å¨ââä¸­å½âä¸çå»çä¿éè½ååäº«æ´»å¨å¨åå®ä¸¾è¡",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ ä¸è·¯å»çä¿éåä½è¡å¨ââä¸­å½âä¸çå»çä¿éè½ååäº«æ´»å¨å¨åå®ä¸¾è¡ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->ä¸è·¯å»çä¿éåä½è¡å¨ââä¸­å½âä¸çå»çä¿éè½ååäº«æ´»å¨å¨åå®ä¸¾è¡end--> æ¥æï¼2026-11-05 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->2026å¹´11æ3æ¥è³5æ¥ï¼ç±å½å®¶å»çä¿éå±åå¹¿è¥¿å£®æèªæ²»åºäººæ°æ¿åºå ±åä¸»åçâä¸è·¯å»çä¿éåä½è¡å¨ââä¸­å½âä¸çå»çä¿éè½ååäº«æ´»å¨âå¨å¹¿è¥¿åå®ä¸¾è¡ãæ¥èªä¸çå½å®¶å»çä¿éæå ³é¨é¨ãå½é ç»ç»ãä¸­å¤®åå½å®¶æºå ³æå ³é¨é¨ãæå ³çä»½å»çä¿éé¨é¨ï¼ä»¥åå»è¯ä¼ä¸ãå»çæºæçä»£è¡¨åå æ´»å¨ãæ´»å¨æ·±å ¥è´¯å½»è½å®å ¨å½å«çä¸å¥åº·å¤§ä¼ç²¾ç¥ï¼ä¾",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/5/art_14_23310.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "国际医保合作，弱相关",
+          "title_cn": "丝路医疗保障合作行动——中国—东盟医疗保障能力分享活动在南宁举行",
+          "one_liner": "国家医保局与广西政府于2026年11月3—5日在南宁举办中国—东盟医疗保障能力分享活动。",
+          "key_findings": [
+            "活动时间为2026年11月3日至5日，由国家医保局与广西壮族自治区政府共同主办。",
+            "东盟国家医保部门、国际组织、中央和国家机关、有关省份医保部门及医药企业、医疗机构代表参加。",
+            "活动旨在落实全国卫生与健康大会精神，推动中国与东盟医保能力分享合作。"
+          ],
+          "why_it_matters": "对合成生物学背景研究者而言，该活动涉及医保准入与医药企业参与，可能影响创新药、生物药在中国—东盟市场的支付与准入环境，值得关注后续政策动向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:4be24f312ed6d1da",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "2026å¹´âæ°æ®è¦ç´ Ãâå¤§èµå ¨å½æ»å³èµ å»çä¿éèµéè·å¥é¡¹ç®åå",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ 2026å¹´âæ°æ®è¦ç´ Ãâå¤§èµå ¨å½æ»å³èµ å»çä¿éèµéè·å¥é¡¹ç®åå --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->2026å¹´âæ°æ®è¦ç´ Ãâå¤§èµå ¨å½æ»å³èµ å»çä¿éèµéè·å¥é¡¹ç®ååend--> æ¥æï¼2026-11-05 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->10æ23æ¥ï¼å½å®¶æ°æ®å±ç­æå ³é¨é¨å¨éå²èåä¸»å2026å¹´âæ°æ®è¦ç´ Ãâå¤§èµå ¨å½æ»å³èµé¢å¥ä»ªå¼ï¼å½å®¶å»çä¿éå±å¯å±é¿ææ»åºå¸­ä»ªå¼å¹¶ä¸ºè·å¥å¢éé¢å¥ã2026å¹´âæ°æ®è¦ç´ Ãâå¤§èµå»çä¿éèµéå ±æ11ä¸ªé¡¹ç®è·å¥ï¼å ¶ä¸­ä¸ç­å¥2ä¸ªï¼äºç­å¥2ä¸ªï¼ä¸ç­å¥7ä¸ªãå½å®¶å»çä¿éå±å¤§æ°æ®ä¸­å¿çµå¤´çâä¾æå ¨å½å»ä¿è¯åè¿½æº¯ä¿¡æ¯ééåºç¨ç³»ç»ãå¼å±å»ä¿å¯ä¿¡æ°æ®ç©ºé´å»ºè®¾ãèµè½",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/5/art_14_23301.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "数据大赛获奖，弱相关",
+          "title_cn": "2026年“数据要素×”大赛全国总决赛医疗保障赛道获奖项目名单",
+          "one_liner": "国家医保局公布2026年“数据要素×”大赛医疗保障赛道获奖名单，共11个项目获奖。",
+          "key_findings": [
+            "医疗保障赛道共11个项目获奖：一等奖2个、二等奖2个、三等奖7个。",
+            "10月23日于青岛举行全国总决赛颁奖仪式，国家医保局副局长李滔出席并颁奖。",
+            "国家医保局大数据中心牵头的医保药品追溯信息采集应用系统等项目获奖。"
+          ],
+          "why_it_matters": "医保数据要素开放与药品追溯体系可能影响合成生物学产品的医保准入、追溯合规与真实世界数据要求，值得关注后续政策走向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:173c28dd8b22ff38",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡è¡é¿æ½åèä¼è§äºæ©æ ¹å£«ä¸¹å©éå¢è£äºé¿å½­æ³°å¾·ãå´ç»å½åä¸­å½åå ¨çç»æµéèå½¢å¿ãä¸­å½éèä¸å¯¹å¤å¼æ¾ç­è®®é¢è¿è¡äºæ·±å ¥äº¤æµãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110516262373524/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行行长潘功胜会见摩根士丹利集团董事长彭泰德",
+          "one_liner": "央行行长潘功胜与摩根士丹利董事长就中国经济金融形势及金融业对外开放交换意见。",
+          "key_findings": [
+            "双方围绕当前中国及全球经济金融形势深入交流",
+            "议题涉及中国金融业对外开放",
+            "会见为高层交流，未公布具体政策决定"
+          ],
+          "why_it_matters": "反映金融监管层与外资机构沟通动向，对合成生物学企业融资环境与外资合作预期有间接参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:aa866c23ff62affa",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡å¯è¡é¿é¹æ¾åºå¸­ç¬¬äºå±å½é éèé¢è¢æèµå³°ä¼ãç¬¬äºå±å½é éèé¢è¢æèµå³°ä¼å¨é¦æ¸¯ä¸¾è¡ãä¸­å½äººæ°é¶è¡å¯è¡é¿é¹æ¾åºå¸­ä¼è®®å¹¶åè¨ãé¹æ¾è¡¨ç¤ºãä¸­å½ç»æµåå±åç°åæ°åä¼æå¿ãä¸­å½äººæ°é¶è¡å°é¡ºåºä¸­å½éèç»æçåè¿è¶å¿ãä¸ºç»æµé«è´¨éåå±è¥é è¯å¥½çéèç¯å¢ãå°ç»§ç»­æ·±åéèä¸é«æ°´å¹³å¯¹å¤å¼æ¾ãæ¯æé¦æ¸¯å½é éèä¸­å¿å»ºè®¾ãå·©åºé¦æ¸¯ç¦»å²¸äººæ°å¸ä¸å¡æ¢çº½å°ä½ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110516113533346/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行副行长邹澜出席第五届国际金融领袖投资峰会",
+          "one_liner": "央行副行长邹澜在香港峰会表示，将顺应金融结构变迁，深化金融业对外开放并支持香港离岸人民币枢纽。",
+          "key_findings": [
+            "邹澜出席在香港举行的第五届国际金融领袖投资峰会并发言",
+            "央行将顺应中国金融结构变迁趋势，营造良好金融环境",
+            "继续深化金融业高水平对外开放，支持香港国际金融中心建设"
+          ],
+          "why_it_matters": "该表态属宏观金融政策方向，未涉及生物医药或合成生物监管，对您的研发与产业化决策直接影响有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:df588ef18fef16f5",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸­å½äººæ°é¶è¡ä¸å°åº¦å°¼è¥¿äºé¶è¡ä¸¾è¡èåå·¥ä½æºå¶å·¥ä½ä¼è®®ãä¸­å½äººæ°é¶è¡å¯è¡é¿å®£æè½ãå°åº¦å°¼è¥¿äºé¶è¡å¯è¡é¿æé©¬æ¯Â·åä¸å¤è¯ºåºå¸­ä¼è®®ãåæ¹å°±èåå·¥ä½æºå¶åä½è¿å±ä»¥åä¸é¶æ®µåè¾¹éèåä½éç¹äº¤æ¢äºæè§ãä¼è®®è®¤ä¸ºãä¸¤å½å¤®è¡å»ºç«çèåå·¥ä½æºå¶æ¯åæ¹åè°æ¨å¨éèåä½äºå®çéè¦å¹³å°ãä¸¤å½å¤®è¡å°ç»§ç»­åæ¥èåå·¥ä½æºå¶éè¦ä½ç¨ãæ¨å¨å¨æ¬å¸åä½ãæ¯ä»ç³»ç»èéãéèå¸åºåä½ãæ°å­è´§å¸åä½ç­éèé¢ååå¾æ´å¤å¡å®ææãÂ ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110515320167091/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行与印度尼西亚银行举行联合工作机制工作会议",
+          "one_liner": "中印尼央行联合工作机制会议，推进本币、支付、数字货币等金融合作。",
+          "key_findings": [
+            "双方就联合工作机制合作进展及下阶段双边金融合作重点交换意见",
+            "合作重点包括本币合作、支付系统联通、金融市场合作、数字货币合作",
+            "两國央行将继续发挥联合工作机制作用，推动取得更多务实成果"
+          ],
+          "why_it_matters": "对合成生物学研究者直接关联有限，但数字货币与跨境支付合作可能影响未来科研经费跨境结算与生物医药国际合作环境。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:125fe2c8bc38f452",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸ºæ¨è¿éèé«è´¨éåå±ãå å¿«éèå¼ºå½å»ºè®¾æä¾äºæ ¹æ¬éµå¾ªãä¸ºç»æµç¨³å®å¢é¿ãé«è´¨éåå±åéèå¸åºå¹³ç¨³è¿è¡è¥é äºè¯å¥½çè´§å¸éèæ¡ä»¶ãåæ¥ä¸¤é¡¹æ¯æèµæ¬å¸åºè´§å¸æ¿ç­å·¥å ·ä½ç¨ãéèçç®¡æ»å±å¤ç½é¶è¡ä¿é©æºæ4469å®¶æ¬¡ãæ·±åæ¯æå°å¾®ä¼ä¸èèµåè°å·¥ä½æºå¶ãå¶å®å®æ½ä¸­å¤®é¶è¡ãéèçç®¡ãèµæ¬å¸åºãå¤æ±é¢åãå å¼ºåéèå­å¸åºå¶åº¦å»ºè®¾ãåæ¯å å¼ºé²èåæå»éæ³éèæ´»å¨è½ååæºå¶å»ºè®¾ãï¼äºï¼è¿ä¸æ­¥å å¼ºåå®åéèçç®¡ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026110510330636555/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "标题无实质内容，无法判断",
+          "title_cn": "中国人民银行金融工作部署：强化金融监管与支持资本市场货币政策工具",
+          "one_liner": "央行部署金融高质量发展，强化监管执法并发挥资本市场货币政策工具作用。",
+          "key_findings": [
+            "金融监管总局处罚银行保险机构4469家次，执法力度持续加强",
+            "发挥两项支持资本市场的货币政策工具作用，维护市场平稳运行",
+            "深化小微企业融资协调机制，加强各金融子市场制度建设"
+          ],
+          "why_it_matters": "合成生物学企业依赖资本市场融资与银行信贷，货币政策工具和监管力度变化会影响初创企业融资环境与合规成本。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:8a77616c0c9245f0",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+            "abstract": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+            "url": "https://openai.com/index/introducing-gpt-6-cyber",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "OpenAI安全智能体重大发布",
+          "title_cn": "GPT-6 Cyber：面向对齐网络安全智能体的前沿探索",
+          "one_liner": "OpenAI 发布 GPT-6 Cyber 网络安全模型，可发现可利用漏洞并开发修复方案。",
+          "key_findings": [
+            "定位为网络安全专用模型，用于发现可被利用的漏洞并开发修复方案。",
+            "训练目标强调在授权范围内行动，体现对齐与合规约束。",
+            "发布方为 OpenAI，属前沿模型在安全垂直场景的产品化。"
+          ],
+          "why_it_matters": "合成生物学研发涉及菌株数据、基因合成订单与实验室信息系统，漏洞发现与修复能力可提升生物安全与数据防护，但需关注授权边界。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:66f1edd61f27038d",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+            "abstract": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
+            "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "HBM内存技术关键",
+          "title_cn": "全栈协同设计破解 AI 内存瓶颈：NVIDIA 率先采用 HBM4",
+          "one_liner": "NVIDIA 通过全栈协同设计并率先采用 HBM3e、HBM4，应对 GPU 内存压力。",
+          "key_findings": [
+            "大模型、长上下文与智能体应用推高 GPU 内存压力，而内存供应趋紧、价格上涨。",
+            "NVIDIA 与内存伙伴紧密合作，率先将 HBM3e、HBM4 引入加速计算栈。",
+            "全栈协同设计旨在从每字节中挖掘更多性能，缓解内存瓶颈。"
+          ],
+          "why_it_matters": "内存带宽与容量是合成生物学 AI 模型（蛋白设计、基因组语言模型）训练推理的关键瓶颈；HBM4 路线影响算力规划与成本。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:00be108b6d5113c9",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+            "abstract": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+            "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "CPU与智能体架构相关",
+          "title_cn": "Vera 兼顾高吞吐与低延迟：AI 智能体的 CPU 新选择",
+          "one_liner": "NVIDIA 推出 Vera CPU，主打高吞吐与最快智能体执行，支撑 AI 工厂中的智能体任务。",
+          "key_findings": [
+            "AI 智能体在搜索、查库、写测代码等步骤依赖 CPU，并在 GPU 推理与 CPU 执行间切换。",
+            "Vera 定位为兼顾最高吞吐与最快智能体响应的 CPU，面向规模化部署智能体的 AI 工厂。"
+          ],
+          "why_it_matters": "合成生物学智能体常需调度数据库查询、序列设计与代码执行；CPU 吞吐与延迟直接影响自动化实验闭环效率，值得关注其与 GPU 协同架构。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:27451d50ffbe138e",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "Gemini新模型值得关注",
+          "title_cn": "Gemini Omni 1.2 Flash：更快、更省成本，支持更长片段",
+          "one_liner": "Google DeepMind 发布 Gemini Omni 1.2 Flash，主打速度、成本与更长片段生成。",
+          "key_findings": [
+            "定位为快速且高性价比的多模态模型版本",
+            "支持比前代更长的片段处理或生成",
+            "发布渠道为 Google DeepMind 官方博客"
+          ],
+          "why_it_matters": "更低的推理成本与更长上下文可降低多模态模型在实验数据分析、文献与图像处理中的使用门槛，值得评估其 API 能力。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:7a4bae13d7faff0a",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Introducing Images 2.6",
+            "abstract": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+            "url": "https://openai.com/index/introducing-images-2-6",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-04",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "图像模型迭代有参考价值",
+          "title_cn": "OpenAI 发布 Images 2.6：图像生成更快，新增 GIF 与 API 控制",
+          "one_liner": "OpenAI 推出 Images 2.6，图像生成更快，支持 GIF 与更精准编辑，并开放新 API 控制。",
+          "key_findings": [
+            "图像生成速度提升，并新增 GIF 动图创建能力。",
+            "编辑精度提高，覆盖 ChatGPT、Codex 与 API 三端。",
+            "API 新增控制项，便于开发者集成与定制。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，更快的图像生成与精准编辑可用于实验示意图、菌株与通路图及论文配图；API 控制便于接入自建数据流程。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:9e827dbe569b5563",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+            "abstract": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+            "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "人形机器人上市值得关注",
+          "title_cn": "Agility Robotics登陆纳斯达克，人形机器人市场面临审视",
+          "one_liner": "美国人形机器人部署领军企业Agility Robotics在纳斯达克上市，引发市场审视。",
+          "key_findings": [
+            "Agility Robotics是美国人形机器人部署领域的领先企业，现已登陆纳斯达克。",
+            "此次上市引发外界对人形机器人市场成熟度与前景的审视。"
+          ],
+          "why_it_matters": "人形机器人是合成生物学自动化实验与生物制造的重要硬件平台，其资本市场表现可反映产业成熟度与落地节奏。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:34bc134b90abc766",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+            "abstract": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+            "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "宝马电动车常规更新",
+          "title_cn": "宝马升级 2027 款 i7 60 xDrive：电池与信息娱乐系统更新",
+          "one_liner": "宝马为旗舰纯电轿车 i7 换装新电池与信息娱乐系统，2027 款 60 xDrive 已试驾。",
+          "key_findings": [
+            "2027 款 i7 60 xDrive 搭载宝马最新一代电池技术",
+            "同步升级车载信息娱乐系统",
+            "定位为宝马旗舰纯电轿车的年度改款"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但可作为电动车电池与车载系统迭代的产业动态参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:47af8b9f451ce4d4",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Merge builds product and business tools with OpenAI technology",
+            "abstract": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+            "url": "https://openai.com/index/merge-builds-with-openai",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "企业应用案例常规",
+          "title_cn": "Merge 借助 OpenAI 技术构建产品与业务工具",
+          "one_liner": "Merge 用 GPT-6 Astra、ChatGPT 和 Codex 审查产品代码并支持营销。",
+          "key_findings": [
+            "Merge 将 GPT-6 Astra、ChatGPT、Codex 用于产品代码审查",
+            "AI 同时用于营销支持、高管晚宴策划与销售更新准备",
+            "案例来自 OpenAI News，展示企业级多场景 AI 落地"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，AI 辅助代码审查与业务流程自动化可迁移到实验室信息学与管线管理，值得关注工具链整合思路。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:e1307179e49cf8be",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Setting a new standard for responsible AI infrastructure",
+            "abstract": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+            "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "政策蓝图弱相关",
+          "title_cn": "OpenAI 发布负责任 AI 基础设施新标准",
+          "one_liner": "OpenAI 推出国家社区契约与算力校园政策蓝图，规范 AI 基础设施发展。",
+          "key_findings": [
+            "提出国家社区契约，保护本地资源并创造就业岗位",
+            "发布算力校园政策蓝图，为负责任 AI 基建提供指引",
+            "聚焦 AI 基础设施对社区与地方经济的实际影响"
+          ],
+          "why_it_matters": "AI 基建政策将影响算力资源分配与数据合规，合成生物学研发依赖大规模计算与本地化部署，值得关注政策走向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:fa95eb760b56378c",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+            "abstract": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+            "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-05",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "人物报道弱相关",
+          "title_cn": "NVIDIA 工程师 Chris Alexiuk：让开发者轻松使用开放权重模型",
+          "one_liner": "NVIDIA 工程师 Chris Alexiuk 主张高调推广开源 AI，专注让开放 LLM 对开发者实用。",
+          "key_findings": [
+            "Alexiuk 是 NVIDIA 深度学习高级产品研究工程师，专攻开放大模型实用化。",
+            "他主张相信开源 AI 就要大声宣传，呼吁业界积极推广该技术。",
+            "工作重心是降低开发者使用开放权重 LLM 的门槛。"
+          ],
+          "why_it_matters": "开放权重模型是合成生物学 AI 工具低成本本地部署的关键路径，NVIDIA 推动其易用化，可能影响你选择模型与算力方案。",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
