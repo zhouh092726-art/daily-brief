@@ -1,0 +1,947 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T07:26:54.434833+08:00",
+  "fetched_ids": [
+    "pubmed:42999765",
+    "pubmed:42999541",
+    "pubmed:43001486",
+    "pubmed:42999890",
+    "pubmed:42998129",
+    "pubmed:42997666",
+    "pubmed:42997634",
+    "pubmed:42991993",
+    "pubmed:42991855",
+    "pubmed:42990603",
+    "pubmed:43002351",
+    "pubmed:43002177",
+    "pubmed:43001940",
+    "pubmed:42999972",
+    "pubmed:43000026",
+    "pubmed:42999028",
+    "pubmed:42998925",
+    "pubmed:42998820",
+    "pubmed:42998791",
+    "pubmed:42998491",
+    "pubmed:42998299",
+    "pubmed:42994815",
+    "pubmed:42994708",
+    "pubmed:42994635",
+    "pubmed:42994288",
+    "pubmed:42993823",
+    "pubmed:42993804",
+    "pubmed:42993470",
+    "pubmed:42993418",
+    "pubmed:42993353",
+    "pubmed:42993276",
+    "pubmed:42992937",
+    "pubmed:42992907",
+    "pubmed:42992878",
+    "pubmed:42992766",
+    "pubmed:42992539",
+    "pubmed:42992050",
+    "pubmed:42990078",
+    "pubmed:42998606",
+    "pubmed:42998582",
+    "pubmed:42999863",
+    "pubmed:42999830",
+    "pubmed:42999631",
+    "pubmed:42991576",
+    "pubmed:42999912",
+    "pubmed:42999407",
+    "pubmed:42997709",
+    "pubmed:42991453",
+    "pubmed:42994102",
+    "pubmed:42990267",
+    "pubmed:42990234",
+    "pubmed:42990382",
+    "pubmed:42990193",
+    "pubmed:42990144",
+    "pubmed:42990359",
+    "pubmed:42990484",
+    "pubmed:42990451",
+    "pubmed:42990333",
+    "pubmed:42990278",
+    "pubmed:42990146",
+    "pubmed:42996533",
+    "pubmed:42996482",
+    "pubmed:42995841",
+    "pubmed:42995833",
+    "pubmed:42991555",
+    "pubmed:42991175",
+    "pubmed:42991163",
+    "pubmed:42995969",
+    "pubmed:42995944",
+    "pubmed:42995902",
+    "pubmed:42995874",
+    "pubmed:42995881",
+    "pubmed:42999442",
+    "pubmed:42999152",
+    "pubmed:42999436",
+    "pubmed:42999120",
+    "pubmed:42988800",
+    "pubmed:42991781",
+    "pubmed:42992217",
+    "pubmed:43000428",
+    "pubmed:42989331",
+    "pubmed:42989307",
+    "pubmed:42989395",
+    "pubmed:42989227",
+    "pubmed:42991167",
+    "pubmed:42991159",
+    "pubmed:42996680",
+    "rss:5aa3d17ca66e8c00",
+    "rss:08ed2723c08424e3",
+    "rss:b15c2c9bbcce17e7",
+    "rss:98b71b8c02182c2b",
+    "rss:c1602135e5ebb81a",
+    "rss:6243adfd88286671",
+    "rss:ce1451cd09d55fea",
+    "rss:e53577e794c18d0a",
+    "rss:4181ab2ace68f509",
+    "rss:f110c3f1cd0b5fe9",
+    "rss:f008fa85da4a1c13",
+    "rss:9cf8e126a492aa65",
+    "rss:011b47bb1b63331a",
+    "rss:28dd11e5c7ac5280",
+    "rss:a7395af23b1ee86a",
+    "rss:d5f95198aec3c358",
+    "rss:371f85e4a1bc80f8",
+    "rss:b1f5974560d46a3a",
+    "rss:f764b825a4ca76ce",
+    "rss:6ef84d3ecd0fe5bc",
+    "rss:39470990ce703bf5",
+    "rss:55ff75b7e78e4859",
+    "rss:0c9655cc368ee5cf",
+    "rss:fd861e7660c4818a",
+    "rss:088e156de78820ed",
+    "rss:9bebf30c6ed9c05b",
+    "rss:42d35db7e20e4e73",
+    "rss:0ba10f18cf6787e3",
+    "rss:632f6faef486c3a9",
+    "rss:7c89f5c8ffb15701",
+    "rss:b921a654432a45c8",
+    "ema:c12b505a690a52cb",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "pbc:be465a9e49fb09a2",
+    "pbc:8ef6a852bab2d3b9",
+    "pbc:725f917600821fe0",
+    "pbc:2ea75d5a7020761b",
+    "rss:4f332da50a5e5a42",
+    "rss:179dae4d6c560260",
+    "rss:ebd6c1fb221ab407",
+    "rss:80bc4c6a8b59176a",
+    "rss:4650983e6e647dcd",
+    "rss:d1cb052980785bb6",
+    "rss:3303d6ac09afad09",
+    "rss:a001352201c836cb",
+    "rss:8a77616c0c9245f0",
+    "rss:47af8b9f451ce4d4",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:dc2f0fdc8ce1ae78",
+    "rss:ba028f76ed47c779",
+    "rss:e4c7720184b2cb28",
+    "rss:42f1c245f492d3d1",
+    "rss:e1a17fbe2fe83333",
+    "rss:ff4528f92cef2b7a",
+    "rss:d4b0c514153b7bf5",
+    "rss:5d62830443eb35d8",
+    "rss:97b99b90da3cd484",
+    "rss:8881f869ba746abe",
+    "rss:392a2a3ed75dc10f",
+    "rss:0aea23c774cc95a8",
+    "rss:6929c8b458801ff1",
+    "rss:a1fdbd28bea1a276",
+    "rss:7f8ff11a7515f7ad",
+    "rss:55fb9d832f2c3260",
+    "rss:d965126e9003a91f",
+    "rss:a187c6f6a738c0f6",
+    "rss:84ba56d0ae0d719d",
+    "rss:29afba60b3c6d70d",
+    "rss:c8ca78f1f71c0f50",
+    "rss:6977852e8db9657f",
+    "rss:81da9ce80f9d082e",
+    "rss:9678fc2a3d3771ad",
+    "rss:966a5276265a844c",
+    "rss:87ba8342209b8a09"
+  ],
+  "stats": {
+    "fetched": 184,
+    "new_items": 44,
+    "kept": 28,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:42999972",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Evolution-Inspired Multi-Objective Bayesian Optimization for Protein Engineering.",
+            "abstract": "Protein engineering requires efficient navigation of vast sequence spaces under limited evaluation budgets, especially when multiple properties must be optimized simultaneously. We developed evolution-inspired multi-objective Bayesian optimization (EvoMOBO), an active-learning framework that integrates path-dependent sequence generation, global candidate competition, and explicit multi-objective optimization, enabling efficient prioritization of high-value variants without exhaustive library enumeration. Compared with state-of-the-art methods on complete steroid receptor DNA-binding domain (DBD) and ParD3 antitoxin landscapes, EvoMOBO achieved greater target-region enrichment while maintaining sequence diversity across two- and three-objective tasks. In the DBD landscape, optimization guided by simulation-derived geometric descriptors enriched variants with satisfactory experimental performance without experimental labels. Building on this validation, we applied EvoMOBO to two enzyme-engineering tasks using mechanistic descriptors, with experiments reserved for final validation. For an old yellow enzyme from Geobacillus kaustophilus, probabilities of substrate binding and reaction preorganization guided optimization of a non-native oxidative dehydrogenation, yielding a variant that increased substrate conversion from 17.5% to 95%. For a formate oxidase from Aspergillus oryzae, stability-related descriptors identified aggregation-resistant variants that nearly doubled diethyl phthalate degradation in a photoenzymatic cascade. Together, these results demonstrate robust multi-objective optimization by EvoMOBO and show that mechanism-derived descriptors can effectively guide protein engineering toward experimentally improved functions.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42999972/",
+            "journal": "Angewandte Chemie (International ed. in English)",
+            "authors": "Wen, Wang, Sun, et al.",
+            "published": "2026-11-08",
+            "doi": "10.1002/anie.4133117"
+          },
+          "score": 80,
+          "score_reason": "多目标贝叶斯优化蛋白质工程",
+          "title_cn": "进化启发的多目标贝叶斯优化用于蛋白质工程",
+          "one_liner": "EvoMOBO 整合路径依赖序列生成与多目标贝叶斯优化，用机制描述符高效富集高价值蛋白变体。",
+          "key_findings": [
+            "在类固醇受体 DBD 与 ParD3 景观上，EvoMOBO 的目标区域富集优于现有方法，并保持序列多样性。",
+            "仅用模拟几何描述符即可富集实验性能良好的 DBD 变体，无需实验标签。",
+            "老黄酶底物转化率从 17.5% 提升至 95%；甲酸氧化酶抗聚集变体使邻苯二甲酸二乙酯降解近乎翻倍。"
+          ],
+          "why_it_matters": "为合成生物学蛋白质工程提供低实验预算下的多目标优化策略，机制描述符可替代湿实验标签，加速酶与结合蛋白设计。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43001940",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Benchmarking and Experimental Validation of Machine Learning Strategies for Enzyme Engineering.",
+            "abstract": "Enzyme-directed evolution increasingly relies on computational tools to prioritize mutations, yet their practical value is difficult to assess because kinetic data are often aggregated across heterogeneous assay conditions, inflating apparent generalization. Here we introduce EnzyArena, a curated benchmark in which kinetic parameters (kcat, Km, or kcat/Km) are grouped by experimental campaign and measured under matched conditions, thereby minimizing confounders such as pH, temperature, reaction, and batch. Using EnzyArena, we systematically evaluate 20 models spanning four widely used strategies for guiding enzyme evolution: protein-ligand binding affinity prediction, protein stability prediction, zero-shot fitness prediction and enzyme kinetic parameters prediction. Across subsets derived from public databases and 25 literature-derived mutagenesis data sets, most models exhibit weak, fragile, or inconsistent correlation with measured functional outcomes. Kinetic-parameter predictors perform strongly on database-derived subsets but lose their advantage on literature-derived mutagenesis data sets, whereas zero-shot predictors show more consistent generalization. A simple consensus of multiple zero-shot models further improves the precision of identifying beneficial mutants in retrospective analyses. We prospectively validated these findings in a wet-lab campaign (150 mutants) comparing random mutants, UniKP-prioritized mutants, and ESM-1v-prioritized mutants (representing supervised kinetic parameters prediction and zero-shot fitness prediction, respectively), where ESM-1v achieved the highest utility and UniKP underperformed the random baseline. Together, this study establishes realistic baselines for computational mutant prioritization and indicates that zero-shot strategies provide the most consistent, although still modest, performance among the approaches evaluated.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43001940/",
+            "journal": "Journal of chemical information and modeling",
+            "authors": "Zeng, Jin, Xu, et al.",
+            "published": "2026-11-09",
+            "doi": "10.1021/acs.jcim.6c01200"
+          },
+          "score": 78,
+          "score_reason": "酶工程ML基准，定向进化核心",
+          "title_cn": "酶工程机器学习策略的基准测试与实验验证",
+          "one_liner": "系统评测20种酶工程模型，零样本预测泛化最稳，但整体性能仍有限。",
+          "key_findings": [
+            "构建EnzyArena基准，按实验批次分组动力学数据，减少pH、温度等混杂因素。",
+            "动力学参数预测器在数据库子集表现强，但在文献突变数据集上优势消失；零样本预测器泛化更一致。",
+            "湿实验验证150个突变体，ESM-1v效用最高，UniKP甚至不如随机基线。"
+          ],
+          "why_it_matters": "为酶定向进化中的计算突变优先级提供现实基线，提示合成生物学团队慎用监督式动力学预测，零样本模型更可靠但仍需湿实验验证。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:42996680",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Refactoring pikromycin synthase for the modular biosynthesis of macrolide antibiotics in E. coli.",
+            "abstract": "While engineering modular polyketide synthases (PKSs) using the recently updated module boundary has yielded libraries of triketide-pentaketides, this strategy has not yet been applied to the combinatorial biosynthesis of macrolactones or macrolide antibiotics. Here we developed a two-plasmid system for the construction and expression of PKSs and used it to obtain a refactored pikromycin PKS in E scherichia coli that produces 49 mg of narbonolide per litre of culture. The replacement, insertion, deletion and mutagenesis of modules enabled access to hexaketide, heptaketide and octaketide derivatives. Supplying enzymes for desosamine biosynthesis and transfer enabled production of narbomycin, pikromycin, YC-17, methymycin and five derivatives thereof. By using native docking domains, knocking out pathways competing with desosamine biosynthesis and supplying the editing thioesterase PikAV, the titre of narbomycin was boosted 58-fold to 37 mg l-1. The second and third modules of the refactored pikromycin synthase were swapped with others to yield three new narbomycin analogues, investigate structure-activity relationships and demonstrate how libraries of macrolide antibiotics can be readily accessed.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42996680/",
+            "journal": "Nature synthesis",
+            "authors": "Miyazawa, Bista, Keatinge-Clay",
+            "published": "2026-01-01",
+            "doi": "10.1038/s44160-026-01108-2"
+          },
+          "score": 72,
+          "score_reason": "PKS重构模块化生物合成大环内酯",
+          "title_cn": "重构苦霉素合成酶在大肠杆菌中模块化生物合成大环内酯抗生素",
+          "one_liner": "在大肠杆菌中重构苦霉素PKS，实现大环内酯及多种衍生物的模块化组合生物合成。",
+          "key_findings": [
+            "双质粒系统重构苦霉素PKS，在大肠杆菌中产narbonolide达49 mg/L。",
+            "模块替换、插入、缺失与突变获得六至八酮衍生物，并合成narbomycin、pikromycin等。",
+            "优化去氧糖胺途径与PikAV硫酯酶，narbomycin产量提升58倍至37 mg/L。"
+          ],
+          "why_it_matters": "将模块化PKS重构与去氧糖胺供给整合于大肠杆菌，为合成生物学改造聚酮及大环内酯药物发现提供可扩展平台。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43000428",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Microbial production of γ-curcumene in metabolically engineered Escherichia coli using a novel γ-curcumene synthase from Parthenium argentatum.",
+            "abstract": "BACKGROUND: Terpenoids are attractive targets for sustainable biomanufacturing because of their structural diversity and potential applications in fuels and high-value chemicals. Among sesquiterpenes, γ-curcumene is a promising yet underexplored molecule, and its efficient microbial production has not been established. In this study, we identified a previously uncharacterized γ-curcumene synthase PaCS from Parthenium argentatum and evaluated its use for microbial γ-curcumene production in metabolically engineered Escherichia coli.\nRESULTS: Sequence analysis revealed that PaCS is phylogenetically distinct from the previously reported γ-curcumene synthase from Pogostemon cablin. When expressed in an E. coli strain carrying a heterologous mevalonate pathway, PaCS predominantly produced γ-curcumene, with only minor formation of (-)-α-bisabolol. Product identity was confirmed by GC-MS and NMR analyses. Biochemical characterization of recombinant PaCS showed maximal activity at 35 °C and pH 8.5, with Mg²⁺ as the preferred divalent metal ion. For microbial production, culture conditions and host background were evaluated, and the evolved strain SBA01 showed the best performance. In fed-batch fermentation, the engineered strain produced up to 1.1 g/L γ-curcumene in terrific broth and 1.03 g/L in modified R medium. In addition, purified γ-curcumene was chemically hydrogenated to bisabolane and dihydro-ar-curcumene, demonstrating its utility as a precursor for fuel-related sesquiterpene hydrocarbons.\nCONCLUSIONS: This study establishes a microbial production platform for γ-curcumene using a novel γ-curcumene synthase from P. argentatum and metabolically engineered E. coli. The results expand the available terpene synthase toolbox and provide a foundation for the biosynthesis and downstream upgrading of γ-curcumene-derived molecules. These findings support the broader use of synthetic biology and metabolic engineering for the production of non-native sesquiterpenes from renewable carbon sources.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43000428/",
+            "journal": "Journal of biological engineering",
+            "authors": "Lee, Kim, Jeon, et al.",
+            "published": "2026-08-12",
+            "doi": "10.1186/s13036-026-00752-8"
+          },
+          "score": 60,
+          "score_reason": "大肠杆菌萜类合成，合成生物学常规",
+          "title_cn": "利用银胶菊新型γ-姜黄烯合酶在代谢工程大肠杆菌中生产γ-姜黄烯",
+          "one_liner": "发现银胶菊新型γ-姜黄烯合酶PaCS，在大肠杆菌中实现1.1 g/Lγ-姜黄烯生产。",
+          "key_findings": [
+            "从银胶菊鉴定出系统发育独特的新型γ-姜黄烯合酶PaCS，最适35°C、pH 8.5，偏好Mg²⁺。",
+            "在大肠杆菌中引入异源甲羟戊酸途径，PaCS主要产γ-姜黄烯，仅少量副产物。",
+            "进化菌株SBA01补料分批发酵产量达1.1 g/L，产物可氢化为燃料前体红没药烷。"
+          ],
+          "why_it_matters": "拓展萜类合酶工具箱，为大肠杆菌高产非天然倍半萜及燃料分子下游升级提供可借鉴的代谢工程与发酵策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43001486",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Liquid biopsy for brain tumors.",
+            "abstract": "PURPOSE OF REVIEW: Diagnosis and molecular classification of central nervous system (CNS) tumors depend largely on neurosurgical sampling, which may be difficult to obtain and is rarely repeated throughout the disease course. This review examines how liquid biopsy may extend molecular assessment of primary and metastatic CNS tumors beyond the initial tissue specimen.\nRECENT FINDINGS: Cerebrospinal fluid (CSF) cell-free DNA can identify diagnostically informative alterations in gliomas, CNS lymphoma, and CNS metastases. Serial sampling can reveal evolving tumor clones and resistance-associated alterations absent from archival tissue. Recent advances in error-corrected sequencing, fragment analysis, and methylation classification broaden the molecular information available from blood and CSF. However, diagnostic yield varies with tumor type, anatomical location, sampling compartment, and assay design, and blood-based detection remains challenging in primary brain tumors.\nSUMMARY: Liquid biopsy may complement tissue diagnosis, imaging, and conventional CSF studies, particularly when repeat tissue sampling is impractical. Prospective validation is needed to establish standardized workflows, clarify the interpretation of negative results, and determine whether molecular findings improve treatment selection and patient outcomes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43001486/",
+            "journal": "Current opinion in neurology",
+            "authors": "Nooguru, McFaline-Figueroa",
+            "published": "2026-12-01",
+            "doi": "10.1097/WCO.0000000000001522"
+          },
+          "score": 55,
+          "score_reason": "液体活检综述，与创新药诊疗相关",
+          "title_cn": "脑肿瘤的液体活检",
+          "one_liner": "脑脊液cfDNA可识别脑肿瘤分子改变并追踪克隆演化，但血液检测在原发脑肿瘤中仍困难。",
+          "key_findings": [
+            "脑脊液cfDNA能检出胶质瘤、CNS淋巴瘤及转移瘤的诊断性分子改变。",
+            "连续采样可揭示组织标本中缺失的演化克隆和耐药相关改变。",
+            "纠错测序、片段分析与甲基化分类拓展了血和脑脊液的分子信息。"
+          ],
+          "why_it_matters": "为难以重复取样的脑肿瘤提供分子监测替代路径；合成生物学背景者可关注cfDNA检测方法学与标准化工作流的设计空间。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43002351",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Preoperative discrimination of malignant and benign ovarian masses using cfDNA fragmentomics and serum biomarkers.",
+            "abstract": "Preoperative discrimination of ovarian cancer from benign masses poses significant challenges, particularly in cases where serum biomarkers yield negative or nonspecific results. This multicenter observational diagnostic modeling study analyzed plasma cell-free DNA (cfDNA) from 743 participants across training, internal test, external test, and two exploratory cohorts using low-pass whole-genome sequencing. Four fragmentomic feature classes-fragment size patterns, nucleosome footprint-related features, copy-number variations, and repeat element patterns-were incorporated into a stacked machine-learning model. Model development and cutoff selection were limited to the training cohort, followed by evaluation in the internal-test and external-test cohorts. The cfDNA model achieved areas under the receiver operating characteristic curve (AUCs) of 0.930 (95% confidence interval [CI], 0.894-0.966) and 0.932 (95% CI, 0.891-0.972) in the internal-test and external-test cohorts, respectively. Incorporation of cfDNA with cancer antigen 125 (CA125) and human epididymis protein 4 (HE4) increased AUCs to 0.964 (95% CI, 0.938-0.990) and 0.964 (95% CI, 0.938-0.991). At cutoffs derived from the training cohort, the combined model maintained sensitivities of 88.4% and 89.2% while enhancing specificity from 77.9% to 88.4% and from 78.9% to 91.5%, respectively. The cfDNA model also effectively detected cancers with CA125 and/or HE4 levels below conventional thresholds, and post hoc analyses demonstrated complementary discrimination when cfDNA was added to the Risk of Ovarian Malignancy Algorithm. These findings advocate for prospective evaluation of integrated cfDNA fragmentomics as an adjunct for preoperative risk stratification of ovarian masses.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43002351/",
+            "journal": "Molecular biomedicine",
+            "authors": "Liu, Yang, Wang, et al.",
+            "published": "2026-11-09",
+            "doi": "10.1186/s43556-026-00652-9"
+          },
+          "score": 50,
+          "score_reason": "cfDNA片段组学诊断，方法学相关",
+          "title_cn": "cfDNA片段组学联合血清标志物用于卵巢良恶性肿块的术前鉴别",
+          "one_liner": "cfDNA片段组学模型联合CA125/HE4可将卵巢肿块术前鉴别AUC提升至0.964。",
+          "key_findings": [
+            "多中心743例血浆cfDNA低深度全基因组测序，整合片段大小、核小体足迹、CNV和重复序列四类特征构建堆叠机器学习模型。",
+            "cfDNA模型内部与外部测试集AUC分别为0.930和0.932；联合CA125/HE4后均升至0.964。",
+            "联合模型保持约88-89%敏感性，特异性由约78%提升至88-92%，并可检出CA125/HE4低于常规阈值的癌症。"
+          ],
+          "why_it_matters": "为液体活检早筛提供可复用的片段组学特征工程与多组学 stacking 范式，对深圳从事cfDNA检测与肿瘤诊断产品开发的团队有直接方法学参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42991159",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Therapeutic Potential of Mesenchymal Stem Cell-Derived Extracellular Vesicles for Tendon Regeneration: Insights into Inflammatory and Angiogenesis Modulation.",
+            "abstract": "Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) are a promising cell-free therapeutic in preclinical models of tendon healing. However, clinical translation remains to be demonstrated. MSC-EVs modulate two critical and interlinked processes in tendon repair-inflammation and angiogenesis-primarily via delivery of bioactive cargo such as microRNAs and proteins. In inflammation, MSC-EVs promote the transition of macrophages from a pro-inflammatory (M1) to an anti-inflammatory (M2) phenotype, enhancing the resolution of inflammation. In angiogenesis, MSC-EVs facilitate endothelial cell proliferation and migration, promoting early vascularization followed by vascular regression during later healing. Recent advancements in MSC-EVs engineering and delivery systems have improved their therapeutic efficacy, yet further research is essential to elucidate their molecular mechanisms and achieve precise therapeutic outcomes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42991159/",
+            "journal": "International journal of molecular and cellular medicine",
+            "authors": "Fernanda, Antarianto, Abinawanto, et al.",
+            "published": "2026-01-01",
+            "doi": "10.22088/IJMCM.BUMS.15.2.1306"
+          },
+          "score": 45,
+          "score_reason": "MSC细胞外囊泡治疗，边缘相关",
+          "title_cn": "间充质干细胞来源细胞外囊泡促进肌腱再生的治疗潜力：炎症与血管新生调控机制",
+          "one_liner": "MSC-EVs通过miRNA和蛋白货物调控炎症与血管新生，促进肌腱修复，但临床转化尚未验证。",
+          "key_findings": [
+            "MSC-EVs促使巨噬细胞由M1向M2表型转变，加速炎症消退",
+            "MSC-EVs促进内皮细胞增殖迁移，早期促血管化、后期促血管退化",
+            "工程化改造与递送系统优化提升了疗效，但分子机制仍待阐明"
+          ],
+          "why_it_matters": "为无细胞治疗与EV工程提供肌腱修复范式；其miRNA货物与炎症-血管时序调控思路可迁移至合成生物学线路设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:42991167",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Biochemical profiling of adipose-derived mesenchymal stem cell conditioned media: Reproducible protein quantification and growth factor analysis.",
+            "abstract": "Mesenchymal stem cell-conditioned media (MSC-CM) represents a promising cell-free therapeutic strategy in regenerative medicine, leveraging the paracrine effects of stem cells. Standardized biochemical characterization of MSC-CM is crucial for ensuring its reproducibility and therapeutic potential. However, statistical validation of batch-to-batch reproducibility has been rarely reported. Therefore, this study aimed to establish a reproducible protocol for AD-MSC-CM production and quantitatively demonstrate batch-to-batch reproducibility of total protein and key growth factors. Adipose-derived MSCs (AD-MSCs) were isolated from rat adipose tissue, expanded, and used to produce conditioned media (MSC-CM). The MSC-CM was biochemically profiled using the Bradford assay for total protein concentration and specific enzyme-linked immunosorbent assays (ELISAs) for quantifying Transforming Growth Factor-Beta (TGF-β) and Vascular Endothelial Growth Factor (VEGF). Analyses were performed on three independent biological replicates. The MSC-CM showed a significant and consistent increase in total protein concentration compared to control serum-free medium. Quantitative analysis revealed reproducible and stable secretion of key growth factors. The concentrations of both TGF-β and VEGF showed no significant variation across the biological replicates, confirming the high reproducibility of the MSC-CM preparation protocol. This study established a robust method for generating reproducible AD-MSC-CM, characterized by a stable and enriched content of total protein and specific growth factors (TGF-β and VEGF). The findings confirm the reliability of the production process and highlight the hypothesized potential of this well-characterized MSC-CM as a consistent therapeutic agent for applications requiring immunomodulation and angiogenesis, pending direct functional validation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42991167/",
+            "journal": "International journal of molecular and cellular medicine",
+            "authors": "Nasiri, Gholami, Nazemi Zadeh, et al.",
+            "published": "2026-01-01",
+            "doi": "10.22088/IJMCM.BUMS.15.2.1409"
+          },
+          "score": 40,
+          "score_reason": "MSC条件培养基表征，弱相关",
+          "title_cn": "脂肪间充质干细胞条件培养基的生化表征：可重复的蛋白定量与生长因子分析",
+          "one_liner": "建立可重复的AD-MSC条件培养基制备流程，并验证批间总蛋白及TGF-β、VEGF分泌稳定。",
+          "key_findings": [
+            "大鼠AD-MSC条件培养基总蛋白显著高于无血清对照，Bradford法定量。",
+            "ELISA显示TGF-β与VEGF在三批生物学重复间无显著差异，批间重复性高。",
+            "该研究提供了MSC-CM标准化生化表征与统计验证批间一致性的方法。"
+          ],
+          "why_it_matters": "为无细胞再生医学产品的批间一致性提供可量化质控范式，对合成生物学改造MSC、开发标准化条件培养基疗法的工艺放大与QC有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43000026",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Harnessing plant redox networks and bacterial modulation for next-generation abiotic stress resilience in crops.",
+            "abstract": "Abiotic stresses such as drought, salinity, heavy metals, heat, and cold disrupt cellular redox homeostasis, resulting in the excessive production of reactive oxygen species (ROS) and oxidative damage that negatively affect plant growth and productivity. Under controlled conditions, lower level of ROS act as signaling molecule, whereas, at elevated levels with biotic and abiotic stress factors, causes cellular damage. This review critically examines the molecular mechanisms involved in redox homeostasis in plants, including both enzymatic and non-enzymatic antioxidant systems. The integrated roles of phytohormone signaling and plant growth-promoting bacteria (PGPB) in regulating ROS metabolism, boosting antioxidant capacity, and enhancing abiotic stress tolerance are further discussed. Mechanistic insights into plant stress adaptation are provided by evaluating recent advances in transcriptional regulation, epigenetic modification, and redox-associated regulatory networks. Moreover, we review the contributions of multi-omics approaches toward understanding redox regulation and identifying key molecular components involved in stress resilience. Finally, emerging applications of synthetic biology and artificial intelligence are explored as potential tools for engineering redox regulatory networks to accelerate the development of climate-resilient crops. Overall, this review provides an integrated mechanistic framework outlining how redox biology, PGPB interactions, and next-generation engineering strategies can be combined to enhance crop resilience and sustainable agricultural productivity under future environmental shifts.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43000026/",
+            "journal": "Plant physiology and biochemistry : PPB",
+            "authors": "Sarkar, Bhattacharyya, Sarkar, et al.",
+            "published": "2026-11-07",
+            "doi": "10.1016/j.plaphy.2026.111946"
+          },
+          "score": 35,
+          "score_reason": "植物抗逆综述，弱相关",
+          "title_cn": "整合植物氧化还原网络与细菌调控以培育下一代非生物胁迫抗性作物",
+          "one_liner": "综述提出整合氧化还原网络、PGPB互作与合成生物学/人工智能工程化策略以增强作物非生物胁迫抗性。",
+          "key_findings": [
+            "系统梳理酶与非酶抗氧化系统、植物激素信号及转录/表观调控构成的氧化还原稳态机制。",
+            "植物促生菌（PGPB）可调控ROS代谢、提升抗氧化能力从而增强非生物胁迫耐受。",
+            "多组学用于解析氧化还原调控并识别抗逆关键组分，合成生物学与AI被展望为工程化工具。"
+          ],
+          "why_it_matters": "为合成生物学改造作物抗逆提供氧化还原网络靶点与工程化思路，对深圳农业合成生物学与气候韧性作物研发有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43002177",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Microbiota-dependent biofunctionality of sulfated fucans from Saccharina japonica during intestinal epithelial development in juvenile mice: Limosilactobacillus reuteri L11 as a microbial responder.",
+            "abstract": "Previous studies have demonstrated that sulfated fucans from Saccharina japonica (SJ-FUC) promote intestinal epithelial development in juvenile mice. However, whether this biofunctionality depends on the gut microbiota and which microbial responders contribute to this process remain unclear. Here, we integrated in vitro anaerobic fermentation, metagenomic analysis, antibiotic-mediated microbiota depletion, bacterial isolation, and juvenile mouse intervention to investigate the microbial basis underlying the intestinal biofunctionality of SJ-FUC. In vitro fecal fermentation showed that SJ-FUC markedly remodeled the gut microbiota derived from both conventional and SJ-FUC-adapted mice and selectively enriched specific bacterial taxa. Limosilactobacillus reuteri exhibited a consistent response to SJ-FUC, with a higher baseline abundance in adapted microbiota and further enrichment after fermentation. In antibiotic-treated mice, microbiota depletion markedly attenuated SJ-FUC-induced intestinal stem cell-associated responses, epithelial proliferation, and secretory lineage differentiation, demonstrating that the intestinal effects of SJ-FUC are largely microbiota-dependent. A strain of L. reuteri, designated L11, was subsequently isolated from the SJ-FUC fecal fermentation system and functionally evaluated in juvenile mice. Both viable L11 and its cell-free supernatant upregulated the intestinal stem cell markers Lgr5, Olfm4, and Ascl2, enhanced Wnt/β-catenin-related gene expression and epithelial proliferation, and promoted secretory lineage differentiation. Overall, these findings establish the gut microbiota as an important contributor to the intestinal biofunctionality of SJ-FUC and identify L. reuteri L11 as a functional microbial responder associated with these effects. This study provides new insight into how an edible-algae-derived sulfated polysaccharide influences juvenile intestinal epithelial development through interactions with the gut microbiota.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43002177/",
+            "journal": "Food & function",
+            "authors": "Wei, Sun, Wang, et al.",
+            "published": "2026-11-09",
+            "doi": "10.1039/d6fo04530h"
+          },
+          "score": 30,
+          "score_reason": "肠道菌群与岩藻聚糖，弱相关",
+          "title_cn": "日本海带硫酸岩藻聚糖的肠道菌群依赖性生物功能：以 Limosilactobacillus reuteri L11 为微生物响应菌",
+          "one_liner": "日本海带硫酸岩藻聚糖促进幼鼠肠上皮发育依赖肠道菌群，L. reuteri L11 是关键响应菌。",
+          "key_findings": [
+            "体外粪菌发酵显示 SJ-FUC 重塑菌群并选择性富集 L. reuteri；抗生素清除菌群后其促肠上皮效应显著减弱。",
+            "分离出 L. reuteri L11，其活菌及无细胞上清均上调 Lgr5、Olfm4、Ascl2，激活 Wnt/β-catenin 并促增殖与分泌谱系分化。"
+          ],
+          "why_it_matters": "为藻源硫酸多糖的益生元机制提供菌株级证据，提示可开发 L11 等响应菌作为合生元，用于婴幼儿肠道发育或肠上皮修复研究。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:fd861e7660c4818a",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Gene therapy’s long-debated cancer risk materializes",
+            "abstract": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that…",
+            "url": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "基因治疗致癌风险实证，关键",
+          "title_cn": "STAT：基因疗法长期争议的致癌风险成为现实",
+          "one_liner": "少数病例提供强证据，表明基因疗法所用病毒载体可能致癌。",
+          "key_findings": [
+            "基因治疗领域长期争论病毒载体是否会引发肿瘤，如今出现少数病例。",
+            "这些病例为病毒载体致癌风险提供了有力证据。",
+            "具体数据、适应症与临床意义未在摘要中披露。"
+          ],
+          "why_it_matters": "病毒载体是基因治疗与体内递送的核心工具，致癌风险若被证实，将影响载体设计、临床前安全评估与监管路径，对从事基因递送与合成生物学改造的团队有直接警示。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:39470990ce703bf5",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+            "abstract": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+            "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "FDA批准拜耳新机制卒中药",
+          "title_cn": "FDA批准拜耳新型抗凝药，用于降低卒中复发风险",
+          "one_liner": "FDA批准拜耳首创抗凝新药，可在不增加出血风险的前提下预防血栓、降低卒中复发。",
+          "key_findings": [
+            "该药属全新机制类别，为首个可在不增加出血风险下防血栓的药物。",
+            "适应症为降低卒中复发风险，针对需长期抗凝的患者群体。",
+            "作为首创机制药物，其获批意味着抗凝治疗新增一类选择。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，这是新机制药物临床转化的案例，可关注其靶点与安全性设计思路，但非直接相关领域。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:98b71b8c02182c2b",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "US government removes WuXi AppTec from Chinese military list",
+            "abstract": "The Pentagon removed WuXi AppTec from its list of Chinese military companies, but there's still the risk of redesignation for the Shanghai service provider. The US deputy secretary of defense has decided to delist WuXi ...",
+            "url": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "药明康德移除清单，供应链利好",
+          "title_cn": "美国国防部将药明康德移出中国军事企业清单",
+          "one_liner": "五角大楼将药明康德从中国军事企业清单中移除，但仍存在被重新列入的风险。",
+          "key_findings": [
+            "美国国防部副部长决定将药明康德从中国军事企业清单中除名。",
+            "药明康德仍面临被重新列入该清单的风险。",
+            "药明康德是一家总部位于上海的服务提供商。"
+          ],
+          "why_it_matters": "药明康德是生物医药外包服务的关键供应商，其清单状态影响中美生物医药供应链与CDMO合作，合成生物学相关研发外包决策需关注政策反复风险。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:55ff75b7e78e4859",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
+            "abstract": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
+            "url": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "药明康德移除清单，供应链利好",
+          "title_cn": "特朗普政府将药明康德移出“中国军事企业”清单",
+          "one_liner": "特朗普政府将药明康德从美国“中国军事企业”清单中移除。",
+          "key_findings": [
+            "药明康德是制药行业重要合作伙伴，此前被列入该清单。",
+            "此次移除由特朗普政府作出，具体原因与后续影响未在摘要中说明。"
+          ],
+          "why_it_matters": "药明康德是大量生物医药企业（含合成生物学与细胞基因治疗公司）的CDMO伙伴，清单身份变化直接影响中美研发外包与供应链合规判断。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:4181ab2ace68f509",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill",
+            "abstract": "Eli Lilly plans to seek approval of its obesity med in obstructive sleep apnea after a positive Phase 3 trial, potentially giving it a new way to compete with Novo's far-better-selling Wegovy ...",
+            "url": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "礼来口服GLP-1三期成功",
+          "title_cn": "AHA26：礼来肥胖口服药在睡眠呼吸暂停III期试验中再获阳性结果",
+          "one_liner": "礼来肥胖口服药III期试验阳性，计划申请阻塞性睡眠呼吸暂停适应症，与Wegovy竞争。",
+          "key_findings": [
+            "III期试验阳性，礼来拟就肥胖药物提交阻塞性睡眠呼吸暂停新适应症申请。",
+            "该药为口服制剂，或为礼来提供与诺和诺德Wegovy竞争的新路径。",
+            "Wegovy当前销量远超礼来同类产品，此项适应症拓展具商业意义。"
+          ],
+          "why_it_matters": "肥胖药物向睡眠呼吸暂停等并发症适应症扩展，提示代谢与呼吸交叉领域的临床与注册机会，值得关注口服GLP-1类药物的差异化布局。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:088e156de78820ed",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
+            "abstract": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable drug Zepbound.",
+            "url": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "礼来口服GLP-1睡眠呼吸数据",
+          "title_cn": "礼来GLP-1口服药Foundayo在后期研究中改善睡眠呼吸暂停",
+          "one_liner": "礼来口服GLP-1药Foundayo两项后期研究改善睡眠呼吸暂停，但疗效似不及注射剂Zepbound。",
+          "key_findings": [
+            "两项后期研究显示Foundayo可缓解睡眠呼吸暂停",
+            "口服疗效似乎不及礼来注射剂Zepbound",
+            "摘要未披露具体疗效数据与适应症细节"
+          ],
+          "why_it_matters": "GLP-1口服替代注射是代谢病药物研发热点，对合成生物学递送与口服多肽平台有参考价值，但需关注疗效差距。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:b15c2c9bbcce17e7",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "FDA orders GLP-1 drugmakers to warn of rare eye disease",
+            "abstract": "The FDA told GLP-1 drugmakers to update their product labels to reflect an increased risk of a rare eye condition that could lead to blindness. The agency said it was requiring companies to tack on ...",
+            "url": "https://endpoints.news/fda-orders-glp-1-drugmakers-to-warn-of-rare-eye-disease/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "GLP-1标签更新，重要安全信号",
+          "title_cn": "FDA要求GLP-1药物厂商警示罕见眼病风险",
+          "one_liner": "FDA要求GLP-1药物厂商更新标签，警示可能导致失明的罕见眼病风险。",
+          "key_findings": [
+            "FDA要求企业在GLP-1产品标签中增加罕见眼病风险警示。",
+            "该眼病罕见但可能导致失明，属于新增安全性信号。",
+            "涉及所有GLP-1药物厂商的标签更新。"
+          ],
+          "why_it_matters": "GLP-1是当前最热门的代谢药物赛道，安全性信号变化会影响标签、临床用药与在研管线设计；对关注多肽/小分子药物开发的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:0c9655cc368ee5cf",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+            "abstract": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
+            "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "GLP-1罕见眼病风险警告",
+          "title_cn": "FDA警告GLP-1药物可能引发罕见眼病风险",
+          "one_liner": "FDA警告GLP-1类药物可能带来罕见但严重的\"眼卒中\"风险。",
+          "key_findings": [
+            "FDA于周一发布警告，GLP-1药物存在罕见严重眼病风险",
+            "该眼病有时被称为\"眼卒中\"，属罕见但严重的不良事件",
+            "警告基于潜在风险信号，未披露具体发生率或病例数"
+          ],
+          "why_it_matters": "GLP-1是当前最热门靶点之一，眼卒中风险信号可能影响药物安全评价与适应症拓展；对关注多肽药物与递送安全性的研究者有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:0aea23c774cc95a8",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+            "abstract": "NVIDIA, Rebellions and SK Telecom today announced a collaboration to advance Korea’s sovereign AI infrastructure — using NVIDIA NVLink Fusion™ to bring together NVIDIA’s open infrastructure platform, Rebellions’ Korean-designed AI processors and SK Telecom’s AI data center, model and service capabilities.",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "NVLink Fusion开放生态关键进展",
+          "title_cn": "NVIDIA、Rebellions 与 SK 电讯合作，以 NVLink Fusion 推进韩国主权 AI 基础设施",
+          "one_liner": "三方将用 NVIDIA NVLink Fusion 整合韩国自研 AI 芯片与 SK 电讯数据中心，共建主权 AI 基础设施。",
+          "key_findings": [
+            "合作以 NVIDIA NVLink Fusion 为互联核心，连接 NVIDIA 开放平台与 Rebellions 韩国自研 AI 处理器。",
+            "SK 电讯提供 AI 数据中心、模型与服务能力，形成从芯片到服务的本地化链条。",
+            "目标为韩国主权 AI 基础设施，强调本地芯片与算力自主。"
+          ],
+          "why_it_matters": "主权 AI 与异构芯片互联正成为算力基建新方向；对合成生物学而言，本地化 AI 算力可能影响模型训练与数据合规部署路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:a187c6f6a738c0f6",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Nvidia CEO's affair becomes a national security problem",
+            "abstract": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "英伟达地缘安全风险需关注",
+          "title_cn": "英伟达CEO婚外情风波升级为国家安全问题",
+          "one_liner": "英伟达正调查中国情报机构是否借CEO婚外情对其进行渗透。",
+          "key_findings": [
+            "英伟达内部调查中国情报是否通过婚外情接触其CEO",
+            "事件已从个人丑闻升级为美国国家安全层面的关切",
+            "调查聚焦情报渗透路径，而非婚外情本身"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，此事提示中美科技博弈已延伸至企业高管人身安全与供应链信任层面，可能影响在华研发合作与设备采购的合规判断。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:8881f869ba746abe",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+            "abstract": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+            "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "NVLink Fusion生态扩展值得关注",
+          "title_cn": "英伟达与韩国扩大主权AI合作：从芯片到人才",
+          "one_liner": "英伟达与韩国科技部扩大主权AI合作，覆盖AI芯片、数据中心、人才与初创生态。",
+          "key_findings": [
+            "韩国NPU与XPU企业可探索加入英伟达NVLink Fusion生态",
+            "合作覆盖AI半导体、数据中心基础设施、模型、智能体与安全",
+            "合作方为韩国科学技术信息通信部（MSIT），属国家级生态布局"
+          ],
+          "why_it_matters": "对合成生物学读者，NVLink Fusion开放NPU/XPU接入或影响未来本地AI算力选型与成本；韩国主权AI生态也可能成为深圳团队出海合作与算力采购的参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:392a2a3ed75dc10f",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+            "abstract": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+            "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 66,
+          "score_reason": "多GPU推理部署方案有参考",
+          "title_cn": "NVIDIA 发布 Dynamo 部署方案，将韩国主流开源模型推向生产环境",
+          "one_liner": "NVIDIA 为 SKT、LG 等四家韩国开源模型提供 Dynamo 优化部署配方，支持多 GPU 拆分推理。",
+          "key_findings": [
+            "覆盖 A.X K2、K-EXAONE 2.0、Solar Open 2、Motif-3 四款韩国开源模型",
+            "针对模型超出单 GPU 容量场景，提供多 GPU 拆分与请求路由协调方案",
+            "以部署配方形式降低开源模型上生产的工程门槛"
+          ],
+          "why_it_matters": "合成生物学团队自建或微调大模型时，常受限于单卡显存；此类多卡推理部署方案可降低本地化部署门槛，值得关注其是否适配自研模型。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:5d62830443eb35d8",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+            "abstract": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+            "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "物理AI与半导体制造落地",
+          "title_cn": "NVIDIA 助力韩国将物理 AI 推向多行业落地",
+          "one_liner": "NVIDIA 联合韩国产业界，将加速计算、AI 与仿真用于半导体、机器人和自动驾驶等物理 AI 场景。",
+          "key_findings": [
+            "韩国产业领袖把加速计算、AI 与仿真用于半导体制造、机器人和自动驾驶等场景。",
+            "相关合作推动物理 AI 从开发阶段进入真实生产环境。",
+            "三星在半导体工程方面取得进展，具体细节见原文后续内容。"
+          ],
+          "why_it_matters": "物理 AI 与仿真加速正渗透半导体、机器人和自动驾驶；对合成生物学读者而言，可关注其仿真与自动化平台思路能否迁移至生物制造与实验室自动化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:179dae4d6c560260",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+            "abstract": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+            "url": "https://openai.com/index/control-room",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "模型安全管控机制有参考价值",
+          "title_cn": "OpenAI 控制室：跨研究基础设施追踪并中止模型工作负载的中央系统",
+          "one_liner": "OpenAI 推出 Control Room，可跨研究基础设施追踪模型工作负载，并在安全或安保担忧出现时快速中止。",
+          "key_findings": [
+            "Control Room 是中央系统，统一追踪研究基础设施中的模型工作负载。",
+            "当出现安全或安保担忧时，该系统可快速停止相关工作负载。",
+            "该机制面向内部研究基础设施，强调对模型运行的实时管控。"
+          ],
+          "why_it_matters": "对合成生物学研究者而言，若使用大模型辅助设计或自动化实验，这类可追踪、可中止的管控机制可作为实验室 AI 工作负载安全治理的参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ff4528f92cef2b7a",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+            "abstract": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+            "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "机器人仿真操作进展",
+          "title_cn": "NVIDIA 与合作伙伴在 CoRL 展示机器人如何通过仿真演练精细操作",
+          "one_liner": "NVIDIA 及合作方在 CoRL 展示用仿真训练机器人完成齿轮对齐、线缆连接等精细装配任务。",
+          "key_findings": [
+            "仿真训练重心从机器人行走、滚动等运动能力转向精细操作与装配。",
+            "展示任务包括齿轮对齐、线缆连接和小型部件组装。",
+            "成果于本周机器人学习会议 CoRL 上集中发布。"
+          ],
+          "why_it_matters": "精细操作仿真训练可加速实验室自动化与生物制造流程的机器人化，对合成生物学高通量实验平台搭建有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ebd6c1fb221ab407",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "CodeRabbit scales agentic software development and ships 20x more",
+            "abstract": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+            "url": "https://openai.com/index/coderabbit-codex-daybreak",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "AI编程落地案例，常规",
+          "title_cn": "CodeRabbit 借助 OpenAI 模型扩展智能体软件开发，交付量提升 20 倍",
+          "one_liner": "CodeRabbit 用 OpenAI 模型治理 AI 生成代码，同一工程团队软件交付量提升 20 倍。",
+          "key_findings": [
+            "CodeRabbit 采用 OpenAI 模型审查与治理 AI 生成代码，以建立可信度",
+            "借助 Codex，同一工程团队软件交付量提升至 20 倍",
+            "案例来自 OpenAI News，展示智能体开发在工程效率上的规模化效果"
+          ],
+          "why_it_matters": "AI 生成代码的治理与可信审查正成为工程效率的关键环节；合成生物学团队若自建软件或数据管线，可借鉴此类智能体开发与代码审查模式。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:97b99b90da3cd484",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+            "abstract": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+            "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "智能体安全与开源模型",
+          "title_cn": "韩国AI生态升级：现代汽车与AIM Intelligence采用NVIDIA智能体AI方案",
+          "one_liner": "现代汽车探索NVIDIA NemoClaw蓝图，AIM Intelligence将Starfort平台接入OpenShell运行时。",
+          "key_findings": [
+            "现代汽车集团正在探索NVIDIA NemoClaw蓝图与OpenShell运行时，用于智能体AI开发。",
+            "AIM Intelligence将Starfort平台与NVIDIA OpenShell集成，支持安全的企业级AI智能体。",
+            "方案聚焦员工生产力与企业工作流，强调开放模型与同步演进的安全能力。"
+          ],
+          "why_it_matters": "智能体AI的安全运行时与开放模型正成为企业落地关键；合成生物学研发自动化与实验室智能体或可借鉴此类安全架构。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:4f332da50a5e5a42",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "ChatGPT Enterprise now available in AWS Marketplace",
+            "abstract": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+            "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-09",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "企业采购渠道常规扩展",
+          "title_cn": "ChatGPT Enterprise 上线 AWS Marketplace",
+          "one_liner": "ChatGPT Enterprise 现可通过 AWS Marketplace 采购，企业可沿用现有 AWS 采购与计费关系。",
+          "key_findings": [
+            "企业可在 AWS Marketplace 直接采购 ChatGPT Enterprise，简化采购流程。",
+            "采购与计费沿用现有 AWS 账户体系，无需新建供应商关系。",
+            "面向企业客户，降低大模型工具的采购与结算门槛。"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，这意味着可通过既有云账户快速引入大模型工具，用于文献挖掘、实验设计与流程自动化，采购合规更省事。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
