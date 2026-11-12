@@ -1,0 +1,1224 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T07:28:05.596924+08:00",
+  "fetched_ids": [
+    "pubmed:43015555",
+    "pubmed:43015554",
+    "pubmed:43015553",
+    "pubmed:43015552",
+    "pubmed:43015551",
+    "pubmed:43015550",
+    "pubmed:43015549",
+    "pubmed:43015548",
+    "pubmed:43015547",
+    "pubmed:43015546",
+    "pubmed:43015545",
+    "pubmed:43015544",
+    "pubmed:43015543",
+    "pubmed:43015542",
+    "pubmed:43015541",
+    "pubmed:43015540",
+    "pubmed:43015539",
+    "pubmed:43015538",
+    "pubmed:43015537",
+    "pubmed:43007835",
+    "pubmed:43017522",
+    "pubmed:43010175",
+    "pubmed:43007855",
+    "pubmed:43005465",
+    "pubmed:43001486",
+    "pubmed:43017154",
+    "pubmed:43013649",
+    "pubmed:43018467",
+    "pubmed:43018145",
+    "pubmed:43016050",
+    "pubmed:43015472",
+    "pubmed:43015328",
+    "pubmed:43015170",
+    "pubmed:43015135",
+    "pubmed:43014543",
+    "pubmed:43014321",
+    "pubmed:43014278",
+    "pubmed:43013874",
+    "pubmed:43013147",
+    "pubmed:43013018",
+    "pubmed:43013003",
+    "pubmed:43012915",
+    "pubmed:43012873",
+    "pubmed:43012712",
+    "pubmed:43012600",
+    "pubmed:43012576",
+    "pubmed:43012574",
+    "pubmed:43012558",
+    "pubmed:43012426",
+    "pubmed:43012344",
+    "pubmed:43012162",
+    "pubmed:43014067",
+    "pubmed:43011525",
+    "pubmed:43010447",
+    "pubmed:43010417",
+    "pubmed:43010164",
+    "pubmed:43009207",
+    "pubmed:43009074",
+    "pubmed:43009044",
+    "pubmed:43009024",
+    "pubmed:43008577",
+    "pubmed:43008411",
+    "pubmed:43008229",
+    "pubmed:43007788",
+    "pubmed:43007539",
+    "pubmed:43007411",
+    "pubmed:43007216",
+    "pubmed:43006662",
+    "pubmed:43006240",
+    "pubmed:43006193",
+    "pubmed:43004616",
+    "pubmed:43003972",
+    "pubmed:43003971",
+    "pubmed:43003970",
+    "pubmed:43013939",
+    "pubmed:43011237",
+    "pubmed:43008591",
+    "pubmed:43005928",
+    "pubmed:43004718",
+    "pubmed:43004636",
+    "pubmed:43004496",
+    "pubmed:43003885",
+    "pubmed:43003240",
+    "pubmed:43002834",
+    "pubmed:43002794",
+    "pubmed:43002351",
+    "pubmed:43002177",
+    "pubmed:43001940",
+    "pubmed:43008690",
+    "pubmed:43002835",
+    "pubmed:43004989",
+    "pubmed:43015964",
+    "pubmed:43012378",
+    "pubmed:43009332",
+    "pubmed:43004729",
+    "pubmed:43017546",
+    "pubmed:43016950",
+    "pubmed:43016699",
+    "biorxiv:10.64898/2026.11.05.764691",
+    "biorxiv:10.64898/2026.11.05.762308",
+    "rss:c83512955fbd125a",
+    "rss:052f03394e6122b9",
+    "rss:4a7bbaeeb3657718",
+    "rss:7eb1eeb01624e666",
+    "rss:b264257846efc373",
+    "rss:f9426a1fc1e6f3e2",
+    "rss:b810a1ecefe5aa28",
+    "rss:86e130f6a476242a",
+    "rss:ec4f5badcca2ac9a",
+    "rss:2122febd6e18f7ea",
+    "rss:65b53a11edca5726",
+    "rss:c217c03580f3838d",
+    "rss:c829f95755db4a20",
+    "rss:48e1c7c44ad9e0ec",
+    "rss:55c8985c4b506f11",
+    "rss:96e236e0634f69fa",
+    "rss:081002538ebfbe32",
+    "rss:a330d8ca516b0a3e",
+    "rss:8371224e4b7a8cd4",
+    "rss:1c53f01788ce45ed",
+    "rss:4a800d7aa3065013",
+    "rss:c827247d8407c103",
+    "rss:c71a3420759e2b84",
+    "rss:6a338f3a910fd853",
+    "rss:40c7cc76a06a13c6",
+    "rss:4f82ac99449e3c16",
+    "rss:113ac017721caf5f",
+    "rss:1bb35a493829dea0",
+    "rss:538bf213ebab3f5e",
+    "ema:c12b505a690a52cb",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "ema:98a124842e0b2b40",
+    "ema:63d4f4029c05be3c",
+    "pbc:c9c2a664dfef06be",
+    "pbc:a515c1196a04ffd0",
+    "pbc:a4f4a83e9f442fa1",
+    "pbc:e7245ba10a6c39da",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "pbc:ca9d7728c53be69f",
+    "nhsa:891473ef5d15bf6e",
+    "nhsa:65d765e99bfad85e",
+    "nhsa:23bcfd2205390eb8",
+    "nhsa:84c5b86c12f57f66",
+    "nhsa:cb913c973138bd73",
+    "nhsa:aebad58b97f61d66",
+    "nhsa:c7a133485cc6244a",
+    "nhsa:4dafa3979278b0e4",
+    "nhsa:f491f6b865722c94",
+    "nhsa:f7c1721d28f70ac8",
+    "rss:ab58a29e40e5cb37",
+    "rss:0e0766ec9c770c31",
+    "rss:d8a1aef3d91b9a92",
+    "rss:34c6d4acf53a55ca",
+    "rss:49cf590dc337a5b9",
+    "rss:55a31f6446277ce4",
+    "rss:cc75dd113e1a0abb",
+    "rss:c0bcf16e8fea16d8",
+    "rss:bde62bed0d83184a",
+    "rss:7f83c7f8edcabf8d",
+    "rss:454af483986caafd",
+    "rss:b0558878cc433ef8",
+    "rss:e38c92a7cefc59fe",
+    "rss:dd875e3abb805b46",
+    "rss:6c31d4893839b85f",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:39155253f5851c22",
+    "rss:201147e00bc26f9e",
+    "rss:d22abd9ce76391b9",
+    "rss:9e141bc068a526b9",
+    "rss:f09792c4cf3fd5e6",
+    "rss:f3a3fbba217e1798",
+    "rss:ff4528f92cef2b7a",
+    "rss:d4b0c514153b7bf5",
+    "rss:5d62830443eb35d8",
+    "rss:97b99b90da3cd484",
+    "rss:8881f869ba746abe",
+    "rss:37feba6fef9d392b",
+    "rss:6d09343a923f05d5",
+    "rss:4140b7449a1cdcfd",
+    "rss:870efdc5692dd0b2",
+    "rss:c9fc570fadc2fd46",
+    "rss:a5c50133dfe5e614",
+    "rss:89b0cfc35b9beec6",
+    "rss:f104fa5b73158a4a"
+  ],
+  "stats": {
+    "fetched": 202,
+    "new_items": 71,
+    "kept": 38,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:43015170",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Hierarchical design strategies for tuning genetic circuits.",
+            "abstract": "Genetic circuit design is central to synthetic biology, yet achieving predictable and programmable circuit performance remains challenging due to diverse circuit- and host-dependent factors. Thus, a systematic perspective is needed to integrate these factors across multiple design layers. In this review, we establish a hierarchical framework for tuning genetic circuits as an engineering process spanning biological part design, DNA synthesis and assembly, carrier selection, host-cell implementation, and cross-host transfer. We further discuss how each layer contributes to circuit behavior and shapes trade-offs among key performance properties. By integrating hierarchical design strategies with iterative troubleshooting, this review provides a practical roadmap for tuning genetic circuits toward more predictable and reliable performance.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015170/",
+            "journal": "Trends in biotechnology",
+            "authors": "Ba, Liu, Sun",
+            "published": "2026-11-11",
+            "doi": "10.1016/j.tibtech.2026.10.013"
+          },
+          "score": 88,
+          "score_reason": "基因线路分层设计核心综述",
+          "title_cn": "基因线路调控的分层设计策略",
+          "one_liner": "综述提出从元件到跨宿主转移的分层框架，系统调控基因线路性能。",
+          "key_findings": [
+            "将线路调控分为生物元件设计、DNA合成组装、载体选择、宿主实现与跨宿主转移五层。",
+            "逐层分析各层对线路行为的影响及关键性能指标间的权衡。",
+            "结合分层策略与迭代排障，给出可预测、可靠性能的实践路线图。"
+          ],
+          "why_it_matters": "为合成生物学线路调试提供系统化分层思路，有助于减少宿主依赖带来的不可预测性，指导跨宿主移植与性能优化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015537",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Prime Editing: Mechanism and Developments.",
+            "abstract": "Prime editing is a \"search and replace\" based genome editing method that can introduce point mutations, insertions, and deletions into DNA at desired sites, making it the editing technique capable of making the most diverse range of edits. Prime editing utilizes a Cas9 nickase fused to a reverse transcriptase to introduce edits encoded by a specially designed DNA oligonucleotide called a prime editing guide RNA (pegRNA). While prime editing has been shown to achieve robust editing in different genomic loci and in different cell types, this technology still has the potential for further optimization and improvement. Many groups have been successful in improving prime editing outcomes by optimizing the design of prime editors and pegRNAs. Additionally, modulating key cellular pathways has also been an effective tool for achieving high levels of editing. Due to its high efficiency and relative safety, prime editing has the potential to transform disease modeling and genomic medicine.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015537/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Berry, Costa, Quinn",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_1"
+          },
+          "score": 80,
+          "score_reason": "先导编辑机制与进展综述",
+          "title_cn": "Prime Editing：机制与进展",
+          "one_liner": "综述Prime Editing的\"搜索替换\"机制，以及通过优化编辑器和pegRNA设计、调控细胞通路提升编辑效率的进展。",
+          "key_findings": [
+            "Prime Editing由Cas9切口酶与逆转录酶融合，借助pegRNA编码实现点突变、插入和缺失。",
+            "优化Prime Editor与pegRNA设计可显著提升不同位点、不同细胞类型中的编辑效率。",
+            "调控关键细胞通路是提高编辑水平的另一有效策略。"
+          ],
+          "why_it_matters": "对合成生物学与基因治疗研究者，该综述梳理了Prime Editing的机制与优化路径，有助于判断其在疾病建模和基因组医学中的应用潜力。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43014321",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "On-demand biomanufacturing via programmed SporeBot.",
+            "abstract": "Biopharmaceuticals, including antimicrobial peptides and engineered protein-based vaccines, represent key products of the biotechnology sector. However, their reliance on large-scale manufacturing and cold-chain logistics limits deployment in field and resource-limited settings. To address this gap, we developed SporeBot, a platform that exploits the intrinsic stability of Bacillus subtilis spores for versatile and on-demand biopharmaceutical production. The platform comprises polymeric microcapsules that encapsulate engineered spores. These spores exhibit robust stability, retaining engineered functionality under harsh conditions and extended storage. Upon activation, germinated cells secrete the target proteins, which diffuse across a polymeric mesh that physically separates the cellular factory from the secreted product. We validate this platform through the production and functional testing of antimicrobial peptides and vaccine antigens. Our approach resolves key manufacturing and distribution constraints of protein therapeutics and offers a deployable solution for on-demand biomanufacturing in both developed and resource-limited settings.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43014321/",
+            "journal": "Cell reports methods",
+            "authors": "Chen, Zhang, Zang, et al.",
+            "published": "2026-11-11",
+            "doi": "10.1016/j.crmeth.2026.101662"
+          },
+          "score": 80,
+          "score_reason": "SporeBot按需生物制造平台",
+          "title_cn": "基于程序化SporeBot的按需生物制造平台",
+          "one_liner": "利用枯草芽孢杆菌孢子微胶囊实现抗菌肽与疫苗抗原的按需就地生产。",
+          "key_findings": [
+            "聚合物微胶囊包裹工程化芽孢，在严苛条件与长期储存下保持功能稳定。",
+            "激活后芽孢萌发并分泌目标蛋白，产物经聚合物网扩散与细胞工厂物理分离。",
+            "以抗菌肽和疫苗抗原完成生产与功能验证。"
+          ],
+          "why_it_matters": "绕开大规模生产与冷链限制，为合成生物学提供可部署的按需蛋白生产思路，对现场检测、抗菌肽与疫苗快速制造有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015547",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Large Insertion Using Template-Jumping Prime Editing.",
+            "abstract": "Prime editors (PEs) are advanced gene-editing tools capable of a wide spectrum of genomic modifications, offering significant potential for gene therapy. The template-jumping prime editing (TJ-PE) system employs template-jumping prime editing guide RNAs (TJ-pegRNAs) with a dual primer binding site (PBS) sequence. One PBS anneals to the DNA flap generated by the TJ-pegRNA, while the other binds to the DNA flap generated by the nicking sgRNA, enabling the accurate insertion of large DNA fragments.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015547/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Zheng, Xue",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_11"
+          },
+          "score": 78,
+          "score_reason": "模板跳跃大片段插入，技术突破",
+          "title_cn": "利用模板跳跃先导编辑实现大片段插入",
+          "one_liner": "TJ-PE 系统通过双 PBS 引导的模板跳跃，实现大片段 DNA 的精准插入。",
+          "key_findings": [
+            "TJ-pegRNA 含双 PBS：一个结合自身生成的 DNA flap，另一个结合 nicking sgRNA 生成的 flap。",
+            "双 PBS 协同引导模板跳跃，实现大 DNA 片段的准确插入。",
+            "该系统拓展了先导编辑的编辑范围，面向基因治疗应用。"
+          ],
+          "why_it_matters": "大片段精准插入是基因治疗与合成基因组改造的关键瓶颈；该策略为深圳团队开展先导编辑工具优化与基因线路构建提供新思路。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43016050",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Emerging synthetic biology toolkits to control gene expression and provide therapeutic avenues in cardiovascular disease.",
+            "abstract": "INTRODUCTION: Synthetic biology is an emerging field that integrates engineering principles, molecular innovations, interdisciplinary methodologies, and designer toolkits to create versatile and adaptable platforms for control, enhance, and reprogram signaling, phenotype, or function in biological systems and living organisms. Advances in mammalian synthetic biology have generated growing interest in its translational applications, including cardiovascular drug discovery and disease management.\nAREAS COVERED: This concise report highlights promising synthetic biology-inspired technologies that have been applied or can potentially apply to transgene regulation and disease management in cardiovascular medicine, such as tunable regulatory switches, programmable gene circuits, synthetic sensing modules, and gut-heart axis engineering. We also summarize recent translational progress in the field and discuss remaining obstacles, potential solutions, and future opportunities, with particular emphasis on the progression from laboratory concepts to practical applications in cardiovascular disease.\nEXPERT OPINION: Synthetic biology is steadily advancing toward translation. However, barriers for clinical implementation remain, including non‑mammalian components, immunogenicity, regulatory uncertainty, and broader ethical and safety concerns. Emerging solutions, including humanized molecular components, advanced monitoring strategies, and machine learning, may help mitigate those risks and expand the cardiovascular utility of synthetic biology. Stronger evidence and deeper clinical integration will position the field for future cardiovascular medicine.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43016050/",
+            "journal": "Expert opinion on investigational drugs",
+            "authors": "Chen, Pokharel, Alexander, et al.",
+            "published": "2026-11-11",
+            "doi": "10.1080/13543784.2026.2761884"
+          },
+          "score": 78,
+          "score_reason": "合成生物学基因线路心血管应用",
+          "title_cn": "合成生物学工具包在心血管疾病基因表达调控与治疗中的应用前景",
+          "one_liner": "综述合成生物学工具（可调开关、基因线路、传感模块、肠-心轴工程）在心血管疾病治疗中的转化进展与障碍。",
+          "key_findings": [
+            "可调调控开关、可编程基因线路与合成传感模块可用于心血管转基因精准调控。",
+            "肠-心轴工程等新兴方向拓展了心血管疾病干预手段。",
+            "临床转化仍受非哺乳动物元件、免疫原性、监管不确定性制约。"
+          ],
+          "why_it_matters": "为基因线路与调控元件研究者提供心血管这一高价值应用场景的转化路线图与风险清单，有助于判断工具包落地路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015539",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Design of Highly Efficient pegRNAs with Minimized Off-Target Effects Using DeepPrime.",
+            "abstract": "Prime editors are newly developed genome editing tools capable of installing various types of mutations without introducing double-strand DNA breaks (DSBs) or requiring donor DNA templates. Prime editors consist of a Cas9 nickase fused to a reverse transcriptase (RT) domain and function as a ribonucleoprotein complex with prime editing guide RNA (pegRNA). Unlike the single guide RNA (sgRNA) used with Cas9 or base editors, the editing efficiency of pegRNAs is determined by the sequence composition and length of the guide sequence, primer binding site (PBS), and reverse transcription template (RTT). The high design flexibility of pegRNAs presents both opportunities and challenges. Therefore, designing pegRNAs with high efficacy has been a significant hurdle for the application of prime editing. Here, we present a step-by-step protocol for designing optimal pegRNAs to introduce desired edits using a deep learning-based algorithm, DeepPrime.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015539/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Lee, Kim",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_3"
+          },
+          "score": 76,
+          "score_reason": "DeepPrime深度学习设计pegRNA",
+          "title_cn": "利用DeepPrime设计高效且脱靶效应最小化的pegRNA",
+          "one_liner": "提出基于深度学习的DeepPrime算法，可逐步设计高效且低脱靶的pegRNA。",
+          "key_findings": [
+            "pegRNA的引导序列、PBS和RTT的序列与长度共同决定先导编辑效率。",
+            "DeepPrime为深度学习算法，提供分步方案设计最优pegRNA。",
+            "设计时兼顾高编辑效率与最小化脱靶效应。"
+          ],
+          "why_it_matters": "先导编辑的pegRNA设计是应用瓶颈，该协议可帮助合成生物学研究者快速获得高效低脱靶pegRNA，提升基因组编辑实验成功率。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43015550",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Functional Analysis of Genetic Variants Using High-Throughput Prime Editing Screening.",
+            "abstract": "Prime editing is a precise genome editing technology that introduces edits, deletions, and insertions at single-base resolution. This protocol describes the design and execution of pooled high-throughput prime editing screens in mammalian cells. Using this approach, thousands of genetic variants can be tested simultaneously. The effects of tested genetic variants on cellular phenotypes are measured using high-throughput DNA sequencing of pegRNAs/ngRNAs as barcodes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015550/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Ren",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_14"
+          },
+          "score": 75,
+          "score_reason": "高通量先导编辑筛选，功能基因组学",
+          "title_cn": "利用高通量 prime editing 筛选对遗传变异进行功能分析",
+          "one_liner": "该方案用混合高通量 prime editing 筛选，同时测试数千个遗传变异对细胞表型的影响。",
+          "key_findings": [
+            "在哺乳动物细胞中进行混合高通量 prime editing 筛选，可单碱基精度引入编辑、缺失和插入。",
+            "以 pegRNA/ngRNA 作为条形码，通过高通量 DNA 测序读出各变异对细胞表型的影响。"
+          ],
+          "why_it_matters": "为合成生物学中的变异功能解析和大规模基因型-表型映射提供可扩展的编辑筛选方案，适合需要高通量精准编辑的课题组参考。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015543",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Protocol for Prime Editing with Engineered PAM-Flexible Cas9 Variants.",
+            "abstract": "Prime editing (PE) is a precision genome-editing technology that allows all types of editing, such as substitutions, insertions, and deletions, at the target site in the genome of a cell without double-strand breaks (DSBs) or donor DNA. However, the targeting range of existing prime editing systems is limited due to their dependence on the NGG protospacer adjacent motif (PAM) recognized by Streptococcus pyogenes Cas9 (spCas9). To address this limitation, we have engineered prime editor variants incorporating PAM-flexible Cas9 proteins. These variants significantly expand the range of targetable genomic sites, allowing for the introduction of mutations previously inaccessible to standard editing methods. Here, we provide detailed methods for applying these PAM-flexible PE variants in human cell lines.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015543/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Jang, Kweon, Kim",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_7"
+          },
+          "score": 74,
+          "score_reason": "PAM灵活Cas9扩展靶向范围",
+          "title_cn": "基于工程化PAM柔性Cas9变体的先导编辑实验方案",
+          "one_liner": "将PAM柔性Cas9变体整合进先导编辑器，显著扩大可靶向基因组位点范围。",
+          "key_findings": [
+            "构建含PAM柔性Cas9的先导编辑变体，突破spCas9对NGG PAM的依赖",
+            "可对人细胞中此前无法编辑的位点实现替换、插入、缺失等精准编辑",
+            "提供在人类细胞系中应用这些变体的详细实验方法"
+          ],
+          "why_it_matters": "对需要编辑任意基因组位点的合成生物学与基因治疗研究，该方案可解除PAM限制，提升先导编辑的靶向覆盖与设计自由度。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43015552",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "TAPE-seq: A Cell-Based Method for Genome-Wide Off-Target Prediction in Prime Editing.",
+            "abstract": "Prime editors are powerful genome-editing tools that enables precise sequence modifications without the need for double-strand breaks or donor DNA templates. Given their distinct mechanism of action, evaluating their off-target activities is essential for ensuring safety in ongoing clinical development. Unlike Cas9-based tools that predict off-target effects indirectly, TAPE-seq directly leverages PE activity to map genome-wide off-target sites with high sensitivity and specificity. This detailed protocol provides a robust framework for evaluating the safety of PE-based genome-editing applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015552/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Prajogo, Han, Lee",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_16"
+          },
+          "score": 72,
+          "score_reason": "先导编辑脱靶预测，安全性关键",
+          "title_cn": "TAPE-seq：基于细胞的先导编辑全基因组脱靶预测方法",
+          "one_liner": "TAPE-seq 直接利用先导编辑活性，在全基因组范围高灵敏、高特异性地定位脱靶位点。",
+          "key_findings": [
+            "不依赖间接预测，直接以 PE 活性标记全基因组脱靶位点",
+            "兼具高灵敏度与高特异性，优于 Cas9 类间接预测思路",
+            "提供详细实验流程，可支撑 PE 临床前安全性评估"
+          ],
+          "why_it_matters": "先导编辑正走向临床，脱靶评估是安全性核心。该方法为 PE 基因治疗管线提供可操作的脱靶检测框架，适合做编辑工具安全性验证的团队参考。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43015542",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Construction of the p2PE3 Platform Based on RNA-Pol-II-Driven Engineered pegRNA.",
+            "abstract": "Prime editor (PE) is a versatile tool capable of precisely installing programmed genetic information into eukaryotic genomes. The canonical PE3 system uses a constitutive RNA polymerase III (RNA-Pol-III) promoter to drive RNA expression. However, RNA-Pol-III is unable to efficiently transcribe RNA sequences containing poly(T) motifs or gRNAs expressed in tandem, which restricts the application of PE. Here, we detail the use of an RNA polymerase II (RNA-Pol-II) promoter to drive RNA expression, coupled with Csy4 for RNA processing. This approach enabled efficient editing with poly(T)-containing pegRNAs, multiple gRNA editing combinations, and conditionally inducible gRNA. These findings overcome the limitations of RNA-Pol-III-driven RNA systems and broaden the applications of prime editing.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015542/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Zhang, Huang, Liu",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_6"
+          },
+          "score": 72,
+          "score_reason": "RNA Pol II驱动pegRNA，突破限制",
+          "title_cn": "基于RNA聚合酶II驱动工程化pegRNA的p2PE3平台构建",
+          "one_liner": "用RNA-Pol-II启动子加Csy4加工驱动pegRNA，突破PE3对poly(T)和串联gRNA的限制。",
+          "key_findings": [
+            "以RNA-Pol-II启动子表达pegRNA，并用Csy4切割加工，实现高效prime editing。",
+            "可高效编辑含poly(T)基序的pegRNA，克服RNA-Pol-III转录障碍。",
+            "支持多gRNA串联组合编辑与条件诱导型gRNA表达。"
+          ],
+          "why_it_matters": "为合成生物学提供更灵活的prime editing工具，便于多靶点组合编辑与诱导调控，在深圳做基因组工程与菌株改造可直接借鉴。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43018145",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "AlphaFold-based structural analysis of the Treponema pallidum proteome provides a clearer prediction of the organism's biological and pathogenic attributes.",
+            "abstract": "Treponema pallidum subsp. pallidum (TPA), an obligate bacterial pathogen that causes the sexually transmitted disease syphilis, is an extreme auxotroph with a minimal genome and distinct parasitic lifestyle. Approximately 17% of its 977 annotated proteins lack a predicted function because they show little sequence similarity to proteins of known function from other organisms. We therefore utilized the robust structural modeling and matching capabilities of AlphaFold and FoldSeek to create a whole-proteome atlas for the Nichols type strain of this bacterium (TPANIC), with the goal of providing structure-based functional assignments for uncharacterized proteins and verifying the accuracy of annotations previously generated by protein sequence homology analysis alone. Using a combination of precomputed structures from the AlphaFold Database and newly generated AlphaFold 3 structural predictions, we produced high-confidence predicted structural models for approximately 92% of the TPANIC proteome, enabling us to identify structural homologs and assign potential functional annotations to 24 previously uncharacterized proteins. Beyond functional annotation, the updated genome-derived structural models revealed several major structural revisions resulting from corrected gene models. Most notably, integration of comparative structural analyses and AlphaFold-Multimer modeling redefined the composition of the TPA outer membrane biogenesis machinery, supporting the existence of a conserved spirochete-specific BAM-TAM complex containing BamA, TamB, BamD, and BamB. We anticipate that the resulting AlphaFold protein structure atlas, in combination with the recently developed tools of in vitro cultivation and genetic manipulation, will help elucidate the roles of TPANIC proteins in the organism's biology, pathogenesis, and host immune interactions.IMPORTANCEIncidence of syphilis has been on the rise in the past decade, emphasizing the need to understand the mechanisms behind the persistence and virulence of its causative agent, Treponema pallidum. In this study, we employed a next-generation artificial intelligence-based protein structure modeling and matching pipeline, building upon prior structural conservation studies by expanding the functional predictions for hypothetical proteins. Consequently, this study provides a clearer picture of the metabolic and pathogenic capabilities of this elusive pathogen, while highlighting the intricacies of its regulatory landscape. We anticipate that our strategy will complement existing sequence-homology-based gene/genome annotation pipelines, assisting in both protein function validation and the identification of orthologous proteins lacking sequence homology.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43018145/",
+            "journal": "Microbiology spectrum",
+            "authors": "Kaval, Parker, Nguyen, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1128/spectrum.03261-26"
+          },
+          "score": 72,
+          "score_reason": "AlphaFold全蛋白组功能注释",
+          "title_cn": "基于 AlphaFold 的梅毒螺旋体蛋白质组结构分析：更清晰地预测其生物学与致病特性",
+          "one_liner": "用 AlphaFold 与 FoldSeek 构建梅毒螺旋体全蛋白组结构图谱，为 24 个未知蛋白赋予功能注释并修正外膜机器组成。",
+          "key_findings": [
+            "为 Nichols 株约 92% 蛋白生成高置信结构模型，24 个未表征蛋白获结构同源功能注释",
+            "结构比较揭示多个基因模型修正带来的重大结构修订",
+            "AlphaFold-Multimer 重定义外膜生成机器，支持含 BamA、TamB、BamD、BamB 的螺旋体特异 BAM-TAM 复合体"
+          ],
+          "why_it_matters": "展示 AI 结构建模可补足序列同源注释的盲区，对合成生物学中难培养、最小基因组的病原体功能注释与靶点发现具方法学参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015544",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Improvement of Genome Editing Efficiency in Mammalian Cells by a Refined Uni-Vector Prime Editing System.",
+            "abstract": "Prime editing is an advanced technology in the CRISPR/Cas genome editing field. The original multi-vector method utilized in prime editing has less efficiency and precision and is also inherently difficult in generating homozygous mutations in mammalian cells. To overcome these technical difficulties, a Uni-vector prime editing system containing the major components for prime editing has been constructed in two all-in-one plasmids, pPE3-pPuro and pePE5max-pPuro. The Uni-vector prime editing plasmids enhance the editing efficiency of prime editing and improve the generation of homozygous mutated mammalian cell lines. The editing efficiency depends on the transfection efficiency. Remarkably, the Uni-vector ePE5max system can achieve a high editing rate even in cell lines that are traditionally difficult to transfect. This Uni-vector approach simplifies the delivery of all the necessary editing components and greatly improves the editing efficiency. This approach represents an advanced progress in the field of prime editing.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015544/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Liao, Wu",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_8"
+          },
+          "score": 70,
+          "score_reason": "单载体先导编辑提效，实用改进",
+          "title_cn": "改进型单载体 prime editing 系统提升哺乳动物细胞基因组编辑效率",
+          "one_liner": "构建全合一的单载体 prime editing 质粒，提高编辑效率并更易获得纯合突变细胞系。",
+          "key_findings": [
+            "将 prime editing 核心组件整合进 pPE3-pPuro 与 pePE5max-pPuro 两个全合一质粒，简化递送。",
+            "单载体系统提升编辑效率，并改善哺乳动物细胞中纯合突变细胞系的获得。",
+            "ePE5max 单载体系统在难转染细胞系中仍可实现高编辑率，效率依赖转染效率。"
+          ],
+          "why_it_matters": "对需在哺乳动物细胞构建定点突变或纯合细胞系的合成生物学研究者，单载体简化递送并提升难转染细胞编辑效率，具直接应用价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015545",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Optimization and Evaluation of Prime Editing Activity in Human iPSCs.",
+            "abstract": "Human induced pluripotent stem cells (iPSCs) retain the genetic information of their donors, making them invaluable for modeling genetic diseases and for isogenic controls. Precise genome editing in iPSCs is essential to realizing this potential. However, efficient precision editing of iPSCs remains challenging due to the lack of direct enrichment strategies for edited cells carrying subtle mutations such as small insertions and deletions (indels) or single-nucleotide variants (SNVs). Previously, we demonstrated that fluorescence-activated cell sorting (FACS) can indirectly enrich cells with ssODN-templated edits by selecting those with high plasmid-based co-expression of Cas9 and mCherry. While effective, editing approaches relying on Cas9-induced double-strand breaks (DSBs) increase the risk of on-target byproducts, emphasizing the need for alternative strategies. Prime editing offers DSB-free precision editing by using a Cas9 nickase fused to a reverse transcriptase to install edits encoded in prime editing guide RNAs (pegRNAs). Here, we present both plasmid-based and mRNA-based prime editing protocols to generate precise edits evaluated using a GFP-to-BFP conversion assay. The plasmid method is cost-effective and allows for FACS-based enrichment of edited cells, while the mRNA method minimizes genomic integration risk while improving editing efficiencies without the need for enrichment. Together, these methods provide robust platforms for efficient precision editing in human iPSCs, facilitating downstream functional genomics and therapeutic applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015545/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Matsui, Niwa, Endo, et al.",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_9"
+          },
+          "score": 68,
+          "score_reason": "iPSC先导编辑优化，疾病建模相关",
+          "title_cn": "人iPSCs中prime editing活性的优化与评估",
+          "one_liner": "建立质粒与mRNA两种prime editing方案，在人iPSCs中实现无DSB的精准编辑。",
+          "key_findings": [
+            "质粒法成本低，可借FACS富集高共表达Cas9与mCherry的编辑细胞。",
+            "mRNA法降低基因组整合风险，编辑效率更高且无需富集。",
+            "以GFP-to-BFP转换实验评估两种方案的编辑活性。"
+          ],
+          "why_it_matters": "为iPSCs精准建模与等基因对照提供无DSB编辑平台，降低副产物风险，对疾病建模与治疗开发有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43015541",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Rapid Cell-Free Preparation of Circular Vector DNA for pegRNA Expression in Prime Editing.",
+            "abstract": "The expression of prime editing guide RNA (pegRNA) is crucial for effective CRISPR-Cas9 prime genome editing, traditionally facilitated by DNA plasmids, which require a time-consuming process of bacterial cloning, validation, and purification. The Circular Vector (CV) protocol represents an efficient, fully synthetic, cell-free method that bypasses these traditional steps, allowing for the preparation of pegRNA expression vectors within 3 h. This approach involves circularizing and purifying linear double-stranded DNA (dsDNA) templates containing a promoter with pegRNA elements into compact, bacterial-backbone-free vectors. These CVs offer significant advantages: absence of a bacterial backbone, absence of endotoxins, and no contamination by bacterial nucleic acids, making them a superior choice for transfection in cell culture experiments, where they have shown performance equal to or better than that of traditional plasmids. The CV protocol not only speeds up the preparation process but also reduces costs and complexity, making it an ideal tool for rapid and efficient pegRNA expression in research settings.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015541/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Oliynyk, Church",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_5"
+          },
+          "score": 66,
+          "score_reason": "无细胞快速制备环状载体",
+          "title_cn": "快速无细胞制备用于先导编辑 pegRNA 表达的环状载体 DNA",
+          "one_liner": "无需细菌克隆，3 小时内无细胞合成无骨架环状载体，用于 pegRNA 表达。",
+          "key_findings": [
+            "将含启动子与 pegRNA 元件的线性双链 DNA 环化纯化，3 小时完成制备。",
+            "载体无细菌骨架、无内毒素、无细菌核酸污染。",
+            "细胞转染效率与性能等同或优于传统质粒。"
+          ],
+          "why_it_matters": "对合成生物学与基因编辑研究者，可绕开耗时克隆流程，快速低成本制备 pegRNA 载体，加速先导编辑实验迭代。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43015548",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "PE-STOP for Precise Installation/Reversion of Nonsense Mutation.",
+            "abstract": "PE-STOP is a versatile tool suited for precise installation of nonsense mutations. With high degrees of adaptability, it facilitates gene inactivation and the construction of ClinVar-recorded nonsense mutations. Based on the safe PE platform, PE-STOP circumvents numerous complications associated with conventional gene inactivation approaches dependent on double-strand DNA break (DSB) generation. Compared to other DSB-independent tools like iSTOP and i-Silence, PE-STOP offers enhanced target specificity, single-nucleotide precision, and much greater site coverage. Here, we describe the effective use of PE-STOP to introduce stop codons in human embryonic kidney 293 T cells, which may be followed by a subsequent round of precise in situ editing to rescue nonsense mutations via the PE platform.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43015548/",
+            "journal": "Methods in molecular biology (Clifton, N.J.)",
+            "authors": "Zhang, Huang, Liu",
+            "published": "2027-01-01",
+            "doi": "10.1007/978-1-0716-5667-9_12"
+          },
+          "score": 65,
+          "score_reason": "PE-STOP无DSB基因失活，有应用价值",
+          "title_cn": "PE-STOP：精准引入与回复无义突变",
+          "one_liner": "PE-STOP 基于先导编辑平台，可精准引入无义突变，并能在原位回复该突变。",
+          "key_findings": [
+            "利用 PE 平台在 HEK293T 细胞中精准引入终止密码子，实现基因失活。",
+            "相比 iSTOP、i-Silence 等不依赖 DSB 的工具，靶向特异性更高、可覆盖位点更多。",
+            "可构建 ClinVar 收录的无义突变，并支持后续原位精准回复。"
+          ],
+          "why_it_matters": "为基因失活与无义突变疾病建模提供不依赖双链断裂的精准工具，契合合成生物学中基因线路调控与疾病模型构建需求。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:40c7cc76a06a13c6",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: What to know about Biogen’s big lupus study readout",
+            "abstract": "Biogen is expected to soon release the results of pivotal clinical trials of an experimental therapy for lupus.",
+            "url": "https://www.statnews.com/2026/11/12/biogen-lupus-litifilimab-what-to-know/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "Biogen狼疮关键试验结果即将公布",
+          "title_cn": "STAT+：Biogen 大型狼疮研究结果即将公布，需要关注什么",
+          "one_liner": "Biogen 即将公布其狼疮在研疗法关键临床试验结果。",
+          "key_findings": [
+            "Biogen 将公布一款狼疮在研疗法的关键临床试验结果",
+            "该研究为关键性（pivotal）试验，结果或影响后续注册路径",
+            "摘要未披露具体药物、适应症亚型及疗效数据"
+          ],
+          "why_it_matters": "狼疮新药关键数据将影响自免领域靶点验证与竞争格局，对关注抗体/免疫调控疗法的研发人员有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6a338f3a910fd853",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
+            "abstract": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing.",
+            "url": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "Alnylam核心RNAi药物销售放缓",
+          "title_cn": "STAT：曾瞄准千亿市值的 Alnylam，亟需解决其心脏药物增长难题",
+          "one_liner": "Alnylam 高度依赖心脏药物 Amvuttra 拉动增长，但该药销售正在放缓。",
+          "key_findings": [
+            "Amvuttra 是 Alnylam 增长的核心支柱，公司对其依赖程度很高。",
+            "该心脏药物销售增速已出现放缓迹象，成为公司增长的主要隐忧。",
+            "Alnylam 曾以千亿美元市值生物技术公司为目标，如今面临增长瓶颈。"
+          ],
+          "why_it_matters": "Amvuttra 属 RNAi 疗法，其商业化走势是核酸药物赛道的重要风向标，对关注 RNA 递送与新模态成药性的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2122febd6e18f7ea",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Blackstone commits up to $1.5B for R&D of Pfizer's ex-Metsera GLP-1",
+            "abstract": "Pfizer has secured up to $1.5 billion from the investment group Blackstone Life Sciences to help pay for the development of its obesity candidate berobenatide. The co-funding agreement will see that cash come from funds ...",
+            "url": "https://endpoints.news/blackstone-commits-up-to-1-5b-for-rd-of-pfizers-ex-metsera-glp-1/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "辉瑞GLP-1获15亿美元研发资金",
+          "title_cn": "黑石承诺最高15亿美元，资助辉瑞GLP-1减肥药berobenatide研发",
+          "one_liner": "黑石生命科学拟向辉瑞提供最高15亿美元，共同资助其减肥候选药berobenatide的研发。",
+          "key_findings": [
+            "黑石生命科学以共同出资方式，为辉瑞肥胖候选药berobenatide提供最高15亿美元研发资金。",
+            "berobenatide为GLP-1类肥胖治疗候选药，此次为外部资本共担研发投入。",
+            "摘要未披露临床阶段、疗效数据及具体适应症细节。"
+          ],
+          "why_it_matters": "GLP-1减重赛道资本活跃，大额共担研发协议反映资本对后期肥胖资产的押注；合成生物学背景读者可关注其多肽表达与生产路线，但摘要缺临床数据，暂难评估技术差异化。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ec4f5badcca2ac9a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Updated: Bristol Myers shakes up R&D leadership ahead of patent cliff",
+            "abstract": "Bristol Myers Squibb is changing up its R&D leadership, moving out research chief Robert Plenge and handing his responsibilities to Cristian Massacesi, the company’s chief medical officer and head of development work. The shakeup comes ...",
+            "url": "https://endpoints.news/bristol-myers-to-merge-rd-under-massacesi-research-head-to-exit/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "BMS研发高层调整，影响管线走向",
+          "title_cn": "百时美施贵宝在专利悬崖前调整研发领导层",
+          "one_liner": "BMS将研发主管Robert Plenge调离，研发职责移交首席医学官Cristian Massacesi。",
+          "key_findings": [
+            "原研究负责人Robert Plenge离任，其职责转交首席医学官Cristian Massacesi。",
+            "此次调整发生在公司面临专利悬崖的背景下，研发与开发职能合并管理。",
+            "摘要未披露具体管线或临床数据变化。"
+          ],
+          "why_it_matters": "研发与开发职能合并可能影响BMS早期管线布局与外部合作节奏，对关注其CRISPR、细胞治疗等前沿方向的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:f9426a1fc1e6f3e2",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "BioNTech pays $205M for Scholar Rock voucher; J&J pulls back in Norway",
+            "abstract": "Plus, news about Vor Bio, RemeGen, Merck KGaA, Aidea, Astellas and Immuneering. BioNTech acquires PRV for $205 million: The German biotech scooped up the FDA voucher from Scholar Rock, with plans ...",
+            "url": "https://endpoints.news/biontech-pays-205m-for-scholar-rock-voucher-jj-pulls-back-in-norway/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "BioNTech购优先审评券，加速获批",
+          "title_cn": "BioNTech以2.05亿美元收购Scholar Rock的FDA优先审评券；J&J收缩挪威业务",
+          "one_liner": "BioNTech以2.05亿美元从Scholar Rock购入FDA优先审评券，J&J收缩挪威业务。",
+          "key_findings": [
+            "BioNTech斥资2.05亿美元收购Scholar Rock持有的FDA优先审评券（PRV）。",
+            "该券可用于加速某一药物在美国的审评进程，具体用途尚未披露。",
+            "同期简讯还涉及Vor Bio、荣昌生物、默克KGaA、Aidea、安斯泰来和Immuneering的动态。"
+          ],
+          "why_it_matters": "PRV交易反映BioNTech加速管线审批的策略，对关注mRNA/细胞治疗产业化节奏的合成生物学读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:7eb1eeb01624e666",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "FDA's speedy voucher program is dead: report",
+            "abstract": "Despite issuing no new vouchers in the six months since former FDA Commissioner Marty Makary left the agency, and a report suggesting the program has been shelved, the FDA still contends it's running the Commissioner’s ...",
+            "url": "https://endpoints.news/fdas-speedy-voucher-program-is-dead-report/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "FDA审评通道变动影响新药获批节奏",
+          "title_cn": "FDA快速审批券项目据报已终止",
+          "one_liner": "据报FDA已搁置快速审批券项目，近半年未发新券，但官方仍称项目在运行。",
+          "key_findings": [
+            "前局长Makary离任后六个月内，FDA未发出任何新快速审批券。",
+            "有报道称该项目已被搁置，但FDA仍坚称项目仍在运行。",
+            "摘要未披露该券的具体适应症或审评数据。"
+          ],
+          "why_it_matters": "快速审批券影响新药审评速度与监管激励，合成生物学相关疗法若依赖该通道，需关注政策不确定性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:86e130f6a476242a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Ira Mellman wants Parker Institute to restore cancer immunotherapy",
+            "abstract": "While the whole world was applauding Revolution Medicines' new cancer drug, all Ira Mellman felt was disappointment and frustration. The pill, daraxonrasib, kept patients with advanced pancreatic cancer alive roughly twice as ...",
+            "url": "https://endpoints.news/ira-mellman-wants-parker-institute-to-restore-cancer-immunotherapy/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "肿瘤免疫治疗观点，有启发但非事件",
+          "title_cn": "Ira Mellman 欲借 Parker Institute 重振癌症免疫治疗",
+          "one_liner": "Ira Mellman 对 Revolution Medicines 新药 daraxonrasib 的疗效感到失望，希望借 Parker Institute 重振癌症免疫治疗。",
+          "key_findings": [
+            "daraxonrasib 使晚期胰腺癌患者生存期约延长一倍，但 Mellman 仍感失望",
+            "Mellman 认为该药表现不足以满足期待，转而推动免疫治疗复兴",
+            "Parker Institute 成为其重振癌症免疫治疗的主要平台"
+          ],
+          "why_it_matters": "对合成生物学背景的读者而言，免疫治疗复兴意味着细胞工程、基因回路与递送系统的新需求；胰腺癌等难治实体瘤的免疫微环境改造或成下一波研发热点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c71a3420759e2b84",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
+            "abstract": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
+            "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "FDA快速审评搁置，影响审批环境",
+          "title_cn": "FDA 叫停 Makary 于 2025 年 6 月推出的快速通道审评计划",
+          "one_liner": "FDA 已搁置前局长 Makary 于 2025 年 6 月启动的快速通道药物审评计划。",
+          "key_findings": [
+            "被搁置的是 2025 年 6 月由前 FDA 局长 Marty Makary 启动的快速通道审评计划",
+            "该计划旨在加速药物审评，现已被 FDA 叫停",
+            "同篇报道还提及一名加拿大进口商被捕等其他药闻"
+          ],
+          "why_it_matters": "快速通道审评直接影响新药上市节奏与监管路径；对关注 FDA 审评政策、管线推进时点的合成生物学与创新药研发者具有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:891473ef5d15bf6e",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "äºåæå»ºâäºåæé+äºä¸­æ§å¶âæºå¶ ç­ç¢å»ä¿åºéå®å ¨é²çº¿",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ äºåæå»ºâäºåæé+äºä¸­æ§å¶âæºå¶ ç­ç¢å»ä¿åºéå®å ¨é²çº¿ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->äºåæå»ºâäºåæé+äºä¸­æ§å¶âæºå¶ ç­ç¢å»ä¿åºéå®å ¨é²çº¿end--> æ¥æï¼2026-11-12 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->äºåçå»ä¿é¨é¨ç´§ç¯âåæµè¯âååãè¶ éå¼è¯ç­é®é¢ï¼æ¢ç´¢å®æ½è¯åè¶ éå¼è¯âäºåæéãäºä¸­æ§å¶âæ¨¡å¼ãéè¿éå¡çç®¡æµç¨ï¼å°çç®¡å ³å£ä»äºååäºåãäºä¸­åç§»ï¼æå»ºèµ·å ¨é¾æ¡æºè½çç®¡é­ç¯ï¼éå¶äºåæµè¯ãè¶ éå¼è¯ç­æ åµåçãä¸ãåæé®é¢å¯¼åï¼æå»ºâè¶ éå¼è¯âé­ç¯ç®¡æ§æºå¶ãæä½âå¼è¯éæ§å¶âè¿ä¸æ ¸å¿ç¯èï¼ä¾æå»ä¿ä¿¡æ¯å¹³å°ï¼å®æ½äºåæéä¸äºä¸­æ§å",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/12/art_14_23359.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "医保基金监管常规动态",
+          "title_cn": "云南构建医保药品「事前提醒+事中控制」监管机制",
+          "one_liner": "云南医保将药品监管关口前移至事前和事中，遏制回流药与超量开药。",
+          "key_findings": [
+            "依托医保信息平台，对超量开药实施事前提醒与事中控制。",
+            "监管关口从事后前移，构建全链条智能监管闭环。",
+            "重点针对回流药倒卖、超量开药等问题。"
+          ],
+          "why_it_matters": "医保药品监管趋严，可能影响创新药、生物药在云南的处方与报销路径，合成生物学相关药品商业化需关注合规。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:65d765e99bfad85e",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "æ¬èæéè¯é¿æ¤ å»ä¿æå¡æé¶é¾",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ æ¬èæéè¯é¿æ¤ å»ä¿æå¡æé¶é¾ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->æ¬èæéè¯é¿æ¤ å»ä¿æå¡æé¶é¾end--> æ¥æï¼2026-11-12 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->10æ21æ¥ä¸åï¼ç¦å»ºçç¦å·å¸é¼æ¥¼åºåå¤§è·¯169å·é¿è é£å å¤ï¼ä¸ä½èå©å©æçä¸è¢åä¹°çé¸¡èï¼æ§æè¦éç»å»ä¿å·¥ä½äººåï¼è¿å£°è¯´ï¼âä½ ä»¬è¾è¦äºï¼ä¸ä¸åé½å¨ç»æä»¬è§£ç­é®é¢ãâå¨è¯¢å°åï¼ä¸ä½éä¼å¤å¹´çèå µå¬å®é¿æ¤é©æ¿ç­è§£è¯»åï¼ééå°åå·¥ä½äººåæ¬äºä¸ä¸ªåç¤¼ï¼âè°¢è°¢ä½ ä»¬èµ°ä¸è¡å¤´ï¼æå¥½æ¿ç­éå°æä»¬èº«è¾¹ãâä¸è¢é¸¡èãä¸ä¸ªåç¤¼ï¼ä¸ºè¿åºå®£ä¼ æ´»å¨å¢æ·»äºæä¹ãå½å¤©ï¼ç±ç¦å»ºçå»çä¿éå±ãç¦å·å¸å»çä¿éå±ä¸»åçâæ",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/12/art_14_23357.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "长护医保服务，弱相关",
+          "title_cn": "敬老月里话长护：医保服务暖银龄",
+          "one_liner": "国家医保局发布敬老月长护险政策宣传动态，未涉及政策调整。",
+          "key_findings": [
+            "内容为福建省医保局在福州街头开展长护险政策宣传与解读活动",
+            "属医保动态宣传报道，无新政策发布或生效时间",
+            "涉及长期护理保险，面向老年群体"
+          ],
+          "why_it_matters": "与合成生物学研发方向无直接关联，仅可了解医保对长护险的宣传导向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:84c5b86c12f57f66",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "æå»ä¿æ´å®å¿ï¼æ¸¯æ¾³å°å­¦å­å¨èåä¿æåè¯·æ¥æ¶ï¼",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ æå»ä¿æ´å®å¿ï¼æ¸¯æ¾³å°å­¦å­å¨èåä¿æåè¯·æ¥æ¶ï¼ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->æå»ä¿æ´å®å¿ï¼æ¸¯æ¾³å°å­¦å­å¨èåä¿æåè¯·æ¥æ¶ï¼end--> æ¥æï¼2026-11-12 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->æ¥æºï¼æ±èå»ä¿å¾®ä¿¡å ¬ä¼å·ä¸­å½å»ä¿ï¼ä¸çå®æ¤ï¼ç»´æ¤å»ä¿åºéå®å ¨ï¼äººäººæè´£ï¼æå»æ¬ºè¯éªä¿ä¸¾æ¥çµè¯ï¼010-89061396ï¼010-89061397ï¼é®ç®±ï¼jubao@nhsa.gov.cnãend--> --> åäº«å°: --> --> --> ãæå°ã ãå ³é­ã",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/12/art_14_23355.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "港澳台学生参保指南，弱相关",
+          "title_cn": "港澳台学子在苏参保指南请查收",
+          "one_liner": "国家医保局发布港澳台学生在江苏参保的指南，说明参保与待遇办理流程。",
+          "key_findings": [
+            "面向在江苏就读的港澳台学生，说明参加基本医保的办理指引",
+            "内容属医保动态宣传，未涉及报销比例等具体政策调整",
+            "发布渠道为国家医保局官网医保动态栏目"
+          ],
+          "why_it_matters": "与合成生物学研发无直接关联，仅涉及港澳台学生医保参保事务；除非团队有港澳台籍学生需办理参保，否则无需深入了解。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:23bcfd2205390eb8",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å½å®¶å»ä¿å±æ°é»åè¨äººåååæ°é»åå¸å·¥ä½æºæçµè¯",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å½å®¶å»ä¿å±æ°é»åè¨äººåååæ°é»åå¸å·¥ä½æºæçµè¯ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å½å®¶å»ä¿å±æ°é»åè¨äººåååæ°é»åå¸å·¥ä½æºæçµè¯end--> æ¥æï¼2026-11-12 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->ä¸­å½å»ä¿ï¼ä¸çå®æ¤ï¼ç»´æ¤å»ä¿åºéå®å ¨ï¼äººäººæè´£ï¼æå»æ¬ºè¯éªä¿ä¸¾æ¥çµè¯ï¼010-89061396ï¼010-89061397ï¼é®ç®±ï¼jubao@nhsa.gov.cnãend--> --> åäº«å°: --> --> --> ãæå°ã ãå ³é­ã",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/12/art_14_23367.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 20,
+          "score_reason": "新闻发言人名单，无实质内容",
+          "title_cn": "国家医保局新闻发言人名单及新闻发布工作机构电话",
+          "one_liner": "国家医保局公布新闻发言人名单及新闻发布工作机构联系电话。",
+          "key_findings": [
+            "公布国家医保局新闻发言人名单",
+            "公布新闻发布工作机构联系电话",
+            "发布日期为2026-11-12"
+          ],
+          "why_it_matters": "与合成生物学研发和产品准入无直接关联，仅在需要就医保支付、创新药械政策对外沟通时可作联系渠道参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:c9c2a664dfef06be",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "éèç§æåå±å¥è¯å®¡é¢å¯¼å°ç»ä¼è®®å¬å¼ã2025å¹´åº¦éèç§æåå±å¥è¯å®¡é¢å¯¼å°ç»ä¼è®®å¨äº¬å¬å¼ãä¼è®®æ»ç»äº2025å¹´åº¦éèç§æåå±å¥è¯å®¡å·¥ä½ãè·å¥ææéä¸­å±ç°äºéèä¸å¨ç«è¶³èªä¸»åæ°çªç ´æ ¸å¿ææ¯ãä¾ææºè½åºç¨è¿­ä»£ä¸å¡æ¨¡å¼ãæ·±åæ°æºèåæåææ¯è½åç­æ¹é¢çåæ°å®è·µãä¼è®®å¼ºè°ãéèç§æå·¥ä½è©è´çæå¡é«è´¨éåå±ãæ¯æéèå¼ºå½å»ºè®¾çéè¦ä½¿å½ãèç¦åå¥½éèãç¨³æ­¥å å¤§éèç§ææå ¥ä¸åæ°æ¢ç´¢ãç§¯ææ¢ç´¢äººå·¥æºè½å¨éèç®¡çåæå¡é¢åçåºç¨ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111210072039722/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无效，无法评估",
+          "title_cn": "2025年度金融科技发展奖评审领导小组会议召开",
+          "one_liner": "央行召开2025年度金融科技发展奖评审会，总结评审工作并强调加大金融科技投入与AI应用探索。",
+          "key_findings": [
+            "会议总结2025年度金融科技发展奖评审工作，获奖成果聚焦自主创新、智能应用与数智融合。",
+            "会议强调金融科技服务高质量发展、支撑金融强国建设，稳步加大投入与创新探索。",
+            "提出积极探索人工智能在金融管理和服务领域的应用。"
+          ],
+          "why_it_matters": "该公告属金融监管口径，与合成生物学研发无直接关联；仅可留意AI在监管与金融场景的应用趋势，对实验、产品合规无实质影响。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:d22abd9ce76391b9",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Announces CEO Transition",
+            "abstract": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 95,
+          "score_reason": "英伟达CEO突然辞职，重大",
+          "title_cn": "NVIDIA 宣布 CEO 更替：黄仁勋即刻辞任",
+          "one_liner": "NVIDIA 董事会宣布黄仁勋即刻辞去总裁、CEO 及董事职务。",
+          "key_findings": [
+            "黄仁勋辞任总裁、CEO 与董事会成员，即刻生效",
+            "公告由 NVIDIA 董事会发布，未披露继任者",
+            "消息来自 NVIDIA 官方新闻室，属公司治理重大变动"
+          ],
+          "why_it_matters": "NVIDIA GPU 是合成生物学 AI 蛋白设计与基因组分析的核心算力来源，CEO 突然更替可能影响产品路线与供应链，需关注后续继任与战略走向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "rss:454af483986caafd",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Introducing Gemini 4 Hydrogen",
+            "abstract": "",
+            "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 88,
+          "score_reason": "Gemini重大新模型发布",
+          "title_cn": "Google DeepMind 发布 Gemini 4 Hydrogen",
+          "one_liner": "Google DeepMind 推出新一代模型 Gemini 4 Hydrogen。",
+          "key_findings": [
+            "官方博客发布，未披露模型参数与能力细节。",
+            "命名延续 Gemini 系列，定位为新一代模型。"
+          ],
+          "why_it_matters": "新模型可能影响生物信息分析、文献挖掘与实验设计等 AI 工具链，但缺乏细节，暂难评估对合成生物学研发的实际价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:4140b7449a1cdcfd",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+            "abstract": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+            "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "Gemini 4正式替换旧版",
+          "title_cn": "Google 推出 Gemini 4 Hydrogen，正式取代 3.8 Flash",
+          "one_liner": "Google 发布 Gemini 4 Hydrogen，取代 3.8 Flash，且未采用 Carbon、Argon 那样的缓慢安全发布流程。",
+          "key_findings": [
+            "Gemini 4 Hydrogen 正式接替 3.8 Flash 版本",
+            "发布节奏快，未沿用 Carbon、Argon 的谨慎安全流程",
+            "消息由 Ars Technica 于 2026 年 11 月 12 日报道"
+          ],
+          "why_it_matters": "大模型迭代与发布策略变化，可能影响合成生物学中文献挖掘、序列分析与实验设计所用 AI 工具的选型与合规评估。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:c9fc570fadc2fd46",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+            "abstract": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+            "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "Gemini校园争议，相关",
+          "title_cn": "Gemini 校园试点引发反弹，Google 面临 AI 进校暂停呼声",
+          "one_liner": "青少年诉讼称 Gemini 是“自杀教练”，家庭要求 Google 暂停校园 AI 试点。",
+          "key_findings": [
+            "诉讼将 Gemini 称为“自杀教练”，家属直接向 Google 施压",
+            "事件引发对校园 AI 试点暂停的公开呼吁",
+            "争议聚焦青少年使用 AI 的安全与责任归属"
+          ],
+          "why_it_matters": "校园 AI 安全争议将影响 AI 教育产品的合规与伦理审查；合成生物学研究者若涉及 AI 辅助教学或青少年科普工具，需关注同类风险与监管信号。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:37feba6fef9d392b",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+            "abstract": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+            "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "FAA用AI管空管，相关",
+          "title_cn": "美国联邦航空管理局将AI建议工具扩展至全美空域，用于管理空中交通拥堵",
+          "one_liner": "FAA把AI拥堵管理建议工具从局部扩展至全美空域，但空管工会未参与。",
+          "key_findings": [
+            "FAA将AI建议工具覆盖范围扩大至全美空域，用于管理空中交通拥堵",
+            "航空公司对该AI工具表示赞赏",
+            "空管工会未被纳入相关过程"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但可作为AI在高风险实时调度系统中落地与利益相关方治理的案例参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:34c6d4acf53a55ca",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Supporting research on AI and children’s safety",
+            "abstract": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+            "url": "https://openai.com/index/children-first-declaration",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "OpenAI安全研究资助",
+          "title_cn": "OpenAI 投入 200 万美元支持 AI 与儿童安全研究",
+          "one_liner": "OpenAI 承诺投入 200 万美元，用于研究 AI 与儿童安全，并支持共享工具以衡量风险与机会。",
+          "key_findings": [
+            "OpenAI 出资 200 万美元，资助 AI 与儿童安全相关研究",
+            "重点开发共享工具，衡量青少年面临的风险与机会"
+          ],
+          "why_it_matters": "AI 安全评估工具与风险量化方法，对合成生物学领域的生物安全治理与负责任创新有借鉴意义。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:ab58a29e40e5cb37",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+            "abstract": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+            "url": "https://openai.com/index/amplitude",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "OpenAI客户案例，常规应用",
+          "title_cn": "Amplitude 借助 OpenAI 模型将产品改进交付周期缩短至 1–2 天",
+          "one_liner": "Amplitude 基于 OpenAI 模型构建产品智能体 Wave，把产品改进的交付周期压缩到 1–2 天。",
+          "key_findings": [
+            "Wave 能识别该构建什么，并借助编码智能体帮助团队交付变更",
+            "该智能体还负责衡量变更上线后的实际影响",
+            "整个流程主要构建在 OpenAI 模型之上"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，这种“识别需求—智能体执行—量化影响”的闭环可迁移到菌株构建与实验迭代管理，值得关注其工程化路径。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:0e0766ec9c770c31",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Gondola doubles revenue as its team builds more with Codex",
+            "abstract": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+            "url": "https://openai.com/business/customer-stories/gondola",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 42,
+          "score_reason": "Codex客户案例，价值一般",
+          "title_cn": "Gondola 借助 Codex 提升团队产出，营收翻倍",
+          "one_liner": "Gondola 用 Codex 将首席工程师产出提升 50%，公司营收翻倍。",
+          "key_findings": [
+            "Gondola 帮助创意工作者获得署名与工作机会，营收实现翻倍增长。",
+            "Codex 使其首席工程师产出提升 50%，ChatGPT 简化日常工作流程。"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，AI 编码工具可显著放大工程化与自动化产出，值得评估其在实验室软件与数据流程中的应用。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:d8a1aef3d91b9a92",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Holiday Extras is rethinking what it can build with Codex",
+            "abstract": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+            "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 42,
+          "score_reason": "Codex客户案例，弱相关",
+          "title_cn": "Holiday Extras 借助 Codex 重塑应用开发与预订转化",
+          "one_liner": "Holiday Extras 用 OpenAI Codex 将客户经验转化为应用，提升预订转化并开拓增长空间。",
+          "key_findings": [
+            "借助 Codex 把客户专业知识转化为更优质的应用",
+            "目标包括提高预订转化率与探索新增长点",
+            "案例来自 OpenAI News，属企业级 AI 编码应用"
+          ],
+          "why_it_matters": "对合成生物学研发者而言，这是 AI 编码工具在业务侧落地的参考案例，可类比用于实验室数据工具与流程自动化。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:870efdc5692dd0b2",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+            "abstract": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "星盾限制，地缘相关",
+          "title_cn": "乌克兰称 Starshield 受限，无法阻止俄罗斯打击",
+          "one_liner": "乌克兰称 Starshield 服务再次受限，疑限速意在影响和谈。",
+          "key_findings": [
+            "乌克兰称 Starshield 服务受限，难以拦截俄方打击",
+            "乌方怀疑限速意在配合俄罗斯在和谈中的立场",
+            "报道未披露限速的具体技术参数与范围"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但反映卫星通信服务可被用作地缘政治杠杆，值得关注科研与产业对海外基础设施的依赖风险。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
