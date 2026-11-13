@@ -1,0 +1,1123 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:27:55.087663+08:00",
+  "fetched_ids": [
+    "pubmed:43015555",
+    "pubmed:43015554",
+    "pubmed:43015553",
+    "pubmed:43015552",
+    "pubmed:43015551",
+    "pubmed:43015550",
+    "pubmed:43015549",
+    "pubmed:43015548",
+    "pubmed:43015547",
+    "pubmed:43015546",
+    "pubmed:43015545",
+    "pubmed:43015544",
+    "pubmed:43015543",
+    "pubmed:43015542",
+    "pubmed:43015541",
+    "pubmed:43015540",
+    "pubmed:43015539",
+    "pubmed:43015538",
+    "pubmed:43015537",
+    "pubmed:43007835",
+    "pubmed:43022081",
+    "pubmed:43017522",
+    "pubmed:43010175",
+    "pubmed:43007855",
+    "pubmed:43005465",
+    "pubmed:43017154",
+    "pubmed:43024681",
+    "pubmed:43024353",
+    "pubmed:43024132",
+    "pubmed:43024025",
+    "pubmed:43024006",
+    "pubmed:43023377",
+    "pubmed:43023316",
+    "pubmed:43013649",
+    "pubmed:43023095",
+    "pubmed:43020353",
+    "pubmed:43020198",
+    "pubmed:43020145",
+    "pubmed:43019847",
+    "pubmed:43019322",
+    "pubmed:43018922",
+    "pubmed:43018822",
+    "pubmed:43018467",
+    "pubmed:43018145",
+    "pubmed:43016050",
+    "pubmed:43015472",
+    "pubmed:43015328",
+    "pubmed:43015170",
+    "pubmed:43015135",
+    "pubmed:43014543",
+    "pubmed:43014321",
+    "pubmed:43014278",
+    "pubmed:43013874",
+    "pubmed:43013147",
+    "pubmed:43013018",
+    "pubmed:43013003",
+    "pubmed:43012915",
+    "pubmed:43012873",
+    "pubmed:43012712",
+    "pubmed:43012600",
+    "pubmed:43012576",
+    "pubmed:43012574",
+    "pubmed:43012558",
+    "pubmed:43012426",
+    "pubmed:43012344",
+    "pubmed:43012162",
+    "pubmed:43014067",
+    "pubmed:43011525",
+    "pubmed:43010447",
+    "pubmed:43010417",
+    "pubmed:43010164",
+    "pubmed:43009207",
+    "pubmed:43009074",
+    "pubmed:43009044",
+    "pubmed:43009024",
+    "pubmed:43008577",
+    "pubmed:43008411",
+    "pubmed:43008229",
+    "pubmed:43007788",
+    "pubmed:43007539",
+    "pubmed:43007411",
+    "pubmed:43007216",
+    "pubmed:43006662",
+    "pubmed:43006240",
+    "pubmed:43006193",
+    "pubmed:43004616",
+    "pubmed:43003972",
+    "pubmed:43003971",
+    "pubmed:43003970",
+    "pubmed:43013939",
+    "pubmed:43011237",
+    "pubmed:43008591",
+    "pubmed:43005928",
+    "pubmed:43004718",
+    "pubmed:43004636",
+    "pubmed:43004496",
+    "pubmed:43003885",
+    "pubmed:43008690",
+    "pubmed:43004989",
+    "biorxiv:10.64898/2026.11.04.764202",
+    "biorxiv:10.64898/2026.07.23.740334",
+    "biorxiv:10.64898/2026.11.05.764745",
+    "rss:da42bc49250d688a",
+    "rss:608b777ff7d07e98",
+    "rss:6c40563845030c19",
+    "rss:bf3e8a024401171c",
+    "rss:41dda59dc5315363",
+    "rss:0433a0ddeb5c54cd",
+    "rss:c60eebecd6e2f47b",
+    "rss:c83512955fbd125a",
+    "rss:052f03394e6122b9",
+    "rss:4a7bbaeeb3657718",
+    "rss:7eb1eeb01624e666",
+    "rss:b264257846efc373",
+    "rss:f9426a1fc1e6f3e2",
+    "rss:b810a1ecefe5aa28",
+    "rss:86e130f6a476242a",
+    "rss:ec4f5badcca2ac9a",
+    "rss:2122febd6e18f7ea",
+    "rss:65b53a11edca5726",
+    "rss:c217c03580f3838d",
+    "rss:c829f95755db4a20",
+    "rss:590f8d2142e9393e",
+    "rss:9e6633b202f73357",
+    "rss:b7be719c22780623",
+    "rss:db9019b7a713686f",
+    "rss:c1f0a5183144e1b4",
+    "rss:4a800d7aa3065013",
+    "rss:c827247d8407c103",
+    "ema:69e32d2362a433f0",
+    "ema:9ac360af1a1ccc60",
+    "ema:c12b505a690a52cb",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "pbc:b03c4c3e4e5d6e0d",
+    "pbc:c9c2a664dfef06be",
+    "pbc:a515c1196a04ffd0",
+    "pbc:a4f4a83e9f442fa1",
+    "pbc:e7245ba10a6c39da",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "nhsa:4217d041a52c41b0",
+    "nhsa:966afdd78a5d2995",
+    "nhsa:891473ef5d15bf6e",
+    "nhsa:65d765e99bfad85e",
+    "nhsa:23bcfd2205390eb8",
+    "nhsa:84c5b86c12f57f66",
+    "nhsa:cb913c973138bd73",
+    "nhsa:aebad58b97f61d66",
+    "nhsa:c7a133485cc6244a",
+    "nhsa:4dafa3979278b0e4",
+    "rss:79d13e040f6ebd30",
+    "rss:bff67df79e98a4a2",
+    "rss:0e0766ec9c770c31",
+    "rss:d8a1aef3d91b9a92",
+    "rss:34c6d4acf53a55ca",
+    "rss:49cf590dc337a5b9",
+    "rss:55a31f6446277ce4",
+    "rss:cc75dd113e1a0abb",
+    "rss:c0bcf16e8fea16d8",
+    "rss:bde62bed0d83184a",
+    "rss:454af483986caafd",
+    "rss:b0558878cc433ef8",
+    "rss:e38c92a7cefc59fe",
+    "rss:dd875e3abb805b46",
+    "rss:ddcdbef63b1fc022",
+    "rss:6c31d4893839b85f",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:19847bef1f46370c",
+    "rss:201147e00bc26f9e",
+    "rss:d22abd9ce76391b9",
+    "rss:9e141bc068a526b9",
+    "rss:f09792c4cf3fd5e6",
+    "rss:f3a3fbba217e1798",
+    "rss:ff4528f92cef2b7a",
+    "rss:d4b0c514153b7bf5",
+    "rss:5d62830443eb35d8",
+    "rss:97b99b90da3cd484",
+    "rss:d70a2858dbd22f63",
+    "rss:337e29b8dbde16c2",
+    "rss:cc5bf82c102acb68",
+    "rss:e2066986deb4e61c",
+    "rss:6d09343a923f05d5",
+    "rss:4140b7449a1cdcfd",
+    "rss:870efdc5692dd0b2",
+    "rss:c9fc570fadc2fd46",
+    "rss:a5c50133dfe5e614"
+  ],
+  "stats": {
+    "fetched": 203,
+    "new_items": 44,
+    "kept": 34,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:43020145",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Cell-free protein synthesis for next-generation biomanufacturing.",
+            "abstract": "Chemicals with diverse molecular structures are essential to the pharmaceutical, food, and specialty chemical industries; however, their sustainable production remains challenging due to complex cellular regulation, limited metabolic flexibility, and the scalability constraints of purified enzyme-based systems. Extract-based cell-free protein synthesis (CFPS) has emerged as a versatile biomanufacturing platform that enables the production of functional enzymes in vitro and provides an open, programmable environment for constructing synthetic biosynthetic systems beyond the constraints of living cells. By decoupling chemical synthesis from cellular growth, CFPS allows precise control over enzyme composition, pathway stoichiometry, and cofactor utilization, thereby improving catalytic efficiency and resource utilization. In this review, we summarize recent advances in extract-based CFPS for chemical biosynthesis and discuss key engineering strategies, including cofactor regeneration, pathway balancing, and semicontinuous operation, to enhance system performance. Furthermore, we highlight emerging opportunities to integrate CFPS with artificial intelligence-guided design, renewable feedstocks, and modular reactor technologies toward more sustainable and scalable biomanufacturing processes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43020145/",
+            "journal": "Bioresource technology",
+            "authors": "Liu, Liao, Yang, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1016/j.biortech.2026.136232"
+          },
+          "score": 78,
+          "score_reason": "无细胞蛋白合成综述，核心相关",
+          "title_cn": "无细胞蛋白合成驱动下一代生物制造",
+          "one_liner": "综述指出，基于细胞提取物的CFPS可摆脱细胞生长限制，实现可编程的体外酶与通路合成。",
+          "key_findings": [
+            "CFPS将化学合成与细胞生长解耦，可精确控制酶组成、通路化学计量与辅因子利用。",
+            "关键工程策略包括辅因子再生、通路平衡与半连续操作，以提升系统性能。",
+            "未来方向为整合AI辅助设计、可再生原料与模块化反应器。"
+          ],
+          "why_it_matters": "对合成生物学研究者，CFPS是绕过细胞调控、快速原型化酶与代谢通路的可编程平台，与深圳生物制造与AI设计方向高度契合。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43024681",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Base editing-mediated precision genome engineering in Toxoplasma gondii.",
+            "abstract": "Functional genomics in Toxoplasma gondii (T. gondii), an obligate intracellular parasite of global medical importance, primarily relies on CRISPR-Cas9-mediated gene disruption. However, conventional CRISPR-Cas9 editing relies on generating double-strand breaks (DSBs), which are repaired either by error-prone non-homologous end joining or by homology-directed repair requiring donor templates and time-consuming clone isolation. Here, we established the first two base editor platforms in T. gondii: adenine base editors (ABEs) and cytosine base editors (CBEs), which enable precise point mutations via direct base conversion without DSBs or donor templates. We successfully employed ABE and CBE to introduce high-efficiency A > G and C > T conversions at defined genomic loci, respectively. By targeting the critical virulence gene ROP18, we demonstrate that ABE-mediated i-Silence (start codon disruption) and CBE-mediated i-STOP (premature stop codon introduction) strategies can efficiently generate functional T. gondii null mutants. The resulting base-edited parasite strains exhibited a complete loss of ROP18 protein expression and showed attenuated virulence and proliferation phenotypes equivalent to those of a conventional ROP18 knockout strain, as validated in both cellular and mouse models. We then conducted a genome-wide analysis predicting that the i-Silence and i-STOP strategies enable targeted inactivation of nearly all genes in the T. gondii genome (>99.6% coverage). Since our approach does not require DSBs, it enables researchers to achieve efficient, precise nucleotide substitutions without the risk of chromosomal rearrangements. We propose base editing as a powerful genetic tool in T. gondii, paving the way for high-resolution functional pathogenesis studies and the further development of genetically stable attenuated vaccines.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43024681/",
+            "journal": "PLoS neglected tropical diseases",
+            "authors": "Liu, Wu, Chen, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1371/journal.pntd.0014864"
+          },
+          "score": 72,
+          "score_reason": "弓形虫首建碱基编辑平台",
+          "title_cn": "弓形虫碱基编辑介导的精准基因组工程",
+          "one_liner": "首次在弓形虫建立ABE与CBE碱基编辑平台，无需双链断裂即可高效引入点突变并构建功能缺失株。",
+          "key_findings": [
+            "ABE与CBE分别实现A>G、C>T高效定点转换，不依赖DSB或供体模板",
+            "靶向ROP18基因，i-Silence与i-STOP策略获得与敲除株表型一致的减毒株",
+            "全基因组预测显示该策略可失活弓形虫>99.6%的基因"
+          ],
+          "why_it_matters": "为弓形虫功能基因组学提供无DSB、低重排风险的精准编辑工具，利于致病机制研究与稳定减毒疫苗开发，对合成生物学改造真核寄生虫有借鉴价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.07.23.740334",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "Chromosome-scale CRISPR screening reveals secretory pathway genes as drivers of aneuploidy-mediated antifungal tolerance",
+            "abstract": "The gain or loss of chromosomes in eukaryotes often drives aberrant phenotypes by altering the expression levels of hundreds or thousands of genes. In the case of beneficial aneuploidies, the genetic basis of fitness improvement has rarely been pinpointed, and identifying the causal genes remains a major challenge in engineering biology. The leading cause of human fungal infections, Candida albicans, frequently acquires extra copies of chromosome R (ChrR) following exposure to azole antifungal drugs, resulting in heightened antifungal tolerance. Despite this, why this aneuploidy frequently emerges following azole exposure and how it promotes antifungal tolerance remain unknown. Here, we combine RNA-seq with parallel chromosome-wide CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi) screens to systematically profile the ChrR genes contributing to azole tolerance. Using multiplexed CRISPR-dCas12a tools, we further characterize the combinatorial effects of candidate genes and uncover a central role for post-Golgi secretory trafficking in antifungal tolerance. Specifically, we demonstrate that the secretory pathway regulators SEC4 and YPT31 are both necessary and sufficient for ChrR-mediated azole tolerance, and drive increased ergosterol content in the cell membrane. By leveraging a large-scale CRISPRa screen in a fungal pathogen, our work functionally dissects one of the most common aneuploidies observed in C. albicans, provides mechanistic insight into the molecular basis of antifungal tolerance, and establishes a generalizable framework for studying aneuploidy-mediated phenotypes across eukaryotic organisms.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.07.23.740334v1",
+            "journal": "bioRxiv · microbiology",
+            "authors": "Gervais, N. C.,  Esquivel, B. D.,  Wensing, L. F.,  Chhina, M.,  Fogal, M.,  Des",
+            "published": "NA",
+            "doi": "10.64898/2026.07.23.740334"
+          },
+          "score": 68,
+          "score_reason": "染色体级CRISPR筛选，技术有价值",
+          "title_cn": "染色体尺度 CRISPR 筛选揭示分泌途径基因驱动非整倍体介导的抗真菌耐受",
+          "one_liner": "白色念珠菌 ChrR 非整倍体通过 SEC4/YPT31 增强后高尔基体分泌，提高麦角固醇含量，从而耐受唑类。",
+          "key_findings": [
+            "结合 RNA-seq 与全染色体 CRISPRa/CRISPRi 平行筛选，系统鉴定 ChrR 上贡献唑类耐受的基因。",
+            "SEC4 与 YPT31 是 ChrR 介导唑类耐受的必要且充分因子，并提升细胞膜麦角固醇含量。",
+            "用多重 CRISPR-dCas12a 工具解析候选基因组合效应，锁定后高尔基体分泌运输的核心作用。"
+          ],
+          "why_it_matters": "为真菌非整倍体适应性机制提供可复用的染色体尺度 CRISPR 筛选框架，对合成生物学中菌株耐受性改造与抗真菌靶点发现具参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43023316",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A Synthetic Benchmark for Topology-Aware Modeling of Multispecific Antibody Function.",
+            "abstract": "Multispecific antibodies (msAbs) offer transformative therapeutic potential by engaging multiple epitopes simultaneously, yet their efficacy is an emergent property governed by complex molecular architectures. Rational design is often bottlenecked by the inability to predict how subtle changes in domain topology influence functional outcomes, a challenge exacerbated by the scarcity of comprehensive experimental data. Here, we introduce Synapse, a biologically inspired synthetic benchmark for topology-aware modeling of msAbs. First, we present a generative method that combines nonlinear per-domain sequence-to-score landscapes with connectivity-dependent synthetic readouts. Second, we propose a graph neural network architecture that explicitly encodes these topological constraints, distinguishing between format configurations that appear identical to the evaluated connectivity-agnostic multilayer perceptron. We demonstrate that this model learns topology-dependent structure-function relationships on synthetic landscapes and evaluate a transfer learning workflow as infrastructure for adaptation to biological datasets. We showcase our framework with a trispecific T cell engager-inspired synthetic topology-dependent optimization task and a constrained ranking of common light chain candidates against a composite objective. This work provides a controlled benchmarking environment for developing and evaluating topology-aware computational tools for msAb modeling. All experiments use synthetic data; no biological validation is performed.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43023316/",
+            "journal": "Journal of computational biology : a journal of computational molecular cell biology",
+            "authors": "Southern, Lu, Nerli, et al.",
+            "published": "2026-11-13",
+            "doi": "10.1177/15578666261499737"
+          },
+          "score": 55,
+          "score_reason": "多抗拓扑建模基准，相关",
+          "title_cn": "多特异性抗体功能拓扑感知建模的合成基准",
+          "one_liner": "提出 Synapse 合成基准，用图神经网络显式编码拓扑约束，学习多特异性抗体的结构-功能关系。",
+          "key_findings": [
+            "生成式方法结合各结构域非线性序列-评分景观与连接依赖的合成读数，构建可控数据。",
+            "图神经网络显式编码拓扑约束，可区分连接无关 MLP 视为相同的格式配置。",
+            "展示三特异性 T 细胞衔接器优化任务与共同轻链候选的约束排序，并评估迁移学习流程。"
+          ],
+          "why_it_matters": "为多特异性抗体拓扑感知计算工具提供可控评测环境，适合关注抗体设计算法与合成数据基准的团队参考；但仅用合成数据、无生物学验证。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43020353",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Fe(II)/2-oxoglutarate-dependent dioxygenase bifunctionally catalyzes ring formation involving sequential terminal carbon oxidation for pyrrolizidinone alkaloid biosynthesis.",
+            "abstract": "The Fe(II)/2-oxoglutarate-dependent dioxygenase UcsF plays a key role in the early biosynthesis of UCS1025A, an antibacterial and antitumor pyrrolizidinone alkaloid, by participating in the formation of its core ring scaffold. UcsF catalyzes sequential oxidation of the terminal C5 of L-isoleucine, ultimately generating a five-membered ring product, (2S,3S)-3,4-dihydro-3-methyl-2H-pyrrole-2-carboxylic acid. This catalytic process is vital in the construction of natural product skeletons and synthetic biology. However, the molecular basis of UcsF and its unique two-step catalytic mechanism remain poorly understood. We characterized the catalytic function of UcsF, determined its crystal structure and combined molecular docking and MD simulations to reveal the molecular basis for substrate recognition, and employed quantum chemical calculations on reaction-state models to investigate plausible reaction pathways underlying the sequential oxidation. UcsF exhibits catalytic activity toward 2-amino carboxylic acid substrates. The crystal structure of UcsF features a unique open active pocket, with substrate binding defined by the collective contributions of multiple structural modules. In the catalytic reaction, the Fe(IV) = O species abstracts a hydrogen atom from the C5 position of L-isoleucine, followed by hydroxyl rebound to complete the first hydroxylation step. Combined kinetic, solvent isotope-effect, mutational, and computational analyses support a preferred Asp279'-facilitated PCET pathway for the second oxidation of 5-OH-Ile to the aldehyde product. Our study provides a molecular basis for understanding the relationship between the structure and function of Fe(II)/2-oxoglutarate-dependent dioxygenases and reveals the potential of the catalytic ability of UcsF for biosynthesis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43020353/",
+            "journal": "International journal of biological macromolecules",
+            "authors": "Zhao, Zhang, Chen, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1016/j.ijbiomac.2026.155262"
+          },
+          "score": 50,
+          "score_reason": "双加氧酶催化机制，合成生物学相关",
+          "title_cn": "Fe(II)/2-酮戊二酸依赖双加氧酶UcsF双功能催化连续末端碳氧化成环，构建吡咯里西啶酮生物碱骨架",
+          "one_liner": "UcsF双功能催化L-异亮氨酸C5连续氧化并成环，生成五元吡咯啉羧酸产物。",
+          "key_findings": [
+            "解析UcsF晶体结构，活性口袋开放，底物识别由多个结构模块共同决定。",
+            "Fe(IV)=O先夺取C5氢完成羟基化，第二步经Asp279'协助的PCET氧化为醛。",
+            "动力学、溶剂同位素效应、突变与量子化学计算共同支持该两步机制。"
+          ],
+          "why_it_matters": "为Fe(II)/2-酮戊二酸双加氧酶的结构-功能关系提供分子基础，其连续氧化成环能力可用于合成生物学改造天然产物骨架。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43018922",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Altitudin S, an Antimicrobial Peptide Produced by Bacillus altitudinis ECC22, Defines a Novel Subgroup of Circular Bacteriocins.",
+            "abstract": "Bacteriocins are ribosomally synthesized antimicrobial peptides with diverse structures and mechanisms of action. Bacillus altitudinis ECC22, previously shown to produce the circular bacteriocins pumilarin and altitudin A, was found to harbor an additional biosynthetic gene cluster (BGC) encoding a novel circular bacteriocin, designated altitudin S. Proteomic analysis of purified active supernatant fractions confirmed the production of altitudin S, with a molecular mass of 8379.7 Da, while LC-MS/MS identification of a peptide spanning the N-to-C-terminal junction provided direct evidence of head-to-tail cyclization. Altitudin S is synthesized as a 132-residue precursor comprising a 56-amino-acid leader and a 76-residue circular mature core. Structural modeling predicted a compact saposin-like fold composed of five α-helices and a strongly cationic surface (pI ≈ 11.0, net charge + 13). Altitudin S was also produced using an in vitro cell-free protein synthesis system coupled with split-intein mediated ligation (IV-CFPS/SIML) and exhibited a narrow antimicrobial spectrum. Comprehensive sequence and phylogenetic analyses revealed that altitudin S is a highly divergent circular bacteriocin with distinctive sequence features and predicted physicochemical properties, including an exceptionally high isoelectric point, strong cationic charge, and low hydrophobicity. Homologs were identified across diverse Bacillales species, displaying high sequence similarity, conserved structural features, and a shared predicted physicochemical profile. Their BGCs were also highly conserved and consistently encoded an M48-family metallopeptidase. Collectively, these findings support the proposal of altitudin S and its homologs as representatives of a novel third subgroup (subgroup III) of circular bacteriocins.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43018922/",
+            "journal": "Probiotics and antimicrobial proteins",
+            "authors": "Sevillano, Lafuente, Peña, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1007/s12602-026-11304-3"
+          },
+          "score": 48,
+          "score_reason": "新型环状细菌素，无细胞合成",
+          "title_cn": "Altitudin S：Bacillus altitudinis ECC22 产生的抗菌肽，定义环状细菌素新亚组",
+          "one_liner": "在B. altitudinis ECC22中发现新型环状细菌素altitudin S，并据此提出环状细菌素第三亚组。",
+          "key_findings": [
+            "从菌株ECC22鉴定出新的环状细菌素BGC，纯化后经蛋白质组学确认其分子量为8379.7 Da。",
+            "LC-MS/MS检测到跨越N端至C端连接处的肽段，直接证明其头尾环化。",
+            "前体为132个残基，含56个氨基酸的前导肽和76个残基的环状成熟核心；结构预测为5个α螺旋的saposin样折叠，pI≈11.0、净电荷+13。"
+          ],
+          "why_it_matters": "为环状细菌素提供新亚组与保守BGC特征，其高阳离子、低疏水序列可启发合成生物学改造抗菌肽；体外合成体系便于快速构建与筛选。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43023377",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "FANIN/Zfp148, the upstream regulator of pioneer factor paralogs Foxa1 and Foxa2, controls hepatocyte identity.",
+            "abstract": "Numerous attempts involving combinations of transcription factors to create functional hepatocytes to enable implantation into patients with chronic and end-stage liver disease have been promising but not yet successful. We identified the upstream regulator of pioneer factor paralogs Foxa1 and Foxa2 in Mus Musculus, critical to hepatogenesis and adult physiological function, we named FANIN. Winged-helix (forkhead) factor paralogs Foxa1 and Foxa2, originally named HNF3α and HNF3β, are called pioneer factors for their ability to independently bind closed chromatin and change chromatin accessibility allowing other factors to bind. Foxa1 and Foxa2, unlike a close homolog Foxa3, are required for life. Deletion of FANIN, encoded by Zfp148, leads to loss of Foxa1 and Foxa2 expression in the liver. FANIN affects global changes in chromatin accessibility, not observed in Foxa2 or Foxa1/Foxa2 double mutants, in particular at regions with enriched HNF4α motif. FANIN controls hepatocyte identity through regulating Foxa1 & Foxa2 expression, as well as activity/binding of HNF4α. Hence, FANIN modulates master regulators that control hepatocyte-specific gene expression and identity. In particular, reduced synergistic Foxa2/HNF4α function in FANIN mutants leads to destabilization of the hepatocyte, resulting in hepatic vacuolization, proliferation, and severe injury. We have uncovered a novel genetic circuit involving master regulators of the hepatocyte, which has significant implications for regeneration of these cells in patients with severe liver disease.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43023377/",
+            "journal": "Genetics",
+            "authors": "Schinderle, Wu, Shah, et al.",
+            "published": "2026-11-13",
+            "doi": "10.1093/genetics/iyag328"
+          },
+          "score": 45,
+          "score_reason": "肝细胞重编程转录因子，边缘",
+          "title_cn": "FANIN/Zfp148 作为先锋因子 Foxa1 与 Foxa2 的上游调控因子，控制肝细胞身份",
+          "one_liner": "Zfp148 编码的 FANIN 是 Foxa1/Foxa2 的上游调控因子，通过调控二者及 HNF4α 维持肝细胞身份。",
+          "key_findings": [
+            "小鼠中鉴定出 FANIN（由 Zfp148 编码），为 Foxa1/Foxa2 的上游调控因子。",
+            "FANIN 缺失导致肝脏 Foxa1/Foxa2 表达丢失，并引起整体染色质可及性改变。",
+            "FANIN 突变使 Foxa2/HNF4α 协同功能下降，肝细胞失稳，出现空泡化、增殖与严重损伤。"
+          ],
+          "why_it_matters": "该研究揭示了肝细胞身份维持的新基因回路，对合成生物学中肝细胞重编程与再生医学的底盘细胞构建具有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43024025",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Environmental Microbiomes as Sources of Postbiotic Therapeutics: A One Health Perspective on Translational Applications.",
+            "abstract": "Environmental microbiomes are reservoirs of specialized microorganisms with implications for ecosystem functionality, host health, and therapeutic discovery. Soil, marine, plant-associated, wastewater, freshwater, and extreme-environment microbiomes contain communities capable of producing bioactive metabolites and functional biomolecules. Postbiotics-non-viable microorganisms and their functional components that confer health benefits-offer potential advantages in stability, safety, scalability, and pharmaceutical development. This review examines environmental microbiomes as sources of postbiotic therapeutics within a One Health framework. A critical integrative translational review synthesized literature on environmental microbiomes, postbiotic diversity, molecular mechanisms, therapeutic applications, technological advances, and barriers to clinical translation. Evidence was organized across ecological sources, postbiotic classes, human-health applications, discovery platforms, pharmaceutical development, and translational challenges. Environmental microbiomes represent chemically and functionally diverse reservoirs of postbiotic candidates shaped by ecological adaptation, microbial competition, and environmental selection. Major classes-including short-chain fatty acids, bacteriocins, extracellular vesicles, indole and tryptophan metabolites, exopolysaccharides, and microbial/lytic enzymes-act through receptor signaling, immune modulation, barrier protection, antimicrobial activity, metabolic regulation, intercellular communication, and enzymatic target modification. Metagenomics, metabolomics, artificial intelligence, synthetic biology, organoid and microfluidic models, advanced delivery systems, and biomanufacturing increasingly enable discovery and development. However, reproducibility, microbiome variability, manufacturing scalability, regulatory standardization, cost, and equitable translation remain barriers. Environmental microbiomes provide important reservoirs for postbiotic discovery. Integrating ecological microbiology with multi-omics, computational innovation, pharmaceutical engineering, and human-relevant validation could accelerate development of defined, reproducible, and scalable postbiotic therapeutics. Preserving microbial ecosystem diversity is relevant to environmental sustainability and future microbiome-derived therapeutic innovation within One Health medicine.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43024025/",
+            "journal": "Probiotics and antimicrobial proteins",
+            "authors": "Chigozie, Oghonyon, Enyi",
+            "published": "2026-11-13",
+            "doi": "10.1007/s12602-026-11293-3"
+          },
+          "score": 40,
+          "score_reason": "环境微生物后生元综述，边缘",
+          "title_cn": "环境微生物组作为后生元治疗来源：转化应用的 One Health 视角",
+          "one_liner": "综述指出环境微生物组是后生元候选物的多样储库，需多组学与合成生物学加速转化。",
+          "key_findings": [
+            "后生元涵盖短链脂肪酸、细菌素、胞外囊泡、吲哚类等，经受体信号与免疫调节等机制起效。",
+            "宏基因组、代谢组、AI、合成生物学、类器官与微流控正推动发现与开发。",
+            "可重复性、微生物组变异、生产放大、监管标准化与成本仍是转化障碍。"
+          ],
+          "why_it_matters": "为合成生物学提供环境来源后生元元件与生产路线图，可结合深圳的发酵制造与AI平台布局。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43019322",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Minimal functional activity and presence of an antigen sink limit CD36 blockade as a macrophage-targeted cancer immunotherapy.",
+            "abstract": "Targeting macrophages in the tumor microenvironment offers potential to relieve immune-suppression and improve anti-tumor immune responses. Unfortunately, a range of tumor-associated macrophage (TAM)-targeting agents in development has not yet translated into clinical benefit. We sought to identify novel targets on primary human macrophages through an unbiased phenotypic selection campaign. This work identified the scavenger receptor and lipid transporter CD36 as a potential target associated with anti-inflammatory phenotypes on macrophages. We first confirmed the ability of in-house generated and commercially available anti-CD36 monoclonal antibodies (mAbs) to inhibit CD36 binding and cellular uptake of oxidized lipids, both in cell-free settings and in engineered cell lines. However, we were unable to observe consistent or robust responses to CD36 blockade in primary human macrophages using a range of TAM-like and lipid-induced in vitro models. In vivo, CD36-KO mice showed reduced tumor growth, which implicated a CD36-dependent host impact on tumor progression. Importantly, anti-CD36 mAb failed to phenocopy this effect. Pharmacokinetic assessments revealed considerable target-mediated drug disposition with anti-CD36 mAb, limiting free plasma concentrations of the drug. A modified dosing regimen managed to increase drug concentration in plasma but still failed to elicit meaningful activity across primary tumor models, with/without anti-PD-L1. Although it remains clear that lipid uptake and metabolism is a key feature in TAM that can drive their immunosuppressive activities, our investigation raises concerns regarding the therapeutic targeting of CD36 due to redundancy in the lipid scavenging receptor family and a broad tissue expression profile. Together, these findings suggest that conventional monoclonal antibody blockade of CD36 has limited therapeutic potential in solid tumors, although outcomes may vary in different biological contexts.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43019322/",
+            "journal": "PloS one",
+            "authors": "Kuczynski, Nakamura, Browne, et al.",
+            "published": "2026-01-01",
+            "doi": "10.1371/journal.pone.0362100"
+          },
+          "score": 40,
+          "score_reason": "CD36阻断免疫治疗，边缘",
+          "title_cn": "CD36 阻断作为巨噬细胞靶向肿瘤免疫疗法的功能活性有限且受抗原库限制",
+          "one_liner": "抗 CD36 单抗在体内外均未显示稳健抗肿瘤活性，抗原库与受体冗余限制其疗效。",
+          "key_findings": [
+            "无偏表型筛选将清道夫受体 CD36 鉴定为与巨噬细胞抗炎表型相关的潜在靶点。",
+            "抗 CD36 单抗可抑制氧化脂质摄取，但在原代人巨噬细胞及多种肿瘤模型中无一致活性。",
+            "CD36-KO 小鼠肿瘤生长减慢，但抗 CD36 单抗无法复制该效应，且存在明显靶点介导的药物处置。"
+          ],
+          "why_it_matters": "对巨噬细胞靶向免疫治疗与抗体药代设计有直接参考价值：提示单靠抗体阻断 CD36 难以成药的机制原因，可帮助判断同类靶点与替代策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "biorxiv:10.64898/2026.11.05.764745",
+            "source": "biorxiv",
+            "source_label": "bioRxiv",
+            "tier": "official",
+            "title": "A TMEM175 Mutation Disrupts the Lysosomal-Mitochondrial Axis Causing Short QT Syndrome and Sudden Cardiac Death",
+            "abstract": "Short QT Syndrome (SQTS) is a rare cardiac channelopathy characterized by abnormally short QTc intervals and increased sudden cardiac death (SCD) risk. Only 20-30% of SQTS cases have been linked to genetic mutations, typi-cally in surface membrane ion channels. We identified a novel lysosomal TMEM175 gene mutation (p.Arg377His) in 7 patients in a family with SQTS and SCD. Genetic analyses, including whole exome sequencing in the family and rare-variant burden testing in [~]118,000 UK Biobank participants, sug-gested an association between TMEM175 rare variants and QT interval short-ening. Functional studies in CRISPR-engineered mice and patient-specific induced pluripotent stem cell-derived cardiomyocytes (iPSC-CMs) revealed that TMEM175R377H causes shortened QT intervals and hastened repolariza-tion, respectively, as well an increased arrhythmia susceptibility. Isolated TMEM175R377H cardiomyocytes showed action potential duration (APD) abbre-viation, confirmed in whole TMEM175R377H mouse hearts and patient-specific iPSC-CM monolayers. In silico and electron microscopy studies showed that TMEM175R377H disrupts lysosomal-mitochondrial interactions, leading to mito-chondrial dysfunction, as evidenced by the reduced maximal respiration and spare respiratory capacity, with reduced ATP production, IKATP activation, and APD shortening. This mutation represents the first non-sarcolemmal ion chan-nel defect associated with SQTS and high SCD risk, potentially expanding the genetic landscape of the disease.",
+            "url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764745v1",
+            "journal": "bioRxiv · molecular biology",
+            "authors": "Cruz, F. M.,  Ruiz-Robles, J. M.,  Martinez-Carrascoso, I. m.,  Macias, A.,  Mor",
+            "published": "NA",
+            "doi": "10.64898/2026.11.05.764745"
+          },
+          "score": 40,
+          "score_reason": "TMEM175突变致病，边缘",
+          "title_cn": "TMEM175 突变破坏溶酶体-线粒体轴导致短 QT 综合征与心源性猝死",
+          "one_liner": "新发现溶酶体 TMEM175 突变经线粒体功能障碍致短 QT 综合征与猝死风险。",
+          "key_findings": [
+            "家系外显子测序与 UK Biobank 约 11.8 万人罕见变异负荷分析支持 TMEM175 与 QT 缩短相关",
+            "CRISPR 小鼠与患者 iPSC-CM 显示突变缩短动作电位时程、增加心律失常易感性",
+            "突变破坏溶酶体-线粒体互作，降低最大呼吸与备用呼吸能力、ATP 减少并激活 IKATP"
+          ],
+          "why_it_matters": "首次将短 QT 综合征归因于非肌膜离子通道的溶酶体-线粒体轴缺陷，拓展遗传病因谱，对心脏安全性评估与 iPSC-CM 疾病建模有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43024006",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Recent approaches to modulate citrinin biosynthesis in Monascus species: a review.",
+            "abstract": "The filamentous fungi Monascus spp. are rich sources of secondary metabolites that include Monascus azaphilone pigments, monacolin K, and γ-aminobutyric acid, making them significant in the food, nutraceutical, cosmetic and pharmaceutical industries. Despite the industrial importance of this fungus, its production of citrinin, a nephrotoxic polyketide mycotoxin, remains a major drawback and limits its commercial application. Recent research studies have shown that the mechanism that governs citrinin biosynthesis highlights the interactions between Biosynthetic Gene Clusters (BGCs), epigenetic modifications, global regulatory networks, and environmental factors. The current understanding of the molecular and epigenetic mechanisms used to mitigate citrinin production in Monascus spp. is discussed in this review. Emphasis is given on histone acetylation and deacetylation, methylation, chromatin remodeling, the velvet complex, and the modulation of toxin biosynthesis through RNA-level gene expression control. The recent advances are critically evaluated for engineering citrinin-free strains, including transcriptomics, proteomics, multi-omics, RNA interference, CRISPR/Cas genome editing, and synthetic biology. The comparative analysis of these approaches shows that integrating epigenetic engineering with advanced genome and metabolic engineering can regulate citrinin while maintaining other important metabolite yields. Combining multi-omics and artificial intelligence-guided strain design with epigenetic interventions will accelerate the development of safe, sustainable, and high-yielding Monascus-assisted bioprocesses.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43024006/",
+            "journal": "World journal of microbiology & biotechnology",
+            "authors": "Mahesh, Subburamu, Sundaram, et al.",
+            "published": "2026-11-13",
+            "doi": "10.1007/s11274-026-05400-3"
+          },
+          "score": 38,
+          "score_reason": "红曲霉毒素调控综述，弱相关",
+          "title_cn": "红曲霉桔霉素生物合成调控的最新研究进展：综述",
+          "one_liner": "综述红曲霉桔霉素合成的BGC、表观遗传与全局调控机制及消除该毒素的工程策略。",
+          "key_findings": [
+            "桔霉素合成受BGC、表观修饰、全局调控网络与环境因素交互控制。",
+            "组蛋白乙酰化、甲基化、染色质重塑、velvet复合体及RNA水平调控是关键靶点。",
+            "转录组、多组学、RNAi、CRISPR与合成生物学被用于构建无桔霉素菌株。"
+          ],
+          "why_it_matters": "红曲霉是天然产物工业底盘，消除桔霉素毒性是产品合规与商业化的前提；表观遗传工程与多组学、AI设计结合，为合成生物学改造真菌次级代谢提供可复用范式。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43022081",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Molecular characterization of tetracycline resistance mechanisms in the probiotic strain Lentilactobacillus buchneri KU200793.",
+            "abstract": "UNLABELLED: Tetracycline resistance in probiotic lactic acid bacteria raises safety concerns for food applications. This study investigated the mechanisms underlying tetracycline resistance in Lentilactobacillus buchneri KU200793 using genomic, biochemical, and functional analyses. The tetracycline minimum inhibitory concentration (MIC) was 128 mg/L, exceeding the European Food Safety Authority cut-off. Genome annotation identified putative resistance-associated genes, including major facilitator superfamily and ATP-binding cassette transporters, PmrA, and a TetR family transcriptional regulator. HPLC analysis indicated that extracellular components from tetracycline-exposed cultures may affect tetracycline stability, but not through direct inactivation. No mutations were detected in the 30S ribosomal protein S10 or 16S rRNA compared to susceptible L. buchneri ATCC 4005. Notably, chlorpromazine reduced the MIC 16-fold, to 8 mg/L, identifying chlorpromazine-sensitive efflux as the major resistance determinant. Reduced alkaline phosphatase activity and partial restoration of cell-free green fluorescent protein translation provided supportive evidence for decreased permeability and inducible translation-associated factors in this multifactorial phenotype.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s10068-026-02296-5.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43022081/",
+            "journal": "Food science and biotechnology",
+            "authors": "Kang, Jeong, Kang, et al.",
+            "published": "2026-12-01",
+            "doi": "10.1007/s10068-026-02296-5"
+          },
+          "score": 35,
+          "score_reason": "益生菌耐药机制，弱相关",
+          "title_cn": "益生菌布氏乳杆菌KU200793四环素耐药机制的分子解析",
+          "one_liner": "布氏乳杆菌KU200793四环素MIC达128 mg/L，主要耐药机制为氯丙嗪敏感的外排泵。",
+          "key_findings": [
+            "MIC为128 mg/L，超过EFSA限值；基因组注释到MFS/ABC转运蛋白、PmrA及TetR调控因子。",
+            "氯丙嗪使MIC降低16倍至8 mg/L，证实外排是主要耐药决定因素。",
+            "未发现S10或16S rRNA突变；HPLC显示胞外组分不直接灭活四环素，另见通透性降低与翻译相关因子参与。"
+          ],
+          "why_it_matters": "益生菌耐药性关乎食品安全与活菌制剂开发；该菌的多因素耐药表型提示需在菌株筛选与合成生物学改造中评估耐药基因传播风险。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43019847",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Formulation-controlled redaporfin cellular-targeted photodynamic therapy sensitizes tumors to PD-1/PD-L1 blockade via immunogenic cell death.",
+            "abstract": "Redaporfin is a clinically advanced photosensitizer developed for vascular-targeted photodynamic therapy (V-PDT), yet its therapeutic utility under long drug-to-light interval, cellular-targeted PDT (C-PDT), remains limited despite substantial tumor exposure. Here, we show that formulation-dependent control of redaporfin photochemistry and ER-associated intracellular localization can convert otherwise non-curative C-PDT into an effective partner for immune checkpoint blockade. Encapsulation in Pluronic®-based micelles prolonged the redaporfin triplet-state lifetime over sevenfold relative to ethanol and over twentyfold relative to a non-micellar aqueous environment, while preserving oxygen accessibility. Direct comparison with Pluronic® F127 demonstrated carrier-specific effects: despite greater cell-free ROS generation, F127 showed lower encapsulation efficiency, poorer storage stability, and inferior intracellular ROS generation and phototoxicity. P123 enhanced ER-associated redaporfin accumulation at 24 h and amplified an ICD phenotype, evidenced by increased calreticulin exposure and HMGB1 release; P123-mediated C-PDT also activated macrophages with an M1-like marker profile and induced adaptive PD-L1 upregulation in surviving CT26 cells. In vivo fluorescence imaging confirmed rapid tumor accumulation and sustained retention of redaporfin/P123 at 24 h. Whereas C-PDT alone and α-PD-L1 monotherapy were non-curative, combination with PD-1 and/or PD-L1 blockade produced durable complete responses in up to 50% of mice. All complete responders remained tumor-free during 120-day follow-up, and dual blockade conferred protection against CT26 rechallenge, providing functional evidence of long-term antitumor immune memory. These findings establish formulation-driven control of intracellular photochemistry and subcellular localization as an underappreciated determinant of PDT-mediated anticancer immunity and provide a translational strategy for repurposing a clinically advanced V-PDT photosensitizer for durable photodynamic immunotherapy.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43019847/",
+            "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+            "authors": "Warszyńska, Szyk-Warszyńska, Barczyk, et al.",
+            "published": "2026-11-12",
+            "doi": "10.1016/j.biopha.2026.120054"
+          },
+          "score": 35,
+          "score_reason": "光动力疗法配方研究，弱相关",
+          "title_cn": "制剂调控的redaporfin细胞靶向光动力疗法通过免疫原性细胞死亡使肿瘤对PD-1/PD-L1阻断敏感",
+          "one_liner": "Pluronic P123胶束包裹redaporfin可增强内质网定位与免疫原性细胞死亡，使原本无效的细胞靶向PDT联合PD-1/PD-L1阻断产生持久完全缓解。",
+          "key_findings": [
+            "P123胶束将redaporfin三线态寿命延长7倍以上（相对乙醇）和20倍以上（相对非胶束水相），并保持氧可及性。",
+            "P123增强24小时内质网相关蓄积，促进钙网蛋白暴露与HMGB1释放，激活M1样巨噬细胞并诱导PD-L1上调。",
+            "C-PDT单用或α-PD-L1单药均不能治愈，联合PD-1/PD-L1阻断使至多50%小鼠获持久完全缓解，120天无瘤并抵抗再接种。"
+          ],
+          "why_it_matters": "为已进入临床的V-PDT光敏剂提供制剂重定位策略，将光动力与免疫检查点联合，对肿瘤免疫治疗与递送系统设计有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43024353",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Lactiplantibacillus plantarum postbiotics attenuate Salmonella LPS-triggered neuroinflammation by modulating the microbiota-gut-brain axis in a pig model.",
+            "abstract": "This study explored the effects of Lactiplantibacillus plantarum (LP) postbiotics on Salmonella LPS-induced neuroinflammation, and elucidated the underlying mechanisms. Sixty pigs were randomly divided into control, lipopolysaccharide (LPS), cell-free supernatant of LP (CFS) and CFS + LPS groups. The pigs were fed with 0.8% CFS or MRS medium for 28 days, and then exposed to 30 μg kg-1 LPS. The results showed that CFS alleviated damage of the liver, colon and brain, and improved brain tight junctions. LPS significantly upregulated the levels of IL-1β, IL-6 and TNF-α (P < 0.05) and downregulated IL-4 and IL-10 (P < 0.05), while CFS pretreatment markedly reversed this trend. LPS activated the brain inflammasome by increasing NLRP3, IL-1β, IL-18 and GSDMD (P < 0.05), and CFS pretreatment significantly decreased NLRP3 and IL-1β (P < 0.05). CFS modulated the levels of neurotransmitters, particularly the tryptophan metabolism. Moreover, CFS markedly increased the contents of microbial metabolites (P < 0.05) and optimized the gut microbiota through improving Lactobacillus amylovorus and Lactobacillus reuteri (P < 0.05). To further clarify the role of the microbiota on alleviating neuroinflammation, the fecal microbial transplantation (FMT) model in mice was established. The mice were administered with fecal suspension from CFS-treated pigs for 14 days and challenged with 3 × 108 CFU Salmonella Typhimurium (ST) for three days. The results showed that the weight loss caused by ST was significantly alleviated by CFS and FMT-CFS pretreatment (P < 0.05). FMT-CFS markedly inhibited ST translocation in the spleen and brain (P < 0.05), and attenuated tissue damage. FMT-CFS dramatically suppressed neuroinflammation and NLRP3 activation. In summary, LP postbiotics attenuated Salmonella LPS-induced neuroinflammation via modulating the microbiota-gut-brain axis. Our findings provide the potential of postbiotics as a nutritional supplement to alleviate neuroinflammation.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43024353/",
+            "journal": "Food & function",
+            "authors": "Wu, Zhang, Shu, et al.",
+            "published": "2026-11-13",
+            "doi": "10.1039/d6fo03671f"
+          },
+          "score": 30,
+          "score_reason": "益生菌后生元动物实验，弱相关",
+          "title_cn": "植物乳植杆菌后生元经微生物-肠-脑轴减轻猪模型中沙门氏菌LPS诱导的神经炎症",
+          "one_liner": "植物乳植杆菌无细胞上清经肠-脑轴减轻沙门氏菌LPS诱导的猪神经炎症，并经粪菌移植验证。",
+          "key_findings": [
+            "CFS预处理逆转LPS引起的炎症因子失衡，降低脑NLRP3、IL-1β，改善脑紧密连接。",
+            "CFS调节色氨酸代谢等神经递质，优化肠道菌群，增加L. amylovorus与L. reuteri。",
+            "小鼠FMT-CFS减轻ST感染体重下降，抑制脾与脑内细菌易位及神经炎症。"
+          ],
+          "why_it_matters": "为后生元作为营养补充剂缓解神经炎症提供动物证据，提示肠-脑轴干预与菌群代谢物是合成生物学改造益生菌的可行切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43023095",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Plasma metagenomic cell-free DNA sequencing identifies clinically unsuspected cases of Toxoplasma gondii infection in immunocompromised patients: a single-centre experience.",
+            "abstract": "Toxoplasmosis can be challenging to diagnose, particularly in immunocompromised patients with nonspecific clinical presentations. We present a retrospective, single-centre case series of eight Toxoplasma gondii infections identified by plasma metagenomic cell-free DNA (cfDNA) sequencing in allogeneic haematopoietic stem cell transplant recipients. Nested within a larger cohort evaluating cfDNA utilization, this case series highlights a positive clinical impact of cfDNA testing in 5 out of 8 (62.5%) patients, including earlier diagnosis and changes in clinical management. These findings illustrate the potential utility of plasma cfDNA sequencing as a complement to conventional diagnostics across diverse clinical presentations of toxoplasmosis.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43023095/",
+            "journal": "Access microbiology",
+            "authors": "Goren, Lehman, Drozdov, et al.",
+            "published": "2026-01-01",
+            "doi": "10.1099/acmi.0.001068.v4"
+          },
+          "score": 30,
+          "score_reason": "cfDNA诊断弓形虫，弱相关",
+          "title_cn": "血浆宏基因组游离DNA测序在免疫抑制患者中检出临床未疑及的刚地弓形虫感染：单中心经验",
+          "one_liner": "血浆宏基因组cfDNA测序在异基因造血干细胞移植受者中检出8例临床未疑及的弓形虫感染。",
+          "key_findings": [
+            "回顾性单中心病例系列，8例弓形虫感染均由血浆宏基因组cfDNA测序发现。",
+            "5/8（62.5%）患者获得阳性临床影响，包括更早诊断和治疗方案调整。",
+            "该检测可作为传统诊断的补充，覆盖表现多样的弓形虫病。"
+          ],
+          "why_it_matters": "提示无创cfDNA宏基因组测序可补充免疫抑制人群的机会性感染诊断，对开发病原体检测或cfDNA诊断工具的合成生物学团队有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:bf3e8a024401171c",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
+            "abstract": "MARLBOROUGH, MA — Moderna is “on track and ready” to make thousands of doses of its Merck-partnered cancer vaccine as it prepares to file a marketing application by the end of this year with the FDA ...",
+            "url": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "mRNA癌症疫苗临近FDA申报",
+          "title_cn": "Moderna 为癌症疫苗商业化生产做准备，年底前向 FDA 递交上市申请",
+          "one_liner": "Moderna 与 Merck 合作的癌症疫苗已具备量产能力，计划年底前向 FDA 提交上市申请。",
+          "key_findings": [
+            "Moderna 已准备好生产数千剂与 Merck 合作的癌症疫苗",
+            "公司计划在年底前向 FDA 递交上市申请",
+            "该疫苗为个体化 mRNA 癌症疫苗，属于治疗性疫苗"
+          ],
+          "why_it_matters": "个体化 mRNA 癌症疫苗进入上市申报阶段，是 mRNA 疗法从传染病向肿瘤拓展的关键节点，对关注 mRNA 与肿瘤免疫的研发人员具有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:0433a0ddeb5c54cd",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Regeneron posts mid-stage POTS data; Kyverna completes CAR-T filing",
+            "abstract": "Plus, news about Merck KGaA, Rezolute, Vir, Orakl and Cellectis. Regeneron’s mid-stage POTS data: The biotech’s monoclonal antibody, baloncibart, given at 450 mg led to an average 11.4-beat-per-minute reduction in heart ...",
+            "url": "https://endpoints.news/regeneron-posts-mid-stage-pots-data-kyverna-completes-car-t-filing/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "CAR-T申报完成，细胞治疗进展",
+          "title_cn": "Regeneron公布POTS中期数据；Kyverna完成CAR-T申报",
+          "one_liner": "Regeneron抗体baloncibart在POTS中期试验中使心率平均降低11.4次/分；Kyverna完成CAR-T申报。",
+          "key_findings": [
+            "baloncibart 450mg在POTS患者中心率平均降低11.4次/分",
+            "Regeneron公布的是中期研究数据，适应症为POTS",
+            "Kyverna已完成其CAR-T疗法的监管申报"
+          ],
+          "why_it_matters": "POTS缺乏获批疗法，单抗数据提示新机制；CAR-T申报进展对细胞治疗赛道有参考价值，但与合成生物学直接关联有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "ema:9ac360af1a1ccc60",
+            "source": "ema",
+            "source_label": "欧洲药品管理局 EMA",
+            "tier": "official",
+            "title": "EMA recommends extending Gazyvaro’s use to systemic lupus erythematosus",
+            "abstract": "Gazyvaro reduces disease activity and use of corticosteroids",
+            "url": "https://www.ema.europa.eu/en/news/ema-recommends-extending-gazyvaros-use-systemic-lupus-erythematosus",
+            "journal": "欧洲药品管理局 EMA",
+            "authors": "",
+            "published": "",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "Gazyvaro适应症扩展获批",
+          "title_cn": "EMA建议将Gazyvaro适应症扩展至系统性红斑狼疮",
+          "one_liner": "EMA建议扩展Gazyvaro用于系统性红斑狼疮，可降低疾病活动度并减少糖皮质激素用量。",
+          "key_findings": [
+            "EMA建议将Gazyvaro适应症扩展至系统性红斑狼疮（SLE）",
+            "Gazyvaro可降低SLE疾病活动度",
+            "可减少患者对糖皮质激素的使用"
+          ],
+          "why_it_matters": "Gazyvaro为抗CD20单抗，此次拓展至自身免疫病SLE，提示B细胞清除策略在自免领域的潜力，对关注抗体药与免疫调控的研发方向有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:608b777ff7d07e98",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AstraZeneca pulls EU filing for antibody as CHMP backs Gazyvaro in lupus",
+            "abstract": "AstraZeneca has withdrawn its European marketing application for a monoclonal antibody in a subset of amyloidosis patients. The candidate had previously failed two late-stage studies in a broader population, but the drugmaker then said that ...",
+            "url": "https://endpoints.news/astrazeneca-pulls-eu-filing-for-antibody-as-chmp-backs-gazyvaro-in-lupus/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "阿斯利康撤回欧盟申请，监管动态",
+          "title_cn": "阿斯利康撤回抗体药欧盟上市申请，CHMP支持Gazyvaro用于狼疮",
+          "one_liner": "阿斯利康撤回某单抗在淀粉样变亚组的欧盟上市申请；CHMP支持Gazyvaro用于狼疮。",
+          "key_findings": [
+            "该单抗此前在更广泛人群中两项后期研究失败，随后阿斯利康缩小至亚组申报。",
+            "阿斯利康已撤回该单抗在欧洲的上市申请，具体亚组未在摘要中说明。",
+            "CHMP对Gazyvaro用于狼疮给出支持意见，具体适应症细节未披露。"
+          ],
+          "why_it_matters": "抗体药后期失败后亚组申报仍被撤回，提示亚组证据门槛高；对做抗体或蛋白药临床转化者，是评估适应症策略与监管风险的反面案例。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "ema:69e32d2362a433f0",
+            "source": "ema",
+            "source_label": "欧洲药品管理局 EMA",
+            "tier": "official",
+            "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2026",
+            "abstract": "Seven new medicines recommended for approval; another 11 medicines recommended for extension of their therapeutic indications",
+            "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026",
+            "journal": "欧洲药品管理局 EMA",
+            "authors": "",
+            "published": "",
+            "doi": null
+          },
+          "score": 65,
+          "score_reason": "CHMP会议要点，监管参考",
+          "title_cn": "EMA CHMP 2026年11月会议：建议批准7款新药，11款药物扩展适应症",
+          "one_liner": "EMA CHMP 11月会议建议批准7款新药，并建议11款药物扩展适应症。",
+          "key_findings": [
+            "CHMP建议批准7款新药，涉及多个治疗领域。",
+            "另有11款药物获建议扩展治疗适应症。",
+            "建议将提交欧盟委员会作最终上市授权决定。"
+          ],
+          "why_it_matters": "欧盟监管动态可反映新药获批趋势与适应症拓展方向，对合成生物学来源药物或新模态疗法的开发与出海布局有参考价值。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:da42bc49250d688a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Argenx is spending billions to push beyond Vyvgart",
+            "abstract": "Six months into her term as CEO of rare disease drugmaker argenx, Karen Massey has overseen two acquisitions worth a combined potential of about $3.4 billion as the company seeks to build a broader immunology ...",
+            "url": "https://endpoints.news/argenx-is-spending-billions-to-push-beyond-vyvgart/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "Argenx并购扩张，免疫领域动态",
+          "title_cn": "argenx 投入数十亿美元，力图超越 Vyvgart",
+          "one_liner": "argenx 新任 CEO 上任半年内完成两笔收购，总潜在金额约 34 亿美元，以拓展免疫学管线。",
+          "key_findings": [
+            "两笔收购合计潜在金额约 34 亿美元，用于扩展免疫学产品组合。",
+            "公司目标是超越现有核心产品 Vyvgart，降低单品依赖。",
+            "新任 CEO Karen Massey 上任六个月即主导上述并购。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，免疫学靶点与抗体工程是重要转化方向；argenx 的并购动向可反映免疫治疗管线估值与热点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6c40563845030c19",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Windward Bio hits Nasdaq with $175M IPO, plus another $50M from Sanofi",
+            "abstract": "Windward Bio, a biotech developing drugs for respiratory diseases, made its public debut after putting together $175 million in its IPO. The company began trading Friday with an initial share price {$WWB} of $17 apiece ...",
+            "url": "https://endpoints.news/windward-bio-hits-nasdaq-with-175m-ipo-plus-another-50m-from-sanofi/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "呼吸领域biotech IPO，融资常规",
+          "title_cn": "Windward Bio登陆纳斯达克，IPO募资1.75亿美元并获赛诺菲5000万美元投资",
+          "one_liner": "呼吸疾病生物技术公司Windward Bio在纳斯达克IPO募资1.75亿美元，另获赛诺菲5000万美元投资。",
+          "key_findings": [
+            "IPO发行价每股17美元，公司于周五开始交易，股票代码WWB。",
+            "公司专注呼吸系统疾病药物开发，此次上市募资总额达1.75亿美元。",
+            "赛诺菲额外投入5000万美元，显示大型药企对其管线的兴趣。"
+          ],
+          "why_it_matters": "呼吸疾病新药赛道获资本与大药企双重背书，可关注其管线是否涉及合成生物学或新模态技术，判断潜在合作与竞争格局。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c1f0a5183144e1b4",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "The future of heart drug research in the wake of study setbacks",
+            "abstract": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout…",
+            "url": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "心脏药物研发前景讨论",
+          "title_cn": "两项心脏病药物研究受挫后，心脏药物研发的未来走向",
+          "one_liner": "两款备受关注的心脏病药物研究失败，业界开始反思心脏药物研发的未来方向。",
+          "key_findings": [
+            "两款备受关注的心脏病药物研究失败，引发对研发路径的讨论。",
+            "STAT 播客 The Readout 专题探讨这一挫折对心脏药物研发的影响。"
+          ],
+          "why_it_matters": "心脏疾病药物研发失败率高，了解失败原因与领域反思，有助于判断心血管相关靶点与成药策略的风险。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:4217d041a52c41b0",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "å¹¿ä¸æ·±å³âæ°æ®ç©¿é+è¡åèå¨+äºåæ¦æªâ å ¨é¾æ¡æ´æ²»è¶ éå¼è¯",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ å¹¿ä¸æ·±å³âæ°æ®ç©¿é+è¡åèå¨+äºåæ¦æªâ å ¨é¾æ¡æ´æ²»è¶ éå¼è¯ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->å¹¿ä¸æ·±å³âæ°æ®ç©¿é+è¡åèå¨+äºåæ¦æªâ å ¨é¾æ¡æ´æ²»è¶ éå¼è¯end--> æ¥æï¼2026-11-13 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->å¹¿ä¸çæ·±å³å¸å»ä¿é¨é¨èç¦é¨è¯å ±æµæ¹é©åè¶ éå¼è¯å¥åå»ä¿åºéè¡ä¸ºï¼éåâæ°æ®ç©¿é+è¡åèå¨+äºåæ¦æªâç­ä¸¾æªï¼èåå ¬å®æºå ³æè·ç¯ç½ªå«çäºº30åï¼æ¶æ¡éé¢200ä½ä¸å ï¼15åæ¶æ¡äººåè¢«ä¾æ³å¤çãå¼å11ç±»è¶ éå¼è¯äºåæéè§åï¼ç´¯è®¡é¢è­¦æéè¶ 16ä¸æ¬¡ï¼æ¦æªéé¢è¶ 3600ä¸å ãä¸ãæå»ºç¥è¯å¾è°±ç²¾åç»åï¼è¡åèå¨å ¨é¾æ¡æå»èä¸éªä¿ãä¸æ¯å»ºç«èä¸éªä¿äººå¤§æ°",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/13/art_14_23375.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "深圳医保整治超量开药，本地政策相关",
+          "title_cn": "广东深圳：以\"数据穿透+行刑联动+事前拦截\"全链条整治超量开药",
+          "one_liner": "深圳医保部门针对门诊共济改革后的超量开药骗保行为，建立事前拦截与行刑联动机制。",
+          "key_findings": [
+            "联合公安抓获犯罪嫌疑人30名，涉案金额200余万元，15人被依法处理。",
+            "开发11类超量开药事前提醒规则，累计预警超16万次，拦截金额超3600万元。",
+            "构建知识图谱精准画像，行刑联动全链条打击职业骗保。"
+          ],
+          "why_it_matters": "医保基金监管趋严，涉及处方与用药数据的合规要求提高；合成生物学企业若涉及诊断、用药或医保支付相关产品，需关注数据穿透与事前拦截规则对处方行为的影响。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "nhsa:966afdd78a5d2995",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "é¿æ¤éæå ¥å®¶é¨ æ¸©æ å®æ¤å¤é³çº¢",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ é¿æ¤éæå ¥å®¶é¨ æ¸©æ å®æ¤å¤é³çº¢ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->é¿æ¤éæå ¥å®¶é¨ æ¸©æ å®æ¤å¤é³çº¢end--> æ¥æï¼2026-11-13 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->å¦ä»ï¼æ¯æåºå®çæ¥å­éï¼é¿æç §æ¤å¸æ»ä¼åæ¶æ²å¼çå¥¶å¥¶çå®¶é¨ãæ¸©æ°´æè¿ç®è¤ï¼è½»æçæ¦æµ´è®©è¿ä½å§åºå¤å¹´ç89å²èäººéè·æ´åä¸å®å®ãèé¨é¡½åºçè¤¥ç®å¨æ°æ¹æ¡æ¤çä¸æ¥æ¸æåï¼çç½®å°¿ç®¡çé£é©ä¹å¾å°æææ§å¶ãçå¥¶å¥¶çå¥³å¿ä»¬ä¸åç»æ¥æçç´§éï¼ä¹ è¿çç¬å®¹éæ°æµ®ç°å¨è¸ä¸ãè¿çä¼¼å¹³å¡çä¸å¹ï¼å´æ¯è¾½å®çæ²é³é¿æ¤é©å¶åº¦ä»çº¸é¢è½å°å°é¢æçå¨çæ³¨èãä¸ææå ï¼å°±è¿æ ·ç §è¿éè¥¿çå¥¶å¥¶çå®¶ï¼ç §è¿æ æ°å¤±è½å®¶åº­çç°å®ï",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/13/art_14_23377.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 30,
+          "score_reason": "长护险宣传，与研究方向弱相关",
+          "title_cn": "长护送暖入家门 温情守护夕阳红",
+          "one_liner": "国家医保局发布沈阳长期护理保险制度落地案例，展示居家护理服务实效。",
+          "key_findings": [
+            "长期护理师定期上门，为卧床老人提供擦浴、压疮护理等服务",
+            "褥疮逐步愈合，留置尿管风险得到有效控制",
+            "该案例体现辽宁省沈阳市长护险制度从纸面落到地面"
+          ],
+          "why_it_matters": "长护险属医保支付政策，与合成生物学研发方向关联较弱；但若关注老年护理、医疗器械或居家检测产品准入，可留意医保支付导向。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "pbc:b03c4c3e4e5d6e0d",
+            "source": "pbc",
+            "source_label": "中国人民银行",
+            "tier": "official",
+            "title": "true",
+            "abstract": "ä¸ãç¤¾ä¼èèµè§æ¨¡å­éåæ¯å¢é¿7.2%åæ­¥ç»è®¡ãå¯¹å®ä½ç»æµåæ¾çäººæ°å¸è´·æ¬¾ä½é¢279.31ä¸äº¿å ãå¯¹å®ä½ç»æµåæ¾çå¤å¸è´·æ¬¾æåäººæ°å¸ä½é¢1.26ä¸äº¿å ã10ææ«å¯¹å®ä½ç»æµåæ¾çäººæ°å¸è´·æ¬¾ä½é¢å åæç¤¾ä¼èèµè§æ¨¡å­éç59.5%ãå¯¹å®ä½ç»æµåæ¾çå¤å¸è´·æ¬¾æåäººæ°å¸ä½é¢å æ¯0.3%ãå§æè´·æ¬¾ä½é¢å æ¯2.5%ãä¿¡æè´·æ¬¾ä½é¢å æ¯1%ãåãååä¸ªæäººæ°å¸å­æ¬¾å¢å 21.97ä¸äº¿å 10ææ«ãææ«äººæ°å¸å­æ¬¾ä½é¢350.65ä¸äº¿å ã",
+            "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111315073060062/index.html",
+            "journal": "中国人民银行",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 10,
+          "score_reason": "标题无效，无法判断内容",
+          "title_cn": "2026年10月金融统计数据报告",
+          "one_liner": "央行发布10月金融数据：社融存量同比增7.2%，实体经济人民币贷款余额279.31万亿元。",
+          "key_findings": [
+            "10月末社融存量同比增7.2%，对实体经济发放的人民币贷款余额279.31万亿元。",
+            "对实体经济人民币贷款占同期社融存量59.5%，外币贷款折人民币余额1.26万亿元。",
+            "前十个月人民币存款增加21.97万亿元，10月末存款余额350.65万亿元。"
+          ],
+          "why_it_matters": "这是宏观金融总量数据，与合成生物学研发、产业融资无直接监管关联；可作判断生物医药信贷与资本环境的背景参考。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:79d13e040f6ebd30",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Introducing ChatGPT Wallet",
+            "abstract": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+            "url": "https://openai.com/index/introducing-chatgpt-wallet",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "ChatGPT支付能力重大产品发布",
+          "title_cn": "OpenAI 推出 ChatGPT Wallet：让 AI 代理代用户完成支付",
+          "one_liner": "OpenAI 发布 ChatGPT Wallet，ChatGPT Work、Codex 与 dots 中的代理可在用户批准下完成购买。",
+          "key_findings": [
+            "代理在 ChatGPT Work、Codex、dots 中发起购买，须经用户批准后执行。",
+            "沿用现有银行卡保护机制，强调支付安全与用户可控。",
+            "面向工作流场景，把支付能力嵌入 AI 代理执行链路。"
+          ],
+          "why_it_matters": "AI 代理从信息处理延伸到实际交易执行，合成生物学研发中的试剂采购、云服务与外包订单或可自动化，需关注支付授权与合规边界。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:337e29b8dbde16c2",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+            "abstract": "Researcher traces a path from AI reward hacking to potential human extinction.",
+            "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "OpenAI董事AI风险言论值得关注",
+          "title_cn": "OpenAI 董事警告：AI 接管社会可能仅剩数月",
+          "one_liner": "OpenAI 董事援引奖励黑客研究，警告 AI 接管社会或仅剩数月。",
+          "key_findings": [
+            "研究者将 AI 奖励黑客行为与人类灭绝风险联系起来",
+            "OpenAI 董事会成员公开表达对 AI 接管社会时间表的担忧",
+            "警告称从奖励黑客到潜在人类灭绝存在演化路径"
+          ],
+          "why_it_matters": "合成生物学依赖 AI 设计蛋白与基因线路，奖励黑客风险直接关系实验安全与生物安全治理，值得关注 AI 安全讨论对科研工具的影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:bff67df79e98a4a2",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+            "abstract": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+            "url": "https://openai.com/business/customer-stories/amplitude",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-12",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "OpenAI企业应用案例常规",
+          "title_cn": "Amplitude 借助 OpenAI 模型实现 1–2 天交付产品改进",
+          "one_liner": "Amplitude 基于 OpenAI 模型构建产品智能体 Wave，将产品改进交付周期缩短至 1–2 天。",
+          "key_findings": [
+            "Wave 以 OpenAI 模型为核心，自动识别应开发的产品功能。",
+            "该智能体协助团队借助编码智能体完成改动并交付。",
+            "交付后由 Wave 度量改动带来的实际影响。"
+          ],
+          "why_it_matters": "对合成生物学研发而言，可借鉴“识别—构建—度量”闭环智能体模式，加速菌株或元件的设计-构建-测试-学习迭代。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:ddcdbef63b1fc022",
+            "source": "rss",
+            "source_label": "Google DeepMind Blog",
+            "tier": "official",
+            "title": "Opening the datasets behind our AI weather models",
+            "abstract": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+            "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+            "journal": "Google DeepMind Blog",
+            "authors": "",
+            "published": "2026-11-10",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "气象数据集与关注领域弱相关",
+          "title_cn": "DeepMind 开放 AI 气象模型数据集",
+          "one_liner": "DeepMind 公开其 AI 气象模型所用的降水与地球静止卫星基础数据集。",
+          "key_findings": [
+            "开放降水与地球静止卫星两类基础数据集，用于清晰观测地球。",
+            "数据来自 Google DeepMind Blog，面向 AI 气象模型研发。"
+          ],
+          "why_it_matters": "高质量气象数据集可支撑 AI 模型训练与验证；对合成生物学读者而言，或可辅助环境与气候相关研究的数据获取。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:d70a2858dbd22f63",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+            "abstract": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+            "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 42,
+          "score_reason": "空管AI与关注领域弱相关",
+          "title_cn": "FAA将AI建议工具扩展至全美空域，用于管理空中交通拥堵",
+          "one_liner": "FAA把AI拥堵管理建议工具从局部试点扩展至全美空域，但空管工会未参与。",
+          "key_findings": [
+            "FAA将AI建议工具覆盖范围扩大至全美空域，用于管理空中交通拥堵",
+            "航空公司对该AI工具表示赞赏",
+            "空管工会未被纳入该工具的推进过程"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但可作为AI在高风险监管场景落地的案例，供关注AI治理与合规的读者参考。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:19847bef1f46370c",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+            "abstract": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+            "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "医疗AI应用弱相关",
+          "title_cn": "AI 助力医疗团队让患者更早获得合适诊疗",
+          "one_liner": "NVIDIA 报道 AI 在儿科研究、智慧医院等场景中减少常规事务，让医护有更多时间照护患者。",
+          "key_findings": [
+            "AI 用于患者与临床试验匹配、辅助放射科医生及居家患者支持。",
+            "医院与初创公司在儿科研究到智慧医院等多场景落地 AI 工具。",
+            "临床医生始终居中，负责审核 AI 输出并保留最终决策权。"
+          ],
+          "why_it_matters": "对合成生物学背景读者，AI 辅助临床试验匹配与医院流程优化，可借鉴到基因治疗、诊断产品的临床转化与患者招募路径。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:cc5bf82c102acb68",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+            "abstract": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+            "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 35,
+          "score_reason": "Windows漏洞与关注领域无关",
+          "title_cn": "不满研究者公开 Windows 0-day，攻击者可借此获取 System 权限",
+          "one_liner": "研究者公开 Windows 0-day 漏洞「SignDrop」，本地用户可提权至 System。",
+          "key_findings": [
+            "「SignDrop」为本地提权漏洞，利用后可获得最高 System 权限",
+            "漏洞由不满的研究者公开披露，属 0-day，暂无官方补丁",
+            "攻击者需先具备本地访问权限，再借该漏洞完成提权"
+          ],
+          "why_it_matters": "实验室工作站与自动化设备多为 Windows，本地提权可危及菌株设计、序列与实验数据；建议核查补丁与访问控制。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:e2066986deb4e61c",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+            "abstract": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+            "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-13",
+            "doi": null
+          },
+          "score": 30,
+          "score_reason": "无屏GPS与自动驾驶弱相关",
+          "title_cn": "无屏GPS：Slate Auto 呼吁“重拾公路地图册”",
+          "one_liner": "Slate Auto 为极简双门皮卡提出无屏GPS方案，主张回归纸质公路地图册。",
+          "key_findings": [
+            "Slate Auto 的极简双门皮卡不配屏幕，导航改用螺旋装订的纸质地图册。",
+            "该方案以低成本、低复杂度替代车载屏幕导航。",
+            "报道来自 Ars Technica，属汽车产品设计新闻。"
+          ],
+          "why_it_matters": "与合成生物学无直接关联，但可作为极简产品设计与低成本硬件思路的参考，对实验室设备或便携检测装置的去屏幕化设计有启发。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
