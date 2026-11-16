@@ -1,0 +1,1122 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T07:29:30.119070+08:00",
+  "fetched_ids": [
+    "pubmed:43033407",
+    "pubmed:43036785",
+    "pubmed:43036776",
+    "pubmed:43034593",
+    "pubmed:43032921",
+    "pubmed:43032903",
+    "pubmed:43022081",
+    "pubmed:43036292",
+    "pubmed:43036823",
+    "pubmed:43034616",
+    "pubmed:43032643",
+    "pubmed:43037224",
+    "pubmed:43038382",
+    "pubmed:43038278",
+    "pubmed:43038134",
+    "pubmed:43037917",
+    "pubmed:43037420",
+    "pubmed:43037283",
+    "pubmed:43037253",
+    "pubmed:43037188",
+    "pubmed:43036274",
+    "pubmed:43036097",
+    "pubmed:43035924",
+    "pubmed:43036632",
+    "pubmed:43036050",
+    "pubmed:43035857",
+    "pubmed:43035133",
+    "pubmed:43033974",
+    "pubmed:43033895",
+    "pubmed:43033568",
+    "pubmed:43033541",
+    "pubmed:43033481",
+    "pubmed:43033326",
+    "pubmed:43033291",
+    "pubmed:43033290",
+    "pubmed:43031432",
+    "pubmed:43033073",
+    "pubmed:43026054",
+    "pubmed:43025758",
+    "pubmed:43025565",
+    "pubmed:43025506",
+    "pubmed:43025394",
+    "pubmed:43024681",
+    "pubmed:43024353",
+    "pubmed:43024132",
+    "pubmed:43024025",
+    "pubmed:43024006",
+    "pubmed:43023377",
+    "pubmed:43023316",
+    "pubmed:43023095",
+    "pubmed:43036701",
+    "pubmed:43033590",
+    "pubmed:43033567",
+    "pubmed:43034623",
+    "pubmed:43025149",
+    "pubmed:43029075",
+    "pubmed:43028548",
+    "pubmed:43028189",
+    "pubmed:43027032",
+    "pubmed:43028168",
+    "pubmed:43032339",
+    "pubmed:43027583",
+    "pubmed:43027570",
+    "pubmed:43029015",
+    "pubmed:43036792",
+    "pubmed:43036177",
+    "pubmed:43034279",
+    "pubmed:43028057",
+    "pubmed:43032631",
+    "pubmed:43032225",
+    "pubmed:43031648",
+    "pubmed:43031603",
+    "pubmed:43027980",
+    "pubmed:43027525",
+    "pubmed:43027524",
+    "pubmed:43027944",
+    "pubmed:43027924",
+    "pubmed:43022107",
+    "pubmed:43021961",
+    "pubmed:43030547",
+    "pubmed:43027882",
+    "pubmed:43027482",
+    "pubmed:43026790",
+    "pubmed:43028369",
+    "pubmed:43027739",
+    "pubmed:43027714",
+    "pubmed:43027707",
+    "pubmed:43026935",
+    "pubmed:43026752",
+    "pubmed:43026751",
+    "pubmed:43026925",
+    "pubmed:43032666",
+    "pubmed:43035501",
+    "pubmed:43035456",
+    "pubmed:43032223",
+    "pubmed:43023023",
+    "pubmed:43035426",
+    "pubmed:43021398",
+    "pubmed:43021393",
+    "pubmed:43035500",
+    "rss:ca27428ed10381d3",
+    "rss:91d3503ec97b3c3d",
+    "rss:2841dfbc5ba32b12",
+    "rss:87ec8b80a9d0a574",
+    "rss:48385891d9356e68",
+    "rss:fa4c7a16668cb69a",
+    "rss:4e1e20d98b480316",
+    "rss:911b2140ec4976dd",
+    "rss:c2cff71eb485433a",
+    "rss:61c98bd9279ba6c0",
+    "rss:48e0ba34358020fb",
+    "rss:9e4d2fc54aeb7c6d",
+    "rss:98c7f0b762bc9d9d",
+    "rss:b2a0b9c9121a32af",
+    "rss:da42bc49250d688a",
+    "rss:608b777ff7d07e98",
+    "rss:6c40563845030c19",
+    "rss:bf3e8a024401171c",
+    "rss:41dda59dc5315363",
+    "rss:0433a0ddeb5c54cd",
+    "rss:e66821ada1939213",
+    "rss:9032546530979f99",
+    "rss:1d4c7ce75a81b6ee",
+    "rss:0cd29878d9b99a0c",
+    "rss:07dcb6051bd16ff9",
+    "rss:965b6ac8c05d205d",
+    "rss:82c6bbea1195237b",
+    "rss:dcf1801989e8f1ab",
+    "rss:176c27ed5fd79ac8",
+    "rss:b7f3f76b23a5d2cc",
+    "ema:9ac360af1a1ccc60",
+    "ema:69e32d2362a433f0",
+    "ema:c12b505a690a52cb",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "ema:37bec1b8ee2405a4",
+    "pbc:b03c4c3e4e5d6e0d",
+    "pbc:c9c2a664dfef06be",
+    "pbc:a515c1196a04ffd0",
+    "pbc:a4f4a83e9f442fa1",
+    "pbc:e7245ba10a6c39da",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "pbc:01806d0ceb21e64a",
+    "nhsa:273977cc3179c9bb",
+    "nhsa:6075089f11113299",
+    "nhsa:8160189d6ec7eab4",
+    "nhsa:4217d041a52c41b0",
+    "nhsa:966afdd78a5d2995",
+    "nhsa:891473ef5d15bf6e",
+    "nhsa:65d765e99bfad85e",
+    "nhsa:23bcfd2205390eb8",
+    "nhsa:84c5b86c12f57f66",
+    "nhsa:cb913c973138bd73",
+    "rss:a8005cc7b5953959",
+    "rss:32c75522a0ea8b02",
+    "rss:b0555ded361241e5",
+    "rss:b73c6d7b39720723",
+    "rss:29025d7302d128ce",
+    "rss:725ebed5702515d0",
+    "rss:350189c720832b3e",
+    "rss:2b4f9d829bf9c8a7",
+    "rss:e35ddbaadb495f78",
+    "rss:df3e44b99410d919",
+    "rss:454af483986caafd",
+    "rss:b0558878cc433ef8",
+    "rss:e38c92a7cefc59fe",
+    "rss:dd875e3abb805b46",
+    "rss:ddcdbef63b1fc022",
+    "rss:6c31d4893839b85f",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:28e570ea26527001",
+    "rss:05b8a9f5907e55fb",
+    "rss:79a7335e7a084524",
+    "rss:90002e51ae9771a4",
+    "rss:760ece4be02563ae",
+    "rss:6a6d6b063a9713f8",
+    "rss:6132135c1fa45082",
+    "rss:9d0ad5ad19c78db4",
+    "rss:c4b2e8344ef94d69",
+    "rss:c496ea6e1eba5cfb",
+    "rss:98e9792e3f974a77",
+    "rss:bf56b424e8afb2c2",
+    "rss:bf8f9d15a6c6411b",
+    "rss:8172f7237e0f7511",
+    "rss:df33ffd2c617041f",
+    "rss:abbaf02c93f34f64",
+    "rss:53d1f12e9ec13612",
+    "rss:1c1e55eaa4750a6f",
+    "rss:bd82b9c0db5c9acd",
+    "rss:1495b820fd4df4e0"
+  ],
+  "stats": {
+    "fetched": 203,
+    "new_items": 86,
+    "kept": 34,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:43036097",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.",
+            "abstract": "Artificial intelligence is rapidly changing how scientists, including chemical biologists, conduct research. This review is intended to serve as an introduction for chemical biologists to applications of artificial intelligence in chemical biology. We review how chemical and biological data are featurized, the types of models commonly used in chemical biology applications, challenges in assessing accuracy of artificial intelligence models, and recent developments in agentic artificial intelligence for autonomous research. The applications we will cover include protein structure prediction, ligand discovery, peptide and protein design, prediction of mutational effects, interactomics and gene regulation, and virtual cells.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036097/",
+            "journal": "ACS chemical biology",
+            "authors": "Guo, Ma, McDaniel, et al.",
+            "published": "2026-11-16",
+            "doi": "10.1021/acschembio.6c00553"
+          },
+          "score": 82,
+          "score_reason": "AI化学生物学综述，含蛋白设计虚拟细胞",
+          "title_cn": "人工智能时代的化学生物学：从配体发现到虚拟细胞",
+          "one_liner": "综述AI在化学生物学中的应用，涵盖配体发现、蛋白设计到虚拟细胞。",
+          "key_findings": [
+            "系统梳理化学与生物数据的特征化方法及常用模型类型。",
+            "讨论AI模型准确性评估的挑战及自主研究型智能体的新进展。",
+            "应用覆盖蛋白结构预测、配体发现、突变效应与虚拟细胞等。"
+          ],
+          "why_it_matters": "为合成生物学研究者提供AI工具全景图，有助于判断在配体筛选、蛋白设计与虚拟细胞建模中引入AI的切入点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43035857",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Scalable and Sustainable Synthesis of Long Single-Stranded DNA for Emerging Biological Applications.",
+            "abstract": "ssDNA greater than 200 nts, or long ssDNA (lssDNA), has become indispensable across genome editing, synthetic biology, and DNA nanotechnology, yet its production has remained limited by cost, sequence length, and environmental burden. A new generation of technologies is beginning to shift these constraints. Chemical synthesis is steadily improving in efficiency and sustainability, enzymatic methods are expanding the achievable length and sequence flexibility of lssDNA, and emerging in vivo systems promise high yield production with minimal cost and resource wastes. These advances collectively move lssDNA from a specialized, hard to obtain material toward a broadly accessible tool. This review brings these developments together to highlight the principles behind their progress and the opportunities they create for scalable, programmable, and sustainable lssDNA manufacturing.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43035857/",
+            "journal": "Biotechnology and bioengineering",
+            "authors": "Yen, Solomon",
+            "published": "2026-11-15",
+            "doi": "10.1002/bit.70446"
+          },
+          "score": 80,
+          "score_reason": "长单链DNA规模化合成，基因编辑关键材料",
+          "title_cn": "面向新兴生物应用的长单链DNA可规模化与可持续合成",
+          "one_liner": "综述指出化学、酶法与体内生产三条路线正共同突破长单链DNA的成本、长度与环境负担限制。",
+          "key_findings": [
+            "化学合成效率与可持续性持续提升，但长度与成本仍受限",
+            "酶法合成拓展了lssDNA可达长度与序列灵活性",
+            "体内生产系统有望实现高产量、低成本、低资源浪费"
+          ],
+          "why_it_matters": "长单链DNA是基因组编辑、合成生物学与DNA纳米技术的关键材料，其可规模化绿色制造将直接影响你所在领域的供料成本与设计自由度。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43038278",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Calculation of sequence space coverage in a mutagenesis library.",
+            "abstract": "Directed evolution requires screening of large mutagenesis libraries, but accurate calculation of library sizes needed to discover functional variants remains challenging. Existing models provide baseline estimates, yet current computational approaches for finding the best variants scale poorly with library complexity. Here, we introduce a scalable computational framework that overcomes the combinatorial scaling bottlenecks of previous top-k models. By aggregating variants into a composition log-sum distribution and applying log-space convolution across randomisation blocks, we extend coverage estimation to massive sequence spaces and mixed codon schemes. By inverting these calculations, we establish conservative screening upper bounds and practical ceilings on the maximum randomisable positions for experimental design. Ultimately, this framework provides a rapid, quantitative tool to balance the statistical coverage-diversity trade-off within the limitations of laboratory screening. Finally, this is implemented as an open-source web application (SSCC), publicly available at https://florez-alberto.github.io/SSCC/, that allows researchers to construct heterogeneous library designs and compute required sampling depths, coverage probabilities, and absolute randomisation limits.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43038278/",
+            "journal": "PloS one",
+            "authors": "Florez Prada, Uguzzoni, Hart",
+            "published": "2026-01-01",
+            "doi": "10.1371/journal.pone.0362864"
+          },
+          "score": 78,
+          "score_reason": "定向进化文库覆盖计算，直接相关",
+          "title_cn": "突变文库序列空间覆盖率的计算",
+          "one_liner": "提出可扩展计算框架，快速估算突变文库的序列空间覆盖率与所需筛选深度。",
+          "key_findings": [
+            "用组成对数-和分布与对数空间卷积，突破组合爆炸瓶颈，支持超大序列空间与混合密码子方案。",
+            "反演计算可给出保守筛选上界与最大可随机化位点的实用上限，指导实验设计。",
+            "实现为开源网页工具 SSCC，可构建异质文库设计并计算采样深度与覆盖概率。"
+          ],
+          "why_it_matters": "定向进化建库时，可据此定量权衡覆盖度与多样性，合理设定文库规模与筛选深度，节省湿实验成本。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43032223",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "PRIZM: combining low-N data and zero-shot models to design enhanced protein variants.",
+            "abstract": "MOTIVATION: Machine learning has repeatedly shown the ability to accelerate protein engineering, but many approaches demand large amounts of robust, high-quality training data as well as substantial computational expertise. While large pre-trained models can function as zero-shot proxies for predicting variant effects, selecting the best model for a given protein property is often non-trivial.\nRESULTS: Here, we introduce Protein Ranking using Informed Zero-shot Modelling (PRIZM), a two-phase workflow that first uses a high-quality low-N dataset to identify the most suitable pre-trained zero-shot model for a target protein property and then applies that model to rank and prioritize an in silico variant library for experimental testing. Across diverse benchmark datasets spanning multiple protein properties, PRIZM reliably separated low- from high-performing models using datasets of ∼20 labelled variants. We further demonstrate PRIZM in enzyme engineering case studies targeting sucrose synthase thermostability and glycosyltransferase activity, where PRIZM-guided selection identified improved variants, including gains of ∼3°C in apparent melting temperature and ∼20% higher relative activity. PRIZM provides an accessible, data-efficient route to leverage foundation models for protein design while requiring minimal experimental data.\nAVAILABILITY AND IMPLEMENTATION: PRIZM is publicly available via Zenodo, DOI: 10.5281/zenodo.23035983, and the PRIZM GitHub repository https://github.com/daha-la/PRIZM.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43032223/",
+            "journal": "Bioinformatics advances",
+            "authors": "Harding-Larsen, Lax, Escorial García, et al.",
+            "published": "2026-01-01",
+            "doi": "10.1093/bioadv/vbag299"
+          },
+          "score": 78,
+          "score_reason": "零样本模型蛋白质变体设计",
+          "title_cn": "PRIZM：用低样本数据与零样本模型设计增强型蛋白变体",
+          "one_liner": "PRIZM 用约20个标注变体筛选最适零样本模型，再排序变体库指导实验。",
+          "key_findings": [
+            "两阶段流程：先用低N数据选出最匹配的预训练零样本模型，再对变体库排序。",
+            "约20个标注变体即可可靠区分高性能与低性能模型。",
+            "酶工程案例获表观熔解温度提升约3°C、相对活性提高约20%的变体。"
+          ],
+          "why_it_matters": "对合成生物学蛋白与酶工程而言，可用极少实验数据调用基础模型排序变体，降低试错成本，适合快速验证与迭代。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43036050",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Escherichia coli Nissle 1917 as a Programmable Bridge Chassis for Biomanufacturing and Host-Responsive Living Systems.",
+            "abstract": "Microbial biomanufacturing and engineered probiotics increasingly use related microbial lineages across distinct product architectures, but the associated engineering and evidence requirements are rarely compared. Here, Escherichia coli Nissle 1917 (EcN) is evaluated as a programmable bridge chassis across four alternative deployment modes: purified molecule, cell-derived architecture/material, living-cell product, and host-state-responsive living system. The review links carbon-nitrogen-energy-redox allocation and global regulation to cellular-state trajectories, interface capacity, safety refactoring, materials-assisted protection, containment, and mode-specific qualification. Direct evidence includes 100-L heparosan fermentation, antibiotic-free β-alanine production, engineered outer-membrane-vesicle delivery, human studies of phenylalanine-consuming EcN, and glucose-responsive GLP-1 delivery in diabetic mice and non-human primates. The terminated SYNB1934 Phase 3 program is considered alongside positive studies to distinguish proof of function, pharmacodynamic activity, tolerability, manufacturing readiness, and late-stage efficacy. Operational criteria for bridge-chassis designation, explicit rules for boundary cases, and a prospective design-build-test-learn agenda are proposed. As functional embodiment changes, engineering priorities shift among flux, state, interface, formulation, containment, and evidence-not necessarily toward a more advanced mode.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036050/",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "authors": "Lu, Fang, Liu, et al.",
+            "published": "2026-11-15",
+            "doi": "10.1002/advs.78440"
+          },
+          "score": 75,
+          "score_reason": "EcN底盘工程综述，合成生物学相关",
+          "title_cn": "大肠杆菌Nissle 1917作为生物制造与宿主响应型活体系统的可编程桥接底盘",
+          "one_liner": "综述提出EcN可作为跨四种部署模式的可编程桥接底盘，并给出各模式的工程与证据要求。",
+          "key_findings": [
+            "将EcN应用分为纯化分子、细胞衍生材料、活细胞产品、宿主响应活体系统四种模式，比较其工程与证据要求。",
+            "直接证据包括100 L肝素前体发酵、无抗生素β-丙氨酸生产、OMV递送、人体苯丙氨酸消耗及糖尿病模型GLP-1递送。",
+            "结合已终止的SYNB1934 III期项目，区分功能验证、药效、耐受性、制造就绪与后期疗效。"
+          ],
+          "why_it_matters": "为合成生物学团队选择EcN底盘与产品形态提供决策框架，明确各模式的通量、界面、安全与证据门槛，有助于评估活菌药物与生物制造路线。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43036823",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "A synNotch-based morphogen detection system reveals sFRP2 enhances Wnt3a signaling.",
+            "abstract": "Morphogen gradients provide essential positional information during tissue development, yet the extracellular mechanisms that regulate morphogen transport remain elusive. Here, we introduce a mechanosensitive detection system based on synthetic Notch (synNotch) receptors that selectively detect surface-bound morphogens. Applying this platform to Wnt signaling, we demonstrate that secreted Frizzled-related protein 2 (sFRP2) promotes the recruitment of Wnt3a to the cell surface via heparan sulfate proteoglycans, enabling robust activation of canonical Wnt/β-catenin signaling. Notably, sFRP2 extends the effective signaling range of Wnt3a under ligand-limiting conditions. In intestinal organoid cultures, sFRP2 enhances Wnt3a-driven growth and induces high-Wnt morphological states even at low Wnt3a concentrations. These findings identify sFRP2 as an extracellular carrier that stabilizes surface-bound Wnt3a and regulates both the strength and spatial range of Wnt signaling. Broadly, this work demonstrates the utility of synNotch mechano-sensing for dissecting extracellular morphogen dynamics and highlights the potential of morphogen carrier proteins to optimize organoid culture.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036823/",
+            "journal": "iScience",
+            "authors": "Mizuno, Toda",
+            "published": "2026-11-20",
+            "doi": "10.1016/j.isci.2026.118157"
+          },
+          "score": 72,
+          "score_reason": "synNotch合成受体检测形态素，线路设计",
+          "title_cn": "基于synNotch的形态发生素检测系统揭示sFRP2增强Wnt3a信号",
+          "one_liner": "synNotch机械传感系统发现sFRP2作为胞外载体将Wnt3a招募至细胞表面并扩大其信号范围。",
+          "key_findings": [
+            "构建synNotch机械敏感检测系统，选择性识别表面结合态形态发生素",
+            "sFRP2经硫酸乙酰肝素蛋白聚糖招募Wnt3a至细胞表面，增强经典Wnt/β-catenin信号",
+            "在肠道类器官中，低浓度Wnt3a下sFRP2仍促进生长并诱导高Wnt形态"
+          ],
+          "why_it_matters": "为合成生物学提供胞外形态发生素动态检测工具，并提示载体蛋白可优化类器官培养与Wnt信号调控设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43038134",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Advancing Engineered Living Hydrogels Using Cell-Node Crosslinking.",
+            "abstract": "Engineered living hydrogels (ELHs) represent a convergence between biomaterial science and synthetic biology, wherein living and non-living components are combined to overcome the limitations of traditional hydrogels. While early ELHs relied on passive cell encapsulation, the next-generation of ELHs, cell-node hydrogels (CNGels), employ cells as active crosslinking nodes, fundamentally transforming hydrogel functionality and performance. This strategy enables dynamic bioactive properties, including self-healing, self-growing, self-degrading, and real-time programmable behavior through cellular sensing and adaptation. These CNGels have been successfully engineered using both mammalian and non-mammalian cells by employing a variety of strategies from metabolic glycoengineering and bioorthogonal click chemistry to SpyTag/SpyCatcher-mediated assembly, enabling a wide range of biomedical applications from tissue engineering and regenerative medicine to bioremediation. This review highlights the current fabrication strategies and mechanistic principles of CNGels, as well as provides a forward-looking perspective on optimizing CNGels for clinical and industrial deployment.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43038134/",
+            "journal": "ACS biomaterials science & engineering",
+            "authors": "Fatima, Ahmed, Reynolds, et al.",
+            "published": "2026-11-16",
+            "doi": "10.1021/acsbiomaterials.6c01451"
+          },
+          "score": 70,
+          "score_reason": "工程活水凝胶细胞交联，合成生物学应用",
+          "title_cn": "细胞节点交联推动工程化活体水凝胶发展",
+          "one_liner": "综述提出以细胞作为交联节点的CNGels，使水凝胶具备自修复、自生长与可编程动态功能。",
+          "key_findings": [
+            "细胞由被动包封转为主动交联节点，从根本上改变水凝胶功能与性能。",
+            "可用代谢糖工程、生物正交点击化学、SpyTag/SpyCatcher等策略构建。",
+            "哺乳与非哺乳细胞均可实现，覆盖组织工程、再生医学与生物修复。"
+          ],
+          "why_it_matters": "为合成生物学提供把活细胞嵌入材料并赋予感知响应能力的构建范式，对深圳的活体材料与生物制造方向有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43037420",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Genome-wide synthetic engineering identifies essential genes and host-specific factors governing tropism switching in mycobacteriophage D29.",
+            "abstract": "UNLABELLED: Mycobacteriophage D29 is a phage that infects mycobacteria and has been studied as a model since its isolation in 1954. It can infect multiple species, including Mycobacterium smegmatis, nontuberculous mycobacteria (NTM), and Mycobacterium tuberculosis, the causative agent of tuberculosis. D29 is now considered a potential candidate for NTM and tuberculosis treatment. However, 34% of its genes remain functionally uncharacterized. Recent advances in synthetic biology have enabled efficient phage engineering, reducing the challenges of mutant screening in bulk populations. In this study, we generated a set of single-gene deletion mutants using synthetic engineering techniques to identify genes required for phage propagation. Functional analysis of all 77 genes showed that 44 genes (57%) and all tRNAs were nonessential for phage replication. Furthermore, infection assays using the deletion mutants demonstrated that genes 55, 56, and 59 are required for efficient infection of M. tuberculosis H37Rv but are dispensable for infection of M. smegmatis, highlighting their contribution to host-specific phage infectivity. These findings provide valuable insights into D29 biology and phage-host dynamics.\nIMPORTANCE: In this study, we employed synthetic biology techniques to construct a comprehensive library of the gene and tRNA deletion mutants of mycobacteriophage D29 to systematically assess gene essentiality. Notably, over half of the genes were found to be nonessential for the lytic cycle, suggesting potential roles in environmental adaptation and host-mycobacteria interactions. Furthermore, we found that the D29Δ55, D29Δ56, and D29Δ59 mutants showed markedly reduced plating efficiency on Mycobacterium tuberculosis although these genes were dispensable for infection of Mycobacterium smegmatis. Such differential genetic requirements highlight their potential roles in modulating phage-host interactions across distinct Mycobacterium species. These findings provide valuable insights into the functional genomics of D29 and phage biology and support its continued development as a candidate for phage-based therapies against nontuberculous mycobacteria and M. tuberculosis infections.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43037420/",
+            "journal": "mSphere",
+            "authors": "Sakiyama, Washizaki, Naznin, et al.",
+            "published": "2026-11-16",
+            "doi": "10.1128/msphere.00746-26"
+          },
+          "score": 68,
+          "score_reason": "全基因组噬菌体工程，合成生物学方法",
+          "title_cn": "全基因组合成工程鉴定分枝杆菌噬菌体D29中控制宿主趋向性转换的必需基因与宿主特异性因子",
+          "one_liner": "对D29全部77个基因做单基因敲除，发现57%非必需，基因55/56/59为感染结核分枝杆菌所必需。",
+          "key_findings": [
+            "用合成生物学构建D29全部77个基因及tRNA的单基因缺失突变体库，系统评估裂解周期必需性。",
+            "44个基因（57%）和全部tRNA对噬菌体复制非必需，提示其可能参与环境适应与宿主互作。",
+            "D29Δ55、Δ56、Δ59在结核分枝杆菌H37Rv上滴度显著下降，但在耻垢分枝杆菌上不受影响。"
+          ],
+          "why_it_matters": "为噬菌体功能基因组学提供系统数据，并指出决定宿主趋向性的关键基因，对开发针对NTM与结核的噬菌体疗法及工程化改造有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43027707",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineering Silk and Silk-like Proteins into High-Performance Fiber Materials.",
+            "abstract": "Silk and silk-like proteins emerge as programmable building blocks for high-performance fiber materials because they can integrate mechanical robustness, biological compatibility, environmental responsiveness, and degradability within genetically defined polymers. Synthetic biology now enables precise control over protein sequence, repeat number, molecular weight, and modular architecture, creating opportunities to design fibers beyond naturally harvested silks. However, application-ready protein fibers require coordinated control across multiple length scales, from sequence-encoded motifs and molecular assembly to spinning-induced alignment, hierarchical network formation, and final property profiles. This review discusses recent advances in engineering silk and silk-like proteins into mechanically and functionally optimized fibers. We highlight how crystallite-forming motifs, amorphous domains, terminal domains, and folded or dynamic modules contribute to fiber strength, toughness, extensibility, damping, shape recovery, humidity stability, biodegradation, and recyclability. We further connect these sequence-structure-property relationships to applications in structural textiles, biomedical fibers, smart and protective systems, and sustainable materials. Finally, we discuss future opportunities in scalable recombinant production and data-driven sequence design. These advances are expected to accelerate the translation of engineered protein fibers into practical high-performance materials.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43027707/",
+            "journal": "International journal of molecular sciences",
+            "authors": "Liu, Zhang",
+            "published": "2026-10-23",
+            "doi": "10.3390/ijms27219455"
+          },
+          "score": 68,
+          "score_reason": "合成生物学设计丝蛋白纤维",
+          "title_cn": "工程化丝蛋白与类丝蛋白用于高性能纤维材料",
+          "one_liner": "综述系统梳理如何通过合成生物学设计丝蛋白序列与多尺度组装，获得性能可编程的高性能纤维。",
+          "key_findings": [
+            "从序列基序、分子组装到纺丝取向与层级网络，需多尺度协同调控纤维性能。",
+            "结晶基序、无定形域、末端域及动态模块分别贡献强度、韧性、回弹与降解性。",
+            "未来方向为可放大重组生产与数据驱动的序列设计。"
+          ],
+          "why_it_matters": "为合成生物学改造结构蛋白提供序列-结构-性能设计框架，可指导可降解高性能纤维与生物医用材料研发。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43037917",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Nanoparticle therapeutics for infectious diseases integrating AI-guided design, crispr delivery, phage synergy, and immune modulation.",
+            "abstract": "Infectious diseases continue to pose a global health challenge, intensified by antimicrobial resistance and limitations of pharmaceutical countermeasures. Nanotechnology offers a promising front against these barriers using intelligent, multifunctional systems. This review explores the convergence of Artificial Intelligence (AI), CRISPR gene editing, bacteriophage therapy, and immune modulation within the framework of second-generation nanoparticle therapeutics. AI-guided modelling enables predictive optimization of nanoparticle design on the basis of size, charge, and surface proteins, targeting specific pathogens and providing enhanced stability. Consequently, nanoparticles serve as precision nanocarriers and protective delivery vehicles for the CRISPR-Cas system, shielding nucleic acid cargo from enzymatic degradation and enabling targeted intracellular delivery via pH-responsive endosomal escape mechanisms. The nanoparticles not only provide protection but also enable tissue-targeting and infection-site-specific delivery of the CRISPR-Cas system, facilitating precise genome editing to reverse resistance in specific pathogens such as HIV and Mycobacterium tuberculosis. Phage nanoparticle hybrids further expand antimicrobial potency by enhancing phage stability, delivery, and host range. Moreover, engineered nanoparticles modulate the immune system via immunosuppressive and immunostimulant strategies for reducing hyperinflammation and enhancing pathogen clearance, respectively. Despite such encouraging laboratory outcomes, the clinical translation of AI-integrated nanoparticle platforms still faces a number of obstacles. Large-scale manufacturing, scalability, and reproducibility pose a significant challenge. Regulatory approvals for such multi-modal nano-drugs seem to get bogged down due to vague and scarce exemplary proofs. Furthermore, safety and efficacy apprehensions, unpredictable and complex host-phage interactions, cost-effectiveness, and equitable access remain a subject matter of concern. Conclusively, the convergence of advanced nanotechnology, artificial intelligence, and synthetic biology marks the dawn of a transformative era in infectious disease therapeutics where treatment is not only intelligent and adaptive but also ethically and globally inclusive.Clinical trial registrationNot applicable.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43037917/",
+            "journal": "Discover nano",
+            "authors": "Mehmood, Javaid, Afroz, et al.",
+            "published": "2026-11-16",
+            "doi": "10.1186/s11671-026-05108-1"
+          },
+          "score": 65,
+          "score_reason": "纳米颗粒CRISPR递送综述，相关",
+          "title_cn": "纳米颗粒疗法应对传染病：整合AI辅助设计、CRISPR递送、噬菌体协同与免疫调控",
+          "one_liner": "综述提出第二代纳米颗粒平台，整合AI设计、CRISPR递送、噬菌体协同与免疫调控以应对耐药传染病。",
+          "key_findings": [
+            "AI可依据尺寸、电荷与表面蛋白预测优化纳米颗粒设计，实现病原体靶向与稳定性提升。",
+            "纳米载体保护CRISPR-Cas核酸货物，经pH响应内体逃逸实现靶向胞内递送与精准基因编辑。",
+            "噬菌体-纳米颗粒杂合体增强噬菌体稳定性、递送效率与宿主范围，拓展抗菌效力。"
+          ],
+          "why_it_matters": "为耐药感染提供多模态纳米递送思路，与合成生物学递送工具和基因编辑方向高度相关，但临床转化与规模化生产仍是瓶颈。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43036785",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "VP2-TALE fusions increase AAV2 capsid filling with payload bearing cognate TALE target sequences as determined by qPCR/ELISA.",
+            "abstract": "We sought to improve the empty/full ratio of recombinant adeno-associated virus serotype 2 (AAV2) production by engineering the capsid to increase the favorability of its interactions with payload genomes. We fused a transcription activator-like effector (TALE), sequence-specific DNA-binding domain to the VP2 protein (VP2-TALE), either directly or via flexible linkers, within a transgene encoded by an overexpression plasmid. We also engineered seven different versions of the green fluorescent protein (GFP) payload plasmid, with up to three copies of a 14 base-pair TALE-cognate target sequence. Co-transfection with a helper plasmid, a RepCap plasmid engineered to prevent native VP2 expression, and a VP2-TALE expression plasmid resulted in lower capsid titers and higher viral genome titers when TALE target sequences were present in the payload plasmid than in control transfections in which the payload lacked TALE target sequences. Western blotting with an anti-VP antibody showed VP-positive proteins of the size predicted for VP2-TALE fusion. Electron microscopy indicated the presence of correctly formed viral capsids. ELISA and qPCR analysis indicated that these transfections could result in increases in capsid filling approaching 200%.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036785/",
+            "journal": "Molecular therapy. Advances",
+            "authors": "Chen, Bal, Howe, et al.",
+            "published": "2026-12-10",
+            "doi": "10.1016/j.omta.2026.201877"
+          },
+          "score": 62,
+          "score_reason": "AAV衣壳工程提升包装，基因治疗相关",
+          "title_cn": "VP2-TALE 融合蛋白提升携带同源靶序列的 AAV2 衣壳装载率（qPCR/ELISA 测定）",
+          "one_liner": "将 TALE DNA 结合域融合到 VP2 上，可使携带同源靶序列的 AAV2 衣壳装载率提升近 200%。",
+          "key_findings": [
+            "VP2 与 TALE 直接融合或经柔性 linker 融合，Western blot 证实融合蛋白正确表达，电镜显示衣壳形态正常。",
+            "在 payload 质粒中引入最多 3 个拷贝的 14 bp TALE 靶序列，与 VP2-TALE 共转染后病毒基因组滴度升高、衣壳滴度降低。",
+            "ELISA/qPCR 显示衣壳装载率（full/empty 比）提升接近 200%。"
+          ],
+          "why_it_matters": "空衣壳比例高是 AAV 基因治疗生产的核心瓶颈；该策略通过蛋白-DNA 特异性识别提升装载率，对合成生物学改造病毒载体与工艺优化有直接参考价值。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43036792",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Engineered plant-microbe symbiosis enables aerobic upcycling of wastewater heavy metal into photosynthetic semiconductor biohybrids.",
+            "abstract": "Plants naturally extract heavy metals from polluted water, but they merely accumulate these toxins in their tissues, leaving behind hazardous biomass. Alternatively, microbial biomineralization can precipitate dissolved metals into valuable semiconductor nanomaterials, but this process relies on sulfate-reducing bacteria, strict anaerobes that cannot survive the oxygen-rich environment of plant roots. Here we overcome this oxygen limitation by engineering the aerobic bacterium Vibrio natriegens to colonize water lettuce (Pistia stratiotes) roots and assemble metal sulfides directly in the rhizosphere. Sustained entirely by root exudates, the bacteria perform aerobic sulfate reduction to generate hydrogen sulfide, precipitating aqueous cadmium and lead into cell-surface-anchored CdS and PbS semiconductor nanoparticles (4.94-11.00 nm). The resulting semiconductor-cell biohybrids exhibit photoelectric properties, making them valuable for post-harvest applications such as solar-driven biosynthesis. Concurrently, bacterial auxin secretion buffers the host plant against metal toxicity, recovering root biomass by over 10%. Over consecutive treatment cycles, this system removed 30% of cadmium and 63% of lead from the aqueous phase, far exceeding the capacity of single-host controls. By decoupling sulfide biomineralization from anaerobic constraints, this rhizospheric strategy upgrades wastewater treatment from metal sequestration to optoelectronic material recovery.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036792/",
+            "journal": "Environmental science and ecotechnology",
+            "authors": "Ke, Li, Pi, et al.",
+            "published": "2026-11-01",
+            "doi": "10.1016/j.ese.2026.100780"
+          },
+          "score": 62,
+          "score_reason": "工程菌植物共生，合成生物学应用",
+          "title_cn": "工程化植物-微生物共生实现废水重金属好氧升级回收为光合半导体生物杂合体",
+          "one_liner": "改造好氧菌定殖水浮莲根部，将废水镉铅原位沉淀为CdS/PbS半导体纳米颗粒。",
+          "key_findings": [
+            "工程化Vibrio natriegens定殖水浮莲根系，靠根系分泌物进行好氧硫酸盐还原产H2S。",
+            "沉淀镉铅为4.94-11.00 nm的CdS/PbS纳米颗粒，锚定于细胞表面形成半导体生物杂合体。",
+            "细菌分泌生长素缓解金属毒害，根生物量恢复超10%；连续处理去除30%镉、63%铅。"
+          ],
+          "why_it_matters": "将废水重金属从封存转为光电材料回收，为合成生物学环境修复与材料合成耦合提供新范式，值得关注其规模化与安全性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43038382",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "RNA Therapeutics in Cardiovascular Medicine: From Molecular Mechanisms to Clinical Practice.",
+            "abstract": "RNA therapeutics are an exciting class of medications that target RNA and/or are themselves made from RNA. Most RNA therapeutics that have been approved for clinical use are antisense oligonucleotides or small interfering RNAs. To date, eight RNA therapeutics with cardiovascular relevance have received US Food and Drug Administration approval, but not all of them have specific indications for treating cardiovascular disease. There is a promising pipeline of additional cardiovascular RNA therapies targeting lipoprotein(a), angiopoietin-like protein 3, and angiotensinogen. Chemical modifications to therapeutic nucleic acids are important for conferring nuclease resistance and limiting immunostimulation in vivo, and enhanced delivery can be achieved using N-acetylgalactosamine conjugation and/or lipid nanoparticles. Emerging approaches include stereopure oligonucleotide chemistry, circular RNAs, adenosine-to-inosine RNA base editing, and nonhepatic targeting. This review summarizes the mechanistic basis of each modality, the clinical evidence for approved cardiovascular RNA therapeutics, selected pipeline candidates in advanced trials, and directions for future development.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43038382/",
+            "journal": "Annual review of medicine",
+            "authors": "Holley",
+            "published": "2026-11-16",
+            "doi": "10.1146/annurev-med-042425-070657"
+          },
+          "score": 60,
+          "score_reason": "RNA疗法综述，含碱基编辑新方向",
+          "title_cn": "RNA疗法在心血管医学中的应用：从分子机制到临床实践",
+          "one_liner": "综述已获批及在研的心血管RNA疗法，涵盖ASO、siRNA及新兴RNA编辑与环状RNA技术。",
+          "key_findings": [
+            "已有8款心血管相关RNA疗法获FDA批准，靶点包括Lp(a)、ANGPTL3、血管紧张素原等。",
+            "化学修饰提升核酸酶抗性并降低免疫刺激，GalNAc偶联与脂质纳米颗粒改善递送。",
+            "新兴方向包括立体纯寡核苷酸、环状RNA、A-to-I RNA碱基编辑及肝外靶向。"
+          ],
+          "why_it_matters": "为RNA药物设计提供机制与递送策略全景，对合成生物学改造核酸药物、拓展肝外靶向具直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43036292",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Redesigning photoprotection: nature-inspired and synthetic biology strategies to enhance crop productivity.",
+            "abstract": "Photosynthesis captures solar energy and carbon dioxide to fuel life on Earth by providing food and oxygen. When light intensity exceeds photosynthetic capacity, resulting in the saturation of the electron transport chain, photosynthetic organisms protect themselves by activating photoprotective non-photochemical quenching (NPQ), which dissipates excess energy as heat. Despite the importance of NPQ in plant physiology, its slow activation and relaxation may cause substantial yield losses in field-grown crops. For this reason, qE, the fastest component of NPQ, has become a central biotechnological target for crop engineering. While pioneering approaches, such as the \"VPZ strategy\" involving the overexpression of both xanthophyll cycle and PSBS proteins, have successfully enhanced field productivity, their efficacy varies across species, highlighting current biotechnological bottlenecks. This review discusses the molecular bases and activation models of qE in different clades, describing the transition from LHCSR- to PSBS-dependent strategies and the central role of the xanthophyll cycle, while highlighting open debates and unresolved questions. Further, it outlines the future of NPQ engineering, exploring nature-inspired solutions, including the heterologous expression of LHCSR or alternative xanthophyll cycles in crops. Finally, this review discusses how CRISPR-Cas9-driven precision breeding and the application of Artificial Intelligence, and de novo protein design will guide future biotechnological intervention toward developing high-yielding, better resource-efficient crops.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43036292/",
+            "journal": "Biochemical Society transactions",
+            "authors": "Guardini, Barera, Pinnola",
+            "published": "2026-11-25",
+            "doi": "10.1042/BST20260090"
+          },
+          "score": 58,
+          "score_reason": "合成生物学作物光保护，相关但偏农",
+          "title_cn": "重新设计光保护：自然启发与合成生物学策略提升作物生产力",
+          "one_liner": "综述提出用LHCSR异源表达、CRISPR与AI设计改造NPQ的qE组分以提高作物产量。",
+          "key_findings": [
+            "qE激活与弛豫慢导致田间作物显著减产，是工程化核心靶点。",
+            "VPZ策略过表达叶黄素循环与PSBS可增产，但跨物种效果不一。",
+            "未来方向：异源表达LHCSR、替代叶黄素循环、CRISPR精准育种与AI蛋白设计。"
+          ],
+          "why_it_matters": "为光合效率与光保护工程提供路线图，合成生物学可切入LHCSR异源表达与蛋白从头设计，提升作物产量。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43035456",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Cell-free reconstitution reveals synergistic stabilization of microtubule doublets by PACRG and FAP20.",
+            "abstract": "Ciliary microtubule doublets, consisting of an incomplete B-tubule on the surface of a complete A-microtubule, form the fundamental structural framework of motile and sensory cilia/flagella. Ciliary proteins PACRG and FAP20, which are essential for flagellar stability and function, localize to the junction between the A- and the B-tubule. However, their precise role in microtubule doublet assembly and dynamics remains unknown. Here, using a cell-free assay, TIRF-microscopy, and cryo-electron tomography, we demonstrate that in combination PACRG and FAP20 stabilize B-tubule dynamics and microtubule doublet architecture. We show that together these proteins localize to the B-tubules in distinct, high-density patches, which locally stabilize B-tubule by decreasing its depolymerization velocity and increasing its rescue frequency. Cryo-tomography of in vitro reconstructed microtubule doublets in presence of PACRG and FAP20 reveals reduced B-tubule curvature fluctuations, promoting a more rigid and aligned conformation. Altogether, our findings suggest that PACRG and FAP20 function synergistically to reinforce microtubule doublet stability, ensuring ciliary integrity and function.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43035456/",
+            "journal": "Nature communications",
+            "authors": "Khuntsariya, Batman, Krishnan, et al.",
+            "published": "2026-10-16",
+            "doi": "10.1038/s41467-026-78500-1"
+          },
+          "score": 50,
+          "score_reason": "无细胞重构微管双联体",
+          "title_cn": "无细胞重构揭示 PACRG 与 FAP20 协同稳定微管双联体",
+          "one_liner": "无细胞重构显示 PACRG 与 FAP20 协同稳定纤毛微管双联体的 B 管动态与结构。",
+          "key_findings": [
+            "结合 TIRF 与冷冻电镜断层扫描，在无细胞体系中重构微管双联体",
+            "两蛋白以高密度斑块定位 B 管，降低解聚速度并提高救援频率",
+            "二者协同减少 B 管曲率波动，促使其更刚性、对齐的构象"
+          ],
+          "why_it_matters": "为纤毛/鞭毛结构稳定性提供分子机制，对合成生物学中构建纤毛相关模块及纤毛病靶点研究有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:48385891d9356e68",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
+            "abstract": "Plus, news about Amylyx, Jiangsu Hengrui and AstraZeneca. China drastically cuts price of a CAR-T: China is adding a CAR-T therapy to its basic medical insurance drug list, or the NRDL ...",
+            "url": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "中国CAR-T进医保降价，国内重大",
+          "title_cn": "中国CAR-T疗法降至4万美元；诺华与渤健达成交易",
+          "one_liner": "中国将一款CAR-T疗法纳入国家医保目录，价格大幅降至约4万美元。",
+          "key_findings": [
+            "中国将一款CAR-T疗法纳入NRDL（国家医保药品目录），价格大幅下调。",
+            "报道还涉及诺华与渤健达成交易，以及Amylyx、恒瑞医药和阿斯利康的动态。"
+          ],
+          "why_it_matters": "CAR-T进入中国医保并大幅降价，意味着细胞治疗商业化与支付模式出现变化，对关注基因与细胞治疗产业化的合成生物学研究者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:e66821ada1939213",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+            "abstract": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
+            "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "FDA批准罗氏乳腺癌新药，潜力重磅",
+          "title_cn": "FDA批准罗氏新型乳腺癌药物，为部分患者提供新选择",
+          "one_liner": "FDA批准罗氏一款新乳腺癌药物，罗氏称其有望成为公司史上最畅销产品。",
+          "key_findings": [
+            "FDA已批准罗氏这款新型乳腺癌药物上市",
+            "该药为部分乳腺癌患者提供了新的治疗选择",
+            "罗氏预计该药可能成为公司史上最畅销产品"
+          ],
+          "why_it_matters": "对关注肿瘤新药与药企管线的人，这是罗氏的重要商业化节点，值得跟踪其适应症人群、临床数据与后续放量。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c2cff71eb485433a",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "CG Oncology's bladder cancer treatment beats expectations in Phase 3",
+            "abstract": "CG Oncology said its oncolytic immunotherapy succeeded in a late-stage trial in certain patients with non-muscle invasive bladder cancer, potentially expanding the asset’s market significantly. Cretostimogene grenadenorepvec met the Phase 3 ...",
+            "url": "https://endpoints.news/cg-oncologys-bladder-cancer-treatment-beats-expectations-in-phase-3/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "III期溶瘤免疫疗法超预期",
+          "title_cn": "CG Oncology溶瘤免疫疗法III期数据超预期，有望扩大膀胱癌市场",
+          "one_liner": "CG Oncology的溶瘤免疫疗法cretostimogene在非肌层浸润性膀胱癌III期达预期，市场潜力扩大。",
+          "key_findings": [
+            "cretostimogene grenadenorepvec在III期达到主要终点，针对特定非肌层浸润性膀胱癌患者。",
+            "该疗法为溶瘤免疫疗法，阳性结果可能显著扩大其适用人群与市场空间。",
+            "具体疗效数据未在摘要披露，需查阅完整III期结果。"
+          ],
+          "why_it_matters": "溶瘤病毒+免疫治疗在NMIBC的III期成功，为合成生物学改造病毒载体提供临床验证参考，值得关注其构建与给药策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:91d3503ec97b3c3d",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Lilly strikes up to $5.9B cancer deal with Stipple Bio",
+            "abstract": "Eli Lilly continues to be pharma’s biggest shopaholic. Lilly has enlisted Cambridge, MA-based startup Stipple Bio for a multibillion-dollar deal to develop new cancer treatments, marking what appears to be the Indianapolis drug giant’s second-largest ...",
+            "url": "https://endpoints.news/lilly-strikes-up-to-5-9b-cancer-deal-with-stipple-bio/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "礼来59亿美元肿瘤大单，MNC动向",
+          "title_cn": "礼来与Stipple Bio达成最高59亿美元癌症合作",
+          "one_liner": "礼来与Stipple Bio达成最高59亿美元癌症新药开发合作，为其第二大交易。",
+          "key_findings": [
+            "交易总额最高59亿美元，礼来延续其激进的外部合作与并购策略。",
+            "合作方Stipple Bio为马萨诸塞州剑桥市初创公司，聚焦癌症新疗法开发。",
+            "摘要未披露具体靶点、技术平台与首付款结构等细节。"
+          ],
+          "why_it_matters": "礼来大额押注早期肿瘤新药，提示其外部创新布局方向；对合成生物学背景读者，可关注Stipple技术平台是否涉及新型药物模态与可切入的研发机会。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:82c6bbea1195237b",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
+            "abstract": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% — results that may change how physicians treat certain patients.",
+            "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "膀胱癌免疫疗法复发风险降68%",
+          "title_cn": "CG Oncology膀胱癌免疫疗法使肿瘤复发风险降低68%",
+          "one_liner": "CG Oncology膀胱癌免疫疗法将肿瘤复发风险降低68%，可能改变部分患者的治疗方式。",
+          "key_findings": [
+            "该免疫疗法使膀胱癌肿瘤复发风险降低68%",
+            "结果可能改变医生对特定膀胱癌患者的治疗策略",
+            "数据来自CG Oncology的膀胱癌免疫疗法研究"
+          ],
+          "why_it_matters": "膀胱癌免疫治疗取得显著复发风险下降，对关注肿瘤免疫与临床转化的合成生物学研究者有参考价值，可留意其平台与管线设计。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:dcf1801989e8f1ab",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
+            "abstract": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge.",
+            "url": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 74,
+          "score_reason": "基因治疗难题新公司获亿元投资",
+          "title_cn": "Versant与礼来向新创公司注资1亿美元，攻克基因治疗难题",
+          "one_liner": "Versant、礼来等投资1亿美元成立新公司，专攻基因治疗一大难题。",
+          "key_findings": [
+            "Versant、礼来等投资方共同投入1亿美元成立新创公司。",
+            "公司聚焦基因治疗领域一项棘手挑战，具体方向未披露。",
+            "资金规模显示大型药企对基因治疗瓶颈技术的关注。"
+          ],
+          "why_it_matters": "基因治疗递送与表达调控是合成生物学改造载体的核心瓶颈；大额资本入场可能催生新平台，值得跟踪其技术路线与靶点。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:2841dfbc5ba32b12",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AstraZeneca, Alexion's mysathenia gravis treatment enters crowded market",
+            "abstract": "AstraZeneca and Alexion won FDA approval Monday for their self-administered generalized myasthenia gravis (gMG) drug Klygefa. The drug, also known as gefurulimab, is a once-weekly treatment for patients who have anti-acetylcholine receptor antibodies, a harmful ...",
+            "url": "https://endpoints.news/astrazeneca-alexions-mysathenia-gravis-treatment-enters-crowded-market/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "FDA批准新药，但市场竞争激烈",
+          "title_cn": "阿斯利康/Alexion 重症肌无力新药 Klygefa 获 FDA 批准，进入竞争激烈市场",
+          "one_liner": "阿斯利康与 Alexion 的自助注射 gMG 新药 Klygefa（gefurulimab）获 FDA 批准，每周一次。",
+          "key_findings": [
+            "Klygefa（gefurulimab）为每周一次自助给药，用于抗乙酰胆碱受体抗体阳性的全身型重症肌无力（gMG）患者。",
+            "该药获批进入已有多款疗法的拥挤 gMG 市场，需与现有治疗竞争。"
+          ],
+          "why_it_matters": "gMG 是补体与抗体通路药物的热门适应症，自助给药形式提升便利性；对关注抗体/补体类生物药与给药方式创新的读者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:48e0ba34358020fb",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Seawolf launches with $100M to make non-viral gene therapies",
+            "abstract": "A San Diego startup believes it’s made big progress in one of the great unsolved technical challenges of the gene therapy field: safely and effectively delivering DNA without a virus. Seawolf Therapeutics, which has operated ...",
+            "url": "https://endpoints.news/seawolf-launches-with-100m-to-make-non-viral-gene-therapies/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "非病毒基因治疗递送，技术相关",
+          "title_cn": "Seawolf 携 1 亿美元启动，开发非病毒基因疗法",
+          "one_liner": "圣地亚哥初创公司 Seawolf Therapeutics 融资 1 亿美元，推进非病毒 DNA 递送基因疗法。",
+          "key_findings": [
+            "公司称在安全高效的非病毒 DNA 递送这一基因治疗难题上取得重大进展。",
+            "融资额 1 亿美元，用于推进其非病毒基因疗法平台与管线。",
+            "摘要未披露具体适应症、临床阶段或候选药物数据。"
+          ],
+          "why_it_matters": "非病毒递送是基因治疗与合成生物学递送载体的核心瓶颈，对关注 DNA/mRNA 递送与 CRISPR 体内应用的研发者具参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": [
+        {
+          "item": {
+            "id": "nhsa:273977cc3179c9bb",
+            "source": "nhsa",
+            "source_label": "国家医保局 · 医保动态",
+            "tier": "official",
+            "title": "åå°å»ä¿æç»­è°æ´ä¼åå»çæå¡ä»·æ ¼",
+            "abstract": "å½å®¶å»çä¿éå± å»ä¿å¨æ åå°å»ä¿æç»­è°æ´ä¼åå»çæå¡ä»·æ ¼ --> 1å»ä¿æ°é»/col/col5/index.htmlå»ä¿å¨æ/col/col14/index.html é¦é¡µ > å»ä¿æ°é» > å»ä¿å¨æ è§åä¿æ¤è²ï¼ begin-->åå°å»ä¿æç»­è°æ´ä¼åå»çæå¡ä»·æ ¼end--> æ¥æï¼2026-11-16 è®¿é®æ¬¡æ°ï¼ å­å·ï¼[ å¤§ ä¸­ å° ] begin-->å»çæå¡ä»·æ ¼æ¯äººæ°ç¾¤ä¼æå ³å¿æç´æ¥æç°å®çå©çé®é¢ãå½å®¶å»ä¿å±æ·±å ¥æ¨è¿å»çæå¡ä»·æ ¼æ¹é©åæ²»çï¼æå¯¼åå°å ¨é¢å»ºç«å»çæå¡ä»·æ ¼å¨æè°æ´æºå¶ï¼ç»åç»æµç¤¾ä¼åå±ãå»é¢è¿è¡ç¶æãç¾¤ä¼è´æ æ°´å¹³ãå»ä¿åºéæ¶æ¯ç­å ç´ ï¼æç»­è°æ´ä¼åå»çæå¡ä»·æ ¼ï¼ååæ¨è¿åºéå®å ¨è¿è¡ãå»é¢è¯æ§è¿è½¬ãç¾¤ä¼è´æ åçãä»·æ ¼è°æ´ç¨³ä¸­æè¿ï¼éåºåºéå®å ¨è¿è¡è¦æ±èª2018å¹´ä»¥æ¥ï¼å½å®¶å»ä¿å±æå¯¼åå°å»ºç«å¥å ¨å»çæå¡ä»·æ ¼å¨æè",
+            "url": "https://www.nhsa.gov.cn/art/2026/11/16/art_14_23391.html",
+            "journal": "国家医保局 · 医保动态",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 60,
+          "score_reason": "医保价格调整，常规但相关",
+          "title_cn": "各地医保持续调整优化医疗服务价格",
+          "one_liner": "国家医保局指导各地建立医疗服务价格动态调整机制，持续优化价格。",
+          "key_findings": [
+            "各地结合经济社会发展、医院运行、群众负担、基金收支等因素调整价格",
+            "自2018年以来，国家医保局指导各地建立健全医疗服务价格动态调整机制",
+            "价格调整稳中有进，协同推进基金安全、医院良性运转与群众负担合理"
+          ],
+          "why_it_matters": "医疗服务价格直接影响创新疗法（如细胞治疗、基因治疗）的定价与医保准入环境，合成生物学背景的读者可关注后续对新技术项目的价格政策。",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:6132135c1fa45082",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+            "abstract": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+            "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 85,
+          "score_reason": "Vera Rubin首秀横扫MLPerf，重大",
+          "title_cn": "NVIDIA Vera Rubin 首秀 MLPerf：横扫训练基准，端点推理能效提升超10倍",
+          "one_liner": "NVIDIA Vera Rubin 首次参加 MLPerf 即横扫全部训练基准，并在端点推理中实现每瓦吞吐量超10倍的代际提升。",
+          "key_findings": [
+            "Vera Rubin 平台在 MLPerf Training v6.1 的全部基准测试中均取得领先，首次亮相即全面领先。",
+            "首次提交 MLPerf Endpoints 结果，面向 agentic AI 的每瓦吞吐量较上代提升超过10倍。",
+            "覆盖训练、后训练与 agentic 推理三类负载，体现平台在完整 AI 流水线上的性能。"
+          ],
+          "why_it_matters": "合成生物学中的蛋白设计、基因组模型与实验室自动化 agent 都依赖训练与推理算力；能效代际提升将直接影响大规模模型的可及成本与本地部署可行性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:c496ea6e1eba5cfb",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+            "abstract": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
+            "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "Rubin HPC新GPU发布，重要",
+          "title_cn": "NVIDIA 发布 Rubin HPC GPU，加速科学与工程智能体工作流",
+          "one_liner": "NVIDIA 在 SC26 发布 Vera Rubin 平台的 Rubin HPC GPU，面向科学、工程与分析负载。",
+          "key_findings": [
+            "Rubin HPC 是 Vera Rubin 平台新 GPU，主打仿真与数据处理加速。",
+            "定位服务科学、工程、分析工作流，支撑智能体探索候选材料与分子。",
+            "智能体依赖仿真验证设想并指导下一步探索，形成算力需求闭环。"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖分子设计与仿真筛选，更强 GPU 可加速候选分子与菌株的建模迭代，值得关注其对湿实验前计算流程的潜在影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:9d0ad5ad19c78db4",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+            "abstract": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+            "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 80,
+          "score_reason": "CUDA-X新库加速科研，高度相关",
+          "title_cn": "NVIDIA 扩展 CUDA-X 库，为 AI 智能体提供加速科学发现的工具",
+          "one_liner": "NVIDIA 扩展 CUDA-X 库，新增 cuPhoton、cuPotential、cuSpa，加速天体物理、材料与单细胞生物学研究。",
+          "key_findings": [
+            "新增 cuPhoton、cuPotential、cuSpa 三个库，覆盖光子学、势能计算与空间组学分析。",
+            "加速效果帮助科学家处理更大数据集、建模更复杂系统。",
+            "新库为 AI 智能体提供工具，辅助研究人员开展发现。"
+          ],
+          "why_it_matters": "对合成生物学而言，单细胞分析与复杂系统建模的算力瓶颈可能被显著缓解；若团队使用 GPU 流程或 AI 智能体，值得评估这些库能否接入现有分析管线。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:79a7335e7a084524",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+            "abstract": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+            "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "DGX Spark集群，科研算力直接相关",
+          "title_cn": "NVIDIA 推出 DGX Spark HPC 开发者套件：桌面级四节点超算集群",
+          "one_liner": "NVIDIA 在 SC26 发布 DGX Spark HPC 开发者套件，由四台 DGX Spark 组成环形直连集群。",
+          "key_findings": [
+            "套件为四节点 DGX Spark 集群，每节点与两个相邻节点环形直连",
+            "面向研究人员、学者与开发者，配套 NVIDIA HPC SDK 安装 playbook",
+            "在芝加哥 SC26 超算大会发布，定位桌面级超算实验环境"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖本地化高性能计算，用于基因组分析、蛋白设计与 AI 模型微调；桌面级小集群可降低算力门槛，值得评估其能否支撑实验室计算流程。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:1c1e55eaa4750a6f",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "US moves to cut China’s remote access to AI chips",
+            "abstract": "Trump bets China won’t mind US blocking remote access to AI chips.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "美限制中国AI芯片远程访问",
+          "title_cn": "美国拟限制中国远程访问AI芯片",
+          "one_liner": "美国推动限制中国远程访问AI芯片，特朗普政府认为中方不会介意。",
+          "key_findings": [
+            "美国出台措施限制中国远程获取AI芯片算力。",
+            "特朗普政府判断中方不会对此强烈反应。",
+            "政策聚焦远程访问渠道，而非直接出口管制。"
+          ],
+          "why_it_matters": "算力获取受限可能影响国内AI与合成生物学计算工具、模型训练的可用资源，需关注云算力与跨境协作的合规风险。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:bf56b424e8afb2c2",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Expands Vera CPU Platform to Accelerate Scientific Discovery",
+            "abstract": "NVIDIA today announced the NVIDIA Vera CPU rack-scale platform for high-performance computing — combining NVIDIA’s first fully custom data center CPU with the gold standard for HPC networking to drive extreme efficiency and throughput for state-of-the-art scientific modeling, simulation and agentic science.",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "Vera CPU扩展HPC，值得关注",
+          "title_cn": "NVIDIA 将 Vera CPU 平台扩展至高性能计算，加速科学发现",
+          "one_liner": "NVIDIA 推出 Vera CPU 机架级平台，面向高性能计算，用于科学建模、仿真与 agentic science。",
+          "key_findings": [
+            "Vera 是 NVIDIA 首款完全自研的数据中心 CPU，以机架级平台形式交付。",
+            "平台结合 NVIDIA 的 HPC 网络方案，主打极高效率与吞吐。",
+            "目标负载为科学建模、仿真及 agentic science 等前沿科研场景。"
+          ],
+          "why_it_matters": "合成生物学研发日益依赖大规模建模与 AI 驱动的实验设计；该平台可能降低计算密集型仿真与 agentic 工作流的成本，值得关注其对生物设计算管线的影响。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:a8005cc7b5953959",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Broadening access to AI for scientists",
+            "abstract": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+            "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "免费前沿模型开放科研，直接相关",
+          "title_cn": "OpenAI 扩大科研人员 AI 免费使用范围",
+          "one_liner": "OpenAI 将 ChatGPT 学术研究者计划扩展至全球 20 万研究人员，免费开放前沿模型。",
+          "key_findings": [
+            "ChatGPT for Academic Researchers 计划扩容，覆盖全球 20 万研究者",
+            "免费提供 OpenAI 前沿模型访问权限",
+            "面向学术科研场景，降低 AI 工具使用门槛"
+          ],
+          "why_it_matters": "合成生物学研究涉及大量文献挖掘、序列与实验数据分析，免费前沿模型可降低课题组 AI 工具成本，值得评估接入科研工作流。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:bd82b9c0db5c9acd",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+            "abstract": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+            "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "黄仁勋回归传闻，英伟达动向",
+          "title_cn": "黄仁勋盟友组建“作战室”，力促其重返英伟达",
+          "one_liner": "黄仁勋辞职数日后，盟友组建“作战室”推动其回归，本人正权衡。",
+          "key_findings": [
+            "黄仁勋因丑闻加深辞职仅数日，盟友即组建“作战室”推动其回归。",
+            "黄仁勋本人正在权衡是否重返英伟达。"
+          ],
+          "why_it_matters": "英伟达是合成生物学AI计算与GPU算力核心供应商，其领导层动荡可能影响算力路线与供应链稳定。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:760ece4be02563ae",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+            "abstract": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+            "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "CPO光互连，芯片产业链重要",
+          "title_cn": "Lambda 采用 NVIDIA 光电共封装交换机提升 AI 工厂网络韧性与效率",
+          "one_liner": "Lambda 用 NVIDIA CPO 交换机连接超万块 GPU 的 GB300 NVL72 集群，提升网络效率与韧性。",
+          "key_findings": [
+            "Lambda 部署 NVIDIA 光电共封装（CPO）交换机，用于 AI 训练网络互连。",
+            "该网络连接 NVIDIA GB300 NVL72 机架，GPU 规模超过 10,000 块。",
+            "目标是让大规模 GPU 协同训练所需的网络更快、更高效、更可靠。"
+          ],
+          "why_it_matters": "万卡级 AI 工厂的网络互连正成为训练效率瓶颈；CPO 交换机路线若成熟，将影响合成生物学 AI 模型所需的大规模算力基础设施选型。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:b0555ded361241e5",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Science at the Frontier: How scientists use ChatGPT",
+            "abstract": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+            "url": "https://openai.com/index/science-at-the-frontier",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-16",
+            "doi": null
+          },
+          "score": 68,
+          "score_reason": "科学家用ChatGPT调研，有参考价值",
+          "title_cn": "前沿科学：科学家如何使用 ChatGPT",
+          "one_liner": "OpenAI 调查 1800 余名科学家，揭示其在科研中使用 ChatGPT 的日常流程与效率变化。",
+          "key_findings": [
+            "覆盖 1800 余名科学家，聚焦 ChatGPT 在日常科研工作流中的实际使用方式。",
+            "报告了科学家自述的生产力变化，以及对 AI 辅助科学发现的预期。",
+            "来源为 OpenAI 官方新闻，属平台方视角的使用调研。"
+          ],
+          "why_it_matters": "合成生物学研发涉及大量文献、序列与实验设计，了解同行如何嵌入 LLM 可优化湿实验前的信息处理与假设生成流程。",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
