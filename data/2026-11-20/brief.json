@@ -1,0 +1,1082 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T07:31:41.299122+08:00",
+  "fetched_ids": [
+    "pubmed:43036785",
+    "pubmed:43046624",
+    "pubmed:43042724",
+    "pubmed:43036776",
+    "pubmed:43036292",
+    "pubmed:43050315",
+    "pubmed:43036823",
+    "pubmed:43056425",
+    "pubmed:43056392",
+    "pubmed:43056038",
+    "pubmed:43055941",
+    "pubmed:43055508",
+    "pubmed:43055119",
+    "pubmed:43056245",
+    "pubmed:43053558",
+    "pubmed:43053253",
+    "pubmed:43052193",
+    "pubmed:43051393",
+    "pubmed:43051326",
+    "pubmed:43051164",
+    "pubmed:43051159",
+    "pubmed:43049997",
+    "pubmed:43049983",
+    "pubmed:43048820",
+    "pubmed:43046257",
+    "pubmed:43045543",
+    "pubmed:43045542",
+    "pubmed:43045080",
+    "pubmed:43044918",
+    "pubmed:43044896",
+    "pubmed:43044679",
+    "pubmed:43044522",
+    "pubmed:43043754",
+    "pubmed:43043113",
+    "pubmed:43043039",
+    "pubmed:43042584",
+    "pubmed:43042506",
+    "pubmed:43041135",
+    "pubmed:43040462",
+    "pubmed:43039898",
+    "pubmed:43037224",
+    "pubmed:43054807",
+    "pubmed:43040071",
+    "pubmed:43039134",
+    "pubmed:43039044",
+    "pubmed:43038856",
+    "pubmed:43038382",
+    "pubmed:43038278",
+    "pubmed:43038134",
+    "pubmed:43037917",
+    "pubmed:43037420",
+    "pubmed:43037283",
+    "pubmed:43037253",
+    "pubmed:43037188",
+    "pubmed:43036274",
+    "pubmed:43036097",
+    "pubmed:43035924",
+    "pubmed:43036632",
+    "pubmed:43036050",
+    "pubmed:43035857",
+    "pubmed:43035133",
+    "pubmed:43053694",
+    "pubmed:43044265",
+    "pubmed:43042231",
+    "pubmed:43036701",
+    "pubmed:43054186",
+    "pubmed:43047414",
+    "pubmed:43047348",
+    "pubmed:43042059",
+    "pubmed:43041737",
+    "pubmed:43041696",
+    "pubmed:43041680",
+    "pubmed:43041318",
+    "pubmed:43041260",
+    "pubmed:43051285",
+    "pubmed:43050241",
+    "pubmed:43046697",
+    "pubmed:43043863",
+    "pubmed:43036792",
+    "pubmed:43036177",
+    "pubmed:43054490",
+    "pubmed:43054528",
+    "pubmed:43039905",
+    "pubmed:43035501",
+    "pubmed:43035456",
+    "pubmed:43042949",
+    "pubmed:43042101",
+    "pubmed:43053987",
+    "pubmed:43049090",
+    "pubmed:43046238",
+    "pubmed:43052817",
+    "pubmed:43046232",
+    "pubmed:43046156",
+    "rss:710d3835e26a702b",
+    "rss:a3946cbd457c2ab7",
+    "rss:fa57ae5ad4ce9987",
+    "rss:4454acca380ee2fc",
+    "rss:616e4408184bcdcf",
+    "rss:1f6e4e311a4fe53f",
+    "rss:5a265cce64d6d490",
+    "rss:f731d74da8bd0b38",
+    "rss:d2d29cebd275ebc2",
+    "rss:90f157811d0ed029",
+    "rss:3db23f555a03aaa7",
+    "rss:2eea0423a55ca3c5",
+    "rss:ef16ad5f46705804",
+    "rss:245c4102d80b51cd",
+    "rss:f8c30ad3f2926de9",
+    "rss:b0928efce8229842",
+    "rss:4f955601d2cc02a9",
+    "rss:024282a2fd2e02eb",
+    "rss:5500223ef253bdb5",
+    "rss:521642063eb4c3ca",
+    "rss:220027605805b182",
+    "rss:873da6bb22d70641",
+    "rss:712ad48d46112ce0",
+    "rss:417736e4c7bc0e67",
+    "rss:8bf1f4cf6e0ffc76",
+    "rss:6a513e069050c4de",
+    "rss:19012d7713795029",
+    "rss:ac05ec095887293f",
+    "rss:5a9a8cd495f5d52b",
+    "ema:5932dfc8f2e46892",
+    "ema:9ac360af1a1ccc60",
+    "ema:69e32d2362a433f0",
+    "ema:c12b505a690a52cb",
+    "ema:d1f1b0ebb1361654",
+    "ema:34d5266a4c33a995",
+    "ema:e2a395dd9eb5316f",
+    "ema:dc7ae573a418fe5c",
+    "ema:eff34e9033d15f44",
+    "ema:c6e3cf1b16df37d6",
+    "pbc:bc441341540f7cd2",
+    "pbc:b03c4c3e4e5d6e0d",
+    "pbc:c9c2a664dfef06be",
+    "pbc:a515c1196a04ffd0",
+    "pbc:a4f4a83e9f442fa1",
+    "pbc:e7245ba10a6c39da",
+    "pbc:173c28dd8b22ff38",
+    "pbc:aa866c23ff62affa",
+    "pbc:df588ef18fef16f5",
+    "pbc:125fe2c8bc38f452",
+    "pbc:5f0501c5f0de5dc8",
+    "pbc:d0d2d8e6461dd15f",
+    "pbc:fbd435c7cbf58c22",
+    "pbc:a2b56d05046f145d",
+    "pbc:83633c72c2d7980d",
+    "rss:6ea811258a465008",
+    "rss:6ed6090c09421c36",
+    "rss:787cd754371822f4",
+    "rss:2e76d5b4b679af87",
+    "rss:4739d25187174c21",
+    "rss:c4029f8d3d08f72b",
+    "rss:32f46a407aa3905b",
+    "rss:271c8d9c47fbf7cb",
+    "rss:62857bef727acad9",
+    "rss:6cc0bdc2d0097c3d",
+    "rss:88e5a492fec09122",
+    "rss:5d2eb708222dfe77",
+    "rss:454af483986caafd",
+    "rss:b0558878cc433ef8",
+    "rss:e38c92a7cefc59fe",
+    "rss:dd875e3abb805b46",
+    "rss:ddcdbef63b1fc022",
+    "rss:6c31d4893839b85f",
+    "rss:27451d50ffbe138e",
+    "rss:a4a8ae975d2d01d7",
+    "rss:f6595990fb05f4cd",
+    "rss:f207b41a67cda819",
+    "rss:f1ab66a8c562aa56",
+    "rss:00973b1bcfa70280",
+    "rss:94bc4ec01522d697",
+    "rss:75f434e1b948cb96",
+    "rss:72fb42c83b7b0686",
+    "rss:a68dad49020fe31a",
+    "rss:79a7335e7a084524",
+    "rss:90002e51ae9771a4",
+    "rss:3c5e491e54728c34",
+    "rss:4feac83240203b8c",
+    "rss:23d66d7f8d11ed0f",
+    "rss:d99624c338eb88c5",
+    "rss:3f742fb0ffa93471",
+    "rss:04c51645127581f8",
+    "rss:b7528e3c22d18ad0",
+    "rss:51afa3ed67cee48e",
+    "rss:d79cf5798674ad16",
+    "rss:5d59c2501daba0cd",
+    "rss:0eed48497271a1e6"
+  ],
+  "stats": {
+    "fetched": 188,
+    "new_items": 52,
+    "kept": 33,
+    "mock": false
+  },
+  "sections": [
+    {
+      "id": "papers",
+      "title": "文献 · 合成生物学",
+      "cards": [
+        {
+          "item": {
+            "id": "pubmed:43056425",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Zero-shot de novo design of a metalloenzyme.",
+            "abstract": "De novo design of enzymes is a frontier challenge, requiring consideration of catalytic mechanism and optimization across biochemical and biophysical criteria. Here, we present dEVA (design by EVolutionary Algorithm), a multi-objective protein design method built on principles drawn from evolutionary biology. We apply dEVA to the zero-shot, de novo design of metalloenzymes by optimizing the coordination sphere of catalytic metals. We characterize a bi-zinc metalloenzyme that exhibits promiscuous hydrolytic activity towards both phosphomonoesters and phosphodiesters. This design achieves a rate enhancement ((kcat/KM)/kw) of up to 3 x 1013 relative to the uncatalyzed reaction, comparable to characterized natural phosphatases. Structural characterization via x-ray crystallography and absorption spectroscopy supports the design of a de novo active site. These results demonstrate that de novo enzymes can be designed without pre-specified motifs, natural templates, or evolutionary information.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43056425/",
+            "journal": "Science (New York, N.Y.)",
+            "authors": "El Nesr, Dürr, Mathews, et al.",
+            "published": "2026-11-19",
+            "doi": "10.1126/science.aej3009"
+          },
+          "score": 88,
+          "score_reason": "零样本从头设计金属酶，蛋白质设计里程碑",
+          "title_cn": "金属酶的零样本从头设计",
+          "one_liner": "dEVA 算法无需天然模板或进化信息，零样本从头设计出双锌金属酶，催化效率媲美天然磷酸酶。",
+          "key_findings": [
+            "dEVA 基于进化生物学原理的多目标蛋白设计算法，优化催化金属配位球。",
+            "设计出的双锌金属酶对磷酸单酯和双酯均有水解活性，速率提升达 3×10^13。",
+            "X 射线晶体学与吸收光谱证实从头设计的活性位点结构。"
+          ],
+          "why_it_matters": "为合成生物学提供无需天然模板的酶设计新范式，可加速非天然金属酶与新型生物催化路线的开发。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43056392",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.",
+            "abstract": "How does evolutionary information become structural knowledge? AlphaFold 3 predicts protein structures and biomolecular assemblies with remarkable accuracy, yet how it transforms comparative sequence information into three-dimensional structure remains poorly understood. Here, we use mechanistic interpretability to follow this transformation through AlphaFold 3 and identify a computational principle underlying its structural inference. By extracting single- and pair-representations across the model's forward pass and combining representational-geometry analysis, linear probing, activation patching, and perturbation of the multiple-sequence alignment (MSA) and its phylogenetic diversity, we show that AlphaFold 3 does not simply infer structure from raw sequence nor from MSA depth. Instead, a small number of sufficiently divergent homologues provides enough comparative information to largely recover the structure predicted using the full MSA. The pairformer transforms this evolutionary signal into a compact latent space in which residue-pair distances, contacts, fold similarity, and structural confidence become progressively decodable. Removing the MSA disrupts these latent geometries. Replacing it with evolutionarily similar homologues provides substantially less information, while evolutionarily unrelated sequences fail to rescue prediction despite preserving the formal alignment input. In contrast, phylogenetically diverse MSA subsampling largely restores both prediction accuracy and representational coherence. These results suggest that AlphaFold 3 has learned to infer structure by constraining its geometric priors and structural hypotheses by the sequence variation of the MSA. This framework helps explain both the model's remarkable predictive power and its characteristic failure modes, with direct implications for protein design, conformational diversity, out-of-distribution generalization, and the interpretation of model confidence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43056392/",
+            "journal": "PLoS computational biology",
+            "authors": "Feldman, Skolnick",
+            "published": "2026-11-19",
+            "doi": "10.1371/journal.pcbi.1014981"
+          },
+          "score": 82,
+          "score_reason": "AlphaFold3机制可解释性，直接相关",
+          "title_cn": "AlphaInterp：揭示 AlphaFold 3 如何处理结构、置信度与进化信息",
+          "one_liner": "AlphaFold 3 并非依赖 MSA 深度，而是靠少量高度分化同源序列的变异信息约束几何先验来推断结构。",
+          "key_findings": [
+            "结合表征几何分析、线性探针与激活修补，追踪 AlphaFold 3 前向过程中单表征与对表征的演化。",
+            "少量足够分化的同源序列即可基本恢复全 MSA 的预测精度；进化相似序列信息量明显不足。",
+            "pairformer 将进化信号压缩为潜空间，残基对距离、接触、折叠相似度与置信度逐步可解码。"
+          ],
+          "why_it_matters": "为合成生物学中蛋白设计、构象多样性与模型置信度解读提供机制依据，有助于判断 AlphaFold 3 在分布外序列上的可靠性。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43051285",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Spliceosomal intron-free eukaryotic cells: rethinking the evolutionary significance of introns and the spliceosome.",
+            "abstract": "Spliceosomal introns are important components of eukaryotic genomes, occurring widely within protein-coding genes and being removed through splicing during RNA maturation. Spliceosomal intron removal has long been considered an important foundation of eukaryotic gene expression regulation and cellular function, and has also been proposed as a potential driver of eukaryotic evolution. All extant free-living eukaryotes are known to contain spliceosomal introns. However, whether introns and the spliceosome are essential for the survival of eukaryotic cells remains a fundamental question in biology. In recent years, advances in synthetic biology and genome engineering have provided new strategies for exploring the fundamental components of eukaryotic life. Through synthetic genome design and systematic genome minimization, recent studies have demonstrated that Saccharomyces cerevisiae can survive in the complete absence of all known spliceosomal introns, indicating that spliceosomal introns are not genetic elements essential for yeast viability, and that the spliceosome is likewise not a molecular machine required for yeast survival. This finding challenges the conventional understanding of spliceosomal intron function and spliceosome essentiality, provides a new perspective on the evolutionary significance of introns, and offers guiding principles for the rational design and construction of synthetic eukaryotic genomes. This review systematically summarizes the types and multifaceted functions of introns, with a focus on the construction, viability, and fitness cost of the spliceosomal intron-free Saccharomyces cerevisiae strain SYNE27α, as well as evidence that the spliceosome is dispensable in this context. It further discusses the implications for the evolutionary retention of introns and the construction of minimal eukaryotic genomes.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43051285/",
+            "journal": "Yi chuan = Hereditas",
+            "authors": "Man, Zhou",
+            "published": "2026-11-01",
+            "doi": "10.16288/j.yczz.26-199"
+          },
+          "score": 80,
+          "score_reason": "无内含子酵母最小基因组，重大发现",
+          "title_cn": "无剪接体内含子的真核细胞：重新审视内含子与剪接体的演化意义",
+          "one_liner": "合成基因组与最小化实验证明，酵母可完全缺失剪接体内含子并存活，剪接体并非生存必需。",
+          "key_findings": [
+            "通过合成基因组设计与系统最小化，构建出完全去除已知剪接体内含子的酵母菌株SYNE27α。",
+            "该菌株可存活，说明剪接体内含子不是酵母存活的必需遗传元件，剪接体也非必需分子机器。",
+            "综述还评估了无内含子菌株的适合度代价，并讨论内含子被演化保留的原因及最小真核基因组构建。"
+          ],
+          "why_it_matters": "对合成生物学与基因组最小化研究有直接启发：内含子与剪接体可被视为可去除模块，为理性设计最小真核基因组、简化底盘细胞提供依据。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43053694",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Synthetic biology for improving photosynthesis.",
+            "abstract": "Photosynthesis is the primary source of energy and matter for nearly all life on Earth, and its efficiency directly determines crop growth and yield. Synthetic biology offers a systematic engineering framework to enhance photosynthetic capacity by enabling rational design, standardized assembly, and iterative optimization of biological components. This review summarizes recent progress in applying synthetic biology to improve photosynthesis, with emphasis on modular design of genetic parts, construction of functional modules and genetic circuits for photosynthetic engineering. We discuss strategies organized by spatial scale, covering chloroplast-targeted interventions such as ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) optimization, photorespiratory bypasses, artificial carbon fixation cycles, and CO₂-concentrating mechanisms; cellular-level efforts to install C4 photosynthetic features into C3 crops; whole-plant manipulations of sugar transport and signaling to coordinate source-sink relations; and smart canopy designs to improve light utilization. Finally, we discuss the significance of closing the design-build-test-learn cycle for translating laboratory designs to field performance, which will help accelerate the application of photosynthetic engineering for sustainable crop improvement.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43053694/",
+            "journal": "Acta biochimica et biophysica Sinica",
+            "authors": "Sun, Cao, Zhao, et al.",
+            "published": "2026-11-13",
+            "doi": "10.3724/abbs.2026212"
+          },
+          "score": 75,
+          "score_reason": "合成生物学改良光合作用综述，核心相关",
+          "title_cn": "合成生物学改良光合作用：从叶绿体到冠层的多尺度工程策略",
+          "one_liner": "综述系统梳理合成生物学多尺度改造光合作用的策略，强调闭环设计以推动田间应用。",
+          "key_findings": [
+            "按空间尺度归纳策略：叶绿体内Rubisco优化、光呼吸旁路、人工固碳与CO₂浓缩机制",
+            "细胞层面将C4特征引入C3作物，整株层面调控糖运输与源库协调及智能冠层",
+            "强调打通设计-构建-测试-学习闭环，是实验室设计走向田间表现的关键"
+          ],
+          "why_it_matters": "为光合效率工程提供模块化元件与回路设计框架，对作物底盘改造、碳固定通路重构及代谢工程选题有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43056245",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Base editor tiling of the PTPN11 gene identifies resistance variants to SHP2 inhibitors.",
+            "abstract": "SHP2, a tyrosine phosphatase and key modulator of oncogenic signaling pathways, has emerged as a promising cancer target, but the impact of SHP2 mutations on therapy response remains unclear. Here we perform high-throughput mutagenic base editor screens in lung cancer cells to identify SHP2 mutations conferring resistance to migoprotafib and TNO155. Our screens identify numerous gain-of-function mutations associated with Noonan syndrome and various malignancies. Most resistance mutations overlap between inhibitors, although some exhibit elevated resistance to TNO155 compared to migoprotafib. Cross-referencing comprehensive genomic profiling data from predominantly advanced, SHP2 inhibitor-naive tumors reveals significant overlap between screen-enriched and tumor-associated mutations. We validate select mutations using in vitro and in cellulo assays and perform structural analyses to gain insights into the mechanisms driving resistance. Our study provides a comprehensive map of SHP2 mutations that reduce inhibitor sensitivity and identifies pre-existing variants that may confer intrinsic resistance to allosteric inhibitors in patients.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43056245/",
+            "journal": "Cell reports",
+            "authors": "Ravichandran, Dorighi, Martinez, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1016/j.celrep.2026.118323"
+          },
+          "score": 72,
+          "score_reason": "碱基编辑筛选耐药突变，技术有价值",
+          "title_cn": "PTPN11 基因碱基编辑器平铺筛选鉴定 SHP2 抑制剂耐药变异",
+          "one_liner": "用碱基编辑器全基因扫描找出使肺癌细胞对 SHP2 抑制剂 migoprotafib 和 TNO155 耐药的 SHP2 突变。",
+          "key_findings": [
+            "在肺癌细胞中高通量碱基编辑筛选，鉴定出大量与 Noonan 综合征及肿瘤相关的功能获得性突变。",
+            "多数耐药突变对两种抑制剂交叉耐药，部分对 TNO155 耐药更强。",
+            "筛选富集突变与晚期未用药肿瘤基因组数据高度重叠，并经体外和结构分析验证。"
+          ],
+          "why_it_matters": "为 SHP2 变构抑制剂临床耐药机制提供全景图谱，提示患者预存突变可致原发耐药，对靶向药开发与伴随诊断有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43052193",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Decorating Bacteria With Electrostatically Bound Liposomes as Programmable Extracellular Functional Compartments.",
+            "abstract": "Living cells are powerful programmable systems, yet efforts to engineer them are limited by the constraints of genetic modification, including metabolic burden, restricted chemical diversity of biomolecular systems, and slow, gene expression-driven responses. Complementary approaches augmenting cells without altering their genome offer an attractive route to expand their functionality. Here, we establish a strategy for equipping bacteria with synthetic extracellular organelle-like compartments by electrostatically assembling liposomes onto the surface of Escherichia coli. This approach yields stable, multi-compartment, high-density coatings without genetic or covalent modification, while preserving bacterial growth, gene expression, and motility. We show that these surface-bound liposomes can function as modular compartments that operate alongside the cell, enabling capabilities that are difficult to realize genetically, including thermoresponsive cargo release and abiotic catalytic activity. Together, this work shows that bacteria-liposome biohybrids can be engineered with appended, tunable synthetic compartments to expand the functional repertoire of living cells.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43052193/",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "authors": "Ivars, Gurung, Gispert, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1002/advs.78613"
+          },
+          "score": 68,
+          "score_reason": "脂质体修饰细菌合成细胞器，合成生物学相关",
+          "title_cn": "静电结合脂质体修饰细菌：可编程的胞外功能区室",
+          "one_liner": "通过静电组装将脂质体固定在细菌表面，构建不改变基因组的可编程胞外功能区室。",
+          "key_findings": [
+            "脂质体经静电组装稳定包覆于大肠杆菌表面，形成多区室高密度涂层，无需基因或共价修饰。",
+            "涂层不影响细菌生长、基因表达与运动能力。",
+            "表面脂质体可模块化工作，实现热响应货物释放与非生物催化等遗传难以实现的功能。"
+          ],
+          "why_it_matters": "为合成生物学提供非遗传改造的细胞功能扩展路径，规避代谢负担，适合开发工程菌胞外催化与可控释放系统。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43051326",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "SynAb: Interpretable heavy-light chain synergy modeling for generalizable antibody-antigen interaction prediction.",
+            "abstract": "Accurate prediction of antibody-antigen interactions (AAIs) is essential for therapeutic antibody discovery and high-throughput antibody screening. However, existing sequence-based methods often model antibody heavy and light chains independently, overlooking their cooperative contribution to antigen recognition. In this study, we propose SynAb, a synergy-guided cross-attention framework that integrates heavy-light chain regional cooperation into antibody-antigen interaction modeling. SynAb captures cooperative information across antibody functional regions and uses it to guide the interaction between antibody and antigen representations. Experimental results on the HIV and CoV-AbDab datasets demonstrate that SynAb outperforms the evaluated sequence-based methods and exhibits strong generalization in challenging scenarios involving unseen antibodies, unseen antigens, and previously unobserved antibody-antigen pairs. Beyond its predictive performance, SynAb explicitly characterizes the coordinated roles of paired heavy and light chains in antigen recognition. Moreover, without residue-level contact supervision, the model consistently highlights heavy-chain CDR-enriched regions, particularly CDR-H2 and CDR-H3, providing interpretable evidence consistent with established immunological knowledge. Together, these findings establish SynAb as a robust and interpretable framework for sequence-based AAI prediction and a promising computational tool for candidate prioritization in therapeutic antibody screening and synthetic biology applications.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43051326/",
+            "journal": "International journal of biological macromolecules",
+            "authors": "Cai, Shi, Zhang, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1016/j.ijbiomac.2026.155300"
+          },
+          "score": 65,
+          "score_reason": "抗体抗原互作预测模型，蛋白质设计相关",
+          "title_cn": "SynAb：可解释的重链-轻链协同建模用于可泛化的抗体-抗原相互作用预测",
+          "one_liner": "SynAb用协同引导的交叉注意力整合重轻链区域协作，提升抗体-抗原相互作用预测与泛化能力。",
+          "key_findings": [
+            "构建重轻链协同引导的交叉注意力框架，将重轻链区域协作信息用于指导抗体-抗原表征交互。",
+            "在HIV与CoV-AbDab数据集上优于所评估的序列方法，对未见抗体、抗原及新配对泛化强。",
+            "无残基接触监督下仍稳定突出CDR-H2、CDR-H3等重链CDR富集区，具可解释性。"
+          ],
+          "why_it_matters": "为治疗性抗体发现与高通量筛选提供可解释的序列级候选优先级工具，契合深圳合成生物学与抗体工程方向。",
+          "priority": 3
+        },
+        {
+          "item": {
+            "id": "pubmed:43053987",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Biosynthesis of a rare ginsenoside Compound K in engineered Ganoderma lucidum.",
+            "abstract": "Ginsenoside Compound K (CK) is a rare protopanaxadiol-type ginsenoside with notable bioactivities. Production of CK via biotransformation remains limited by several challenges, including insufficient enzyme stability, high production costs, and poor catalyst reusability, which substantially hinder efficient production and restrict its large-scale application. Here, we report the first heterologous production of CK in Ganoderma lucidum, a medicinal macrofungus with an active triterpenoid biosynthetic pathway. Constitutive promoters suitable for G. lucidum were screened and validated using an mCherry reporter, with the PGltrpC cassette showing stronger activity than Pgpd. A Golden Gate-based multigene assembly system was then established to construct the biosynthetic pathway of CK and introduce it into G. lucidum. Liquid chromatography-mass spectrometry confirmed CK production in transgenic strains, and the effect of LaeA overexpression on yield was evaluated. This work expands the genetic toolbox for G. lucidum and supports its use as a chassis for sustainable production of medicinal natural products.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43053987/",
+            "journal": "Engineering in life sciences",
+            "authors": "Xu, Guo, Li, et al.",
+            "published": "2026-01-01",
+            "doi": "10.48130/els-0026-0014"
+          },
+          "score": 62,
+          "score_reason": "灵芝底盘异源合成稀有皂苷，合成生物学相关",
+          "title_cn": "在工程化灵芝中生物合成稀有皂苷化合物K",
+          "one_liner": "首次在灵芝中异源表达并成功合成稀有皂苷化合物K（CK）。",
+          "key_findings": [
+            "筛选并验证灵芝适用启动子，PGltrpC活性强于Pgpd。",
+            "建立基于Golden Gate的多基因组装系统，构建CK合成通路。",
+            "LC-MS证实转基因菌株产CK，并评估LaeA过表达对产量的影响。"
+          ],
+          "why_it_matters": "拓展灵芝遗传工具箱，为以大型药用真菌为底盘可持续生产天然产物提供范式，对合成生物学底盘开发有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43056038",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Base editing in livestock and aquaculture: from tool development to breeding application.",
+            "abstract": "The growing recognition of base editing as a precise genome-engineering strategy for single‑nucleotide conversions without double‑strand breaks has increased interest in its application to animal agriculture, where many economically important traits are influenced by single nucleotide variants. Although recent engineering efforts have broadened the targeting scope, improved editing precision, and reduced off‑target activity, major challenges remain in translating these tools to livestock and aquaculture species, particularly with respect to delivery, mosaicism, germline transmission, and breeding-scale deployment. In this review, we outline the development of cytosine, adenine, dual, and mitochondrial base editors, and discuss their advances in livestock and fish, including trait-oriented editing in pigs and cattle, rapid functional validation in model fish, and early proof-of-concept studies in aquaculture species. We further discuss the emerging potential of mitochondrial DNA base editing for animal breeding and evaluate the extent to which current advances support the broader goal of precision breeding and sustainable animal production.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43056038/",
+            "journal": "Advanced biotechnology",
+            "authors": "Liu, Zhang, Su, et al.",
+            "published": "2026-11-19",
+            "doi": "10.1007/s44307-026-00145-4"
+          },
+          "score": 58,
+          "score_reason": "碱基编辑畜牧应用综述，相关但非核心",
+          "title_cn": "畜禽与水产中的碱基编辑：从工具开发到育种应用",
+          "one_liner": "综述梳理CBE、ABE、双碱基与线粒体碱基编辑器在畜禽及鱼类的应用进展与育种转化瓶颈。",
+          "key_findings": [
+            "系统总结胞嘧啶、腺嘌呤、双碱基及线粒体碱基编辑器的发展与靶向范围拓展。",
+            "涵盖猪、牛性状导向编辑、模式鱼快速功能验证及水产概念验证研究。",
+            "指出递送、嵌合体、生殖系传递与育种规模部署仍是转化主要障碍。"
+          ],
+          "why_it_matters": "为合成生物学改造经济性状提供精准无DSB编辑路线图，助你判断递送与育种落地可行性。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43053558",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Navigating the Drought Tolerance-Yield Trade-Off in Triticeae Cereals: From Molecular Networks to Climate-Resilient Breeding.",
+            "abstract": "Drought driven by climate change severely threatens food security, particularly for wheat and barley grown in water-limited regions. A major breeding challenge is the trade-off between drought tolerance and yield. This review synthesises current knowledge of drought adaptation mechanisms in Triticeae crops, focusing on the transcriptional cascades, ABA-centric hormonal signalling and posttranslational modifications (kinases, phosphatases and ubiquitination) that confer resilience while often constraining carbon allocation to developing grains. Recent genomic advances, including genome-wide association study (GWAS), multi-omics integration and single-cell RNA-transcriptomics, have uncovered a wealth of drought-associated loci, although their translational potential is limited by data heterogeneity, environmental dependency and a persistent gap between laboratory validation and field performance. Emerging breeding approaches, such as speed breeding, wild-allele introgression, multiplex CRISPR/Cas9 and artificial intelligence (AI)-driven phenotyping are accelerating the development of climate-smart cultivars. Tissue-specific and inducible expression systems show early promise in uncoupling stress protection from growth penalties. Looking ahead, we propose that overcoming the yield-tolerance trade-off will require integrating synthetic biology, explainable AI, systematic exploration of novel variation and field phenomics coupled with digital twin modelling. Collectively, this review provides a strategic framework for engineering next-generation, climate-smart Triticeae cereals capable of maintaining productivity under intensifying drought conditions.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43053558/",
+            "journal": "Plant, cell & environment",
+            "authors": "Xiong, Meng, Xu, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1111/pce.71063"
+          },
+          "score": 45,
+          "score_reason": "作物抗旱育种综述，弱相关",
+          "title_cn": "小麦族谷物的耐旱-产量权衡：从分子网络到气候韧性育种",
+          "one_liner": "综述梳理小麦族耐旱与产量权衡的分子机制及多组学、基因编辑等育种新策略。",
+          "key_findings": [
+            "耐旱依赖转录级联、ABA激素信号及激酶/磷酸酶/泛素化修饰，但常抑制碳向籽粒分配。",
+            "GWAS、多组学与单细胞转录组揭示大量耐旱位点，受数据异质性与田间验证缺口限制。",
+            "速度育种、野生等位基因导入、多重CRISPR/Cas9与AI表型有望加速气候智能品种培育。"
+          ],
+          "why_it_matters": "为合成生物学改造小麦族耐旱性状提供靶点与策略框架，组织特异或诱导表达系统有望解耦抗逆与产量损失。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43051164",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Cell-free RNA signatures derived from the tumor microenvironment predict outcomes of CAR T therapy in large B cell lymphoma.",
+            "abstract": "Anti-CD19 chimeric antigen receptor (CAR) T cell therapy can induce durable remission in patients with large B cell lymphoma (LBCL), yet outcomes remain variable. Reliable pre-treatment predictors of durable response remain limited, leaving a critical gap in patient management. To address this, we profile pre-treatment plasma cell-free RNA (cfRNA) from 91 LBCL patients treated with axicabtagene ciloleucel. We demonstrate that signatures of \"lymph node-like\" tumor microenvironments (TMEs), previously identified in tumor biopsies and shown to correlate with favorable outcomes, are elevated in the pre-treatment plasma cfRNA of responders, but not in peripheral blood mononuclear cells (PBMCs). Using unbiased approaches, we identify additional cfRNA signatures associated with 1-year clinical outcomes that capture the underlying biological landscape of treatment response. Collectively, these findings support that pre-treatment plasma cfRNA could serve as a minimally invasive surrogate of TME state to potentially inform CAR T cell therapy outcomes and support risk stratification and TME-modulating adjunct therapies.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43051164/",
+            "journal": "Cell reports. Medicine",
+            "authors": "Loy, Agun, Maurer, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1016/j.xcrm.2026.103176"
+          },
+          "score": 45,
+          "score_reason": "cfRNA预测CAR-T疗效，弱相关",
+          "title_cn": "肿瘤微环境来源的游离RNA特征可预测大B细胞淋巴瘤CAR-T治疗结局",
+          "one_liner": "治疗前血浆cfRNA可反映肿瘤微环境状态，预测LBCL患者CAR-T疗效。",
+          "key_findings": [
+            "91例接受axi-cel治疗患者的治疗前血浆cfRNA中，应答者的\"淋巴结样\"TME特征升高，而PBMC中无此现象。",
+            "无偏分析识别出与1年临床结局相关的cfRNA特征，反映治疗应答的生物学图景。",
+            "血浆cfRNA可作为TME状态的无创替代指标，辅助风险分层。"
+          ],
+          "why_it_matters": "为CAR-T疗效预测提供微创液体活检思路，对合成生物学改造CAR-T、设计TME调控辅助疗法及生物标志物开发有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43055119",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Early Detection of Ovarian Cancer: Current Strategies and Future Directions.",
+            "abstract": "Ovarian cancer (OC) is a major cause of cancer-related mortality among women worldwide, mainly because most cases are diagnosed at advanced stages due to non-specific early symptoms. Although early detection is essential for improving clinical outcomes, accurate and accessible screening remains a major challenge, owing to the non-specific nature of early symptoms, the pronounced histological and molecular heterogeneity of the disease, and the poor performance of conventional screening approaches based on cancer antigen 125 (CA-125), human epididymis protein 4 (HE4) and imaging modalities. This review outlines the major biological and technical challenges in the early diagnosis of OC, briefly summarizes the value and limitations of conventional diagnostic approaches and focuses on current progress in emerging biomarkers, including circulating tumour DNA (ctDNA)/cell-free DNA (cfDNA) alterations, exosomal biomarkers and mesothelin multi-marker combined detection strategies, and novel technologies, such as artificial intelligence, nanotechnology, single-cell sequencing and biosensors for early detection. We also discuss the advantages, current limitations, practical considerations and translational barriers of these approaches. Future advances in OC screening will require the integration of sensitive biomarkers, multimodal detection strategies and more accessible, cost-effective technologies to improve early diagnosis and patient survival.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43055119/",
+            "journal": "Expert reviews in molecular medicine",
+            "authors": "Zhang, Zhuang, Wang, et al.",
+            "published": "2026-11-19",
+            "doi": "10.1017/erm.2026.10082"
+          },
+          "score": 42,
+          "score_reason": "卵巢癌早筛综述，临床相关弱",
+          "title_cn": "卵巢癌早期检测：当前策略与未来方向",
+          "one_liner": "综述指出卵巢癌早筛需整合敏感生物标志物、多模态检测与低成本可及技术。",
+          "key_findings": [
+            "传统CA-125、HE4与影像筛查性能不足，难以满足早期诊断需求。",
+            "新兴标志物包括ctDNA/cfDNA改变、外泌体标志物及间皮素多标志物联合检测。",
+            "AI、纳米技术、单细胞测序与生物传感器是早筛新技术方向，但转化仍有障碍。"
+          ],
+          "why_it_matters": "为液体活检与多组学标志物研究提供方向梳理，有助于判断ctDNA、外泌体等早筛技术路线与转化瓶颈。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43053253",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Circulating biomarkers in early-stage hepatocellular carcinoma for risk stratification, diagnosis and prognosis.",
+            "abstract": "Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, largely due to tumor heterogeneity, late diagnosis, and high recurrence rates even after curative treatment. Although HCC is potentially curable when detected at an early stage, suboptimal surveillance, particularly in patients with underlying cirrhosis or metabolic risk factors, limits the proportion of patients eligible for curative therapies. Current surveillance strategies for at-risk populations have intrinsic limitations, and the performance of imaging and serum biomarkers remains suboptimal. Moreover, the lack of reliable prognostic biomarkers for detecting early recurrence hampers post-treatment surveillance and impacts clinical outcomes. In this context, circulating biomarkers have emerged as promising tools for improving both early detection and prognostic stratification. Liquid biopsy has the potential to enable early, non-invasive diagnosis of HCC and allows longitudinal assessment of tumor progression through serial sampling. In early-stage HCC, blood candidates may complement or outperform conventional approaches by enabling earlier diagnosis and more accurate risk stratification. In this review, we summarize recent advances and current challenges in the clinical translation of circulating biomarkers. We focus on key liquid biopsy components, including circulating cell-free DNA, particularly circulating tumor DNA, circulating tumor cells, non-coding RNAs, extracellular vesicles, proteins and metabolites, such as bile acids and lipids, highlighting their diagnostic and prognostic potential and their possible integration into personalized management strategies for patients with early-stage HCC.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43053253/",
+            "journal": "Biomarker research",
+            "authors": "Monti, Bella, Vianello, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1186/s40364-026-01045-4"
+          },
+          "score": 40,
+          "score_reason": "肝癌循环标志物综述，弱相关",
+          "title_cn": "早期肝细胞癌循环生物标志物：风险分层、诊断与预后",
+          "one_liner": "综述液体活检各组分在早期肝细胞癌诊断、风险分层与预后中的转化进展与挑战。",
+          "key_findings": [
+            "系统梳理cfDNA/ctDNA、CTC、非编码RNA、细胞外囊泡、蛋白及胆汁酸/脂质等标志物。",
+            "液体活检可无创早诊，并通过连续采样纵向监测肿瘤进展与早期复发。",
+            "早期HCC中血液标志物有望补充或优于影像与常规血清学方法。"
+          ],
+          "why_it_matters": "为肝癌早筛与复发监测提供多组学标志物路线图，对深圳液体活检与多组学诊断产品开发有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43051393",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "AI-assisted liquid biopsy for early breast cancer detection: a laboratory translation framework for future multimodal integration.",
+            "abstract": "Early breast cancer detection is imaging-dependent in clinical laboratory medicine, and there are important limitations for interval cancers and women with dense breasts. Liquid biopsy is being developed as an adjunct to imaging and tissue diagnosis. There are two classes of circulating cell-free DNA (cfDNA) features and a separate class of extracellular vesicle (EV)-associated biomarkers, such as microRNAs, long non-coding RNAs, and proteins, to consider in the proposed framework. These literature reviews primarily focus on combinations of individual modalities, cfDNA-only combinations, cfDNA-protein panels, and multicancer models. There is a lack of prospective clinical validation of a machine learning model that integrates all three modalities for the early detection of breast cancer. We categorized performance evidence based on the purpose of the test for average-risk screening, dense breast triage, symptomatic assessment, high-risk surveillance, recurrence monitoring for breast cancer, and metastatic disease detection, and differentiated between direct breast cancer evidence and indirect methodological analogies. Translation involves modality-specific specimen processing, modality-specific analytical and clinical validation, locked/version-controlled pipelines, patient-, site-, and time-level data partitioning, leakage control, pre-specified thresholds and abstention rules, calibration assessment, external validation, subgroup analyses, reportable quality-control metrics, and defined revalidation triggers.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43051393/",
+            "journal": "Clinica chimica acta; international journal of clinical chemistry",
+            "authors": "Alhazmi, Jaiswal, Rekha, et al.",
+            "published": "2026-11-18",
+            "doi": "10.1016/j.cca.2026.122987"
+          },
+          "score": 38,
+          "score_reason": "AI液体活检框架，弱相关",
+          "title_cn": "AI 辅助液体活检用于早期乳腺癌检测：面向未来多模态整合的实验室转化框架",
+          "one_liner": "综述提出整合 cfDNA 与 EV 标志物的 AI 液体活检转化框架，但尚无前瞻性临床验证。",
+          "key_findings": [
+            "梳理 cfDNA 特征与 EV 相关标志物（miRNA、lncRNA、蛋白）三类模态的组合证据。",
+            "按筛查、致密乳腺分诊、症状评估、高危监测、复发与转移检测分层评估性能。",
+            "转化需模态特异样本处理与验证、锁定流程、防数据泄漏、校准与外部验证。"
+          ],
+          "why_it_matters": "为液体活检多模态 AI 模型的实验设计与临床转化提供规范化路线图，对做诊断标志物与机器学习管线的团队有直接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "pubmed:43055508",
+            "source": "pubmed",
+            "source_label": "PubMed",
+            "tier": "official",
+            "title": "Combination of environment-responsive growth and stochastic growth initiation shapes population establishment dynamics in the ammonia-oxidizing bacterium Nitrosomonas sp. PY1.",
+            "abstract": "UNLABELLED: Many environmental bacteria do not readily grow under laboratory conditions, and population establishment often occurs stochastically. Although the scout hypothesis has been proposed to explain stochastic population establishment in environmental bacteria, how stochastic population establishment is shaped by individual cell growth behaviors in environmental isolates remains unclear. Here, we focused on the ammonia-oxidizing bacterium Nitrosomonas sp. PY1 and showed that environmentally responsive individual cell growth behavior combined with stochastic growth initiation shapes both deterministic and stochastic population establishment. Replicate cultivation revealed that PY1 exhibited stochastic population establishment, whereas the addition of its own cell-free supernatant (CFS) induced synchronous population establishment. Using single-cell observations, we found that PY1 exhibited ΔVt-dependent changes in individual cell growth behavior, where ΔVt represents instantaneous biomass production per unit volume. These ΔVt-dependent changes were suppressed by the addition of cell-free supernatant, suggesting that cell-derived compounds in the supernatant may modulate individual cell growth behavior in PY1. An individual-based model incorporating ΔVt-dependent individual cell growth behavior could describe the synchronous population establishment of PY1 in the presence of cell-free supernatant. By contrast, describing stochastic population establishment in the absence of cell-free supernatant required the additional incorporation of ΔVt-independent stochastic growth initiation following a Weibull distribution. These results suggest that the combination of ΔVt-dependent cell growth behavior and ΔVt-independent stochastic growth initiation can lead to deterministic or stochastic population establishment in PY1. Such environmentally responsive changes in population establishment dynamics may contribute to the low isolation success of environmental bacteria and sudden blooms of the rare biosphere.\nIMPORTANCE: Many environmental bacteria establish populations stochastically under laboratory conditions, but how individual cell behavior shapes stochastic population establishment remains poorly understood. In this study, we investigated the ammonia-oxidizing bacterium Nitrosomonas sp. PY1 using single-cell observations and quantitative modeling. We found that its own culture supernatant synchronized population establishment timing and altered individual cell growth behavior. Furthermore, simulations based on observed single-cell behavior could describe synchronous population establishment dynamics in the presence of supernatant. However, describing heterogeneous population establishment dynamics in the absence of supernatant required the incorporation of stochastic growth initiation. These findings suggest that understanding population establishment dynamics in PY1 requires consideration of both environmentally responsive cell growth behavior and stochastic growth initiation. This study provides a quantitative framework linking individual cell behavior to stochastic population establishment in environmental bacteria and may help explain the low cultivation success and sudden blooms of rare environmental microorganisms.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/43055508/",
+            "journal": "mBio",
+            "authors": "Ikeda, Fujitani, Tsuneda",
+            "published": "2026-11-19",
+            "doi": "10.1128/mbio.02345-26"
+          },
+          "score": 35,
+          "score_reason": "硝化菌单细胞生长，弱相关",
+          "title_cn": "环境响应性生长与随机生长启动共同塑造氨氧化细菌 Nitrosomonas sp. PY1 的种群建立动态",
+          "one_liner": "PY1 的种群建立由环境响应性单细胞生长与随机生长启动共同决定，上清可使其同步化。",
+          "key_findings": [
+            "重复培养中 PY1 种群建立呈随机性，加入自身无细胞上清后转为同步建立。",
+            "单细胞观测显示 PY1 生长行为随 ΔVt（单位体积瞬时生物量产生）变化，上清可抑制该变化。",
+            "仅用 ΔVt 依赖生长可模拟同步建立；随机建立还需加入 Weibull 分布的随机生长启动。"
+          ],
+          "why_it_matters": "为环境微生物低培养成功率与稀有生物圈突发增殖提供单细胞定量框架，对合成生物学中难培养菌底盘开发与种群行为建模有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "新药与疗法",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:f731d74da8bd0b38",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Regeneron enters neurology field as FDA approves siRNA for myasthenia gravis",
+            "abstract": "Regeneron’s siRNA therapy cemdisiran has become the second new drug approved by the FDA for myasthenia gravis inside of a week. Now named Livsayis, the therapy was approved by the FDA for ...",
+            "url": "https://endpoints.news/regeneron-enters-neurology-field-as-fda-approves-sirna-for-myasthenia-gravis/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 82,
+          "score_reason": "FDA批准重症肌无力siRNA新药",
+          "title_cn": "Regeneron 的 siRNA 疗法获 FDA 批准治疗重症肌无力，正式进军神经领域",
+          "one_liner": "FDA 批准 Regeneron 的 siRNA 药物 Livsayis（cemdisiran）用于重症肌无力，一周内第二款。",
+          "key_findings": [
+            "Livsayis（cemdisiran）是 Regeneron 首个获批的 siRNA 疗法，标志其进入神经领域。",
+            "该药是 FDA 一周内批准的第二款重症肌无力新药。",
+            "摘要未披露具体适应症亚组与疗效数据。"
+          ],
+          "why_it_matters": "siRNA 从罕见病扩展至神经适应症，验证递送与长效沉默可行性，对关注 RNA 药物与合成生物学递送平台的研发者有参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:a3946cbd457c2ab7",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Sanofi's Infilbray wins first approval for neurological symptoms of Gaucher",
+            "abstract": "Sanofi won FDA approval Wednesday for Infilbray, the first drug in the US to treat the neurological symptoms of a rare genetic disorder called Gaucher disease. Infilbray, also known as venglustat, crosses the blood-brain barrier ...",
+            "url": "https://endpoints.news/sanofis-infilbray-wins-first-approval-for-neurological-symptoms-of-gaucher/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "FDA首款戈谢病神经症状药",
+          "title_cn": "赛诺菲 Infilbray 获 FDA 首批批准，治疗戈谢病神经系统症状",
+          "one_liner": "赛诺菲 Infilbray（venglustat）获 FDA 批准，成为美国首个治疗戈谢病神经系统症状的药物。",
+          "key_findings": [
+            "FDA 批准 Infilbray（venglustat），用于戈谢病神经系统症状，属美国首个。",
+            "该药可穿透血脑屏障，针对此前缺乏有效疗法的神经系统受累。",
+            "戈谢病为罕见遗传病，此次批准填补神经症状治疗空白。"
+          ],
+          "why_it_matters": "小分子穿透血脑屏障治疗罕见病神经症状，为中枢递送与罕见病管线设计提供参考，合成生物学背景可关注其底物减少机制与递送策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6a513e069050c4de",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+            "abstract": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
+            "url": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 76,
+          "score_reason": "Erasca泛RAS肿瘤药关键数据",
+          "title_cn": "STAT：肿瘤药物开发焦点转向 Erasca 的 KRAS 靶向疗法",
+          "one_liner": "STAT 报道，Erasca 的 KRAS 靶向疗法成为肿瘤药物开发新焦点。",
+          "key_findings": [
+            "报道聚焦 Erasca 的 KRAS 靶向疗法，将其置于肿瘤药物开发关注中心。",
+            "核心疑问：Erasca 是否找到比 Revolution Medicines 更强效、耐受性更好的 pan-RAS 药物。",
+            "摘要未披露具体临床数据、适应症或疗效结果。"
+          ],
+          "why_it_matters": "KRAS/pan-RAS 是实体瘤靶向治疗热点，若 Erasca 药物在效力与耐受性上优于现有竞品，将影响该赛道竞争格局与联合用药策略。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:616e4408184bcdcf",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Sanofi considering a deal to acquire Insmed, according to report",
+            "abstract": "Sanofi is looking at a deal to buy the US drugmaker Insmed, Bloomberg News reported Thursday, in what would be one of the biggest biopharma takeovers of the last several years. The Bloomberg report made ...",
+            "url": "https://endpoints.news/sanofi-considering-a-deal-to-acquire-insmed-according-to-report/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 75,
+          "score_reason": "赛诺菲拟重大收购Insmed",
+          "title_cn": "赛诺菲据报考虑收购美国药企 Insmed",
+          "one_liner": "彭博报道赛诺菲正评估收购美国药企 Insmed，或成近年最大生物医药并购之一。",
+          "key_findings": [
+            "彭博社报道赛诺菲正考虑收购 Insmed，交易尚处评估阶段。",
+            "若达成，将是近数年规模最大的生物医药并购之一。",
+            "摘要未披露交易金额、Insmed 具体管线及适应症细节。"
+          ],
+          "why_it_matters": "Insmed 主营罕见病与呼吸系统生物药；并购动向可反映大药企管线补强方向，对合成生物学递送与生物制品赛道有间接参考价值。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:90f157811d0ed029",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "AbbVie and Disco strike deal worth up to $2.54B for solid tumor targets",
+            "abstract": "AbbVie is partnering with preclinical cancer biotech Disco Pharmaceuticals to build out its antibody-drug conjugate and T cell engager programs. The Cologne, Germany-based biotech will receive $40 million upfront and up to $2.5 billion in ...",
+            "url": "https://endpoints.news/abbvvie-and-disco-strike-deal-worth-more-than-2-5b-for-solid-tumor-targets/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 74,
+          "score_reason": "艾伯维25亿美元ADC合作",
+          "title_cn": "艾伯维与Disco达成最高25.4亿美元实体瘤合作",
+          "one_liner": "艾伯维携手德国Disco开发实体瘤ADC与T细胞衔接器，首付4000万美元。",
+          "key_findings": [
+            "交易总额最高25.4亿美元，含4000万美元首付款",
+            "聚焦实体瘤靶点，构建ADC与T细胞衔接器项目",
+            "Disco为临床前阶段肿瘤生物技术公司，总部位于德国科隆"
+          ],
+          "why_it_matters": "ADC与T细胞衔接器是实体瘤免疫治疗热点，大额合作反映MNC对该方向的布局，合成生物学背景读者可关注其靶点发现与工程化平台。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:710d3835e26a702b",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Congressional biotech commission warns of China deal flow",
+            "abstract": "A bipartisan congressional panel that has steered much of the discourse on US biotech competitiveness is using its final weeks to highlight, and warn about, licensing deals with Chinese peers. The National Security Commission on ...",
+            "url": "https://endpoints.news/congressional-biotech-commission-warns-of-china-deal-flow/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "中美生物科技合作政策风险",
+          "title_cn": "美国国会生物技术委员会警告对华授权交易",
+          "one_liner": "美国国会两党小组在任期尾声警告美企与中国生物技术公司授权交易的风险。",
+          "key_findings": [
+            "该委员会长期主导美国生物技术竞争力议题讨论，现于最后数周集中强调对华授权交易风险。",
+            "警告聚焦美企与中国同行达成的许可交易（deal flow），涉及国家安全审查。",
+            "原文未披露具体交易、药物或临床数据。"
+          ],
+          "why_it_matters": "对合成生物学与创新药研发者而言，中美跨境授权是管线引进与出海的关键渠道；政策收紧可能影响交易结构、尽调与合规成本，需关注后续立法动向。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:8bf1f4cf6e0ffc76",
+            "source": "rss",
+            "source_label": "STAT News",
+            "tier": "curated",
+            "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
+            "abstract": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
+            "url": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
+            "journal": "STAT News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 72,
+          "score_reason": "默克与Isomorphic AI肿瘤合作",
+          "title_cn": "默克与Isomorphic Labs合作开发肿瘤小分子药物",
+          "one_liner": "默克与Isomorphic Labs达成研究合作，共同发现肿瘤领域小分子候选药物。",
+          "key_findings": [
+            "合作聚焦肿瘤领域小分子候选药物的发现",
+            "Isomorphic Labs为AI驱动药物设计公司",
+            "默克为合作方，具体财务条款未披露"
+          ],
+          "why_it_matters": "AI驱动的小分子发现正进入肿瘤药物研发主流，合成生物学背景读者可关注其靶点与分子设计方法对自身管线或平台的借鉴意义。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:5a265cce64d6d490",
+            "source": "rss",
+            "source_label": "Endpoints News",
+            "tier": "curated",
+            "title": "Novartis details eczema win, autoimmune CAR-T efforts after rocky quarter",
+            "abstract": "Novartis touted a mid-stage win for its eczema drug, revealed it is working toward restarting trials of its autoimmune CAR-T cell therapy, and slightly trimmed the top of its sales-growth guidance through 2031. CEO Vas ...",
+            "url": "https://endpoints.news/novartis-details-eczema-win-autoimmune-car-t-efforts-after-rocky-quarter/",
+            "journal": "Endpoints News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 70,
+          "score_reason": "诺华湿疹数据及自免CAR-T",
+          "title_cn": "诺华公布湿疹药物II期积极结果，并推进自免CAR-T布局",
+          "one_liner": "诺华公布湿疹药物II期积极结果，并推进自免CAR-T试验重启，同时微调2031年前销售增长指引上限。",
+          "key_findings": [
+            "湿疹药物在II期试验中取得积极结果，具体数据未披露",
+            "公司正推动自免CAR-T细胞疗法试验重启",
+            "略微下调2031年前销售增长指引上限"
+          ],
+          "why_it_matters": "自免CAR-T是细胞治疗向非肿瘤领域拓展的重要方向，对合成生物学改造免疫细胞、开发通用型CAR-T有参考价值。",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "title": "政策公告",
+      "cards": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "cards": [
+        {
+          "item": {
+            "id": "rss:f207b41a67cda819",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+            "abstract": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]",
+            "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 78,
+          "score_reason": "英伟达微软扩展AI算力合作",
+          "title_cn": "NVIDIA 与微软将加速计算合作从 Azure 扩展至 Windows PC",
+          "one_liner": "NVIDIA 与微软扩大全栈合作，将加速计算从 Azure 云延伸到 Windows PC 与工业系统。",
+          "key_findings": [
+            "Azure 将提供基于 NVIDIA Vera Rubin NVL72 系统的虚拟机，扩展云端 AI 算力。",
+            "合作范围从云基础设施延伸至工业系统与 Windows PC，覆盖端到端部署。",
+            "双方在 Microsoft Ignite 宣布扩大客户可用性，推动智能应用落地。"
+          ],
+          "why_it_matters": "云端与 PC 端算力打通，可能降低合成生物学 AI 工具（如蛋白设计、组学分析）的部署门槛，值得关注本地推理与云协同方案。",
+          "priority": 2
+        },
+        {
+          "item": {
+            "id": "rss:6ea811258a465008",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+            "abstract": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+            "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 62,
+          "score_reason": "OpenAI工程实践，有参考价值",
+          "title_cn": "OpenAI 如何用 Performance Factory 保持 ChatGPT 高速运行",
+          "one_liner": "OpenAI 构建由 Codex 驱动的 Performance Factory，自动发现并修复性能问题以维持 ChatGPT 速度。",
+          "key_findings": [
+            "Performance Factory 是一套由 Codex 驱动的工程工作流系统",
+            "核心能力是自动定位并修复 ChatGPT 的性能瓶颈",
+            "目标是在模型与用户规模扩张下持续保障响应速度"
+          ],
+          "why_it_matters": "对合成生物学研发者而言，AI 编码代理自动优化生产系统性能的思路，可迁移到实验室自动化与生物设计流程的工程化提速。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:d99624c338eb88c5",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+            "abstract": "Some models fare better, but all fail in similar ways.",
+            "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 58,
+          "score_reason": "LLM可靠性缺陷研究",
+          "title_cn": "提问方式影响LLM气候信息准确性",
+          "one_liner": "研究发现，向LLM提问气候信息时，模型可能给出错误答案，且各模型失效方式相似。",
+          "key_findings": [
+            "部分模型表现较好，但所有模型在气候信息问答中均出现错误。",
+            "不同模型的失效模式相似，提示存在共性问题。"
+          ],
+          "why_it_matters": "合成生物学研究常需气候与生态数据支撑，若依赖LLM获取信息需警惕其系统性错误，影响实验设计与政策判断。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:c4029f8d3d08f72b",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+            "abstract": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+            "url": "https://openai.com/business/customer-stories/sumitomo-life",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-18",
+            "doi": null
+          },
+          "score": 55,
+          "score_reason": "企业采用案例，常规参考",
+          "title_cn": "住友生命高管带头使用，推动团队采用 ChatGPT Enterprise",
+          "one_liner": "住友生命借助高管早期示范，推动团队采用 ChatGPT Enterprise 用于调研、提案与投资分析代码。",
+          "key_findings": [
+            "应用场景包括调研保险公司、准备提案和编写投资分析代码",
+            "高管早期使用成为推动全员采用的关键因素",
+            "案例由 OpenAI News 发布，属企业级 AI 落地实践"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，高管示范可加速 AI 工具在文献调研、方案撰写与数据分析代码中的落地。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:f6595990fb05f4cd",
+            "source": "rss",
+            "source_label": "NVIDIA Newsroom",
+            "tier": "official",
+            "title": "NVIDIA Announces Upcoming Event for Financial Community",
+            "abstract": "NVIDIA will present at the following event for the financial community",
+            "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+            "journal": "NVIDIA Newsroom",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 50,
+          "score_reason": "英伟达财务活动通知，信息量低",
+          "title_cn": "NVIDIA 宣布将出席金融界活动",
+          "one_liner": "NVIDIA 宣布近期将出席面向金融界的活动并发表演讲。",
+          "key_findings": [
+            "NVIDIA 通过官方新闻稿公布将参加金融界活动",
+            "摘要未披露具体活动名称、时间与演讲人",
+            "属常规投资者关系日程公告，非产品技术发布"
+          ],
+          "why_it_matters": "对合成生物学研究无直接技术影响；若关注 AI 算力与生物设计工具生态，可留意其财报与产品动向，本公告本身信息量有限。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:4feac83240203b8c",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+            "abstract": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 48,
+          "score_reason": "AI误报诉讼，边缘相关",
+          "title_cn": "AI枪支警报误报致青少年受创，学生起诉学校与警方",
+          "one_liner": "多力多滋包装袋触发AI枪支警报，受创青少年起诉学校与警方，系统误报率超99%。",
+          "key_findings": [
+            "诉讼指出该学区AI枪支警报系统误报率超过99%",
+            "学生因误报事件遭受心理创伤，起诉学校与警方",
+            "事件暴露AI视觉识别在校园安防场景的可靠性问题"
+          ],
+          "why_it_matters": "对合成生物学读者而言，这是AI检测系统误报与部署风险的典型案例，可类比生物传感与筛查工具在真实场景中的假阳性代价与合规责任。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:6ed6090c09421c36",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "Explore the Codex Security Plugin",
+            "abstract": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+            "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 45,
+          "score_reason": "Codex安全插件演示，弱相关",
+          "title_cn": "Codex 安全插件演示：从上手到结果审查",
+          "one_liner": "OpenAI 发布 Codex 安全插件演示，展示从配置到审查结果的完整工作流。",
+          "key_findings": [
+            "演示覆盖插件上手配置与结果审查全流程",
+            "以录屏形式展示 Codex 安全插件的实际工作流",
+            "内容来自 OpenAI News，未披露具体性能数据"
+          ],
+          "why_it_matters": "若团队用 AI 辅助编写或审查合成生物学实验代码与数据处理脚本，该插件可能影响代码安全审查流程，但目前仅有演示，需进一步评估。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:3c5e491e54728c34",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+            "abstract": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+            "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 42,
+          "score_reason": "间谍案，弱相关",
+          "title_cn": "俄罗斯雇佣人员被指监视硅谷科技与国防公司",
+          "one_liner": "美联邦指控一名25岁男子受俄雇佣，监视硅谷科技与国防公司员工。",
+          "key_findings": [
+            "25岁男子被指在咖啡店跟踪目标公司员工",
+            "还实施了被形容为\"激进\"的驾车尾随行为",
+            "目标为硅谷科技与国防企业，联邦已介入指控"
+          ],
+          "why_it_matters": "合成生物学与生物防御企业同样面临技术窃密与人员监视风险，提醒在深圳及出海团队重视员工安全与出口合规。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:787cd754371822f4",
+            "source": "rss",
+            "source_label": "OpenAI News",
+            "tier": "official",
+            "title": "See PR scans in action",
+            "abstract": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+            "url": "https://openai.com/business/learn/pr-scans-demo",
+            "journal": "OpenAI News",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "PR扫描演示，常规工具内容",
+          "title_cn": "PR 扫描功能演示",
+          "one_liner": "OpenAI 发布演示，展示在 PR 工作流中审查扫描结果。",
+          "key_findings": [
+            "演示以实操方式展示 PR 扫描的运行过程",
+            "重点呈现审查者在 pull request 中查看扫描结果",
+            "内容为功能演示，未披露具体性能数据"
+          ],
+          "why_it_matters": "对合成生物学研发团队而言，若用 PR 管理代码或实验流程，此类扫描可辅助代码审查与合规检查；但本条仅为演示，需进一步了解检测范围与准确率。",
+          "priority": 1
+        },
+        {
+          "item": {
+            "id": "rss:04c51645127581f8",
+            "source": "rss",
+            "source_label": "Ars Technica",
+            "tier": "curated",
+            "title": "How to tell a cyberattack from a plain old outage",
+            "abstract": "When everything goes down, don’t assume it’s a cyberattack.",
+            "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+            "journal": "Ars Technica",
+            "authors": "",
+            "published": "2026-11-19",
+            "doi": null
+          },
+          "score": 40,
+          "score_reason": "故障排查科普，弱相关",
+          "title_cn": "如何区分网络攻击与普通故障",
+          "one_liner": "Ars Technica 发文提醒：系统全面宕机时，不要急于归因于网络攻击。",
+          "key_findings": [
+            "文章聚焦如何区分网络攻击与普通技术故障",
+            "核心提醒是系统宕机不等于遭受攻击",
+            "面向读者提供判断思路，而非具体案例"
+          ],
+          "why_it_matters": "合成生物学实验室与生物铸造厂高度依赖自动化与信息系统，误判宕机原因会影响应急响应与数据安全决策。",
+          "priority": 1
+        }
+      ]
+    }
+  ]
+}
